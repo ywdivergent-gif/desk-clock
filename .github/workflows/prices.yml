@@ -1,0 +1,32 @@
+name: Update prices
+
+on:
+  schedule:
+    - cron: "*/5 13-21 * * 1-5"   # every 5 min during US market hours (UTC)
+    - cron: "17 */3 * * *"        # every 3 hours otherwise
+  workflow_dispatch:
+  push:
+    paths: ["tickers.json"]
+
+permissions:
+  contents: write
+
+concurrency:
+  group: prices
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - run: python3 scripts/fetch_prices.py
+      - name: Commit prices
+        run: |
+          git config user.name "price-bot"
+          git config user.email "price-bot@users.noreply.github.com"
+          git add prices.json
+          git diff --cached --quiet && exit 0
+          git commit -m "Update prices"
+          git pull --rebase origin main
+          git push origin main
