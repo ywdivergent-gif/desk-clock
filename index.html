@@ -340,6 +340,13 @@
     $('src').textContent = src.label || ('Israel · ' + src.name);
     let items = [];
     try{
+      const r = await fetch('https://raw.githubusercontent.com/ywdivergent-gif/desk-clock/main/news.json?t=' + Date.now(), { cache:'no-store' });
+      const j = await r.json();
+      const fresh = j.updated && (Date.now() - new Date(j.updated).getTime()) < 90 * 60000;
+      const f = j.feeds && j.feeds[cfg.source];
+      if (fresh && f && f.length) items = f.map(i => ({ title: i.title, date: i.date ? new Date(i.date) : null }));
+    }catch(e){}
+    if (!items.length) try{
       const r = await fetch('https://api.rss2json.com/v1/api.json?rss_url=' + encodeURIComponent(src.url));
       const j = await r.json();
       if (j.status === 'ok') items = j.items.map(i => ({ title: decode(i.title), date: parseDate(i.pubDate) }));
@@ -434,8 +441,8 @@
   setInterval(renderShabbat, 60 * 1000);
   setInterval(loadZmanim, 6 * 60 * 60 * 1000);
   setInterval(tick, 1000);
-  setInterval(loadQuotes, 60 * 1000);       // prices every minute
-  setInterval(loadNews, 10 * 60 * 1000);    // headlines every 10 minutes
+  setInterval(loadQuotes, 90 * 1000);       // prices every 90 seconds
+  setInterval(loadNews, 5 * 60 * 1000);     // headlines every 5 minutes
   setInterval(nextHeadline, 9000);          // rotate headline every 9 s
   setInterval(drift, 10 * 60 * 1000);
 })();
