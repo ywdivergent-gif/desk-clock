@@ -6,6 +6,7 @@ on:
     - cron: "17 */3 * * *"        # every 3 hours otherwise
   workflow_dispatch:
   push:
+    branches: [main]
     paths: ["tickers.json"]
 
 permissions:
