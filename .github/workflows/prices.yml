@@ -2,8 +2,8 @@ name: Update prices
 
 on:
   schedule:
-    - cron: "*/5 13-21 * * 1-5"   # every 5 min during US market hours (UTC)
-    - cron: "17 */3 * * *"        # every 3 hours otherwise
+    - cron: "*/20 13-21 * * 1-5"  # starts the every-minute loop during US market hours (UTC)
+    - cron: "17 */3 * * *"        # one refresh every 3 hours otherwise
   workflow_dispatch:
   push:
     branches: [main]
@@ -19,15 +19,11 @@ concurrency:
 jobs:
   update:
     runs-on: ubuntu-latest
+    timeout-minutes: 345
     steps:
       - uses: actions/checkout@v4
-      - run: python3 scripts/fetch_prices.py
-      - name: Commit prices
+      - name: Fetch prices (every minute while the market is open)
         run: |
           git config user.name "price-bot"
           git config user.email "price-bot@users.noreply.github.com"
-          git add prices.json
-          git diff --cached --quiet && exit 0
-          git commit -m "Update prices"
-          git pull --rebase origin main
-          git push origin main
+          python3 scripts/fetch_prices.py --loop

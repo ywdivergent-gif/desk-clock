@@ -33,6 +33,12 @@
     line-height:.88;letter-spacing:-.045em;font-variant-numeric:tabular-nums;margin-left:-.04em}
   #date{margin-top:2.2vh;font-size:clamp(14px,2.3vw,22px);color:var(--fg);font-weight:500}
   #hdate{margin-top:.6vh;font-size:clamp(12px,1.7vw,16px);color:var(--muted)}
+  .shabbat{align-self:flex-start;display:flex;align-items:baseline;gap:.9em;flex-wrap:wrap;margin-bottom:3vh;
+    padding:.7vh 1.1vw;border:1px solid var(--faint);border-radius:999px;
+    font-size:clamp(12px,1.75vw,17px);color:var(--fg);font-variant-numeric:tabular-nums}
+  .shabbat b{color:var(--accent);font-weight:600}
+  .shabbat span{color:var(--muted)}
+  .shabbat.now{border-color:var(--accent)}
   #mkt{margin-top:2.4vh;font-size:clamp(11px,1.4vw,13px);color:var(--muted);letter-spacing:.08em;text-transform:uppercase;display:flex;align-items:center;gap:8px}
   #mkt i{width:7px;height:7px;border-radius:50%;background:var(--muted);display:inline-block}
   #mkt.open i{background:var(--up);box-shadow:0 0 8px var(--up)}
@@ -98,6 +104,7 @@
 <body>
 <div class="wrap" id="wrap">
   <section class="clock" id="clock" title="Tap to dim">
+    <div class="shabbat" id="shabbat" dir="rtl" hidden></div>
     <div id="time">--:--</div>
     <div id="date"></div>
     <div id="hdate"></div>
@@ -151,13 +158,13 @@
     toi:   { name:'Times of Israel', url:'https://www.timesofisrael.com/feed/' },
     jpost: { name:'Jerusalem Post',  url:'https://www.jpost.com/rss/rssfeedsheadlines.aspx' },
     ynetnews: { name:'Ynetnews',     url:'https://www.ynetnews.com/Integration/StoryRss3082.xml' },
-    ynet:  { name:'ynet (עברית)',    url:'https://www.ynet.co.il/Integration/StoryRss2.xml' }
+    ynet:  { name:'ynet (עברית)',    url:'https://www.ynet.co.il/Integration/StoryRss2.xml', label:'ynet · מבזקים' }
   };
 
   const cfg = {
     key: store.get('dc_key', ''),
     tickers: store.get('dc_tickers_v2', ['SPY','QQQ','NVDA','MSFT','META','GOOGL','VIX']),
-    source: store.get('dc_source', 'toi'),
+    source: store.get('dc_source_v2', 'ynet'),
     dim: store.get('dc_dim', false)
   };
 
@@ -225,7 +232,12 @@
 
   async function loadRepoPrices(){
     try{
-      const r = await fetch(PRICES_URL + '?t=' + Date.now(), { cache:'no-store' });
+      let r = null;
+      try{
+        r = await fetch('https://api.github.com/repos/ywdivergent-gif/desk-clock/contents/prices.json',
+          { cache:'no-store', headers:{ Accept:'application/vnd.github.raw+json' } });
+      }catch(e){}
+      if (!r || !r.ok) r = await fetch(PRICES_URL + '?t=' + Date.now(), { cache:'no-store' });
       if (!r.ok) return;
       const j = await r.json();
       repoPrices = j.quotes || null;
@@ -260,6 +272,50 @@
     $('updated').textContent = `Prices as of ${pad(t.getHours())}:${pad(t.getMinutes())}`;
   }
 
+  // ---------- Shabbat times (Tel Aviv) ----------
+  let zmanim = store.get('dc_zmanim', []);
+  const ilDate = d => new Intl.DateTimeFormat('en-CA', { timeZone:'Asia/Jerusalem' }).format(d);
+  const ilTime = d => new Intl.DateTimeFormat('he-IL', { timeZone:'Asia/Jerusalem', hour:'2-digit', minute:'2-digit', hourCycle:'h23' }).format(d);
+  const ilDay  = d => new Intl.DateTimeFormat('he-IL', { timeZone:'Asia/Jerusalem', weekday:'short' }).format(d);
+
+  async function loadZmanim(){
+    try{
+      const start = ilDate(new Date()), end = ilDate(new Date(Date.now() + 12 * 864e5));
+      const r = await fetch(`https://www.hebcal.com/hebcal?v=1&cfg=json&geonameid=293397&c=on&M=on&s=on&maj=on&lg=he&start=${start}&end=${end}`);
+      const j = await r.json();
+      const items = (j.items || [])
+        .filter(i => ['candles','havdalah','parashat'].includes(i.category) || (i.category === 'holiday' && i.yomtov))
+        .map(i => ({ c: i.category, d: i.date, h: i.hebrew || i.title }));
+      if (items.length){ zmanim = items; store.set('dc_zmanim', items); }
+    }catch(e){}
+    renderShabbat();
+  }
+
+  function renderShabbat(){
+    const el = $('shabbat'), now = Date.now();
+    const t = i => new Date(i.d).getTime();
+    const hav = zmanim.find(i => i.c === 'havdalah' && t(i) + 20 * 60000 > now);
+    if (!hav){ el.hidden = true; return; }
+    const prevHav = zmanim.filter(i => i.c === 'havdalah' && t(i) < t(hav)).pop();
+    const candles = zmanim.find(i => i.c === 'candles' && t(i) < t(hav) && (!prevHav || t(i) > t(prevHav)));
+    const from = candles ? candles.d.slice(0,10) : hav.d.slice(0,10), to = hav.d.slice(0,10);
+    const named = zmanim.filter(i => (i.c === 'parashat' || i.c === 'holiday') && i.d.slice(0,10) >= from && i.d.slice(0,10) <= to);
+    const name = (named.find(i => i.c === 'holiday') || named[0] || {}).h || 'שבת';
+    const inside = candles && now >= t(candles);
+    const hd = new Date(hav.d);
+    el.textContent = '';
+    const add = (tag, text) => { const n = document.createElement(tag); n.textContent = text; el.append(n); };
+    if (inside){
+      add('b', 'שבת שלום'); add('span', name); add('span', 'צאת ' + ilTime(hd));
+    } else {
+      add('b', name);
+      if (candles){ const cd = new Date(candles.d); add('span', `הדלקת נרות ${ilDay(cd)} ${ilTime(cd)}`); }
+      add('span', 'הבדלה ' + ilTime(hd));
+    }
+    el.classList.toggle('now', !!inside);
+    el.hidden = false;
+  }
+
   // ---------- news ----------
   let news = [], idx = 0;
 
@@ -281,7 +337,7 @@
 
   async function loadNews(){
     const src = SOURCES[cfg.source] || SOURCES.toi;
-    $('src').textContent = 'Israel · ' + src.name;
+    $('src').textContent = src.label || ('Israel · ' + src.name);
     let items = [];
     try{
       const r = await fetch('https://api.rss2json.com/v1/api.json?rss_url=' + encodeURIComponent(src.url));
@@ -348,14 +404,21 @@
     if (t.length) cfg.tickers = t;
     const srcChanged = cfg.source !== srcSel.value;
     cfg.source = srcSel.value;
-    store.set('dc_key', cfg.key); store.set('dc_tickers_v2', cfg.tickers); store.set('dc_source', cfg.source);
+    store.set('dc_key', cfg.key); store.set('dc_tickers_v2', cfg.tickers); store.set('dc_source_v2', cfg.source);
     $('settings').classList.remove('show');
     quotes = {}; loadQuotes();
     if (srcChanged){ news = []; loadNews(); }
   });
 
   // ---------- interactions ----------
-  $('clock').addEventListener('click', () => { cfg.dim = !cfg.dim; document.body.classList.toggle('dim', cfg.dim); store.set('dc_dim', cfg.dim); });
+  let dimOverride = null, lastNight = null;
+  function isNight(){ const h = new Date().getHours(); return h >= 23 || h < 6; }
+  function applyDim(){
+    const night = isNight();
+    if (night !== lastNight){ dimOverride = null; lastNight = night; }   // reset at 23:00 and 06:00
+    document.body.classList.toggle('dim', dimOverride ?? night);
+  }
+  $('clock').addEventListener('click', () => { dimOverride = !document.body.classList.contains('dim'); applyDim(); });
   $('news').addEventListener('click', nextHeadline);
   document.addEventListener('click', keepAwake);
   document.addEventListener('visibilitychange', () => {
@@ -366,8 +429,10 @@
   function drift(){ $('wrap').style.transform = `translate(${Math.round(Math.random()*8-4)}px, ${Math.round(Math.random()*8-4)}px)`; }
 
   // ---------- start ----------
-  document.body.classList.toggle('dim', cfg.dim);
-  tick(); keepAwake(); loadQuotes(); loadNews();
+  applyDim(); setInterval(applyDim, 60 * 1000);
+  tick(); keepAwake(); loadQuotes(); loadNews(); renderShabbat(); loadZmanim();
+  setInterval(renderShabbat, 60 * 1000);
+  setInterval(loadZmanim, 6 * 60 * 60 * 1000);
   setInterval(tick, 1000);
   setInterval(loadQuotes, 60 * 1000);       // prices every minute
   setInterval(loadNews, 10 * 60 * 1000);    // headlines every 10 minutes
