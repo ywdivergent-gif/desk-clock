@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-04T22:16:19.468539+00:00",
+ "updated": "2026-11-04T22:16:44.752792+00:00",
  "feeds": {
   "ynet": [
    {
@@ -51,104 +51,54 @@
     "date": "2026-11-04T19:46:15+00:00"
    }
   ],
-  "jpost": [
-   {
-    "title": "IDF issues evacuation order for Tehran ahead of strikes",
-    "date": "2025-06-16T16:39:27+00:00"
-   },
-   {
-    "title": "Defense Ministry to conduct exercise on Highway 35 on Sunday afternoon",
-    "date": "2025-06-08T08:21:23+00:00"
-   },
-   {
-    "title": "Ukrainian drone attack on Moscow forces airport closure, Russia says",
-    "date": "2025-06-08T07:57:56+00:00"
-   },
-   {
-    "title": "US condemns shooting of Colombian presidential candidate Miguel Uribe",
-    "date": "2025-06-08T05:36:59+00:00"
-   },
-   {
-    "title": "Israeli man arrested in Albania after trying to leave with undeclared €194,000 - report",
-    "date": "2025-06-07T17:43:54+00:00"
-   },
-   {
-    "title": "IDF Arabic Spokesperson Avichay Adraee issues evacuation notice to residents north of Gaza City",
-    "date": "2025-06-07T14:40:36+00:00"
-   },
-   {
-    "title": "Fire breaks out in Haruvit Forest, not yet contained",
-    "date": "2025-06-07T14:33:07+00:00"
-   },
-   {
-    "title": "France's Armed Forces Minister reaffirms no weapons being sold to Israel",
-    "date": "2025-06-07T13:29:05+00:00"
-   },
-   {
-    "title": "IDF arrests PIJ Jenin Battalion commander during West Bank operation",
-    "date": "2025-06-07T13:15:37+00:00"
-   },
-   {
-    "title": "Twenty live hostages, two undetermined, 33 dead, says Israeli source",
-    "date": "2025-06-07T11:18:14+00:00"
-   },
-   {
-    "title": "North Korea internet hit by a major outage, analyst says",
-    "date": "2025-06-07T03:25:25+00:00"
-   },
-   {
-    "title": "US citizen Joseph Tater leaves Russia after detention and psychiatric treatment, TASS says",
-    "date": "2025-06-07T01:30:00+00:00"
-   }
-  ],
   "ynetnews": [
    {
-    "title": "Shin Bet warns of vast foreign election funding but presents no evidence",
-    "date": "2026-11-04T07:54:41+00:00"
+    "title": "Four more arrested in election bribery probe as Likud seeks revotes at Arab polling stations",
+    "date": "2026-10-29T11:09:20+00:00"
    },
    {
-    "title": "Lapid: Democratic sweep in US midterms rules out unity government under Netanyahu",
-    "date": "2026-11-04T07:40:23+00:00"
+    "title": "Could suspected Qatari interference see Israel's election annulled?",
+    "date": "2026-10-29T10:21:38+00:00"
    },
    {
-    "title": "‘We can go from inshallah to alhamdulillah’: Abdul El-Sayed becomes first Muslim US senator",
-    "date": "2026-11-04T06:50:28+00:00"
+    "title": "Former Biden officials who quit over Gaza urge 2028 Democrats to reject his Israel policy",
+    "date": "2026-10-29T08:20:42+00:00"
    },
    {
-    "title": "Israel election audit finds no evidence of vote tampering",
-    "date": "2026-11-04T05:42:15+00:00"
+    "title": "Election chief urges probe as Qatar suspected of funneling tens of millions to sway vote",
+    "date": "2026-10-29T07:19:37+00:00"
    },
    {
-    "title": "Trump blames Iran war for crushing Republican midterm defeat",
-    "date": "2026-11-04T05:35:21+00:00"
+    "title": "'We must learn so that it doesn't happen again': Oct. 7 veterans prepare soldiers for the next war",
+    "date": "2026-10-29T06:39:37+00:00"
    },
    {
-    "title": "Trump's midterm massacre: Democrats seize House and Senate",
-    "date": "2026-11-04T05:25:46+00:00"
+    "title": "Election night reckoning: pollsters confront their biggest misses",
+    "date": "2026-10-29T05:43:46+00:00"
    },
    {
-    "title": "October 7 trauma prompts Israeli men to break decades of silence on sexual abuse",
-    "date": "2026-11-04T01:42:30+00:00"
+    "title": "‘Is he a Mossad agent?’: Inside Israel's global volunteer rescue network",
+    "date": "2026-10-29T02:22:30+00:00"
    },
    {
-    "title": "Jewish Democrat Jon Ossoff wins Georgia Senate race after challenging Israel's conduct in Gaza",
-    "date": "2026-11-04T01:09:43+00:00"
+    "title": "As US prepares for Iran strikes, Vance quietly opens diplomatic channel",
+    "date": "2026-10-29T01:12:03+00:00"
    },
    {
-    "title": "US prepared to strike Iran as early as Wednesday as Israel faces election chaos, diplomatic crisis",
-    "date": "2026-11-03T21:41:40+00:00"
+    "title": "‘Show courage, Eisenkot’: Arab parties offer support but face silence",
+    "date": "2026-10-29T00:22:45+00:00"
    },
    {
-    "title": "The end of the US military aid era: what happens to the IDF now?",
-    "date": "2026-11-03T21:02:14+00:00"
+    "title": "Shas and United Torah Judaism fear further losses as smaller Haredi challengers fall short",
+    "date": "2026-10-28T23:36:58+00:00"
    },
    {
-    "title": "‘BDS’s biggest victory ever’: Israel risks expulsion from world’s largest research program",
-    "date": "2026-11-03T20:09:53+00:00"
+    "title": "RFK Jr. under fire for claiming Arabs ‘don't produce science’ or literature",
+    "date": "2026-10-28T23:28:26+00:00"
    },
    {
-    "title": "Shin Bet chief seeks to question Arab politicians over alleged foreign election interference",
-    "date": "2026-11-03T19:34:43+00:00"
+    "title": "Herzog urges parties to avoid new elections as political deadlock deepens: This is what happens next",
+    "date": "2026-10-28T23:21:34+00:00"
    }
   ]
  }
