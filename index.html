@@ -1,0 +1,386 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover,user-scalable=no">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<meta name="apple-mobile-web-app-title" content="Desk">
+<meta name="theme-color" content="#000000">
+<title>Desk Clock</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Inter+Tight:wght@200;300&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --bg:#000; --fg:#f4f3ef; --muted:#8b8a85; --faint:#232321; --card:#0d0d0c;
+    --up:#30d158; --down:#ff453a; --accent:#ff9f0a;
+  }
+  *{box-sizing:border-box}
+  html,body{margin:0;height:100%;background:var(--bg);color:var(--fg);
+    font-family:Inter,system-ui,-apple-system,sans-serif;overflow:hidden;
+    -webkit-user-select:none;user-select:none;-webkit-tap-highlight-color:transparent}
+  body{padding:env(safe-area-inset-top) env(safe-area-inset-right) env(safe-area-inset-bottom) env(safe-area-inset-left);
+    transition:filter .6s ease}
+  body.dim{filter:brightness(.4)}
+  .wrap{height:100%;display:grid;grid-template-columns:1.05fr 1fr;gap:3vw;padding:4vh 2.5vw;
+    transition:transform 2s ease}
+
+  /* clock */
+  .clock{display:flex;flex-direction:column;justify-content:center;min-width:0;cursor:pointer}
+  #time{font-family:'Inter Tight',Inter,sans-serif;font-weight:200;font-size:min(22vw,58vh);
+    line-height:.88;letter-spacing:-.045em;font-variant-numeric:tabular-nums;margin-left:-.04em}
+  #date{margin-top:2.2vh;font-size:clamp(14px,2.3vw,22px);color:var(--fg);font-weight:500}
+  #hdate{margin-top:.6vh;font-size:clamp(12px,1.7vw,16px);color:var(--muted)}
+  #mkt{margin-top:2.4vh;font-size:clamp(11px,1.4vw,13px);color:var(--muted);letter-spacing:.08em;text-transform:uppercase;display:flex;align-items:center;gap:8px}
+  #mkt i{width:7px;height:7px;border-radius:50%;background:var(--muted);display:inline-block}
+  #mkt.open i{background:var(--up);box-shadow:0 0 8px var(--up)}
+
+  /* right column */
+  .side{display:grid;grid-template-rows:auto 1fr auto;gap:10px;min-width:0;min-height:0}
+  .tickers{display:grid;grid-template-columns:repeat(3,1fr);gap:8px}
+  .tickers.many{grid-template-columns:repeat(4,1fr)}
+  .tk{background:var(--card);border:1px solid var(--faint);border-radius:14px;padding:1.6vh 1.2vw;min-width:0}
+  .sym{font-size:clamp(10px,1.3vw,13px);color:var(--muted);font-weight:600;letter-spacing:.06em;
+    white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+  .px{font-size:clamp(15px,2.4vw,24px);font-weight:500;font-variant-numeric:tabular-nums;margin-top:2px;
+    white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+  .chg{font-size:clamp(11px,1.4vw,14px);font-weight:600;font-variant-numeric:tabular-nums;margin-top:1px}
+  .up{color:var(--up)} .down{color:var(--down)} .flat{color:var(--muted)}
+
+  .news{background:var(--card);border:1px solid var(--faint);border-radius:14px;padding:2vh 1.4vw;
+    display:flex;flex-direction:column;min-height:0;cursor:pointer}
+  .news-top{display:flex;justify-content:space-between;align-items:center;font-size:clamp(10px,1.2vw,12px);
+    letter-spacing:.09em;text-transform:uppercase;color:var(--accent);font-weight:600}
+  .news-top span:last-child{color:var(--muted)}
+  #headline{flex:1;display:flex;align-items:center;margin:1vh 0;font-size:clamp(15px,2.25vw,22px);
+    line-height:1.3;font-weight:500;transition:opacity .45s ease;min-height:0;overflow:hidden}
+  #headline span{display:-webkit-box;-webkit-line-clamp:4;-webkit-box-orient:vertical;overflow:hidden}
+  #headline.fade{opacity:0}
+  .news-foot{display:flex;justify-content:space-between;align-items:center;gap:10px}
+  #ago{font-size:clamp(11px,1.3vw,13px);color:var(--muted)}
+  #dots{display:flex;gap:4px}
+  #dots b{width:5px;height:5px;border-radius:50%;background:var(--faint)}
+  #dots b.on{background:var(--fg)}
+
+  .status{display:flex;justify-content:space-between;align-items:center;font-size:11px;color:var(--muted)}
+  #gear{background:none;border:0;color:var(--muted);font-size:18px;padding:4px 6px;cursor:pointer}
+  #hint{color:var(--accent)}
+
+  /* settings */
+  #settings{position:fixed;inset:0;background:rgba(0,0,0,.88);display:none;align-items:center;justify-content:center;
+    padding:16px;z-index:10}
+  #settings.show{display:flex}
+  .panel{background:#151514;border:1px solid #2c2c2a;border-radius:18px;padding:20px;width:min(520px,100%);
+    max-height:100%;overflow:auto;-webkit-user-select:text;user-select:text}
+  .panel h2{margin:0 0 14px;font-size:18px;font-weight:600}
+  .panel label{display:block;font-size:12px;color:var(--muted);margin:12px 0 6px;letter-spacing:.04em;text-transform:uppercase}
+  .panel input,.panel select{width:100%;font-size:16px;padding:10px 12px;border-radius:10px;border:1px solid #333;
+    background:#000;color:var(--fg);font-family:inherit}
+  .panel p{font-size:13px;color:var(--muted);margin:6px 0 0;line-height:1.45}
+  .panel a{color:var(--accent)}
+  .row{display:flex;gap:10px;margin-top:18px}
+  .row button{flex:1;font-size:16px;padding:11px;border-radius:10px;border:0;font-weight:600;font-family:inherit}
+  #save{background:var(--fg);color:#000} #cancel{background:#2a2a28;color:var(--fg)}
+
+  @media (orientation:portrait){
+    .wrap{grid-template-columns:1fr;grid-template-rows:auto auto;align-content:center;gap:4vh;padding:4vh 5vw}
+    #time{font-size:26vw}
+    .side{grid-template-rows:auto minmax(180px,auto) auto}
+    .tk{padding:12px}
+  }
+</style>
+</head>
+<body>
+<div class="wrap" id="wrap">
+  <section class="clock" id="clock" title="Tap to dim">
+    <div id="time">--:--</div>
+    <div id="date"></div>
+    <div id="hdate"></div>
+    <div id="mkt"><i></i><span>US market</span></div>
+  </section>
+
+  <section class="side">
+    <div class="tickers" id="tickers"></div>
+
+    <div class="news" id="news" title="Tap for next headline">
+      <div class="news-top"><span id="src">Israel</span><span id="count"></span></div>
+      <div id="headline"><span>Loading headlines…</span></div>
+      <div class="news-foot"><span id="ago"></span><div id="dots"></div></div>
+    </div>
+
+    <div class="status">
+      <span id="updated">—</span>
+      <span id="hint">Tap anywhere to keep the screen on</span>
+      <button id="gear" aria-label="Settings">⚙︎</button>
+    </div>
+  </section>
+</div>
+
+<div id="settings">
+  <div class="panel">
+    <h2>Settings</h2>
+    <label for="key">Finnhub API key (optional)</label>
+    <input id="key" autocomplete="off" autocapitalize="off" spellcheck="false" placeholder="Paste your free key">
+    <p>Free at <a href="https://finnhub.io/register" target="_blank" rel="noopener">finnhub.io/register</a>. Stays on this phone only.</p>
+
+    <label for="tick">Tickers (up to 8, comma separated)</label>
+    <input id="tick" autocomplete="off" autocapitalize="characters" spellcheck="false">
+    <p>US stocks and ETFs, plus VIX. Works without a key; a key makes stock prices more reliable.</p>
+
+    <label for="srcsel">News source</label>
+    <select id="srcsel"></select>
+
+    <div class="row"><button id="cancel">Cancel</button><button id="save">Save</button></div>
+  </div>
+</div>
+
+<script>
+(() => {
+  // ---------- storage (safe) ----------
+  const store = {
+    get(k, d){ try{ const v = localStorage.getItem(k); return v === null ? d : JSON.parse(v); }catch(e){ return d; } },
+    set(k, v){ try{ localStorage.setItem(k, JSON.stringify(v)); }catch(e){} }
+  };
+
+  const SOURCES = {
+    toi:   { name:'Times of Israel', url:'https://www.timesofisrael.com/feed/' },
+    jpost: { name:'Jerusalem Post',  url:'https://www.jpost.com/rss/rssfeedsheadlines.aspx' },
+    ynetnews: { name:'Ynetnews',     url:'https://www.ynetnews.com/Integration/StoryRss3082.xml' },
+    ynet:  { name:'ynet (עברית)',    url:'https://www.ynet.co.il/Integration/StoryRss2.xml' }
+  };
+
+  const cfg = {
+    key: store.get('dc_key', ''),
+    tickers: store.get('dc_tickers_v2', ['SPY','QQQ','NVDA','MSFT','META','GOOGL','VIX']),
+    source: store.get('dc_source', 'toi'),
+    dim: store.get('dc_dim', false)
+  };
+
+  const $ = id => document.getElementById(id);
+  const pad = n => String(n).padStart(2,'0');
+
+  // ---------- clock ----------
+  const dateFmt = new Intl.DateTimeFormat('en-GB', { weekday:'long', day:'numeric', month:'long' });
+  let hebFmt = null;
+  try { hebFmt = new Intl.DateTimeFormat('en-u-ca-hebrew', { day:'numeric', month:'long', year:'numeric' }); } catch(e){}
+  const nyFmt = new Intl.DateTimeFormat('en-US', { timeZone:'America/New_York', weekday:'short', hour:'numeric', minute:'numeric', hour12:false });
+
+  function marketOpen(){
+    const parts = Object.fromEntries(nyFmt.formatToParts(new Date()).map(p => [p.type, p.value]));
+    if (['Sat','Sun'].includes(parts.weekday)) return false;
+    const mins = (parseInt(parts.hour,10) % 24) * 60 + parseInt(parts.minute,10);
+    return mins >= 570 && mins < 960; // 9:30–16:00 ET
+  }
+
+  function tick(){
+    const n = new Date();
+    $('time').textContent = `${pad(n.getHours())}:${pad(n.getMinutes())}`;
+    $('date').textContent = dateFmt.format(n);
+    if (hebFmt) $('hdate').textContent = hebFmt.format(n);
+    const open = marketOpen();
+    $('mkt').classList.toggle('open', open);
+    $('mkt').querySelector('span').textContent = open ? 'US market open' : 'US market closed';
+  }
+
+  // ---------- tickers ----------
+  let quotes = {};
+
+  function fmtPrice(p){
+    if (p == null || isNaN(p)) return '—';
+    return p.toLocaleString('en-US', { minimumFractionDigits: 2, maximumFractionDigits: 2 });
+  }
+
+  function renderTickers(){
+    const box = $('tickers');
+    box.textContent = '';
+    box.classList.toggle('many', cfg.tickers.length > 6);
+    cfg.tickers.slice(0,8).forEach(sym => {
+      const q = quotes[sym];
+      const el = document.createElement('div'); el.className = 'tk';
+      const s = document.createElement('div'); s.className = 'sym'; s.textContent = sym.includes(':') ? sym.split(':')[1] : sym;
+      const p = document.createElement('div'); p.className = 'px';
+      const c = document.createElement('div'); c.className = 'chg';
+      if (!q){ p.textContent = '…'; c.className += ' flat'; c.textContent = ''; }
+      else if (q.err){ p.textContent = '—'; c.className += ' flat'; c.textContent = q.err; }
+      else {
+        p.textContent = fmtPrice(q.price);
+        const dir = q.pct > 0 ? 'up' : q.pct < 0 ? 'down' : 'flat';
+        const arrow = q.pct > 0 ? '▲' : q.pct < 0 ? '▼' : '';
+        c.className += ' ' + dir;
+        c.textContent = `${arrow} ${Math.abs(q.pct ?? 0).toFixed(2)}%`;
+      }
+      el.append(s, p, c);
+      box.append(el);
+    });
+  }
+
+  const INDEX = { VIX:'^VIX', SPX:'^GSPC', NDX:'^NDX', DJI:'^DJI', TA35:'TA35.TA' };
+  const PROXIES = [
+    u => 'https://api.allorigins.win/raw?url=' + encodeURIComponent(u),
+    u => 'https://corsproxy.io/?url=' + encodeURIComponent(u),
+    u => 'https://api.codetabs.com/v1/proxy/?quest=' + encodeURIComponent(u)
+  ];
+
+  async function yahooQuote(sym){
+    const y = INDEX[sym] || sym;
+    const url = `https://query1.finance.yahoo.com/v8/finance/chart/${encodeURIComponent(y)}?interval=1d&range=5d`;
+    for (const px of PROXIES){
+      try{
+        const r = await fetch(px(url));
+        if (!r.ok) continue;
+        const j = JSON.parse(await r.text());
+        const m = j?.chart?.result?.[0]?.meta;
+        if (!m || m.regularMarketPrice == null) continue;
+        const closes = j.chart.result[0].indicators?.quote?.[0]?.close?.filter(v => v != null) || [];
+        let prev = m.previousClose ?? null;
+        if (prev == null && closes.length >= 2) prev = closes[closes.length - 2];
+        if (prev == null) prev = m.chartPreviousClose;
+        const price = m.regularMarketPrice;
+        return { price, chg: price - prev, pct: prev ? (price - prev) / prev * 100 : 0 };
+      }catch(e){}
+    }
+    return null;
+  }
+
+  async function finnhubQuote(sym){
+    if (!cfg.key || INDEX[sym]) return null;
+    try{
+      const r = await fetch(`https://finnhub.io/api/v1/quote?symbol=${encodeURIComponent(sym)}&token=${encodeURIComponent(cfg.key)}`);
+      if (!r.ok) return null;
+      const j = await r.json();
+      if (!j || (j.c === 0 && j.pc === 0)) return null;
+      return { price:j.c, chg:j.d, pct:j.dp };
+    }catch(e){ return null; }
+  }
+
+  async function loadQuotes(){
+    renderTickers();
+    await Promise.all(cfg.tickers.slice(0,8).map(async sym => {
+      const q = (await finnhubQuote(sym)) || (await yahooQuote(sym));
+      if (q) quotes[sym] = q;
+      else if (!quotes[sym] || quotes[sym].err) quotes[sym] = { err:'Offline' };
+    }));
+    renderTickers();
+    const n = new Date();
+    $('updated').textContent = `Prices ${pad(n.getHours())}:${pad(n.getMinutes())}`;
+  }
+
+  // ---------- news ----------
+  let news = [], idx = 0;
+
+  const decode = s => { const t = document.createElement('textarea'); t.innerHTML = s || ''; return t.value.trim(); };
+  function parseDate(s){
+    if (!s) return null;
+    let d = new Date(s.replace(' ','T') + 'Z');
+    if (isNaN(d)) d = new Date(s);
+    return isNaN(d) ? null : d;
+  }
+  function ago(d){
+    if (!d) return '';
+    const m = Math.max(0, Math.round((Date.now() - d.getTime())/60000));
+    if (m < 1) return 'just now';
+    if (m < 60) return `${m} min ago`;
+    const h = Math.round(m/60);
+    return h < 24 ? `${h} hr ago` : `${Math.round(h/24)} d ago`;
+  }
+
+  async function loadNews(){
+    const src = SOURCES[cfg.source] || SOURCES.toi;
+    $('src').textContent = 'Israel · ' + src.name;
+    let items = [];
+    try{
+      const r = await fetch('https://api.rss2json.com/v1/api.json?rss_url=' + encodeURIComponent(src.url));
+      const j = await r.json();
+      if (j.status === 'ok') items = j.items.map(i => ({ title: decode(i.title), date: parseDate(i.pubDate) }));
+    }catch(e){}
+    if (!items.length){
+      try{
+        const r = await fetch('https://api.allorigins.win/raw?url=' + encodeURIComponent(src.url));
+        const x = new DOMParser().parseFromString(await r.text(), 'text/xml');
+        items = [...x.querySelectorAll('item')].map(it => ({
+          title: decode(it.querySelector('title')?.textContent),
+          date: parseDate(it.querySelector('pubDate')?.textContent)
+        }));
+      }catch(e){}
+    }
+    items = items.filter(i => i.title).slice(0, 10);
+    if (items.length){ news = items; idx = 0; showHeadline(false); }
+    else if (!news.length){ $('headline').firstElementChild.textContent = 'Couldn’t load headlines. Will retry.'; }
+  }
+
+  function showHeadline(animate = true){
+    if (!news.length) return;
+    const h = $('headline');
+    const apply = () => {
+      const item = news[idx];
+      const span = h.firstElementChild;
+      span.textContent = item.title;
+      span.dir = 'auto';
+      $('ago').textContent = ago(item.date);
+      $('count').textContent = `${idx+1}/${news.length}`;
+      const dots = $('dots'); dots.textContent = '';
+      news.forEach((_, i) => { const b = document.createElement('b'); if (i === idx) b.className = 'on'; dots.append(b); });
+      h.classList.remove('fade');
+    };
+    if (animate){ h.classList.add('fade'); setTimeout(apply, 450); } else apply();
+  }
+  function nextHeadline(){ if (!news.length) return; idx = (idx + 1) % news.length; showHeadline(); }
+
+  // ---------- keep screen awake ----------
+  let lock = null;
+  async function keepAwake(){
+    try{
+      if ('wakeLock' in navigator && !lock){
+        lock = await navigator.wakeLock.request('screen');
+        $('hint').textContent = '';
+        lock.addEventListener('release', () => { lock = null; });
+      }
+    }catch(e){}
+  }
+
+  // ---------- settings ----------
+  const srcSel = $('srcsel');
+  Object.entries(SOURCES).forEach(([k, v]) => { const o = document.createElement('option'); o.value = k; o.textContent = v.name; srcSel.append(o); });
+  function openSettings(){
+    $('key').value = cfg.key; $('tick').value = cfg.tickers.join(', '); srcSel.value = cfg.source;
+    $('settings').classList.add('show');
+  }
+  $('gear').addEventListener('click', e => { e.stopPropagation(); openSettings(); });
+  $('cancel').addEventListener('click', () => $('settings').classList.remove('show'));
+  $('save').addEventListener('click', () => {
+    cfg.key = $('key').value.trim();
+    const t = $('tick').value.split(/[,\s]+/).map(s => s.trim().toUpperCase()).filter(Boolean).slice(0,8);
+    if (t.length) cfg.tickers = t;
+    const srcChanged = cfg.source !== srcSel.value;
+    cfg.source = srcSel.value;
+    store.set('dc_key', cfg.key); store.set('dc_tickers_v2', cfg.tickers); store.set('dc_source', cfg.source);
+    $('settings').classList.remove('show');
+    quotes = {}; loadQuotes();
+    if (srcChanged){ news = []; loadNews(); }
+  });
+
+  // ---------- interactions ----------
+  $('clock').addEventListener('click', () => { cfg.dim = !cfg.dim; document.body.classList.toggle('dim', cfg.dim); store.set('dc_dim', cfg.dim); });
+  $('news').addEventListener('click', nextHeadline);
+  document.addEventListener('click', keepAwake);
+  document.addEventListener('visibilitychange', () => {
+    if (document.visibilityState === 'visible'){ keepAwake(); tick(); loadQuotes(); loadNews(); }
+  });
+
+  // tiny drift to protect the OLED screen from burn-in
+  function drift(){ $('wrap').style.transform = `translate(${Math.round(Math.random()*8-4)}px, ${Math.round(Math.random()*8-4)}px)`; }
+
+  // ---------- start ----------
+  document.body.classList.toggle('dim', cfg.dim);
+  tick(); keepAwake(); loadQuotes(); loadNews();
+  setInterval(tick, 1000);
+  setInterval(loadQuotes, 60 * 1000);       // prices every minute
+  setInterval(loadNews, 10 * 60 * 1000);    // headlines every 10 minutes
+  setInterval(nextHeadline, 9000);          // rotate headline every 9 s
+  setInterval(drift, 10 * 60 * 1000);
+})();
+</script>
+</body>
+</html>
