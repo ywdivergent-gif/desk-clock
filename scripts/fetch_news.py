@@ -8,7 +8,6 @@ from email.utils import parsedate_to_datetime
 FEEDS = {
     "ynet": "https://www.ynet.co.il/Integration/StoryRss2.xml",
     "toi": "https://www.timesofisrael.com/feed/",
-    "jpost": "https://www.jpost.com/rss/rssfeedsheadlines.aspx",
     "ynetnews": "https://www.ynetnews.com/Integration/StoryRss3082.xml",
 }
 
