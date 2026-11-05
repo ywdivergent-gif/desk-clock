@@ -231,16 +231,24 @@
   const PRICES_URL = 'https://raw.githubusercontent.com/ywdivergent-gif/desk-clock/main/prices.json';
   let repoPrices = null, repoUpdated = null;
 
+  // Read a data file from the repo: GitHub API first (always current), raw file as backup
+  async function repoFile(name){
+    try{
+      const r = await fetch('https://api.github.com/repos/ywdivergent-gif/desk-clock/contents/' + name,
+        { cache:'no-store', headers:{ Accept:'application/vnd.github.raw+json' } });
+      if (r.ok) return await r.json();
+    }catch(e){}
+    try{
+      const r = await fetch('https://raw.githubusercontent.com/ywdivergent-gif/desk-clock/main/' + name + '?t=' + Date.now(), { cache:'no-store' });
+      if (r.ok) return await r.json();
+    }catch(e){}
+    return null;
+  }
+
   async function loadRepoPrices(){
     try{
-      let r = null;
-      try{
-        r = await fetch('https://api.github.com/repos/ywdivergent-gif/desk-clock/contents/prices.json',
-          { cache:'no-store', headers:{ Accept:'application/vnd.github.raw+json' } });
-      }catch(e){}
-      if (!r || !r.ok) r = await fetch(PRICES_URL + '?t=' + Date.now(), { cache:'no-store' });
-      if (!r.ok) return;
-      const j = await r.json();
+      const j = await repoFile('prices.json');
+      if (!j) return;
       repoPrices = j.quotes || null;
       repoUpdated = j.updated ? new Date(j.updated) : null;
     }catch(e){}
@@ -341,9 +349,8 @@
     $('src').textContent = src.label || ('Israel · ' + src.name);
     let items = [];
     try{
-      const r = await fetch('https://raw.githubusercontent.com/ywdivergent-gif/desk-clock/main/news.json?t=' + Date.now(), { cache:'no-store' });
-      const j = await r.json();
-      const fresh = j.updated && (Date.now() - new Date(j.updated).getTime()) < 90 * 60000;
+      const j = await repoFile('news.json');
+      const fresh = j && j.updated && (Date.now() - new Date(j.updated).getTime()) < 90 * 60000;
       const f = j.feeds && j.feeds[cfg.source];
       if (fresh && f && f.length) items = f.map(i => ({ title: i.title, date: i.date ? new Date(i.date) : null }));
     }catch(e){}
