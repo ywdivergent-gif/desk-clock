@@ -162,7 +162,7 @@
 
   const cfg = {
     key: store.get('dc_key', ''),
-    tickers: store.get('dc_tickers_v2', ['SPY','QQQ','NVDA','MSFT','META','GOOGL','VIX']),
+    tickers: store.get('dc_tickers_v3', ['SPY','QQQ','NVDA','META','GOOGL','VIX','USDILS','MSFT']),
     source: store.get('dc_source_v2', 'ynet'),
     dim: store.get('dc_dim', false)
   };
@@ -198,7 +198,8 @@
 
   function fmtPrice(p){
     if (p == null || isNaN(p)) return '—';
-    return p.toLocaleString('en-US', { minimumFractionDigits: 2, maximumFractionDigits: 2 });
+    const dp = Math.abs(p) < 10 ? 3 : 2;
+    return p.toLocaleString('en-US', { minimumFractionDigits: dp, maximumFractionDigits: dp });
   }
 
   function renderTickers(){
@@ -208,7 +209,7 @@
     cfg.tickers.slice(0,8).forEach(sym => {
       const q = quotes[sym];
       const el = document.createElement('div'); el.className = 'tk';
-      const s = document.createElement('div'); s.className = 'sym'; s.textContent = sym.includes(':') ? sym.split(':')[1] : sym;
+      const s = document.createElement('div'); s.className = 'sym'; s.textContent = LABELS[sym] || sym;
       const p = document.createElement('div'); p.className = 'px';
       const c = document.createElement('div'); c.className = 'chg';
       if (!q){ p.textContent = '…'; c.className += ' flat'; c.textContent = ''; }
@@ -225,7 +226,8 @@
     });
   }
 
-  const INDEX = { VIX:1, SPX:1, NDX:1, DJI:1, TA35:1 };
+  const INDEX = { VIX:1, SPX:1, NDX:1, DJI:1, TA35:1, USDILS:1, EURILS:1, BTC:1 };
+  const LABELS = { USDILS:'USD/ILS', EURILS:'EUR/ILS' };
   const PRICES_URL = 'https://raw.githubusercontent.com/ywdivergent-gif/desk-clock/main/prices.json';
   let repoPrices = null, repoUpdated = null;
 
@@ -410,7 +412,7 @@
     if (t.length) cfg.tickers = t;
     const srcChanged = cfg.source !== srcSel.value;
     cfg.source = srcSel.value;
-    store.set('dc_key', cfg.key); store.set('dc_tickers_v2', cfg.tickers); store.set('dc_source_v2', cfg.source);
+    store.set('dc_key', cfg.key); store.set('dc_tickers_v3', cfg.tickers); store.set('dc_source_v2', cfg.source);
     $('settings').classList.remove('show');
     quotes = {}; loadQuotes();
     if (srcChanged){ news = []; loadNews(); }

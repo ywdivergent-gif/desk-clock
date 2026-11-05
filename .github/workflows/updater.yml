@@ -1,0 +1,34 @@
+name: Keep prices and news fresh
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "7,37 * * * *"   # backup starter in case the chain ever stops
+  push:
+    branches: [main]
+    paths: ["tickers.json", "scripts/updater.py"]
+
+permissions:
+  contents: write
+  actions: write
+
+concurrency:
+  group: updater
+  cancel-in-progress: false
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    timeout-minutes: 355
+    steps:
+      - uses: actions/checkout@v4
+      - name: Update prices and news in a loop
+        run: |
+          git config user.name "desk-clock-bot"
+          git config user.email "desk-clock-bot@users.noreply.github.com"
+          python3 scripts/updater.py
+      - name: Start the next run
+        if: always()
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh workflow run updater.yml --repo "${{ github.repository }}" --ref main
