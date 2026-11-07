@@ -393,16 +393,38 @@
   function nextHeadline(){ if (!news.length) return; idx = (idx + 1) % news.length; showHeadline(); }
 
   // ---------- keep screen awake ----------
-  let lock = null;
+  // Two methods together: the Wake Lock API, plus a tiny silent looping video
+  // (iPhone keeps the screen on while a video plays). Both are re-checked every 20 s.
+  let lock = null, tapped = false;
+  const vid = document.createElement('video');
+  vid.src = 'keepawake.mp4'; vid.muted = true; vid.loop = true;
+  vid.setAttribute('playsinline', ''); vid.setAttribute('muted', '');
+  vid.style.cssText = 'position:fixed;left:0;bottom:0;width:2px;height:2px;opacity:0.01;pointer-events:none';
+  document.body.append(vid);
+  vid.addEventListener('pause', () => { if (tapped && document.visibilityState === 'visible') vid.play().catch(()=>{}); });
+
   async function keepAwake(){
+    if (document.visibilityState !== 'visible') return;
     try{
       if ('wakeLock' in navigator && !lock){
         lock = await navigator.wakeLock.request('screen');
-        $('hint').textContent = '';
-        lock.addEventListener('release', () => { lock = null; });
+        lock.addEventListener('release', () => { lock = null; showAwake(); });
       }
     }catch(e){}
+    if (tapped && vid.paused){ try{ await vid.play(); }catch(e){} }
+    showAwake();
   }
+  function showAwake(){
+    const ok = !!lock || (tapped && !vid.paused);
+    const h = $('hint');
+    h.textContent = ok ? (tapped ? 'Screen stays on ✓' : '') : 'Tap once to keep the screen on';
+    h.style.color = ok ? 'var(--muted)' : 'var(--accent)';
+  }
+  document.addEventListener('click', e => {
+    if (!tapped && !e.target.closest('#settings, #gear')) e.stopPropagation();  // first tap only turns keep-awake on
+    tapped = true; keepAwake();
+  }, true);
+  setInterval(keepAwake, 20 * 1000);
 
   // ---------- settings ----------
   const srcSel = $('srcsel');
@@ -435,7 +457,6 @@
   }
   $('clock').addEventListener('click', () => { dimOverride = !document.body.classList.contains('dim'); applyDim(); });
   $('news').addEventListener('click', nextHeadline);
-  document.addEventListener('click', keepAwake);
   document.addEventListener('visibilitychange', () => {
     if (document.visibilityState === 'visible'){ keepAwake(); tick(); loadQuotes(); loadNews(); }
   });
