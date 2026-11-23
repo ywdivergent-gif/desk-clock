@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T14:14:56.239625+00:00",
+ "updated": "2026-11-23T14:20:05.356471+00:00",
  "feeds": {
   "ynet": [
    {
@@ -104,7 +104,11 @@
   "cnbc": [
    {
     "title": "Nvidia reinstates Jensen Huang as CEO. Stock skyrockets 27%",
-    "date": "2026-11-23T14:11:41+00:00"
+    "date": "2026-11-23T14:18:56+00:00"
+   },
+   {
+    "title": "Wall Street's 'Fear Gauge' just flashed a buy sign",
+    "date": "2026-11-23T14:14:28+00:00"
    },
    {
     "title": "Stocks making the biggest moves premarket: Zscaler, Truist, Nvidia, LuxExperience & more",
@@ -145,16 +149,16 @@
    {
     "title": "The biggest money-making energy trade looks over. What to buy instead",
     "date": "2026-11-23T12:00:20+00:00"
-   },
-   {
-    "title": "Stuck: How a frozen housing market is hitting buyers, sellers and the economy",
-    "date": "2026-11-23T10:00:01+00:00"
    }
   ],
   "fox": [
    {
     "title": "Americans don’t have to choose between our AI future and ripping off copyright owners",
     "date": "2026-11-25T10:00:00+00:00"
+   },
+   {
+    "title": "Paige Spiranac pumps up American men for one of the best golf weeks of the year, cig bench press & NFL memes",
+    "date": "2026-11-23T14:13:46+00:00"
    },
    {
     "title": "Mid-South Wrestling set for revival in 2027 as two promotions come together to build upon legend's legacy",
@@ -195,10 +199,6 @@
    {
     "title": "Trump to confront Newsom over plan to spare 548 death row inmates and more top headlines",
     "date": "2026-11-23T12:32:00+00:00"
-   },
-   {
-    "title": "Titans head coach calls loss 'disgusting football' after allowing 51 points to Cowboys",
-    "date": "2026-11-23T12:15:26+00:00"
    }
   ]
  }
