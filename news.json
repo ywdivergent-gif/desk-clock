@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T10:04:55.700496+00:00",
+ "updated": "2026-11-23T10:09:56.145073+00:00",
  "feeds": {
   "ynet": [
    {
@@ -35,7 +35,7 @@
     "date": "2026-11-23T07:49:31+00:00"
    },
    {
-    "title": "יאיר גולן קרא \"להפסיק את שיחות הכזב\" - אבל צוותי ישר! והליכוד ייפגשו שוב",
+    "title": "הוקמו הוועדות החדשות בגוש איזנקוט: העומדים בראשן - והמחאה בכנסת",
     "date": "2026-11-23T07:02:21+00:00"
    },
    {
@@ -103,6 +103,10 @@
   ],
   "cnbc": [
    {
+    "title": "Stuck: How a frozen housing market is hitting buyers, sellers and the economy",
+    "date": "2026-11-23T10:00:01+00:00"
+   },
+   {
     "title": "French biotech rejects short seller’s cancer-risk claims after shares plunge 17%",
     "date": "2026-11-23T09:45:42+00:00"
    },
@@ -143,10 +147,6 @@
     "date": "2026-11-22T18:55:05+00:00"
    },
    {
-    "title": "I’ve studied over 200 kids—to avoid raising a people pleaser, ditch 6 parenting habits: It starts in ‘ordinary, well-intentioned moments’",
-    "date": "2026-11-22T17:33:25+00:00"
-   },
-   {
     "title": "Director of National Intelligence Jay Clayton warns Americans of 'bumps in the road' after tech outages",
     "date": "2026-11-22T17:14:03+00:00"
    }
@@ -155,6 +155,14 @@
    {
     "title": "Americans don’t have to choose between our AI future and ripping off copyright owners",
     "date": "2026-11-25T10:00:00+00:00"
+   },
+   {
+    "title": "NOOSHEEN HASHEMI: America's AI leadership needs more than one man",
+    "date": "2026-11-23T10:00:57+00:00"
+   },
+   {
+    "title": "War against data centers is costing local communities millions of dollars",
+    "date": "2026-11-23T10:00:20+00:00"
    },
    {
     "title": "Nine million jobs are in limbo, and Congress can fix it before Christmas",
@@ -191,14 +199,6 @@
    {
     "title": "John Malkovich recalls losing 'pretty much everything' to Bernie Madoff's Ponzi scheme",
     "date": "2026-11-23T02:40:39+00:00"
-   },
-   {
-    "title": "Man convicted for role in Tessa Majors' 2019 NYC killing released on parole",
-    "date": "2026-11-23T02:34:57+00:00"
-   },
-   {
-    "title": "New York Dem addresses bizarre 'lizard people' claims after viral clip behind Mamdani",
-    "date": "2026-11-23T02:16:02+00:00"
    }
   ]
  }
