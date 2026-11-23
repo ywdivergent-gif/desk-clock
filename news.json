@@ -1,7 +1,11 @@
 {
- "updated": "2026-11-23T16:00:05.460935+00:00",
+ "updated": "2026-11-23T16:05:05.332463+00:00",
  "feeds": {
   "ynet": [
+   {
+    "title": "\"צרחו, נחנקו - וירקו דם\": בהלה מ\"חומר בלתי מזוהה\" בהופעת הראפר, 12,000 פונו | תיעוד",
+    "date": "2026-11-23T15:56:47+00:00"
+   },
    {
     "title": "\"לעצור את דדי ברנע\": תלונה בגרמניה נגד ראש המוסד לשעבר בגלל מבצע הביפרים",
     "date": "2026-11-23T15:33:43+00:00"
@@ -45,10 +49,6 @@
    {
     "title": "איזנקוט: לא נתפשר על ועדה ממלכתית או שירות לכל; נתניהו: החרדים צריכים להיות בממשלה",
     "date": "2026-11-23T12:33:58+00:00"
-   },
-   {
-    "title": "ברנע קרא למלחמה באיראן, וחשף: המוסד היה מעורב בסיכול הפיגוע בהופעת טיילור סוויפט",
-    "date": "2026-11-23T11:37:36+00:00"
    }
   ],
   "ynetnews": [
@@ -103,8 +103,12 @@
   ],
   "cnbc": [
    {
+    "title": "Jensen Huang reinstated as Nvidia CEO. Stock skyrockets 35%",
+    "date": "2026-11-23T16:03:48+00:00"
+   },
+   {
     "title": "Nasdaq roars back by 7% as Nvidia soars on Huang’s return, S&P 500 rebounds 5%: Live updates",
-    "date": "2026-11-23T15:59:45+00:00"
+    "date": "2026-11-23T16:01:18+00:00"
    },
    {
     "title": "Trump tells CNBC 'I convinced’ Nvidia board to reinstate Jensen Huang",
@@ -113,10 +117,6 @@
    {
     "title": "Tokenized stocks face pushback as NYSE, Nasdaq pivot for a new market",
     "date": "2026-11-23T15:30:27+00:00"
-   },
-   {
-    "title": "Jensen Huang reinstated as Nvidia CEO. Stock skyrockets 35%",
-    "date": "2026-11-23T15:24:42+00:00"
    },
    {
     "title": "Stuck: How a frozen housing market is hitting buyers, sellers and the economy",
@@ -157,6 +157,14 @@
     "date": "2026-11-25T10:00:00+00:00"
    },
    {
+    "title": "Aggressive turkeys are harassing people across the Boston area just days before Thanksgiving",
+    "date": "2026-11-23T15:57:29+00:00"
+   },
+   {
+    "title": "Russell Brand's wife vows to 'honor' prison rules after comedian's 'not guilty' message sparks investigation",
+    "date": "2026-11-23T15:55:55+00:00"
+   },
+   {
     "title": "Shopping With Friends: Keurig's new Alta coffee maker and four games ideal for your next holiday party",
     "date": "2026-11-23T15:50:03+00:00"
    },
@@ -191,14 +199,6 @@
    {
     "title": "Paige Spiranac pumps up American men for one of the best golf weeks of the year, cig bench press & NFL memes",
     "date": "2026-11-23T14:13:46+00:00"
-   },
-   {
-    "title": "Mid-South Wrestling set for revival in 2027 as two promotions come together to build upon legend's legacy",
-    "date": "2026-11-23T14:01:35+00:00"
-   },
-   {
-    "title": "Trail camera captures rare mountain lion roaming through Buffalo County, Wisconsin wilderness",
-    "date": "2026-11-23T14:01:04+00:00"
    }
   ]
  }
