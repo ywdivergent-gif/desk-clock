@@ -1,7 +1,11 @@
 {
- "updated": "2026-11-23T11:40:08.373486+00:00",
+ "updated": "2026-11-23T11:44:56.038060+00:00",
  "feeds": {
   "ynet": [
+   {
+    "title": "ברנע קרא למלחמה באיראן, וחשף: המוסד היה מעורב בסיכול הפיגוע בהופעת טיילור סוויפט",
+    "date": "2026-11-23T11:37:36+00:00"
+   },
    {
     "title": "החזון של בנט - ממשלה בלי ערבים או חרדים: \"אחדות, איזנקוט ראשון. זה שכל ישר\"",
     "date": "2026-11-23T11:11:54+00:00"
@@ -45,10 +49,6 @@
    {
     "title": "לסכל ממשלה עם איזנקוט: החרדים יעלו חוק למניעת מעצרים - בתמיכת גוש נתניהו",
     "date": "2026-11-23T08:11:07+00:00"
-   },
-   {
-    "title": "בנט: \"הטרור היהודי הבזוי ממיט עלינו אסון. מעצרים מנהליים בוטלו עבור קולות בפריימריז\"",
-    "date": "2026-11-23T08:05:46+00:00"
    }
   ],
   "ynetnews": [
@@ -157,6 +157,10 @@
     "date": "2026-11-25T10:00:00+00:00"
    },
    {
+    "title": "NFL Week 11 Sunday takeaways: Brock Purdy is a game manager and an MVP candidate, Aaron Rodgers is cooked",
+    "date": "2026-11-23T11:33:58+00:00"
+   },
+   {
     "title": "GOP senator 'not likely' to mount presidential bid, but continues leaving door open to possibility",
     "date": "2026-11-23T11:31:13+00:00"
    },
@@ -195,10 +199,6 @@
    {
     "title": "Inside the Thanksgiving turkey hotline that's been saving holiday dinners for 45 years",
     "date": "2026-11-23T09:02:32+00:00"
-   },
-   {
-    "title": "In a world of surging hacks and attacks, is anyone running the show?",
-    "date": "2026-11-23T08:00:40+00:00"
    }
   ]
  }
