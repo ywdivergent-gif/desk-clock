@@ -1,7 +1,11 @@
 {
- "updated": "2026-11-23T14:40:05.264084+00:00",
+ "updated": "2026-11-23T14:45:05.775116+00:00",
  "feeds": {
   "ynet": [
+   {
+    "title": "מפקד משטרת התנועה נחקר באזהרה על הפגיעה ברוכב האופניים",
+    "date": "2026-11-23T14:33:22+00:00"
+   },
    {
     "title": "נתניהו מחה על היחס למשפחות שכולות, מועצת אוקטובר: \"הפעלת נגדנו מכונת רעל\"",
     "date": "2026-11-23T14:30:05+00:00"
@@ -45,10 +49,6 @@
    {
     "title": "הוקמו הוועדות החדשות של גוש איזנקוט: העומדים בראש, החוקים הסוערים והמחאה בכנסת",
     "date": "2026-11-23T10:32:53+00:00"
-   },
-   {
-    "title": "סרטון הדוברת הישראלית שהסעיר את לבנון: צה\"ל פתח בבדיקה",
-    "date": "2026-11-23T10:18:45+00:00"
    }
   ],
   "ynetnews": [
@@ -104,7 +104,11 @@
   "cnbc": [
    {
     "title": "Nvidia skyrockets 30% on Huang’s return as CEO, recovering nearly all the losses since he disclosed affair",
-    "date": "2026-11-23T14:38:12+00:00"
+    "date": "2026-11-23T14:41:52+00:00"
+   },
+   {
+    "title": "CrowdStrike to buy Zscaler in $44 billion deal as AI supercharges cyberattacks",
+    "date": "2026-11-23T14:38:45+00:00"
    },
    {
     "title": "Stocks making the biggest moves Monday: Zscaler, Truist, Nvidia, LuxExperience & more",
@@ -145,10 +149,6 @@
    {
     "title": "This discount retailer offers protection in a volatile market, says Piper Sandler",
     "date": "2026-11-23T12:50:48+00:00"
-   },
-   {
-    "title": "SpaceX sued by Oregon and Virginia over AI deepfake porn, Grok safety claims",
-    "date": "2026-11-23T12:40:37+00:00"
    }
   ],
   "fox": [
