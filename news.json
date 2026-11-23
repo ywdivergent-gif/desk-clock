@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T12:19:56.018173+00:00",
+ "updated": "2026-11-23T12:24:55.878588+00:00",
  "feeds": {
   "ynet": [
    {
@@ -104,7 +104,11 @@
   "cnbc": [
    {
     "title": "Anthropic, Nvidia shares rise in premarket trading after major tech sell-off",
-    "date": "2026-11-23T12:19:48+00:00"
+    "date": "2026-11-23T12:19:59+00:00"
+   },
+   {
+    "title": "Stocks making the biggest moves premarket: Zscaler, Truist, Nvidia, LuxExperience & more",
+    "date": "2026-11-23T12:19:19+00:00"
    },
    {
     "title": "Tokenized stocks face pushback as NYSE, Nasdaq pivot for a new market",
@@ -145,16 +149,16 @@
    {
     "title": "Forget Anthropic: In Europe, the IPO hype is about a blue lagoon",
     "date": "2026-11-23T08:48:36+00:00"
-   },
-   {
-    "title": "Investors gives a thumbs down to Tata Steel-APL Apollo $1.67 billion deal, plunging shares",
-    "date": "2026-11-23T07:25:24+00:00"
    }
   ],
   "fox": [
    {
     "title": "Americans don’t have to choose between our AI future and ripping off copyright owners",
     "date": "2026-11-25T10:00:00+00:00"
+   },
+   {
+    "title": "Titans head coach calls loss 'disgusting football' after allowing 51 points to Cowboys",
+    "date": "2026-11-23T12:15:26+00:00"
    },
    {
     "title": "Popular bedroom supplements often fail to deliver, says longevity physician",
@@ -195,10 +199,6 @@
    {
     "title": "NOOSHEEN HASHEMI: America's AI leadership needs more than one man",
     "date": "2026-11-23T10:00:57+00:00"
-   },
-   {
-    "title": "War against data centers is costing local communities millions of dollars",
-    "date": "2026-11-23T10:00:20+00:00"
    }
   ]
  }
