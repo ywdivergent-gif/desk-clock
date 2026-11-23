@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T15:10:05.361425+00:00",
+ "updated": "2026-11-23T15:15:05.680336+00:00",
  "feeds": {
   "ynet": [
    {
@@ -103,12 +103,20 @@
   ],
   "cnbc": [
    {
-    "title": "CoreWeave, Oracle soar as Huang’s return relieves Nvidia AI financing fears",
-    "date": "2026-11-23T15:03:21+00:00"
+    "title": "Nasdaq roars back by 6% as Nvidia soars on Huang’s return, S&P 500 rebounds 4%: Live updates",
+    "date": "2026-11-23T15:14:35+00:00"
+   },
+   {
+    "title": "Trump says Jensen Huang ‘did nothing wrong’",
+    "date": "2026-11-23T15:13:22+00:00"
    },
    {
     "title": "Nvidia skyrockets 30% on Huang’s return as CEO, recovering nearly all the losses since he disclosed affair",
-    "date": "2026-11-23T14:54:18+00:00"
+    "date": "2026-11-23T15:10:17+00:00"
+   },
+   {
+    "title": "CoreWeave, Oracle soar as Huang’s return relieves Nvidia AI financing fears",
+    "date": "2026-11-23T15:03:21+00:00"
    },
    {
     "title": "CrowdStrike to buy Zscaler in $44 billion deal as AI supercharges cyberattacks",
@@ -141,14 +149,6 @@
    {
     "title": "Zelenskyy praises ‘exemplary’ drone operation that sank Russian warship in a Libyan port",
     "date": "2026-11-23T13:28:15+00:00"
-   },
-   {
-    "title": "Here are Monday's biggest analyst calls: Anthropic, SpaceX, Apple, Nvidia, Dollar General, Evercore ISI & more",
-    "date": "2026-11-23T13:19:45+00:00"
-   },
-   {
-    "title": "‘Worst COP ever’: Climate talks collapse after draft deal fails to include fossil fuels",
-    "date": "2026-11-23T13:16:38+00:00"
    }
   ],
   "fox": [
