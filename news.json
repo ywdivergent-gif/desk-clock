@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T14:35:05.859253+00:00",
+ "updated": "2026-11-23T14:40:05.264084+00:00",
  "feeds": {
   "ynet": [
    {
@@ -103,8 +103,8 @@
   ],
   "cnbc": [
    {
-    "title": "Nvidia reinstates Jensen Huang as CEO. Stock skyrockets 31%",
-    "date": "2026-11-23T14:25:31+00:00"
+    "title": "Nvidia skyrockets 30% on Huang’s return as CEO, recovering nearly all the losses since he disclosed affair",
+    "date": "2026-11-23T14:38:12+00:00"
    },
    {
     "title": "Stocks making the biggest moves Monday: Zscaler, Truist, Nvidia, LuxExperience & more",
@@ -157,6 +157,10 @@
     "date": "2026-11-25T10:00:00+00:00"
    },
    {
+    "title": "49ers star Nick Bosa gets booed by fans in Mexico after making harmless comments about cheering",
+    "date": "2026-11-23T14:30:57+00:00"
+   },
+   {
     "title": "NASCAR is already fixing its worst mistake, fans offer universal praise & race wives have a holiday PJ party!",
     "date": "2026-11-23T14:21:03+00:00"
    },
@@ -195,10 +199,6 @@
    {
     "title": "Google AI smartwatch could flag high blood pressure",
     "date": "2026-11-23T12:37:32+00:00"
-   },
-   {
-    "title": "Zelenskyy hails ‘exemplary Ukrainian operation’ sinking Russian warship off Libya",
-    "date": "2026-11-23T12:35:40+00:00"
    }
   ]
  }
