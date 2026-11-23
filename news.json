@@ -1,7 +1,11 @@
 {
- "updated": "2026-11-23T18:05:05.273065+00:00",
+ "updated": "2026-11-23T18:10:05.228684+00:00",
  "feeds": {
   "ynet": [
+   {
+    "title": "האזהרה של ג'ארד קושנר לישראל: \"בדרך למעמד של מדינה מוקצית\"",
+    "date": "2026-11-23T18:07:26+00:00"
+   },
    {
     "title": "המהפכה המשפטית במוקד: המו\"מ לאחדות נמשך, הליכוד שלח נציג חדש",
     "date": "2026-11-23T17:34:00+00:00"
@@ -45,10 +49,6 @@
    {
     "title": "בלייר הציג את המתווה להחלפת שלטון חמאס: \"אחרת - ההגבלות בעזה יימשכו\"",
     "date": "2026-11-23T14:22:47+00:00"
-   },
-   {
-    "title": "ההרוג ה-400 בכבישים: לוחם מג\"ב נפגע ממשאית בכביש 40",
-    "date": "2026-11-23T14:18:51+00:00"
    }
   ],
   "ynetnews": [
@@ -103,6 +103,10 @@
   ],
   "cnbc": [
    {
+    "title": "Stocks making the biggest moves Monday: Boeing, Nvidia, CoreWeave, Newmont & more",
+    "date": "2026-11-23T18:05:00+00:00"
+   },
+   {
     "title": "‘This establishes a bottom’: Jensen Huang’s return seen as likely to stop market sell-off, for now",
     "date": "2026-11-23T18:00:47+00:00"
    },
@@ -117,10 +121,6 @@
    {
     "title": "Average 401(k), IRA balances fall as more workers raid their accounts, Fidelity says",
     "date": "2026-11-23T17:48:58+00:00"
-   },
-   {
-    "title": "Stocks making the biggest moves midday: Boeing, Nvidia, CoreWeave, Newmont & more",
-    "date": "2026-11-23T17:47:21+00:00"
    },
    {
     "title": "Here's where we stand on AMD shares after Jensen Huang's return to Nvidia",
@@ -157,6 +157,14 @@
     "date": "2026-11-25T10:00:00+00:00"
    },
    {
+    "title": "Seattle restaurant owner says break-ins so frequent glass repair crew knows his door measurements by heart",
+    "date": "2026-11-23T18:00:04+00:00"
+   },
+   {
+    "title": "Federal judge blocks blue state’s ICE mask mandate and other rules targeting federal officers",
+    "date": "2026-11-23T17:57:51+00:00"
+   },
+   {
     "title": "Ex-political aide faked anti-Trump attack by paying artist to slash her face and neck, prosecutors say",
     "date": "2026-11-23T17:45:18+00:00"
    },
@@ -191,14 +199,6 @@
    {
     "title": "WWE legend 'Stone Cold' Steve Austin adds racing title to impressive résumé, describes perfect outdoors day",
     "date": "2026-11-23T16:39:31+00:00"
-   },
-   {
-    "title": "Trump officials told 'not to stab each other' amid demands Nvidia dispute be put under oath in Congress",
-    "date": "2026-11-23T16:17:17+00:00"
-   },
-   {
-    "title": "Trump ‘directly and indirectly’ intervened to get Nvidia’s CEO reinstated, POTUS says",
-    "date": "2026-11-23T16:15:00+00:00"
    }
   ]
  }
