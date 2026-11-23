@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T18:35:05.133024+00:00",
+ "updated": "2026-11-23T18:40:05.470534+00:00",
  "feeds": {
   "ynet": [
    {
@@ -103,8 +103,8 @@
   ],
   "cnbc": [
    {
-    "title": "Nasdaq roars back by 7% as Nvidia soars on Huang’s return, S&P 500 rebounds 5%: Live updates",
-    "date": "2026-11-23T18:22:22+00:00"
+    "title": "Nasdaq roars back by 6% as Nvidia soars on Huang’s return, S&P 500 rebounds 4%: Live updates",
+    "date": "2026-11-23T18:39:04+00:00"
    },
    {
     "title": "Trump administration proposes rule that could curb ESG investing in 401(k)s",
@@ -157,6 +157,10 @@
     "date": "2026-11-25T10:00:00+00:00"
    },
    {
+    "title": "Jeffries faces online fury over cryptic answer when asked if Dems would risk gov't shutdown: 'Political games'",
+    "date": "2026-11-23T18:30:31+00:00"
+   },
+   {
     "title": "Slain firefighter's mother pleads with Trump to intervene after Newsom stops killer's death sentence",
     "date": "2026-11-23T18:23:33+00:00"
    },
@@ -195,10 +199,6 @@
    {
     "title": "Eagles QB Joe Milton shares that he says his daughter's name to calm nerves before throwing a deep ball",
     "date": "2026-11-23T17:35:57+00:00"
-   },
-   {
-    "title": "Teacher’s aide rejected by NYPD admits killing jogger — and says ‘Allah told me to’: report",
-    "date": "2026-11-23T17:17:20+00:00"
    }
   ]
  }
