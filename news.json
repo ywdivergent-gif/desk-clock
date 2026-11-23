@@ -1,7 +1,11 @@
 {
- "updated": "2026-11-23T10:19:56.048534+00:00",
+ "updated": "2026-11-23T10:24:55.796868+00:00",
  "feeds": {
   "ynet": [
+   {
+    "title": "סרטון הדוברת הישראלית שהסעיר את לבנון: צה\"ל פתח בבדיקה",
+    "date": "2026-11-23T10:18:45+00:00"
+   },
    {
     "title": "אישום: אנס את בתה של בת זוגו, שנזפה בה - \"תני לו לעשות מה שהוא רוצה\" | קשה לקריאה",
     "date": "2026-11-23T09:40:06+00:00"
@@ -45,10 +49,6 @@
    {
     "title": "רכבות ללא נהג יהפכו לכלי תחבורה מרכזי בגוש דן: הפרויקט השאפתני – ולוחות הזמנים",
     "date": "2026-11-23T04:48:29+00:00"
-   },
-   {
-    "title": "ירדן רותחת: הממשלה הבאה חייבת להכיר בחשיבות השלום עם השכנה ממזרח",
-    "date": "2026-11-23T04:33:17+00:00"
    }
   ],
   "ynetnews": [
@@ -104,7 +104,7 @@
   "cnbc": [
    {
     "title": "Anthropic, Nvidia shares rise in premarket trading after major tech selloff",
-    "date": "2026-11-23T10:17:20+00:00"
+    "date": "2026-11-23T10:24:25+00:00"
    },
    {
     "title": "Treasury yields jump as stock futures rebound, investors await New York Fed President Williams speech",
@@ -113,6 +113,10 @@
    {
     "title": "Zelenskyy praises ‘exemplary’ drone operation that sank Russian warship in a Libyan port",
     "date": "2026-11-23T10:14:52+00:00"
+   },
+   {
+    "title": "‘Worst COP ever’: Climate talks collapse after draft deal fails to include fossil fuels",
+    "date": "2026-11-23T10:13:30+00:00"
    },
    {
     "title": "Stuck: How a frozen housing market is hitting buyers, sellers and the economy",
@@ -145,10 +149,6 @@
    {
     "title": "Let's weigh the cons — and pros — of this brutal market to find a way forward",
     "date": "2026-11-22T23:49:44+00:00"
-   },
-   {
-    "title": "Employees at Eric Trump-backed robot startup lose health benefits as company's cash crunch deepens",
-    "date": "2026-11-22T18:55:05+00:00"
    }
   ],
   "fox": [
