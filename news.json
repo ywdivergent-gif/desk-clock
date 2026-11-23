@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T19:10:05.358761+00:00",
+ "updated": "2026-11-23T19:15:05.696130+00:00",
  "feeds": {
   "ynet": [
    {
@@ -103,8 +103,12 @@
   ],
   "cnbc": [
    {
-    "title": "Nasdaq roars back by 6% as Nvidia soars on Huang’s return, S&P 500 rebounds 4%: Live updates",
-    "date": "2026-11-23T19:06:09+00:00"
+    "title": "Nasdaq roars back by 6% as Nvidia soars on Huang’s return, S&P 500 rebounds 5%: Live updates",
+    "date": "2026-11-23T19:14:46+00:00"
+   },
+   {
+    "title": "DNI Jay Clayton tapped as acting national cyber director",
+    "date": "2026-11-23T19:12:49+00:00"
    },
    {
     "title": "An options strategy for making even more of your money back in Nvidia",
@@ -145,16 +149,16 @@
    {
     "title": "Here's where we stand on AMD shares after Jensen Huang's return to Nvidia",
     "date": "2026-11-23T17:24:41+00:00"
-   },
-   {
-    "title": "Jensen Huang reinstated as Nvidia CEO. Stock skyrockets 33%",
-    "date": "2026-11-23T17:23:04+00:00"
    }
   ],
   "fox": [
    {
     "title": "Americans don’t have to choose between our AI future and ripping off copyright owners",
     "date": "2026-11-25T10:00:00+00:00"
+   },
+   {
+    "title": "Hero riverboat captain describes harrowing rescue after tanker collision in New Orleans",
+    "date": "2026-11-23T19:08:49+00:00"
    },
    {
     "title": "Billy Bob Thornton says he’s a holiday ‘purist’ as he brings back ‘traditional’ Thanksgiving at home",
@@ -195,10 +199,6 @@
    {
     "title": "Trump admin announces sweeping measure to cut Iran’s ‘last financial lifeline’",
     "date": "2026-11-23T18:08:49+00:00"
-   },
-   {
-    "title": "Army postpones detonation of bomb-making materials at Iowa ammunition plant second time",
-    "date": "2026-11-23T18:05:55+00:00"
    }
   ]
  }
