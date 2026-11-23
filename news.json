@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T10:14:55.772787+00:00",
+ "updated": "2026-11-23T10:19:56.048534+00:00",
  "feeds": {
   "ynet": [
    {
@@ -103,20 +103,24 @@
   ],
   "cnbc": [
    {
+    "title": "Anthropic, Nvidia shares rise in premarket trading after major tech selloff",
+    "date": "2026-11-23T10:17:20+00:00"
+   },
+   {
+    "title": "Treasury yields jump as stock futures rebound, investors await New York Fed President Williams speech",
+    "date": "2026-11-23T10:15:19+00:00"
+   },
+   {
+    "title": "Zelenskyy praises ‘exemplary’ drone operation that sank Russian warship in a Libyan port",
+    "date": "2026-11-23T10:14:52+00:00"
+   },
+   {
     "title": "Stuck: How a frozen housing market is hitting buyers, sellers and the economy",
     "date": "2026-11-23T10:00:01+00:00"
    },
    {
     "title": "French biotech rejects short seller’s cancer-risk claims after shares plunge 17%",
     "date": "2026-11-23T09:45:42+00:00"
-   },
-   {
-    "title": "Anthropic, Nvidia shares rise in premarket trading after major tech selloff",
-    "date": "2026-11-23T09:40:28+00:00"
-   },
-   {
-    "title": "Nasdaq 100 futures rebound sharply to rise 3%, kick-starting shortened week after tech rout: Live updates",
-    "date": "2026-11-23T09:35:07+00:00"
    },
    {
     "title": "Forget Anthropic: In Europe, the IPO hype is about a blue lagoon",
@@ -145,10 +149,6 @@
    {
     "title": "Employees at Eric Trump-backed robot startup lose health benefits as company's cash crunch deepens",
     "date": "2026-11-22T18:55:05+00:00"
-   },
-   {
-    "title": "Director of National Intelligence Jay Clayton warns Americans of 'bumps in the road' after tech outages",
-    "date": "2026-11-22T17:14:03+00:00"
    }
   ],
   "fox": [
