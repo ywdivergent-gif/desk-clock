@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T18:20:05.156808+00:00",
+ "updated": "2026-11-23T18:25:05.328326+00:00",
  "feeds": {
   "ynet": [
    {
@@ -103,16 +103,20 @@
   ],
   "cnbc": [
    {
+    "title": "Nasdaq roars back by 7% as Nvidia soars on Huang’s return, S&P 500 rebounds 5%: Live updates",
+    "date": "2026-11-23T18:22:22+00:00"
+   },
+   {
+    "title": "Trump administration proposes rule that could curb ESG investing in 401(k)s",
+    "date": "2026-11-23T18:14:18+00:00"
+   },
+   {
     "title": "Stocks making the biggest moves Monday: Boeing, Nvidia, CoreWeave, Newmont & more",
     "date": "2026-11-23T18:05:00+00:00"
    },
    {
     "title": "‘This establishes a bottom’: Jensen Huang’s return seen as likely to stop market sell-off, for now",
     "date": "2026-11-23T18:00:47+00:00"
-   },
-   {
-    "title": "Nasdaq roars back by 6% as Nvidia soars on Huang’s return, S&P 500 rebounds 4%: Live updates",
-    "date": "2026-11-23T17:59:55+00:00"
    },
    {
     "title": "CrowdStrike to buy Zscaler in $44 billion deal as AI supercharges cyberattacks",
@@ -145,16 +149,20 @@
    {
     "title": "Stop agonizing over the ‘right’ choice—to avoid regret, save time and reduce stress, take these 3 steps",
     "date": "2026-11-23T16:25:01+00:00"
-   },
-   {
-    "title": "Tech stocks rally after Nvidia board approves Jensen Huang's return as CEO",
-    "date": "2026-11-23T15:36:12+00:00"
    }
   ],
   "fox": [
    {
     "title": "Americans don’t have to choose between our AI future and ripping off copyright owners",
     "date": "2026-11-25T10:00:00+00:00"
+   },
+   {
+    "title": "Knicks' Jalen Brunson fires back at WWE star's critics amid 'overrated' label, talks wrestling fandom",
+    "date": "2026-11-23T18:16:19+00:00"
+   },
+   {
+    "title": "Proposed ban on live lobster boiling gets chefs, restaurateurs worked up",
+    "date": "2026-11-23T18:16:13+00:00"
    },
    {
     "title": "Bear swipes hunter's deer before he gets a chance to climb out of his tree stand to retrieve it",
@@ -191,14 +199,6 @@
    {
     "title": "ALEXA MOUTEVELIS: How Virginia school district shames kids to mark Thanksgiving",
     "date": "2026-11-23T17:17:08+00:00"
-   },
-   {
-    "title": "Louisiana man accused of random nature trail murder, killing coworker with crossbow days later",
-    "date": "2026-11-23T17:08:59+00:00"
-   },
-   {
-    "title": "MICHAEL RUIZ: 911 call reveals chase before disputed 'stand your ground' shooting, ‘He's trying to run’",
-    "date": "2026-11-23T17:01:02+00:00"
    }
   ]
  }
