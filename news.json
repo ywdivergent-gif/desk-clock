@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T13:19:56.391491+00:00",
+ "updated": "2026-11-23T13:24:56.171167+00:00",
  "feeds": {
   "ynet": [
    {
@@ -103,6 +103,10 @@
   ],
   "cnbc": [
    {
+    "title": "Here are Monday's biggest analyst calls: Anthropic, SpaceX, Apple, Nvidia, Dollar General, Evercore ISI & more",
+    "date": "2026-11-23T13:19:45+00:00"
+   },
+   {
     "title": "Treasury yields jump as stock futures rebound, investors await New York Fed President Williams speech",
     "date": "2026-11-23T13:18:14+00:00"
    },
@@ -145,16 +149,16 @@
    {
     "title": "Tokenized stocks face pushback as NYSE, Nasdaq pivot for a new market",
     "date": "2026-11-23T12:05:06+00:00"
-   },
-   {
-    "title": "SpaceX shares can rally more than 60% from current levels, says Jefferies",
-    "date": "2026-11-23T12:02:24+00:00"
    }
   ],
   "fox": [
    {
     "title": "Americans don’t have to choose between our AI future and ripping off copyright owners",
     "date": "2026-11-25T10:00:00+00:00"
+   },
+   {
+    "title": "Giants safety had Vegas on the mind as Jaguars wide receiver's would-be touchdown catch was ruled incomplete",
+    "date": "2026-11-23T13:14:25+00:00"
    },
    {
     "title": "Mystery of unknown skeleton buried at Westminster Abbey may finally be solved after 150 years",
@@ -195,10 +199,6 @@
    {
     "title": "NFL Week 11 Sunday takeaways: Brock Purdy is a game manager and an MVP candidate, Aaron Rodgers is cooked",
     "date": "2026-11-23T11:33:58+00:00"
-   },
-   {
-    "title": "GOP senator 'not likely' to mount presidential bid, but continues leaving door open to possibility",
-    "date": "2026-11-23T11:31:13+00:00"
    }
   ]
  }
