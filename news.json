@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T14:50:05.473828+00:00",
+ "updated": "2026-11-23T14:55:06.016334+00:00",
  "feeds": {
   "ynet": [
    {
@@ -103,8 +103,12 @@
   ],
   "cnbc": [
    {
+    "title": "CoreWeave, Oracle soar as Huang’s return relieves Nvidia AI financing fears",
+    "date": "2026-11-23T14:54:31+00:00"
+   },
+   {
     "title": "Nvidia skyrockets 30% on Huang’s return as CEO, recovering nearly all the losses since he disclosed affair",
-    "date": "2026-11-23T14:47:45+00:00"
+    "date": "2026-11-23T14:54:18+00:00"
    },
    {
     "title": "CrowdStrike to buy Zscaler in $44 billion deal as AI supercharges cyberattacks",
@@ -117,10 +121,6 @@
    {
     "title": "Retail investors sold to end last week, ending a long run of buying the dip",
     "date": "2026-11-23T14:26:49+00:00"
-   },
-   {
-    "title": "Stocks making the biggest moves Monday: Zscaler, Truist, Nvidia, LuxExperience & more",
-    "date": "2026-11-23T14:25:19+00:00"
    },
    {
     "title": "Jim Cramer's top 10 things to watch in the stock market Monday",
@@ -155,6 +155,10 @@
    {
     "title": "Americans don’t have to choose between our AI future and ripping off copyright owners",
     "date": "2026-11-25T10:00:00+00:00"
+   },
+   {
+    "title": "Democrats unveil 2028 debate rules with new dark money restrictions for presidential hopefuls",
+    "date": "2026-11-23T14:48:07+00:00"
    },
    {
     "title": "49ers star Nick Bosa gets booed by fans in Mexico after making harmless comments about cheering",
@@ -195,10 +199,6 @@
    {
     "title": "EXCLUSIVE: NIH funded foreign labs with troubling safety lapses, including deadly bat virus experiment",
     "date": "2026-11-23T13:00:07+00:00"
-   },
-   {
-    "title": "Google AI smartwatch could flag high blood pressure",
-    "date": "2026-11-23T12:37:32+00:00"
    }
   ]
  }
