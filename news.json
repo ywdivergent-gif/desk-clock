@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T03:39:47.148180+00:00",
+ "updated": "2026-11-23T03:44:47.025921+00:00",
  "feeds": {
   "ynet": [
    {
@@ -103,6 +103,10 @@
   ],
   "cnbc": [
    {
+    "title": "Yemen's Houthis claim attacks on Saudi oil refinery as Trump warns of new strikes next year",
+    "date": "2026-11-23T03:40:39+00:00"
+   },
+   {
     "title": "S&P 500 futures rebound sharply to rise 2%, kick-starting shortened week after tech rout: Live updates",
     "date": "2026-11-23T01:50:10+00:00"
    },
@@ -145,10 +149,6 @@
    {
     "title": "Pizza chains are under pressure. GLP-1 use is only one part of the problem",
     "date": "2026-11-22T13:00:01+00:00"
-   },
-   {
-    "title": "As prediction markets grow, so do the number of short sellers counting on DraftKings to fall",
-    "date": "2026-11-22T12:15:24+00:00"
    }
   ],
   "fox": [
