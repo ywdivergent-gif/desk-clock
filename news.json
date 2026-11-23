@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T15:55:05.300986+00:00",
+ "updated": "2026-11-23T16:00:05.460935+00:00",
  "feeds": {
   "ynet": [
    {
@@ -104,7 +104,7 @@
   "cnbc": [
    {
     "title": "Nasdaq roars back by 7% as Nvidia soars on Huang’s return, S&P 500 rebounds 5%: Live updates",
-    "date": "2026-11-23T15:52:47+00:00"
+    "date": "2026-11-23T15:59:45+00:00"
    },
    {
     "title": "Trump tells CNBC 'I convinced’ Nvidia board to reinstate Jensen Huang",
@@ -157,6 +157,10 @@
     "date": "2026-11-25T10:00:00+00:00"
    },
    {
+    "title": "Shopping With Friends: Keurig's new Alta coffee maker and four games ideal for your next holiday party",
+    "date": "2026-11-23T15:50:03+00:00"
+   },
+   {
     "title": "Taylor Swift ISIS concert plot foiled with Israel’s help, ex-Mossad chief says",
     "date": "2026-11-23T15:44:09+00:00"
    },
@@ -195,10 +199,6 @@
    {
     "title": "Trail camera captures rare mountain lion roaming through Buffalo County, Wisconsin wilderness",
     "date": "2026-11-23T14:01:04+00:00"
-   },
-   {
-    "title": "ADAM KRAUT: The Supreme Court must defend the Second Amendment in key case",
-    "date": "2026-11-23T14:00:43+00:00"
    }
   ]
  }
