@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T20:05:14.431547+00:00",
+ "updated": "2026-11-23T20:10:14.237237+00:00",
  "feeds": {
   "ynet": [
    {
@@ -103,6 +103,10 @@
   ],
   "cnbc": [
    {
+    "title": "Nvidia breathes new life into the AI trade. Plus, Qnity inks a smart deal to get stronger",
+    "date": "2026-11-23T20:03:25+00:00"
+   },
+   {
     "title": "Average 401(k), IRA balances fall as more workers raid their accounts, Fidelity says",
     "date": "2026-11-23T19:54:35+00:00"
    },
@@ -139,22 +143,34 @@
     "date": "2026-11-23T18:52:46+00:00"
    },
    {
+    "title": "Jensen Huang returns to Nvidia: 'I'm going to be a better CEO the second time around'",
+    "date": "2026-11-23T18:48:27+00:00"
+   },
+   {
     "title": "Morgan Stanley says this is a big buying opportunity: ‘We’re not going to miss it’",
     "date": "2026-11-23T18:42:36+00:00"
-   },
-   {
-    "title": "Wall Street analysts scramble to upgrade Nvidia’s stock after Huang’s return",
-    "date": "2026-11-23T18:11:14+00:00"
-   },
-   {
-    "title": "Stocks making the biggest moves Monday: Boeing, Nvidia, CoreWeave, Newmont & more",
-    "date": "2026-11-23T18:05:00+00:00"
    }
   ],
   "fox": [
    {
     "title": "Americans don’t have to choose between our AI future and ripping off copyright owners",
     "date": "2026-11-25T10:00:00+00:00"
+   },
+   {
+    "title": "Bet365 Bonus Code: Bet $10, Get $200 on Monday Night Football, Commanders vs Bengals",
+    "date": "2026-11-23T20:02:26+00:00"
+   },
+   {
+    "title": "49ers release Brandon Aiyuk after months-long feud and social media war: reports",
+    "date": "2026-11-23T20:02:05+00:00"
+   },
+   {
+    "title": "FanDuel Promo Code: Bet $5, Get $200 This Week Starting With Commanders vs Bengals on Monday Night Football",
+    "date": "2026-11-23T20:01:46+00:00"
+   },
+   {
+    "title": "BetMGM Bonus Code FOXNEWS: $1500 in First Bet Cover Ahead of Monday Night Football, Commanders-Bengals",
+    "date": "2026-11-23T20:01:06+00:00"
    },
    {
     "title": "Fanatics Sportsbook Promo Code FOXNEWS: Claim up to $1000 in FanCash for Commanders vs Bengals",
@@ -183,22 +199,6 @@
    {
     "title": "Who owns your body parts after surgery? Doctors uncover the complicated rules",
     "date": "2026-11-23T19:29:38+00:00"
-   },
-   {
-    "title": "Captain who abandoned passengers on sinking Costa Concordia cruise ship released early from prison",
-    "date": "2026-11-23T19:18:06+00:00"
-   },
-   {
-    "title": "Jemele Hill calls planned statue of 'slave-owner' George Washington 'diabolical'",
-    "date": "2026-11-23T19:13:56+00:00"
-   },
-   {
-    "title": "Trump accused of 'socialism, communism' after helping scandal-plagued Nvidia CEO reclaim top job",
-    "date": "2026-11-23T19:11:29+00:00"
-   },
-   {
-    "title": "Trump defends Jensen Huang's credibility, Nvidia's future after board reinstated CEO, says 'sex sells'",
-    "date": "2026-11-23T19:10:29+00:00"
    }
   ]
  }
