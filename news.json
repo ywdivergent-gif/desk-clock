@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T20:15:14.172434+00:00",
+ "updated": "2026-11-23T20:20:14.014032+00:00",
  "feeds": {
   "ynet": [
    {
@@ -103,16 +103,16 @@
   ],
   "cnbc": [
    {
+    "title": "Nasdaq roars back by 6% as Nvidia soars on Huang’s return, S&P 500 rebounds 4%: Live updates",
+    "date": "2026-11-23T20:19:59+00:00"
+   },
+   {
     "title": "Nvidia breathes new life into the AI trade. Plus, Qnity inks a smart deal to get stronger",
     "date": "2026-11-23T20:03:25+00:00"
    },
    {
     "title": "Average 401(k), IRA balances fall as more workers raid their accounts, Fidelity says",
     "date": "2026-11-23T19:54:35+00:00"
-   },
-   {
-    "title": "Nasdaq roars back by 6% as Nvidia soars on Huang’s return, S&P 500 rebounds 4%: Live updates",
-    "date": "2026-11-23T19:52:44+00:00"
    },
    {
     "title": "Nvidia surge: What investors should do with the stock and the AI trade now",
@@ -157,6 +157,10 @@
     "date": "2026-11-25T10:00:00+00:00"
    },
    {
+    "title": "College basketball gets a new No. 1 as three teams fall out of the AP top five in a single week",
+    "date": "2026-11-23T20:15:09+00:00"
+   },
+   {
     "title": "Best Sportsbook Promos for Monday Night Football: Claim $2000+ on Commanders vs Bengals",
     "date": "2026-11-23T20:06:08+00:00"
    },
@@ -195,10 +199,6 @@
    {
     "title": "Rush hour road rage suspect’s bail revoked as slain utility worker’s supporters shout at accused murderer",
     "date": "2026-11-23T19:51:35+00:00"
-   },
-   {
-    "title": "Use Underdog Promo Code FOXNEWS: Get $50 When You Trade $10 on Commanders vs Bengals on MNF",
-    "date": "2026-11-23T19:51:18+00:00"
    }
   ]
  }
