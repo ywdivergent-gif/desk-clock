@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T23:05:13.073451+00:00",
+ "updated": "2026-11-23T23:10:12.888455+00:00",
  "feeds": {
   "ynet": [
    {
@@ -103,6 +103,10 @@
   ],
   "cnbc": [
    {
+    "title": "Trump sealed deal for Nvidia to rehire Jensen Huang as CEO",
+    "date": "2026-11-23T23:07:31+00:00"
+   },
+   {
     "title": "DNI Jay Clayton tapped as acting national cyber director",
     "date": "2026-11-23T23:02:18+00:00"
    },
@@ -145,10 +149,6 @@
    {
     "title": "Fed's John Williams indicates higher interest rates likely 'over time' to address inflation",
     "date": "2026-11-23T21:02:17+00:00"
-   },
-   {
-    "title": "Peterson: Here’s what Bessent’s about-face on Jensen Huang reveals about Trump and China",
-    "date": "2026-11-23T21:00:59+00:00"
    }
   ],
   "fox": [
