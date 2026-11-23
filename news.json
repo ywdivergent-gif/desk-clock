@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T05:04:46.669105+00:00",
+ "updated": "2026-11-23T05:09:47.141956+00:00",
  "feeds": {
   "ynet": [
    {
@@ -15,7 +15,7 @@
     "date": "2026-11-23T03:11:27+00:00"
    },
    {
-    "title": "המרוץ לביטול חוקי ההפיכה המשטרית",
+    "title": "המרוץ לביטול חוקי המהפכה המשפטית",
     "date": "2026-11-23T03:00:00+00:00"
    },
    {
@@ -103,6 +103,10 @@
   ],
   "cnbc": [
    {
+    "title": "U.S. probes Megaspeed, Alice Huang as new figure emerges in Nvidia chip case",
+    "date": "2026-11-23T05:08:03+00:00"
+   },
+   {
     "title": "Tata Steel to buy $1.67 billion stake in India’s largest steel pipe maker; shares plunge nearly 5%",
     "date": "2026-11-23T04:26:49+00:00"
    },
@@ -145,10 +149,6 @@
    {
     "title": "26-year-old Google worker earns $323,000 a year—but lives on less than minimum wage",
     "date": "2026-11-22T14:00:01+00:00"
-   },
-   {
-    "title": "Pizza chains are under pressure. GLP-1 use is only one part of the problem",
-    "date": "2026-11-22T13:00:01+00:00"
    }
   ],
   "fox": [
