@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T16:10:05.593166+00:00",
+ "updated": "2026-11-23T16:15:05.436586+00:00",
  "feeds": {
   "ynet": [
    {
@@ -103,16 +103,20 @@
   ],
   "cnbc": [
    {
+    "title": "Nasdaq roars back by 7% as Nvidia soars on Huang’s return, S&P 500 rebounds 5%: Live updates",
+    "date": "2026-11-23T16:13:34+00:00"
+   },
+   {
+    "title": "Trump tells CNBC ‘I made the deal’ to reinstate Nvidia’s Jensen Huang",
+    "date": "2026-11-23T16:10:59+00:00"
+   },
+   {
     "title": "Jensen Huang reinstated as Nvidia CEO. Stock skyrockets 33%",
     "date": "2026-11-23T16:08:10+00:00"
    },
    {
-    "title": "Nasdaq roars back by 7% as Nvidia soars on Huang’s return, S&P 500 rebounds 5%: Live updates",
-    "date": "2026-11-23T16:01:18+00:00"
-   },
-   {
-    "title": "Trump tells CNBC 'I convinced’ Nvidia board to reinstate Jensen Huang",
-    "date": "2026-11-23T15:48:01+00:00"
+    "title": "Tech stocks rally after Nvidia board approves Jensen Huang's return as CEO",
+    "date": "2026-11-23T15:36:12+00:00"
    },
    {
     "title": "Tokenized stocks face pushback as NYSE, Nasdaq pivot for a new market",
@@ -131,6 +135,10 @@
     "date": "2026-11-23T15:18:36+00:00"
    },
    {
+    "title": "CoreWeave, Oracle soar as Huang’s return relieves Nvidia AI financing fears",
+    "date": "2026-11-23T15:03:21+00:00"
+   },
+   {
     "title": "CrowdStrike to buy Zscaler in $44 billion deal as AI supercharges cyberattacks",
     "date": "2026-11-23T14:38:45+00:00"
    },
@@ -141,14 +149,6 @@
    {
     "title": "Retail investors sold to end last week, ending a long run of buying the dip",
     "date": "2026-11-23T14:26:49+00:00"
-   },
-   {
-    "title": "Jim Cramer's top 10 things to watch in the stock market Monday",
-    "date": "2026-11-23T14:17:05+00:00"
-   },
-   {
-    "title": "Trump hosts crypto gala as his meme coin falls below $1",
-    "date": "2026-11-23T14:15:42+00:00"
    }
   ],
   "fox": [
