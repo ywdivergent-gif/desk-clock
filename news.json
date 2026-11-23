@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T19:30:05.290904+00:00",
+ "updated": "2026-11-23T19:35:05.992322+00:00",
  "feeds": {
   "ynet": [
    {
@@ -103,6 +103,10 @@
   ],
   "cnbc": [
    {
+    "title": "Amazon to acquire AI startup Decart's chip software, hire founders",
+    "date": "2026-11-23T19:34:38+00:00"
+   },
+   {
     "title": "Tech stocks rally after Nvidia board approves Jensen Huang's return as CEO",
     "date": "2026-11-23T19:19:08+00:00"
    },
@@ -125,10 +129,6 @@
    {
     "title": "Morgan Stanley says this is a big buying opportunity: ‘We’re not going to miss it’",
     "date": "2026-11-23T18:42:36+00:00"
-   },
-   {
-    "title": "Amazon to acquire AI startup Decart's chip software, hire founders",
-    "date": "2026-11-23T18:23:55+00:00"
    },
    {
     "title": "Trump administration proposes rule that could curb ESG investing in 401(k)s",
@@ -155,6 +155,10 @@
    {
     "title": "Americans don’t have to choose between our AI future and ripping off copyright owners",
     "date": "2026-11-25T10:00:00+00:00"
+   },
+   {
+    "title": "Who owns your body parts after surgery? Doctors uncover the complicated rules",
+    "date": "2026-11-23T19:29:38+00:00"
    },
    {
     "title": "Captain who abandoned passengers on sinking Costa Concordia cruise ship released early from prison",
@@ -195,10 +199,6 @@
    {
     "title": "Jeffries faces online fury over cryptic answer when asked if Dems would risk gov't shutdown: 'Political games'",
     "date": "2026-11-23T18:30:31+00:00"
-   },
-   {
-    "title": "Slain firefighter's mother pleads with Trump to intervene after Newsom stops killer's death sentence",
-    "date": "2026-11-23T18:23:33+00:00"
    }
   ]
  }
