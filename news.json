@@ -1,7 +1,11 @@
 {
- "updated": "2026-11-23T21:25:12.810592+00:00",
+ "updated": "2026-11-23T21:30:13.222232+00:00",
  "feeds": {
   "ynet": [
+   {
+    "title": "החשד בוושינגטון, המחלוקת בצמרת הביטחונית: המכשולים של נתניהו בדרך לתקיפה",
+    "date": "2026-11-23T21:22:13+00:00"
+   },
    {
     "title": "אירוע חריג במשטרה: מערכות טכנולוגיות חשובות הושבתו מחשש לדליפת מידע",
     "date": "2026-11-23T21:19:06+00:00"
@@ -45,10 +49,6 @@
    {
     "title": "\"אתה תישא בתוצאות\": האזהרה של בנט לנתניהו, שמתכוון להישאר יו\"ר הליכוד",
     "date": "2026-11-23T15:30:32+00:00"
-   },
-   {
-    "title": "בשבוע הבא: הכנסת תבחר את מבקר המדינה",
-    "date": "2026-11-23T15:23:51+00:00"
    }
   ],
   "ynetnews": [
@@ -103,6 +103,10 @@
   ],
   "cnbc": [
    {
+    "title": "Stocks making the biggest moves Monday: Boeing, Nvidia, CoreWeave, Newmont & more",
+    "date": "2026-11-23T21:25:56+00:00"
+   },
+   {
     "title": "Tech stocks see monster rally after Jensen Huang returns as Nvidia CEO",
     "date": "2026-11-23T21:22:13+00:00"
    },
@@ -145,10 +149,6 @@
    {
     "title": "DNI Jay Clayton tapped as acting national cyber director",
     "date": "2026-11-23T19:12:49+00:00"
-   },
-   {
-    "title": "ESPN, NFL to show Super Bowl 61 in Imax theaters",
-    "date": "2026-11-23T19:08:37+00:00"
    }
   ],
   "fox": [
