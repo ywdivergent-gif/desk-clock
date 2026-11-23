@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T23:40:13.107227+00:00",
+ "updated": "2026-11-23T23:45:12.985184+00:00",
  "feeds": {
   "ynet": [
    {
@@ -104,7 +104,7 @@
   "cnbc": [
    {
     "title": "Trump sealed deal for Nvidia to rehire Jensen Huang as CEO",
-    "date": "2026-11-23T23:15:44+00:00"
+    "date": "2026-11-23T23:42:17+00:00"
    },
    {
     "title": "Jim Cramer sees more upside for Nvidia stock with Jensen Huang back as CEO",
@@ -157,6 +157,10 @@
     "date": "2026-11-25T10:00:00+00:00"
    },
    {
+    "title": "NATO warns Putin could strike before European army responds, points to US as military model",
+    "date": "2026-11-23T23:37:35+00:00"
+   },
+   {
     "title": "Florida State makes its move with Glenn Schumann, but nostalgia alone won’t pay for a championship roster",
     "date": "2026-11-23T23:35:20+00:00"
    },
@@ -195,10 +199,6 @@
    {
     "title": "Bessent gave Iran weeks before it had ‘nothing left to trade.’ New sanctions expose what survived",
     "date": "2026-11-23T21:12:57+00:00"
-   },
-   {
-    "title": "Russia warns of 'preventive nuclear attack' as Medvedev claims Ukraine, NATO crossed line",
-    "date": "2026-11-23T21:11:06+00:00"
    }
   ]
  }
