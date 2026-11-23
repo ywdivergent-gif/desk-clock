@@ -1,14 +1,26 @@
 {
- "updated": "2026-11-23T22:05:12.939847+00:00",
+ "updated": "2026-11-23T22:10:13.297167+00:00",
  "feeds": {
   "ynet": [
    {
-    "title": "החשד בוושינגטון, המחלוקת בצמרת הביטחונית: המכשולים של נתניהו בדרך לתקיפה",
-    "date": "2026-11-23T21:22:13+00:00"
+    "title": "אירוע חריג במשטרה: מערכות טכנולוגיות חשובות הושבתו מחשש לדליפת מידע",
+    "date": "2026-11-23T22:06:38+00:00"
    },
    {
-    "title": "אירוע חריג במשטרה: מערכות טכנולוגיות חשובות הושבתו מחשש לדליפת מידע",
-    "date": "2026-11-23T21:19:06+00:00"
+    "title": "לאמץ הסדר חוקתי רזה",
+    "date": "2026-11-23T22:06:00+00:00"
+   },
+   {
+    "title": "החשד בוושינגטון, המחלוקת בצמרת הביטחונית: המכשולים של נתניהו בדרך לתקיפה",
+    "date": "2026-11-23T22:05:46+00:00"
+   },
+   {
+    "title": "די לפיגוע הדיפלומטי ביהודה ושומרון",
+    "date": "2026-11-23T22:04:00+00:00"
+   },
+   {
+    "title": "מקפלים דגלים",
+    "date": "2026-11-23T22:02:00+00:00"
    },
    {
     "title": "אחרי כשעתיים: פגישת המו\"מ בין ישר! לליכוד הסתיימה בהודעה לקונית",
@@ -37,18 +49,6 @@
    {
     "title": "בתו של אולמרט נעצרה בת\"א: \"אזוקה ומוכה, זה כאין וכאפס לעומת מה שעוברים הפלסטינים\"",
     "date": "2026-11-23T16:35:56+00:00"
-   },
-   {
-    "title": "\"צרחו, נחנקו - וירקו דם\": בהלה מ\"חומר בלתי מזוהה\" בהופעת הראפר, 12,000 פונו | תיעוד",
-    "date": "2026-11-23T15:56:47+00:00"
-   },
-   {
-    "title": "\"לעצור את דדי ברנע\": תלונה בגרמניה נגד ראש המוסד לשעבר בגלל מבצע הביפרים",
-    "date": "2026-11-23T15:33:43+00:00"
-   },
-   {
-    "title": "\"אתה תישא בתוצאות\": האזהרה של בנט לנתניהו, שמתכוון להישאר יו\"ר הליכוד",
-    "date": "2026-11-23T15:30:32+00:00"
    }
   ],
   "ynetnews": [
@@ -103,16 +103,24 @@
   ],
   "cnbc": [
    {
+    "title": "Average 401(k), IRA balances fall as more workers tap their accounts, Fidelity says",
+    "date": "2026-11-23T22:09:55+00:00"
+   },
+   {
+    "title": "What Jensen Huang’s return means for Nvidia’s Colette Kress",
+    "date": "2026-11-23T22:07:50+00:00"
+   },
+   {
+    "title": "Stocks making the biggest moves after hours: Zoom, Hewlett Packard Enterprise, Agilent & more",
+    "date": "2026-11-23T22:06:45+00:00"
+   },
+   {
     "title": "CNBC Points Pro: Should I keep or cancel my Amex Platinum Card?",
     "date": "2026-11-23T21:58:28+00:00"
    },
    {
     "title": "ESPN, NFL to show Super Bowl 61 in Imax theaters",
     "date": "2026-11-23T21:55:27+00:00"
-   },
-   {
-    "title": "Stocks making the biggest moves Monday: Boeing, Nvidia, CoreWeave, Newmont & more",
-    "date": "2026-11-23T21:43:36+00:00"
    },
    {
     "title": "Tech stocks see monster rally after Jensen Huang returns as Nvidia CEO",
@@ -141,14 +149,6 @@
    {
     "title": "Jensen Huang cheered by Nvidia employees after return, pledges to be a better CEO",
     "date": "2026-11-23T20:57:41+00:00"
-   },
-   {
-    "title": "Congress shreds Nvidia's 'outrageous' decision to bring back Huang: 'Failure of character'",
-    "date": "2026-11-23T20:22:49+00:00"
-   },
-   {
-    "title": "Nvidia breathes new life into the AI trade. Plus, Qnity inks a smart deal to get stronger",
-    "date": "2026-11-23T20:03:25+00:00"
    }
   ],
   "fox": [
