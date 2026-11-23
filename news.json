@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T23:00:12.874286+00:00",
+ "updated": "2026-11-23T23:05:13.073451+00:00",
  "feeds": {
   "ynet": [
    {
@@ -103,6 +103,10 @@
   ],
   "cnbc": [
    {
+    "title": "DNI Jay Clayton tapped as acting national cyber director",
+    "date": "2026-11-23T23:02:18+00:00"
+   },
+   {
     "title": "Stocks making the biggest moves Monday: Zoom, Hewlett Packard Enterprise, Agilent & more",
     "date": "2026-11-23T22:46:25+00:00"
    },
@@ -145,10 +149,6 @@
    {
     "title": "Peterson: Here’s what Bessent’s about-face on Jensen Huang reveals about Trump and China",
     "date": "2026-11-23T21:00:59+00:00"
-   },
-   {
-    "title": "Investors are missing the bigger picture in CrowdStrike's deal to buy Zscaler",
-    "date": "2026-11-23T20:26:39+00:00"
    }
   ],
   "fox": [
