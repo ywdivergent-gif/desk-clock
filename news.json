@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T15:45:05.346350+00:00",
+ "updated": "2026-11-23T15:50:05.425233+00:00",
  "feeds": {
   "ynet": [
    {
@@ -103,12 +103,12 @@
   ],
   "cnbc": [
    {
-    "title": "Nasdaq roars back by 7% as Nvidia soars on Huang’s return, S&P 500 rebounds 5%: Live updates",
-    "date": "2026-11-23T15:43:15+00:00"
+    "title": "Trump tells CNBC 'I convinced’ Nvidia board to reinstate Jensen Huang",
+    "date": "2026-11-23T15:48:01+00:00"
    },
    {
-    "title": "Trump tells CNBC 'I convinced’ Nvidia board to reinstate Jensen Huang",
-    "date": "2026-11-23T15:41:42+00:00"
+    "title": "Nasdaq roars back by 7% as Nvidia soars on Huang’s return, S&P 500 rebounds 5%: Live updates",
+    "date": "2026-11-23T15:43:15+00:00"
    },
    {
     "title": "Tokenized stocks face pushback as NYSE, Nasdaq pivot for a new market",
@@ -157,6 +157,10 @@
     "date": "2026-11-25T10:00:00+00:00"
    },
    {
+    "title": "Taylor Swift ISIS concert plot foiled with Israel’s help, ex-Mossad chief says",
+    "date": "2026-11-23T15:44:09+00:00"
+   },
+   {
     "title": "Budget airline known for ultra-low fares adds first-class seats with no recline option",
     "date": "2026-11-23T15:25:58+00:00"
    },
@@ -195,10 +199,6 @@
    {
     "title": "ADAM KRAUT: The Supreme Court must defend the Second Amendment in key case",
     "date": "2026-11-23T14:00:43+00:00"
-   },
-   {
-    "title": "California surfer somehow escapes unscathed after massive great white shark shreds his board",
-    "date": "2026-11-23T13:29:49+00:00"
    }
   ]
  }
