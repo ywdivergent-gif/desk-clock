@@ -1,9 +1,13 @@
 {
- "updated": "2026-11-23T12:39:55.924734+00:00",
+ "updated": "2026-11-23T12:44:56.134128+00:00",
  "feeds": {
   "ynet": [
    {
-    "title": "גולן עונה לבנט: מי שמשאיר את נתניהו בשלטון מסכן את הביטחון",
+    "title": "באיראן מכחישים את \"שיירת פריצת המצור\": \"פרשנות שגויה של דיווחים\"",
+    "date": "2026-11-23T12:42:18+00:00"
+   },
+   {
+    "title": "ליברמן: אם נתניהו יורה לתקוף עצמאית באיראן זו פקודה בלתי חוקית בעליל",
     "date": "2026-11-23T12:33:58+00:00"
    },
    {
@@ -45,10 +49,6 @@
    {
     "title": "פרץ לבית וגנב תכשיטים, השכנה תפסה על חם: \"מה אתה עושה?\" | תיעוד",
     "date": "2026-11-23T08:44:45+00:00"
-   },
-   {
-    "title": "חשד להתעללות בתינוקת בת חודשיים בבאר יעקב: ההורים נעצרו",
-    "date": "2026-11-23T08:30:08+00:00"
    }
   ],
   "ynetnews": [
@@ -103,16 +103,24 @@
   ],
   "cnbc": [
    {
+    "title": "Stocks making the biggest moves premarket: Zscaler, Truist, Nvidia, LuxExperience & more",
+    "date": "2026-11-23T12:43:35+00:00"
+   },
+   {
     "title": "Arm's Haas extends contract to lead chip firm through 2033 amid Nvidia top job chatter",
-    "date": "2026-11-23T12:37:38+00:00"
+    "date": "2026-11-23T12:41:48+00:00"
+   },
+   {
+    "title": "SpaceX sued by Oregon and Virginia over AI deepfake porn, Grok safety claims",
+    "date": "2026-11-23T12:40:37+00:00"
+   },
+   {
+    "title": "CrowdStrike bets on network security with $43.9 billion Zscaler deal",
+    "date": "2026-11-23T12:40:01+00:00"
    },
    {
     "title": "Anthropic, Nvidia shares rise in premarket trading after major tech sell-off",
     "date": "2026-11-23T12:19:59+00:00"
-   },
-   {
-    "title": "Stocks making the biggest moves premarket: Zscaler, Truist, Nvidia, LuxExperience & more",
-    "date": "2026-11-23T12:19:19+00:00"
    },
    {
     "title": "Tokenized stocks face pushback as NYSE, Nasdaq pivot for a new market",
@@ -131,10 +139,6 @@
     "date": "2026-11-23T11:30:37+00:00"
    },
    {
-    "title": "CrowdStrike bets on network security with $43.9 billion Zscaler deal",
-    "date": "2026-11-23T11:23:40+00:00"
-   },
-   {
     "title": "Treasury yields jump as stock futures rebound, investors await New York Fed President Williams speech",
     "date": "2026-11-23T10:15:19+00:00"
    },
@@ -145,16 +149,20 @@
    {
     "title": "Stuck: How a frozen housing market is hitting buyers, sellers and the economy",
     "date": "2026-11-23T10:00:01+00:00"
-   },
-   {
-    "title": "French biotech rejects short seller’s cancer-risk claims after shares plunge 17%",
-    "date": "2026-11-23T09:45:42+00:00"
    }
   ],
   "fox": [
    {
     "title": "Americans don’t have to choose between our AI future and ripping off copyright owners",
     "date": "2026-11-25T10:00:00+00:00"
+   },
+   {
+    "title": "Google AI smartwatch could flag high blood pressure",
+    "date": "2026-11-23T12:37:32+00:00"
+   },
+   {
+    "title": "Zelenskyy hails ‘exemplary Ukrainian operation’ sinking Russian warship off Libya",
+    "date": "2026-11-23T12:35:40+00:00"
    },
    {
     "title": "Trump to confront Newsom over plan to spare 548 death row inmates and more top headlines",
@@ -191,14 +199,6 @@
    {
     "title": "FBI warns AI hackers can breach systems in under 3 hours",
     "date": "2026-11-23T11:25:17+00:00"
-   },
-   {
-    "title": "Trump to confront Newsom over plan to spare 548 death row inmates, including notorious child killers",
-    "date": "2026-11-23T11:00:58+00:00"
-   },
-   {
-    "title": "Marilyn Monroe's 1950s stuffing recipe fetched $16,000 at auction — and holds clue to Joe DiMaggio marriage",
-    "date": "2026-11-23T11:00:20+00:00"
    }
   ]
  }
