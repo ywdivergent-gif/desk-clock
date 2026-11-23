@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T07:24:46.938441+00:00",
+ "updated": "2026-11-23T07:29:46.769078+00:00",
  "feeds": {
   "ynet": [
    {
@@ -103,6 +103,10 @@
   ],
   "cnbc": [
    {
+    "title": "Investors gives a thumbs down to Tata Steel-APL Apollo $1.67 billion deal, plunging shares",
+    "date": "2026-11-23T07:25:24+00:00"
+   },
+   {
     "title": "S&P 500 futures rebound sharply to rise 2%, kick-starting shortened week after tech rout: Live updates",
     "date": "2026-11-23T07:22:51+00:00"
    },
@@ -113,10 +117,6 @@
    {
     "title": "U.S. probes Megaspeed, Alice Huang as new figure emerges in Nvidia chip case",
     "date": "2026-11-23T05:08:03+00:00"
-   },
-   {
-    "title": "Tata Steel to buy $1.67 billion stake in India’s largest steel pipe maker; shares plunge nearly 5%",
-    "date": "2026-11-23T04:26:49+00:00"
    },
    {
     "title": "Yemen's Houthis claim attacks on Saudi oil refinery as Trump warns of new strikes next year",
