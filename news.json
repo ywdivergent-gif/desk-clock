@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T17:05:05.338972+00:00",
+ "updated": "2026-11-23T17:10:05.382699+00:00",
  "feeds": {
   "ynet": [
    {
@@ -103,6 +103,10 @@
   ],
   "cnbc": [
    {
+    "title": "Trump tells CNBC ‘I made the deal’ to reinstate Nvidia’s Jensen Huang",
+    "date": "2026-11-23T17:09:40+00:00"
+   },
+   {
     "title": "‘This establishes a bottom’: Jensen Huang’s return seen as likely to stop market sell-off, for now",
     "date": "2026-11-23T16:53:57+00:00"
    },
@@ -125,10 +129,6 @@
    {
     "title": "Stop agonizing over the ‘right’ choice—to avoid regret, save time and reduce stress, take these 3 steps",
     "date": "2026-11-23T16:25:01+00:00"
-   },
-   {
-    "title": "Trump tells CNBC ‘I made the deal’ to reinstate Nvidia’s Jensen Huang",
-    "date": "2026-11-23T16:22:38+00:00"
    },
    {
     "title": "Tech stocks rally after Nvidia board approves Jensen Huang's return as CEO",
@@ -155,6 +155,14 @@
    {
     "title": "Americans don’t have to choose between our AI future and ripping off copyright owners",
     "date": "2026-11-25T10:00:00+00:00"
+   },
+   {
+    "title": "MICHAEL RUIZ: 911 call reveals chase before disputed 'stand your ground' shooting, ‘He's trying to run’",
+    "date": "2026-11-23T17:01:02+00:00"
+   },
+   {
+    "title": "'Platoon' star Tom Berenger disses Hollywood as a 'company town,' praises Florida life",
+    "date": "2026-11-23T17:00:19+00:00"
    },
    {
     "title": "Bengals Joe Burrow is chasing history, an MVP and a Super Bowl on Monday Night Football",
@@ -191,14 +199,6 @@
    {
     "title": "Russell Brand's wife vows to 'honor' prison rules after comedian's 'not guilty' message sparks investigation",
     "date": "2026-11-23T15:55:55+00:00"
-   },
-   {
-    "title": "Shopping With Friends: Keurig's new Alta coffee maker and four games ideal for your next holiday party",
-    "date": "2026-11-23T15:50:03+00:00"
-   },
-   {
-    "title": "Taylor Swift ISIS concert plot foiled with Israel’s help, ex-Mossad chief says",
-    "date": "2026-11-23T15:44:09+00:00"
    }
   ]
  }
