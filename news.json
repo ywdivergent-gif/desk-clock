@@ -1,7 +1,11 @@
 {
- "updated": "2026-11-23T09:29:55.988348+00:00",
+ "updated": "2026-11-23T09:34:56.074535+00:00",
  "feeds": {
   "ynet": [
+   {
+    "title": "סוכל פיגוע התאבדות בהר הבית, המתכנן: עוזר רוקח בקופת חולים",
+    "date": "2026-11-23T09:27:15+00:00"
+   },
    {
     "title": "אלמנה מחתה בכנסת נגד הקמת ממשלה בתמיכת ערבים: \"לשם מה בעלי נהרג?\"",
     "date": "2026-11-23T09:20:53+00:00"
@@ -45,10 +49,6 @@
    {
     "title": "ירידה בטמפרטורות בדרך - ואולי גשם בהמשך השבוע",
     "date": "2026-11-23T03:11:27+00:00"
-   },
-   {
-    "title": "המרוץ לביטול חוקי המהפכה המשפטית",
-    "date": "2026-11-23T03:00:00+00:00"
    }
   ],
   "ynetnews": [
@@ -103,6 +103,10 @@
   ],
   "cnbc": [
    {
+    "title": "Anthropic, Nvidia shares rise in premarket trading after major tech selloff",
+    "date": "2026-11-23T09:24:21+00:00"
+   },
+   {
     "title": "Nasdaq 100 futures rebound sharply to rise 3%, kick-starting shortened week after tech rout: Live updates",
     "date": "2026-11-23T08:56:45+00:00"
    },
@@ -137,10 +141,6 @@
    {
     "title": "Employees at Eric Trump-backed robot startup lose health benefits as company's cash crunch deepens",
     "date": "2026-11-22T18:55:05+00:00"
-   },
-   {
-    "title": "I’ve studied over 200 kids—to avoid raising a people pleaser, ditch 6 parenting habits: It starts in ‘ordinary, well-intentioned moments’",
-    "date": "2026-11-22T17:33:25+00:00"
    },
    {
     "title": "Director of National Intelligence Jay Clayton warns Americans of 'bumps in the road' after tech outages",
