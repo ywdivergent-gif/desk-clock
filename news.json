@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T17:10:05.382699+00:00",
+ "updated": "2026-11-23T17:15:05.497325+00:00",
  "feeds": {
   "ynet": [
    {
@@ -104,7 +104,7 @@
   "cnbc": [
    {
     "title": "Trump tells CNBC ‘I made the deal’ to reinstate Nvidia’s Jensen Huang",
-    "date": "2026-11-23T17:09:40+00:00"
+    "date": "2026-11-23T17:11:15+00:00"
    },
    {
     "title": "‘This establishes a bottom’: Jensen Huang’s return seen as likely to stop market sell-off, for now",
@@ -157,6 +157,10 @@
     "date": "2026-11-25T10:00:00+00:00"
    },
    {
+    "title": "Louisiana man accused of random nature trail murder, killing coworker with crossbow days later",
+    "date": "2026-11-23T17:08:59+00:00"
+   },
+   {
     "title": "MICHAEL RUIZ: 911 call reveals chase before disputed 'stand your ground' shooting, ‘He's trying to run’",
     "date": "2026-11-23T17:01:02+00:00"
    },
@@ -195,10 +199,6 @@
    {
     "title": "Aggressive turkeys are harassing people across the Boston area just days before Thanksgiving",
     "date": "2026-11-23T15:57:29+00:00"
-   },
-   {
-    "title": "Russell Brand's wife vows to 'honor' prison rules after comedian's 'not guilty' message sparks investigation",
-    "date": "2026-11-23T15:55:55+00:00"
    }
   ]
  }
