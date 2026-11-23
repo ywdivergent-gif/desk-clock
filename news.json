@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T15:20:05.307584+00:00",
+ "updated": "2026-11-23T15:25:05.209180+00:00",
  "feeds": {
   "ynet": [
    {
@@ -103,8 +103,20 @@
   ],
   "cnbc": [
    {
-    "title": "Nasdaq roars back by 6% as Nvidia soars on Huang’s return, S&P 500 rebounds 4%: Live updates",
-    "date": "2026-11-23T15:19:21+00:00"
+    "title": "Trump tells CNBC he spoke to Nvidia board directly about Jensen Huang",
+    "date": "2026-11-23T15:24:54+00:00"
+   },
+   {
+    "title": "Jensen Huang reinstated as Nvidia CEO. Stock skyrockets 35%",
+    "date": "2026-11-23T15:24:42+00:00"
+   },
+   {
+    "title": "Nasdaq roars back by 7% as Nvidia soars on Huang’s return, S&P 500 rebounds 5%: Live updates",
+    "date": "2026-11-23T15:23:49+00:00"
+   },
+   {
+    "title": "Stuck: How a frozen housing market is hitting buyers, sellers and the economy",
+    "date": "2026-11-23T15:22:03+00:00"
    },
    {
     "title": "Tokenized stocks face pushback as NYSE, Nasdaq pivot for a new market",
@@ -117,14 +129,6 @@
    {
     "title": "Investors give a thumbs down to Tata Steel-APL Apollo $1.67 billion deal, plunging shares",
     "date": "2026-11-23T15:18:36+00:00"
-   },
-   {
-    "title": "Trump tells CNBC he spoke to Nvidia board directly about Jensen Huang",
-    "date": "2026-11-23T15:18:10+00:00"
-   },
-   {
-    "title": "Nvidia skyrockets 33% on Huang’s return as CEO, recovering nearly all the losses since he disclosed affair",
-    "date": "2026-11-23T15:16:33+00:00"
    },
    {
     "title": "CrowdStrike to buy Zscaler in $44 billion deal as AI supercharges cyberattacks",
@@ -145,10 +149,6 @@
    {
     "title": "Trump hosts crypto gala as his meme coin falls below $1",
     "date": "2026-11-23T14:15:42+00:00"
-   },
-   {
-    "title": "Wall Street's 'Fear Gauge' just flashed a buy sign",
-    "date": "2026-11-23T14:14:28+00:00"
    }
   ],
   "fox": [
