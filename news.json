@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T15:00:05.468661+00:00",
+ "updated": "2026-11-23T15:05:05.136448+00:00",
  "feeds": {
   "ynet": [
    {
@@ -104,7 +104,7 @@
   "cnbc": [
    {
     "title": "CoreWeave, Oracle soar as Huang’s return relieves Nvidia AI financing fears",
-    "date": "2026-11-23T14:59:32+00:00"
+    "date": "2026-11-23T15:03:21+00:00"
    },
    {
     "title": "Nvidia skyrockets 30% on Huang’s return as CEO, recovering nearly all the losses since he disclosed affair",
@@ -157,6 +157,10 @@
     "date": "2026-11-25T10:00:00+00:00"
    },
    {
+    "title": "Reddit users share frugal habits they tried once and realized were 'actually genius' saves",
+    "date": "2026-11-23T14:58:13+00:00"
+   },
+   {
     "title": "Democrats unveil 2028 debate rules with new dark money restrictions for presidential hopefuls",
     "date": "2026-11-23T14:48:07+00:00"
    },
@@ -195,10 +199,6 @@
    {
     "title": "Mystery of unknown skeleton buried at Westminster Abbey may finally be solved after 150 years",
     "date": "2026-11-23T13:00:10+00:00"
-   },
-   {
-    "title": "EXCLUSIVE: NIH funded foreign labs with troubling safety lapses, including deadly bat virus experiment",
-    "date": "2026-11-23T13:00:07+00:00"
    }
   ]
  }
