@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T17:45:05.143720+00:00",
+ "updated": "2026-11-23T17:50:05.507843+00:00",
  "feeds": {
   "ynet": [
    {
@@ -103,8 +103,12 @@
   ],
   "cnbc": [
    {
-    "title": "Stocks making the biggest moves midday: Boeing, Nvidia, CoreWeave & more",
-    "date": "2026-11-23T17:31:54+00:00"
+    "title": "Stocks making the biggest moves midday: Boeing, Nvidia, CoreWeave, Newmont & more",
+    "date": "2026-11-23T17:47:21+00:00"
+   },
+   {
+    "title": "CrowdStrike to buy Zscaler in $44 billion deal as AI supercharges cyberattacks",
+    "date": "2026-11-23T17:46:35+00:00"
    },
    {
     "title": "Here's where we stand on AMD shares after Jensen Huang's return to Nvidia",
@@ -117,10 +121,6 @@
    {
     "title": "Nasdaq roars back by 6% as Nvidia soars on Huang’s return, S&P 500 rebounds 4%: Live updates",
     "date": "2026-11-23T17:22:57+00:00"
-   },
-   {
-    "title": "CrowdStrike to buy Zscaler in $44 billion deal as AI supercharges cyberattacks",
-    "date": "2026-11-23T17:17:10+00:00"
    },
    {
     "title": "Trump tells CNBC ‘I made the deal’ to reinstate Nvidia’s Jensen Huang",
