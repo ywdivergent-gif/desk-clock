@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T13:04:56.136495+00:00",
+ "updated": "2026-11-23T13:09:56.380224+00:00",
  "feeds": {
   "ynet": [
    {
@@ -103,16 +103,20 @@
   ],
   "cnbc": [
    {
+    "title": "Nasdaq 100 futures rebound sharply to rise 3%, kick-starting shortened week after tech rout: Live updates",
+    "date": "2026-11-23T13:08:49+00:00"
+   },
+   {
+    "title": "Zelenskyy praises ‘exemplary’ drone operation that sank Russian warship in a Libyan port",
+    "date": "2026-11-23T13:05:38+00:00"
+   },
+   {
     "title": "Stocks making the biggest moves premarket: Zscaler, Truist, Nvidia, LuxExperience & more",
     "date": "2026-11-23T13:02:30+00:00"
    },
    {
     "title": "This discount retailer offers protection in a volatile market, says Piper Sandler",
     "date": "2026-11-23T12:50:48+00:00"
-   },
-   {
-    "title": "Nasdaq 100 futures rebound sharply to rise 3%, kick-starting shortened week after tech rout: Live updates",
-    "date": "2026-11-23T12:42:48+00:00"
    },
    {
     "title": "Arm's Haas extends contract to lead chip firm through 2033 amid Nvidia top job chatter",
@@ -139,10 +143,6 @@
     "date": "2026-11-23T12:00:20+00:00"
    },
    {
-    "title": "Zelenskyy praises ‘exemplary’ drone operation that sank Russian warship in a Libyan port",
-    "date": "2026-11-23T11:30:37+00:00"
-   },
-   {
     "title": "Treasury yields jump as stock futures rebound, investors await New York Fed President Williams speech",
     "date": "2026-11-23T10:15:19+00:00"
    },
@@ -155,6 +155,14 @@
    {
     "title": "Americans don’t have to choose between our AI future and ripping off copyright owners",
     "date": "2026-11-25T10:00:00+00:00"
+   },
+   {
+    "title": "Mystery of unknown skeleton buried at Westminster Abbey may finally be solved after 150 years",
+    "date": "2026-11-23T13:00:10+00:00"
+   },
+   {
+    "title": "EXCLUSIVE: NIH funded foreign labs with troubling safety lapses, including deadly bat virus experiment",
+    "date": "2026-11-23T13:00:07+00:00"
    },
    {
     "title": "Google AI smartwatch could flag high blood pressure",
@@ -191,14 +199,6 @@
    {
     "title": "GOP senator 'not likely' to mount presidential bid, but continues leaving door open to possibility",
     "date": "2026-11-23T11:31:13+00:00"
-   },
-   {
-    "title": "LSU spent $150 million on Lane Kiffin and a new roster, it finished worse than under Brian Kelly | Ian Miller",
-    "date": "2026-11-23T11:27:10+00:00"
-   },
-   {
-    "title": "FBI warns AI hackers can breach systems in under 3 hours",
-    "date": "2026-11-23T11:25:17+00:00"
    }
   ]
  }
