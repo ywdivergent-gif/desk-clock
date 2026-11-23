@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T03:44:47.025921+00:00",
+ "updated": "2026-11-23T03:49:47.529972+00:00",
  "feeds": {
   "ynet": [
    {
@@ -143,18 +143,22 @@
     "date": "2026-11-22T14:00:01+00:00"
    },
    {
-    "title": "Saudi Arabia, Bahrain report new attacks as Iran says it remains open to a deal with U.S.",
-    "date": "2026-11-22T13:25:47+00:00"
-   },
-   {
     "title": "Pizza chains are under pressure. GLP-1 use is only one part of the problem",
     "date": "2026-11-22T13:00:01+00:00"
+   },
+   {
+    "title": "As prediction markets grow, so do the number of short sellers counting on DraftKings to fall",
+    "date": "2026-11-22T12:15:24+00:00"
    }
   ],
   "fox": [
    {
     "title": "Americans don’t have to choose between our AI future and ripping off copyright owners",
     "date": "2026-11-25T10:00:00+00:00"
+   },
+   {
+    "title": "Lions' Jameson Williams does front flip touchdown celebration one week after Aidan Hutchinson's injury",
+    "date": "2026-11-23T03:41:03+00:00"
    },
    {
     "title": "San Francisco 49ers lineman Colton McKivitz suffers injury so gruesome players from both teams turn away",
@@ -195,10 +199,6 @@
    {
     "title": "Mark Ruffalo doubles down on call to oust Schumer over 'entrenched religious beliefs and loyalties'",
     "date": "2026-11-23T00:30:34+00:00"
-   },
-   {
-    "title": "Urgent warning issued to cruise passengers about strict new law in Mexico",
-    "date": "2026-11-23T00:07:00+00:00"
    }
   ]
  }
