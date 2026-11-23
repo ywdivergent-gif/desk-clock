@@ -412,6 +412,8 @@
     const list = [];
     Object.keys(EN).forEach(k => (feeds[k] || []).slice(0, 8).forEach(i =>
       list.push({ title: i.title, date: i.date ? new Date(i.date) : null, src: EN[k] })));
+    const soon = Date.now() + 10 * 60000;   // skip items dated in the future (scheduled posts)
+    for (let i = list.length - 1; i >= 0; i--) if (list[i].date && list[i].date > soon) list.splice(i, 1);
     list.sort((a, b) => (b.date || 0) - (a.date || 0));
     if (!list.length) return;
     en = list.slice(0, 12); enIdx = 0;
