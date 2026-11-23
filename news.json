@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T13:34:56.107450+00:00",
+ "updated": "2026-11-23T13:39:56.326568+00:00",
  "feeds": {
   "ynet": [
    {
@@ -103,6 +103,10 @@
   ],
   "cnbc": [
    {
+    "title": "Tokenized stocks face pushback as NYSE, Nasdaq pivot for a new market",
+    "date": "2026-11-23T13:38:31+00:00"
+   },
+   {
     "title": "Zelenskyy praises ‘exemplary’ drone operation that sank Russian warship in a Libyan port",
     "date": "2026-11-23T13:28:15+00:00"
    },
@@ -143,10 +147,6 @@
     "date": "2026-11-23T12:40:01+00:00"
    },
    {
-    "title": "Tokenized stocks face pushback as NYSE, Nasdaq pivot for a new market",
-    "date": "2026-11-23T12:05:06+00:00"
-   },
-   {
     "title": "The biggest money-making energy trade looks over. What to buy instead",
     "date": "2026-11-23T12:00:20+00:00"
    }
@@ -155,6 +155,10 @@
    {
     "title": "Americans don’t have to choose between our AI future and ripping off copyright owners",
     "date": "2026-11-25T10:00:00+00:00"
+   },
+   {
+    "title": "California surfer somehow escapes unscathed after massive great white shark shreds his board",
+    "date": "2026-11-23T13:29:49+00:00"
    },
    {
     "title": "Giants safety had Vegas on the mind as Jaguars wide receiver's would-be touchdown catch was ruled incomplete",
@@ -195,10 +199,6 @@
    {
     "title": "Giants pass rusher Abdul Carter celebrates great game by proclaiming 'Allahu Akbar' on his social media",
     "date": "2026-11-23T11:40:38+00:00"
-   },
-   {
-    "title": "NFL Week 11 Sunday takeaways: Brock Purdy is a game manager and an MVP candidate, Aaron Rodgers is cooked",
-    "date": "2026-11-23T11:33:58+00:00"
    }
   ]
  }
