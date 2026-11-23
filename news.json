@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T21:05:12.925981+00:00",
+ "updated": "2026-11-23T21:10:13.376996+00:00",
  "feeds": {
   "ynet": [
    {
@@ -103,6 +103,14 @@
   ],
   "cnbc": [
    {
+    "title": "Dow soars 1,400 points; Nasdaq surges 6% in its best day since April 2025 as Jensen Huang returns to Nvidia",
+    "date": "2026-11-23T21:09:50+00:00"
+   },
+   {
+    "title": "Jensen Huang reinstated as Nvidia CEO. Stock skyrockets 31%",
+    "date": "2026-11-23T21:08:05+00:00"
+   },
+   {
     "title": "CrowdStrike to buy Zscaler in $44 billion deal as AI supercharges cyberattacks",
     "date": "2026-11-23T21:04:03+00:00"
    },
@@ -111,12 +119,8 @@
     "date": "2026-11-23T21:02:17+00:00"
    },
    {
-    "title": "Dow soars 1,400 points; Nasdaq surges 6% in its best day since April 2025 as Jensen Huang returns to Nvidia: Live updates",
-    "date": "2026-11-23T21:01:48+00:00"
-   },
-   {
-    "title": "Peterson: Here’s what Bessent’s about-face on Jensen Huang reveals about Trump and China",
-    "date": "2026-11-23T21:00:59+00:00"
+    "title": "Jensen Huang cheered by Nvidia employees after return, pledges to be a better CEO",
+    "date": "2026-11-23T20:57:41+00:00"
    },
    {
     "title": "Nvidia breathes new life into the AI trade. Plus, Qnity inks a smart deal to get stronger",
@@ -145,16 +149,16 @@
    {
     "title": "ESPN, NFL to show Super Bowl 61 in Imax theaters",
     "date": "2026-11-23T19:08:37+00:00"
-   },
-   {
-    "title": "An options strategy for making even more of your money back in Nvidia",
-    "date": "2026-11-23T18:52:46+00:00"
    }
   ],
   "fox": [
    {
     "title": "Americans don’t have to choose between our AI future and ripping off copyright owners",
     "date": "2026-11-25T10:00:00+00:00"
+   },
+   {
+    "title": "California nursing student and mom arrested months after man’s body turns up in ravine: police",
+    "date": "2026-11-23T21:04:16+00:00"
    },
    {
     "title": "NFL refs continue to be shockingly bad, Tom Jackson was our childhood & has fantasy football lost its luster?",
@@ -195,10 +199,6 @@
    {
     "title": "BetMGM Bonus Code FOXNEWS: $1500 in First Bet Cover Ahead of Monday Night Football, Commanders-Bengals",
     "date": "2026-11-23T20:01:06+00:00"
-   },
-   {
-    "title": "Fanatics Sportsbook Promo Code FOXNEWS: Claim up to $1000 in FanCash for Commanders vs Bengals",
-    "date": "2026-11-23T19:57:26+00:00"
    }
   ]
  }
