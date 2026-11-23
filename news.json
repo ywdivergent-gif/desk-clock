@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T16:45:05.278627+00:00",
+ "updated": "2026-11-23T16:50:05.078070+00:00",
  "feeds": {
   "ynet": [
    {
@@ -104,7 +104,15 @@
   "cnbc": [
    {
     "title": "Jensen Huang reinstated as Nvidia CEO. Stock skyrockets 33%",
-    "date": "2026-11-23T16:42:06+00:00"
+    "date": "2026-11-23T16:49:27+00:00"
+   },
+   {
+    "title": "Nasdaq roars back by 6% as Nvidia soars on Huang’s return, S&P 500 rebounds 4%: Live updates",
+    "date": "2026-11-23T16:46:46+00:00"
+   },
+   {
+    "title": "SpaceX sued by Oregon and Virginia over AI deepfake porn, Grok safety claims",
+    "date": "2026-11-23T16:45:31+00:00"
    },
    {
     "title": "These three retail stocks on Josh Brown’s list are bucking the market volatility",
@@ -117,10 +125,6 @@
    {
     "title": "Trump tells CNBC ‘I made the deal’ to reinstate Nvidia’s Jensen Huang",
     "date": "2026-11-23T16:22:38+00:00"
-   },
-   {
-    "title": "Nasdaq roars back by 7% as Nvidia soars on Huang’s return, S&P 500 rebounds 5%: Live updates",
-    "date": "2026-11-23T16:13:34+00:00"
    },
    {
     "title": "Tech stocks rally after Nvidia board approves Jensen Huang's return as CEO",
@@ -145,16 +149,16 @@
    {
     "title": "CoreWeave, Oracle soar as Huang’s return relieves Nvidia AI financing fears",
     "date": "2026-11-23T15:03:21+00:00"
-   },
-   {
-    "title": "U.S. probes Megaspeed, Alice Huang as new figure emerges in Nvidia chip case",
-    "date": "2026-11-23T14:40:11+00:00"
    }
   ],
   "fox": [
    {
     "title": "Americans don’t have to choose between our AI future and ripping off copyright owners",
     "date": "2026-11-25T10:00:00+00:00"
+   },
+   {
+    "title": "Bengals Joe Burrow is chasing history, an MVP and a Super Bowl on Monday Night Football",
+    "date": "2026-11-23T16:43:30+00:00"
    },
    {
     "title": "WWE legend 'Stone Cold' Steve Austin adds racing title to impressive résumé, describes perfect outdoors day",
@@ -195,10 +199,6 @@
    {
     "title": "Taylor Swift ISIS concert plot foiled with Israel’s help, ex-Mossad chief says",
     "date": "2026-11-23T15:44:09+00:00"
-   },
-   {
-    "title": "Budget airline known for ultra-low fares adds first-class seats with no recline option",
-    "date": "2026-11-23T15:25:58+00:00"
    }
   ]
  }
