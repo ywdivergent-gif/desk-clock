@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T11:59:56.346489+00:00",
+ "updated": "2026-11-23T12:04:55.955878+00:00",
  "feeds": {
   "ynet": [
    {
@@ -103,16 +103,24 @@
   ],
   "cnbc": [
    {
+    "title": "SpaceX shares can rally more than 60% from current levels, says Jefferies",
+    "date": "2026-11-23T12:02:24+00:00"
+   },
+   {
+    "title": "Anthropic, Nvidia shares rise in premarket trading after major tech selloff",
+    "date": "2026-11-23T12:02:21+00:00"
+   },
+   {
+    "title": "The biggest money-making energy trade looks over. What to buy instead",
+    "date": "2026-11-23T12:00:20+00:00"
+   },
+   {
     "title": "Zelenskyy praises ‘exemplary’ drone operation that sank Russian warship in a Libyan port",
     "date": "2026-11-23T11:30:37+00:00"
    },
    {
     "title": "CrowdStrike bets on network security with $43.9 billion Zscaler deal",
     "date": "2026-11-23T11:23:40+00:00"
-   },
-   {
-    "title": "Anthropic, Nvidia shares rise in premarket trading after major tech selloff",
-    "date": "2026-11-23T10:24:25+00:00"
    },
    {
     "title": "Treasury yields jump as stock futures rebound, investors await New York Fed President Williams speech",
@@ -141,14 +149,6 @@
    {
     "title": "How Asian countries are looking to prop up markets as AI downturn sinks stocks",
     "date": "2026-11-23T06:50:48+00:00"
-   },
-   {
-    "title": "U.S. probes Megaspeed, Alice Huang as new figure emerges in Nvidia chip case",
-    "date": "2026-11-23T05:08:03+00:00"
-   },
-   {
-    "title": "Yemen's Houthis claim attacks on Saudi oil refinery as Trump warns of new strikes next year",
-    "date": "2026-11-23T03:52:17+00:00"
    }
   ],
   "fox": [
