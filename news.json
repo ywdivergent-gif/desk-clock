@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T09:54:55.823677+00:00",
+ "updated": "2026-11-23T09:59:56.017773+00:00",
  "feeds": {
   "ynet": [
    {
@@ -103,6 +103,10 @@
   ],
   "cnbc": [
    {
+    "title": "French biotech rejects short seller’s cancer-risk claims after shares plunge 17%",
+    "date": "2026-11-23T09:45:42+00:00"
+   },
+   {
     "title": "Anthropic, Nvidia shares rise in premarket trading after major tech selloff",
     "date": "2026-11-23T09:40:28+00:00"
    },
@@ -145,16 +149,16 @@
    {
     "title": "Director of National Intelligence Jay Clayton warns Americans of 'bumps in the road' after tech outages",
     "date": "2026-11-22T17:14:03+00:00"
-   },
-   {
-    "title": "Social Security benefits are rising in 2027, but other changes could affect what you keep",
-    "date": "2026-11-22T14:30:01+00:00"
    }
   ],
   "fox": [
    {
     "title": "Americans don’t have to choose between our AI future and ripping off copyright owners",
     "date": "2026-11-25T10:00:00+00:00"
+   },
+   {
+    "title": "Nine million jobs are in limbo, and Congress can fix it before Christmas",
+    "date": "2026-11-23T09:50:09+00:00"
    },
    {
     "title": "Georgia officer shoots 13-year-old after traffic stop linked to earlier shooting, police say",
@@ -195,10 +199,6 @@
    {
     "title": "New York Dem addresses bizarre 'lizard people' claims after viral clip behind Mamdani",
     "date": "2026-11-23T02:16:02+00:00"
-   },
-   {
-    "title": "Cam Skattebo ignores his own backflip celebration retirement promise at end of Giants victory over Jaguars",
-    "date": "2026-11-23T02:08:45+00:00"
    }
   ]
  }
