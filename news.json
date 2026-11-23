@@ -1,7 +1,11 @@
 {
- "updated": "2026-11-23T09:39:56.289531+00:00",
+ "updated": "2026-11-23T09:44:55.786421+00:00",
  "feeds": {
   "ynet": [
+   {
+    "title": "אישום: אנס את בתה של בת זוגו - שנזפה בה: \"תני לו לעשות מה שהוא רוצה\" | קשה לקריאה",
+    "date": "2026-11-23T09:40:06+00:00"
+   },
    {
     "title": "סוכל פיגוע התאבדות בהר הבית, המתכנן: עוזר רוקח בקופת חולים",
     "date": "2026-11-23T09:27:15+00:00"
@@ -45,10 +49,6 @@
    {
     "title": "ירדן רותחת: הממשלה הבאה חייבת להכיר בחשיבות השלום עם השכנה ממזרח",
     "date": "2026-11-23T04:33:17+00:00"
-   },
-   {
-    "title": "ירידה בטמפרטורות בדרך - ואולי גשם בהמשך השבוע",
-    "date": "2026-11-23T03:11:27+00:00"
    }
   ],
   "ynetnews": [
@@ -103,12 +103,12 @@
   ],
   "cnbc": [
    {
-    "title": "Nasdaq 100 futures rebound sharply to rise 3%, kick-starting shortened week after tech rout: Live updates",
-    "date": "2026-11-23T09:35:07+00:00"
+    "title": "Anthropic, Nvidia shares rise in premarket trading after major tech selloff",
+    "date": "2026-11-23T09:40:28+00:00"
    },
    {
-    "title": "Anthropic, Nvidia shares rise in premarket trading after major tech selloff",
-    "date": "2026-11-23T09:24:21+00:00"
+    "title": "Nasdaq 100 futures rebound sharply to rise 3%, kick-starting shortened week after tech rout: Live updates",
+    "date": "2026-11-23T09:35:07+00:00"
    },
    {
     "title": "Forget Anthropic: In Europe, the IPO hype is about a blue lagoon",
