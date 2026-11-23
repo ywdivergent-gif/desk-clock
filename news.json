@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T18:40:05.470534+00:00",
+ "updated": "2026-11-23T18:45:05.196498+00:00",
  "feeds": {
   "ynet": [
    {
@@ -103,12 +103,20 @@
   ],
   "cnbc": [
    {
+    "title": "Morgan Stanley says this is a big buying opportunity: ‘We’re not going to miss it’",
+    "date": "2026-11-23T18:42:36+00:00"
+   },
+   {
     "title": "Nasdaq roars back by 6% as Nvidia soars on Huang’s return, S&P 500 rebounds 4%: Live updates",
     "date": "2026-11-23T18:39:04+00:00"
    },
    {
     "title": "Trump administration proposes rule that could curb ESG investing in 401(k)s",
     "date": "2026-11-23T18:14:18+00:00"
+   },
+   {
+    "title": "Wall Street analysts scramble to upgrade Nvidia’s stock after Huang’s return",
+    "date": "2026-11-23T18:11:14+00:00"
    },
    {
     "title": "Stocks making the biggest moves Monday: Boeing, Nvidia, CoreWeave, Newmont & more",
@@ -141,14 +149,6 @@
    {
     "title": "SpaceX sued by Oregon and Virginia over AI deepfake porn, Grok safety claims",
     "date": "2026-11-23T16:45:31+00:00"
-   },
-   {
-    "title": "These three retail stocks on Josh Brown’s list are bucking the market volatility",
-    "date": "2026-11-23T16:28:42+00:00"
-   },
-   {
-    "title": "Stop agonizing over the ‘right’ choice—to avoid regret, save time and reduce stress, take these 3 steps",
-    "date": "2026-11-23T16:25:01+00:00"
    }
   ],
   "fox": [
