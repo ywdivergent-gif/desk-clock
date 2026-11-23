@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T16:40:08.916743+00:00",
+ "updated": "2026-11-23T16:45:05.278627+00:00",
  "feeds": {
   "ynet": [
    {
@@ -104,7 +104,7 @@
   "cnbc": [
    {
     "title": "Jensen Huang reinstated as Nvidia CEO. Stock skyrockets 33%",
-    "date": "2026-11-23T16:38:42+00:00"
+    "date": "2026-11-23T16:42:06+00:00"
    },
    {
     "title": "These three retail stocks on Josh Brown’s list are bucking the market volatility",
@@ -147,14 +147,18 @@
     "date": "2026-11-23T15:03:21+00:00"
    },
    {
-    "title": "CrowdStrike to buy Zscaler in $44 billion deal as AI supercharges cyberattacks",
-    "date": "2026-11-23T14:38:45+00:00"
+    "title": "U.S. probes Megaspeed, Alice Huang as new figure emerges in Nvidia chip case",
+    "date": "2026-11-23T14:40:11+00:00"
    }
   ],
   "fox": [
    {
     "title": "Americans don’t have to choose between our AI future and ripping off copyright owners",
     "date": "2026-11-25T10:00:00+00:00"
+   },
+   {
+    "title": "WWE legend 'Stone Cold' Steve Austin adds racing title to impressive résumé, describes perfect outdoors day",
+    "date": "2026-11-23T16:39:31+00:00"
    },
    {
     "title": "Trump officials told 'not to stab each other' amid demands Nvidia dispute be put under oath in Congress",
@@ -195,10 +199,6 @@
    {
     "title": "Budget airline known for ultra-low fares adds first-class seats with no recline option",
     "date": "2026-11-23T15:25:58+00:00"
-   },
-   {
-    "title": "This mini chainsaw takes the hard work out of yard cleanup, and it's just $28 for Black Friday",
-    "date": "2026-11-23T15:10:18+00:00"
    }
   ]
  }
