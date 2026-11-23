@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T04:19:46.891856+00:00",
+ "updated": "2026-11-23T04:24:46.947670+00:00",
  "feeds": {
   "ynet": [
    {
@@ -103,6 +103,10 @@
   ],
   "cnbc": [
    {
+    "title": "Tata Steel to buy $1.67 billion stake in India’s largest steel pipe maker; shares plunge nearly 5%",
+    "date": "2026-11-23T04:23:35+00:00"
+   },
+   {
     "title": "Yemen's Houthis claim attacks on Saudi oil refinery as Trump warns of new strikes next year",
     "date": "2026-11-23T03:52:17+00:00"
    },
@@ -145,10 +149,6 @@
    {
     "title": "Pizza chains are under pressure. GLP-1 use is only one part of the problem",
     "date": "2026-11-22T13:00:01+00:00"
-   },
-   {
-    "title": "As prediction markets grow, so do the number of short sellers counting on DraftKings to fall",
-    "date": "2026-11-22T12:15:24+00:00"
    }
   ],
   "fox": [
