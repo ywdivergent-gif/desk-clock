@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T02:49:01.857852+00:00",
+ "updated": "2026-11-23T02:49:47.615632+00:00",
  "feeds": {
   "ynet": [
    {
@@ -99,6 +99,106 @@
    {
     "title": "Netanyahu refuses to disavow stolen-election claims: ‘The results were not what I wanted’",
     "date": "2026-11-17T19:00:04+00:00"
+   }
+  ],
+  "cnbc": [
+   {
+    "title": "S&P 500 futures rebound sharply to rise 2%, kick-starting shortened week after tech rout: Live updates",
+    "date": "2026-11-23T01:50:10+00:00"
+   },
+   {
+    "title": "3 big things we're watching in the market this Thanksgiving week",
+    "date": "2026-11-23T00:42:54+00:00"
+   },
+   {
+    "title": "Let's weigh the cons — and pros — of this brutal market to find a way forward",
+    "date": "2026-11-22T23:49:44+00:00"
+   },
+   {
+    "title": "Employees at Eric Trump-backed robot startup lose health benefits as company's cash crunch deepens",
+    "date": "2026-11-22T18:55:05+00:00"
+   },
+   {
+    "title": "I’ve studied over 200 kids—to avoid raising a people pleaser, ditch 6 parenting habits: It starts in ‘ordinary, well-intentioned moments’",
+    "date": "2026-11-22T17:33:25+00:00"
+   },
+   {
+    "title": "Director of National Intelligence Jay Clayton warns Americans of 'bumps in the road' after tech outages",
+    "date": "2026-11-22T17:14:03+00:00"
+   },
+   {
+    "title": "Social Security benefits are rising in 2027, but other changes could affect what you keep",
+    "date": "2026-11-22T14:30:01+00:00"
+   },
+   {
+    "title": "UN climate talks collapse as EU and others reject deal",
+    "date": "2026-11-22T14:28:45+00:00"
+   },
+   {
+    "title": "26-year-old Google worker earns $323,000 a year—but lives on less than minimum wage",
+    "date": "2026-11-22T14:00:01+00:00"
+   },
+   {
+    "title": "Saudi Arabia, Bahrain report new attacks as Iran says it remains open to a deal with U.S.",
+    "date": "2026-11-22T13:25:47+00:00"
+   },
+   {
+    "title": "Pizza chains are under pressure. GLP-1 use is only one part of the problem",
+    "date": "2026-11-22T13:00:01+00:00"
+   },
+   {
+    "title": "As prediction markets grow, so do the number of short sellers counting on DraftKings to fall",
+    "date": "2026-11-22T12:15:24+00:00"
+   }
+  ],
+  "fox": [
+   {
+    "title": "Americans don’t have to choose between our AI future and ripping off copyright owners",
+    "date": "2026-11-25T10:00:00+00:00"
+   },
+   {
+    "title": "John Malkovich recalls losing 'pretty much everything' to Bernie Madoff's Ponzi scheme",
+    "date": "2026-11-23T02:40:39+00:00"
+   },
+   {
+    "title": "Man convicted for role in Tessa Majors' 2019 NYC killing released on parole",
+    "date": "2026-11-23T02:34:57+00:00"
+   },
+   {
+    "title": "New York Dem addresses bizarre 'lizard people' claims after viral clip behind Mamdani",
+    "date": "2026-11-23T02:16:02+00:00"
+   },
+   {
+    "title": "Cam Skattebo ignores his own backflip celebration retirement promise at end of Giants victory Jaguars",
+    "date": "2026-11-23T02:08:45+00:00"
+   },
+   {
+    "title": "49ers' George Kittle channels his inner Luchador as he sports WWE star's mask, performs celebration after TD",
+    "date": "2026-11-23T01:51:38+00:00"
+   },
+   {
+    "title": "Purdue professor, 2 daughters killed in apparent murder-suicide after daughter’s terrifying 911 call",
+    "date": "2026-11-23T01:39:13+00:00"
+   },
+   {
+    "title": "Russian warship sinks off Libya as suspected Ukrainian strikes take war beyond Black Sea",
+    "date": "2026-11-23T01:30:56+00:00"
+   },
+   {
+    "title": "Mark Ruffalo doubles down on call to oust Schumer over 'entrenched religious beliefs and loyalties'",
+    "date": "2026-11-23T00:30:34+00:00"
+   },
+   {
+    "title": "Urgent warning issued to cruise passengers about strict new law in Mexico",
+    "date": "2026-11-23T00:07:00+00:00"
+   },
+   {
+    "title": "'Yes, Dear' star Anthony Clark's cause of death revealed: report",
+    "date": "2026-11-22T23:55:46+00:00"
+   },
+   {
+    "title": "Chiefs and Bills take care of business ahead of the NFL’s biggest regular-season game",
+    "date": "2026-11-22T23:46:08+00:00"
    }
   ]
  }
