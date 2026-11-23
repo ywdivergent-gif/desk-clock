@@ -21,6 +21,8 @@ FEEDS = {
     "ynet": "https://www.ynet.co.il/Integration/StoryRss2.xml",
     "toi": "https://www.timesofisrael.com/feed/",
     "ynetnews": "https://www.ynetnews.com/Integration/StoryRss3082.xml",
+    "cnbc": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+    "fox": "https://moxie.foxnews.com/google-publisher/latest.xml",
 }
 NY = ZoneInfo("America/New_York")
 RUN_MINUTES = 345
