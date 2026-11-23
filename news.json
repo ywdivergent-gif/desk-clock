@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T23:15:13.069849+00:00",
+ "updated": "2026-11-23T23:20:13.039971+00:00",
  "feeds": {
   "ynet": [
    {
@@ -104,11 +104,19 @@
   "cnbc": [
    {
     "title": "Trump sealed deal for Nvidia to rehire Jensen Huang as CEO",
-    "date": "2026-11-23T23:07:31+00:00"
+    "date": "2026-11-23T23:15:44+00:00"
+   },
+   {
+    "title": "Jim Cramer sees more upside for Nvidia stock with Jensen Huang back as CEO",
+    "date": "2026-11-23T23:14:34+00:00"
    },
    {
     "title": "DNI Jay Clayton tapped as acting national cyber director",
     "date": "2026-11-23T23:02:18+00:00"
+   },
+   {
+    "title": "CNBC's The China Connection newsletter: AI race spreads from robots to smartphones",
+    "date": "2026-11-23T23:00:01+00:00"
    },
    {
     "title": "Stocks making the biggest moves Monday: Zoom, Hewlett Packard Enterprise, Agilent & more",
@@ -141,14 +149,6 @@
    {
     "title": "Jensen Huang reinstated as Nvidia CEO. Stock skyrockets 31%",
     "date": "2026-11-23T21:08:05+00:00"
-   },
-   {
-    "title": "CrowdStrike to buy Zscaler in $44 billion deal as AI supercharges cyberattacks",
-    "date": "2026-11-23T21:04:03+00:00"
-   },
-   {
-    "title": "Fed's John Williams indicates higher interest rates likely 'over time' to address inflation",
-    "date": "2026-11-23T21:02:17+00:00"
    }
   ],
   "fox": [
