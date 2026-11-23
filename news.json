@@ -1,7 +1,11 @@
 {
- "updated": "2026-11-23T16:35:05.256660+00:00",
+ "updated": "2026-11-23T16:40:08.916743+00:00",
  "feeds": {
   "ynet": [
+   {
+    "title": "בתו של אולמרט נעצרה בת\"א: \"השוטרים היו אלימים, הייתי אזוקה שעות\"",
+    "date": "2026-11-23T16:35:56+00:00"
+   },
    {
     "title": "\"צרחו, נחנקו - וירקו דם\": בהלה מ\"חומר בלתי מזוהה\" בהופעת הראפר, 12,000 פונו | תיעוד",
     "date": "2026-11-23T15:56:47+00:00"
@@ -45,10 +49,6 @@
    {
     "title": "איראן מכחישה את \"שיירת פריצת המצור\" - ודורשת מארה\"ב 290 מיליארד דולר פיצויים",
     "date": "2026-11-23T12:42:18+00:00"
-   },
-   {
-    "title": "איזנקוט: לא נתפשר על ועדה ממלכתית או שירות לכל; נתניהו: החרדים צריכים להיות בממשלה",
-    "date": "2026-11-23T12:33:58+00:00"
    }
   ],
   "ynetnews": [
@@ -103,6 +103,10 @@
   ],
   "cnbc": [
    {
+    "title": "Jensen Huang reinstated as Nvidia CEO. Stock skyrockets 33%",
+    "date": "2026-11-23T16:38:42+00:00"
+   },
+   {
     "title": "These three retail stocks on Josh Brown’s list are bucking the market volatility",
     "date": "2026-11-23T16:28:42+00:00"
    },
@@ -113,10 +117,6 @@
    {
     "title": "Trump tells CNBC ‘I made the deal’ to reinstate Nvidia’s Jensen Huang",
     "date": "2026-11-23T16:22:38+00:00"
-   },
-   {
-    "title": "Jensen Huang reinstated as Nvidia CEO. Stock skyrockets 33%",
-    "date": "2026-11-23T16:17:26+00:00"
    },
    {
     "title": "Nasdaq roars back by 7% as Nvidia soars on Huang’s return, S&P 500 rebounds 5%: Live updates",
