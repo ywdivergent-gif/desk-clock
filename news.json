@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T18:00:05.196630+00:00",
+ "updated": "2026-11-23T18:05:05.273065+00:00",
  "feeds": {
   "ynet": [
    {
@@ -103,6 +103,10 @@
   ],
   "cnbc": [
    {
+    "title": "‘This establishes a bottom’: Jensen Huang’s return seen as likely to stop market sell-off, for now",
+    "date": "2026-11-23T18:00:47+00:00"
+   },
+   {
     "title": "Nasdaq roars back by 6% as Nvidia soars on Huang’s return, S&P 500 rebounds 4%: Live updates",
     "date": "2026-11-23T17:59:55+00:00"
    },
@@ -129,10 +133,6 @@
    {
     "title": "Trump tells CNBC ‘I made the deal’ to reinstate Nvidia’s Jensen Huang",
     "date": "2026-11-23T17:16:39+00:00"
-   },
-   {
-    "title": "‘This establishes a bottom’: Jensen Huang’s return seen as likely to stop market sell-off, for now",
-    "date": "2026-11-23T16:53:57+00:00"
    },
    {
     "title": "SpaceX sued by Oregon and Virginia over AI deepfake porn, Grok safety claims",
