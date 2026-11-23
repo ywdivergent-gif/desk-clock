@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T13:49:56.460938+00:00",
+ "updated": "2026-11-23T13:54:56.079967+00:00",
  "feeds": {
   "ynet": [
    {
@@ -103,6 +103,10 @@
   ],
   "cnbc": [
    {
+    "title": "Nasdaq 100 futures rebound sharply to rise 3%, kick-starting shortened week after tech rout: Live updates",
+    "date": "2026-11-23T13:53:26+00:00"
+   },
+   {
     "title": "Tokenized stocks face pushback as NYSE, Nasdaq pivot for a new market",
     "date": "2026-11-23T13:38:31+00:00"
    },
@@ -117,10 +121,6 @@
    {
     "title": "‘Worst COP ever’: Climate talks collapse after draft deal fails to include fossil fuels",
     "date": "2026-11-23T13:16:38+00:00"
-   },
-   {
-    "title": "Nasdaq 100 futures rebound sharply to rise 3%, kick-starting shortened week after tech rout: Live updates",
-    "date": "2026-11-23T13:15:50+00:00"
    },
    {
     "title": "More Americans pay this Obama-era investment tax every year — how to avoid it",
