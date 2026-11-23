@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T17:20:05.442353+00:00",
+ "updated": "2026-11-23T17:25:05.241323+00:00",
  "feeds": {
   "ynet": [
    {
@@ -103,6 +103,14 @@
   ],
   "cnbc": [
    {
+    "title": "Jensen Huang reinstated as Nvidia CEO. Stock skyrockets 33%",
+    "date": "2026-11-23T17:23:04+00:00"
+   },
+   {
+    "title": "Nasdaq roars back by 6% as Nvidia soars on Huang’s return, S&P 500 rebounds 4%: Live updates",
+    "date": "2026-11-23T17:22:57+00:00"
+   },
+   {
     "title": "CrowdStrike to buy Zscaler in $44 billion deal as AI supercharges cyberattacks",
     "date": "2026-11-23T17:17:10+00:00"
    },
@@ -113,14 +121,6 @@
    {
     "title": "‘This establishes a bottom’: Jensen Huang’s return seen as likely to stop market sell-off, for now",
     "date": "2026-11-23T16:53:57+00:00"
-   },
-   {
-    "title": "Jensen Huang reinstated as Nvidia CEO. Stock skyrockets 33%",
-    "date": "2026-11-23T16:49:27+00:00"
-   },
-   {
-    "title": "Nasdaq roars back by 6% as Nvidia soars on Huang’s return, S&P 500 rebounds 4%: Live updates",
-    "date": "2026-11-23T16:46:46+00:00"
    },
    {
     "title": "SpaceX sued by Oregon and Virginia over AI deepfake porn, Grok safety claims",
@@ -157,6 +157,14 @@
     "date": "2026-11-25T10:00:00+00:00"
    },
    {
+    "title": "Teacher’s aide rejected by NYPD admits killing jogger — and says ‘Allah told me to’: report",
+    "date": "2026-11-23T17:17:20+00:00"
+   },
+   {
+    "title": "ALEXA MOUTEVELIS: How Virginia school district shames kids to mark Thanksgiving",
+    "date": "2026-11-23T17:17:08+00:00"
+   },
+   {
     "title": "Louisiana man accused of random nature trail murder, killing coworker with crossbow days later",
     "date": "2026-11-23T17:08:59+00:00"
    },
@@ -191,14 +199,6 @@
    {
     "title": "Ex-SNL star Bowen Yang apologizes for using antisemitic slur to describe Regina Spektor on podcast",
     "date": "2026-11-23T16:14:26+00:00"
-   },
-   {
-    "title": "Bengals favored by six over Commanders as Cincinnati's road dominance meets Washington's struggles",
-    "date": "2026-11-23T16:13:50+00:00"
-   },
-   {
-    "title": "Aggressive turkeys are harassing people across the Boston area just days before Thanksgiving",
-    "date": "2026-11-23T15:57:29+00:00"
    }
   ]
  }
