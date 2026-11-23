@@ -1,7 +1,11 @@
 {
- "updated": "2026-11-23T12:34:56.054394+00:00",
+ "updated": "2026-11-23T12:39:55.924734+00:00",
  "feeds": {
   "ynet": [
+   {
+    "title": "גולן עונה לבנט: מי שמשאיר את נתניהו בשלטון מסכן את הביטחון",
+    "date": "2026-11-23T12:33:58+00:00"
+   },
    {
     "title": "ברנע קרא למלחמה באיראן, וחשף: המוסד היה מעורב בסיכול הפיגוע בהופעת טיילור סוויפט",
     "date": "2026-11-23T11:37:36+00:00"
@@ -45,10 +49,6 @@
    {
     "title": "חשד להתעללות בתינוקת בת חודשיים בבאר יעקב: ההורים נעצרו",
     "date": "2026-11-23T08:30:08+00:00"
-   },
-   {
-    "title": "לסכל ממשלה עם איזנקוט: החרדים יעלו חוק למניעת מעצרים - בתמיכת גוש נתניהו",
-    "date": "2026-11-23T08:11:07+00:00"
    }
   ],
   "ynetnews": [
@@ -103,6 +103,10 @@
   ],
   "cnbc": [
    {
+    "title": "Arm's Haas extends contract to lead chip firm through 2033 amid Nvidia top job chatter",
+    "date": "2026-11-23T12:37:38+00:00"
+   },
+   {
     "title": "Anthropic, Nvidia shares rise in premarket trading after major tech sell-off",
     "date": "2026-11-23T12:19:59+00:00"
    },
@@ -145,16 +149,16 @@
    {
     "title": "French biotech rejects short seller’s cancer-risk claims after shares plunge 17%",
     "date": "2026-11-23T09:45:42+00:00"
-   },
-   {
-    "title": "Forget Anthropic: In Europe, the IPO hype is about a blue lagoon",
-    "date": "2026-11-23T08:48:36+00:00"
    }
   ],
   "fox": [
    {
     "title": "Americans don’t have to choose between our AI future and ripping off copyright owners",
     "date": "2026-11-25T10:00:00+00:00"
+   },
+   {
+    "title": "Trump to confront Newsom over plan to spare 548 death row inmates and more top headlines",
+    "date": "2026-11-23T12:32:00+00:00"
    },
    {
     "title": "Titans head coach calls loss 'disgusting football' after allowing 51 points to Cowboys",
@@ -195,10 +199,6 @@
    {
     "title": "Marilyn Monroe's 1950s stuffing recipe fetched $16,000 at auction — and holds clue to Joe DiMaggio marriage",
     "date": "2026-11-23T11:00:20+00:00"
-   },
-   {
-    "title": "NOOSHEEN HASHEMI: America's AI leadership needs more than one man",
-    "date": "2026-11-23T10:00:57+00:00"
    }
   ]
  }
