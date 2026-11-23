@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T18:50:05.157103+00:00",
+ "updated": "2026-11-23T18:55:05.203814+00:00",
  "feeds": {
   "ynet": [
    {
@@ -111,6 +111,10 @@
     "date": "2026-11-23T18:39:04+00:00"
    },
    {
+    "title": "Amazon to acquire AI startup Decart's chip software, hire founders",
+    "date": "2026-11-23T18:23:55+00:00"
+   },
+   {
     "title": "Trump administration proposes rule that could curb ESG investing in 401(k)s",
     "date": "2026-11-23T18:14:18+00:00"
    },
@@ -145,10 +149,6 @@
    {
     "title": "Trump tells CNBC ‘I made the deal’ to reinstate Nvidia’s Jensen Huang",
     "date": "2026-11-23T17:16:39+00:00"
-   },
-   {
-    "title": "SpaceX sued by Oregon and Virginia over AI deepfake porn, Grok safety claims",
-    "date": "2026-11-23T16:45:31+00:00"
    }
   ],
   "fox": [
