@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T14:45:05.775116+00:00",
+ "updated": "2026-11-23T14:50:05.473828+00:00",
  "feeds": {
   "ynet": [
    {
@@ -104,11 +104,19 @@
   "cnbc": [
    {
     "title": "Nvidia skyrockets 30% on Huang’s return as CEO, recovering nearly all the losses since he disclosed affair",
-    "date": "2026-11-23T14:41:52+00:00"
+    "date": "2026-11-23T14:47:45+00:00"
    },
    {
     "title": "CrowdStrike to buy Zscaler in $44 billion deal as AI supercharges cyberattacks",
     "date": "2026-11-23T14:38:45+00:00"
+   },
+   {
+    "title": "JPMorgan's top books and experiences for the wealthy this holiday season",
+    "date": "2026-11-23T14:35:58+00:00"
+   },
+   {
+    "title": "Retail investors sold to end last week, ending a long run of buying the dip",
+    "date": "2026-11-23T14:26:49+00:00"
    },
    {
     "title": "Stocks making the biggest moves Monday: Zscaler, Truist, Nvidia, LuxExperience & more",
@@ -141,14 +149,6 @@
    {
     "title": "‘Worst COP ever’: Climate talks collapse after draft deal fails to include fossil fuels",
     "date": "2026-11-23T13:16:38+00:00"
-   },
-   {
-    "title": "More Americans pay this Obama-era investment tax every year — how to avoid it",
-    "date": "2026-11-23T13:15:01+00:00"
-   },
-   {
-    "title": "This discount retailer offers protection in a volatile market, says Piper Sandler",
-    "date": "2026-11-23T12:50:48+00:00"
    }
   ],
   "fox": [
