@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-23T15:30:05.554633+00:00",
+ "updated": "2026-11-23T15:35:05.308386+00:00",
  "feeds": {
   "ynet": [
+   {
+    "title": "\"לעצור את דדי ברנע\": תלונה בגרמניה נגד ראש המוסד לשעבר בגלל מבצע הביפרים",
+    "date": "2026-11-23T15:33:43+00:00"
+   },
+   {
+    "title": "\"אתה תישא בתוצאות\": האזהרה של בנט לנתניהו, שמתכוון להישאר יו\"ר הליכוד",
+    "date": "2026-11-23T15:30:32+00:00"
+   },
    {
     "title": "בשבוע הבא: הכנסת תבחר את מבקר המדינה",
     "date": "2026-11-23T15:23:51+00:00"
@@ -41,14 +49,6 @@
    {
     "title": "ברנע קרא למלחמה באיראן, וחשף: המוסד היה מעורב בסיכול הפיגוע בהופעת טיילור סוויפט",
     "date": "2026-11-23T11:37:36+00:00"
-   },
-   {
-    "title": "החזון של בנט - ממשלה בלי ערבים או חרדים: \"אחדות, איזנקוט ראשון. זה שכל ישר\"",
-    "date": "2026-11-23T11:11:54+00:00"
-   },
-   {
-    "title": "גבר נספה בשריפה בבניין בחולון",
-    "date": "2026-11-23T10:55:46+00:00"
    }
   ],
   "ynetnews": [
@@ -103,12 +103,12 @@
   ],
   "cnbc": [
    {
-    "title": "Tokenized stocks face pushback as NYSE, Nasdaq pivot for a new market",
-    "date": "2026-11-23T15:29:28+00:00"
+    "title": "Trump tells CNBC he spoke to Nvidia board directly about Jensen Huang",
+    "date": "2026-11-23T15:32:54+00:00"
    },
    {
-    "title": "Trump tells CNBC he spoke to Nvidia board directly about Jensen Huang",
-    "date": "2026-11-23T15:26:33+00:00"
+    "title": "Tokenized stocks face pushback as NYSE, Nasdaq pivot for a new market",
+    "date": "2026-11-23T15:30:27+00:00"
    },
    {
     "title": "Jensen Huang reinstated as Nvidia CEO. Stock skyrockets 35%",
@@ -157,6 +157,10 @@
     "date": "2026-11-25T10:00:00+00:00"
    },
    {
+    "title": "Budget airline known for ultra-low fares adds first-class seats with no recline option",
+    "date": "2026-11-23T15:25:58+00:00"
+   },
+   {
     "title": "This mini chainsaw takes the hard work out of yard cleanup, and it's just $28 for Black Friday",
     "date": "2026-11-23T15:10:18+00:00"
    },
@@ -195,10 +199,6 @@
    {
     "title": "California surfer somehow escapes unscathed after massive great white shark shreds his board",
     "date": "2026-11-23T13:29:49+00:00"
-   },
-   {
-    "title": "Giants safety had Vegas on the mind as Jaguars wide receiver's would-be touchdown catch was ruled incomplete",
-    "date": "2026-11-23T13:14:25+00:00"
    }
   ]
  }
