@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T16:25:05.081577+00:00",
+ "updated": "2026-11-23T16:30:05.395822+00:00",
  "feeds": {
   "ynet": [
    {
@@ -103,6 +103,14 @@
   ],
   "cnbc": [
    {
+    "title": "These three retail stocks on Josh Brown’s list are bucking the market volatility",
+    "date": "2026-11-23T16:28:42+00:00"
+   },
+   {
+    "title": "Stop agonizing over the ‘right’ choice—to avoid regret, save time and reduce stress, take these 3 steps",
+    "date": "2026-11-23T16:25:01+00:00"
+   },
+   {
     "title": "Trump tells CNBC ‘I made the deal’ to reinstate Nvidia’s Jensen Huang",
     "date": "2026-11-23T16:22:38+00:00"
    },
@@ -141,14 +149,6 @@
    {
     "title": "CrowdStrike to buy Zscaler in $44 billion deal as AI supercharges cyberattacks",
     "date": "2026-11-23T14:38:45+00:00"
-   },
-   {
-    "title": "JPMorgan's top books and experiences for the wealthy this holiday season",
-    "date": "2026-11-23T14:35:58+00:00"
-   },
-   {
-    "title": "Retail investors sold to end last week, ending a long run of buying the dip",
-    "date": "2026-11-23T14:26:49+00:00"
    }
   ],
   "fox": [
