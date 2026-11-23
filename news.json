@@ -1,7 +1,11 @@
 {
- "updated": "2026-11-23T17:25:05.241323+00:00",
+ "updated": "2026-11-23T17:30:05.577695+00:00",
  "feeds": {
   "ynet": [
+   {
+    "title": "טראמפ: התערבתי למען הואנג גם בשביל המניות. הדמוקרטים: \"מוכר את הביטחון הלאומי\"",
+    "date": "2026-11-23T17:25:58+00:00"
+   },
    {
     "title": "בתו של אולמרט נעצרה בת\"א: \"השוטרים היו אלימים, הייתי אזוקה שעות\"",
     "date": "2026-11-23T16:35:56+00:00"
@@ -45,10 +49,6 @@
    {
     "title": "איומי פצצה שוב נשלחו למאות בתי ספר באירופה: \"המוות מחכה לכם, אללה אכבר\"",
     "date": "2026-11-23T13:28:01+00:00"
-   },
-   {
-    "title": "איראן מכחישה את \"שיירת פריצת המצור\" - ודורשת מארה\"ב 290 מיליארד דולר פיצויים",
-    "date": "2026-11-23T12:42:18+00:00"
    }
   ],
   "ynetnews": [
@@ -103,6 +103,14 @@
   ],
   "cnbc": [
    {
+    "title": "Stocks making the biggest moves midday: Boeing, Nvidia, CoreWeave,",
+    "date": "2026-11-23T17:29:55+00:00"
+   },
+   {
+    "title": "Here's where we stand on AMD shares after Jensen Huang's return to Nvidia",
+    "date": "2026-11-23T17:24:41+00:00"
+   },
+   {
     "title": "Jensen Huang reinstated as Nvidia CEO. Stock skyrockets 33%",
     "date": "2026-11-23T17:23:04+00:00"
    },
@@ -141,14 +149,6 @@
    {
     "title": "Tokenized stocks face pushback as NYSE, Nasdaq pivot for a new market",
     "date": "2026-11-23T15:30:27+00:00"
-   },
-   {
-    "title": "Stuck: How a frozen housing market is hitting buyers, sellers and the economy",
-    "date": "2026-11-23T15:22:03+00:00"
-   },
-   {
-    "title": "Netflix’s ‘The Altruists’ sparks FTX portrayal debate among crypto bigwigs from CZ to Star Xu",
-    "date": "2026-11-23T15:18:51+00:00"
    }
   ],
   "fox": [
