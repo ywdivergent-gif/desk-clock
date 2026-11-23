@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T19:15:05.696130+00:00",
+ "updated": "2026-11-23T19:20:05.196560+00:00",
  "feeds": {
   "ynet": [
    {
@@ -103,8 +103,12 @@
   ],
   "cnbc": [
    {
+    "title": "Tech stocks rally after Nvidia board approves Jensen Huang's return as CEO",
+    "date": "2026-11-23T19:19:08+00:00"
+   },
+   {
     "title": "Nasdaq roars back by 6% as Nvidia soars on Huang’s return, S&P 500 rebounds 5%: Live updates",
-    "date": "2026-11-23T19:14:46+00:00"
+    "date": "2026-11-23T19:15:37+00:00"
    },
    {
     "title": "DNI Jay Clayton tapped as acting national cyber director",
@@ -145,16 +149,24 @@
    {
     "title": "Average 401(k), IRA balances fall as more workers raid their accounts, Fidelity says",
     "date": "2026-11-23T17:48:58+00:00"
-   },
-   {
-    "title": "Here's where we stand on AMD shares after Jensen Huang's return to Nvidia",
-    "date": "2026-11-23T17:24:41+00:00"
    }
   ],
   "fox": [
    {
     "title": "Americans don’t have to choose between our AI future and ripping off copyright owners",
     "date": "2026-11-25T10:00:00+00:00"
+   },
+   {
+    "title": "Jemele Hill calls planned statue of 'slave-owner' George Washington 'diabolical'",
+    "date": "2026-11-23T19:13:56+00:00"
+   },
+   {
+    "title": "Trump accused of 'socialism, communism' after helping scandal-plagued Nvidia CEO reclaim top job",
+    "date": "2026-11-23T19:11:29+00:00"
+   },
+   {
+    "title": "Trump defends Jensen Huang's credibility, Nvidia's future after board reinstated CEO, says 'sex sells'",
+    "date": "2026-11-23T19:10:29+00:00"
    },
    {
     "title": "Hero riverboat captain describes harrowing rescue after tanker collision in New Orleans",
@@ -187,18 +199,6 @@
    {
     "title": "Knicks' Jalen Brunson fires back at WWE star's critics amid 'overrated' label, talks wrestling fandom",
     "date": "2026-11-23T18:16:19+00:00"
-   },
-   {
-    "title": "Proposed ban on live lobster boiling gets chefs, restaurateurs worked up",
-    "date": "2026-11-23T18:16:13+00:00"
-   },
-   {
-    "title": "Bear swipes hunter's deer before he gets a chance to climb out of his tree stand to retrieve it",
-    "date": "2026-11-23T18:11:52+00:00"
-   },
-   {
-    "title": "Trump admin announces sweeping measure to cut Iran’s ‘last financial lifeline’",
-    "date": "2026-11-23T18:08:49+00:00"
    }
   ]
  }
