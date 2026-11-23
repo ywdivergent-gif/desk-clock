@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T13:14:56.514266+00:00",
+ "updated": "2026-11-23T13:19:56.391491+00:00",
  "feeds": {
   "ynet": [
    {
@@ -7,7 +7,7 @@
     "date": "2026-11-23T12:42:18+00:00"
    },
    {
-    "title": "איזנקוט: לא נתפשר על ועדת חקירה ממלכתית או על שירות לכל",
+    "title": "איזנקוט: לא נתפשר על ועדה ממלכתית או שירות לכל; נתניהו: החרדים צריכים להיות בממשלה",
     "date": "2026-11-23T12:33:58+00:00"
    },
    {
@@ -103,8 +103,20 @@
   ],
   "cnbc": [
    {
+    "title": "Treasury yields jump as stock futures rebound, investors await New York Fed President Williams speech",
+    "date": "2026-11-23T13:18:14+00:00"
+   },
+   {
+    "title": "‘Worst COP ever’: Climate talks collapse after draft deal fails to include fossil fuels",
+    "date": "2026-11-23T13:16:38+00:00"
+   },
+   {
     "title": "Nasdaq 100 futures rebound sharply to rise 3%, kick-starting shortened week after tech rout: Live updates",
-    "date": "2026-11-23T13:08:49+00:00"
+    "date": "2026-11-23T13:15:50+00:00"
+   },
+   {
+    "title": "More Americans pay this Obama-era investment tax every year — how to avoid it",
+    "date": "2026-11-23T13:15:01+00:00"
    },
    {
     "title": "Zelenskyy praises ‘exemplary’ drone operation that sank Russian warship in a Libyan port",
@@ -137,18 +149,6 @@
    {
     "title": "SpaceX shares can rally more than 60% from current levels, says Jefferies",
     "date": "2026-11-23T12:02:24+00:00"
-   },
-   {
-    "title": "The biggest money-making energy trade looks over. What to buy instead",
-    "date": "2026-11-23T12:00:20+00:00"
-   },
-   {
-    "title": "Treasury yields jump as stock futures rebound, investors await New York Fed President Williams speech",
-    "date": "2026-11-23T10:15:19+00:00"
-   },
-   {
-    "title": "‘Worst COP ever’: Climate talks collapse after draft deal fails to include fossil fuels",
-    "date": "2026-11-23T10:13:30+00:00"
    }
   ],
   "fox": [
