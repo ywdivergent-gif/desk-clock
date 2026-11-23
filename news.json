@@ -1,7 +1,11 @@
 {
- "updated": "2026-11-23T21:20:13.023580+00:00",
+ "updated": "2026-11-23T21:25:12.810592+00:00",
  "feeds": {
   "ynet": [
+   {
+    "title": "אירוע חריג במשטרה: מערכות טכנולוגיות חשובות הושבתו מחשש לדליפת מידע",
+    "date": "2026-11-23T21:19:06+00:00"
+   },
    {
     "title": "אחרי כשעתיים: פגישת המו\"מ בין ישר! לליכוד הסתיימה בהודעה לקונית",
     "date": "2026-11-23T19:43:02+00:00"
@@ -45,10 +49,6 @@
    {
     "title": "בשבוע הבא: הכנסת תבחר את מבקר המדינה",
     "date": "2026-11-23T15:23:51+00:00"
-   },
-   {
-    "title": "הלך לעולמו בגיל 102 האלוף במיל' עמוס חורב, שהיה נשיא הטכניון וממקימי רפאל",
-    "date": "2026-11-23T15:16:21+00:00"
    }
   ],
   "ynetnews": [
@@ -103,6 +103,10 @@
   ],
   "cnbc": [
    {
+    "title": "Tech stocks see monster rally after Jensen Huang returns as Nvidia CEO",
+    "date": "2026-11-23T21:22:13+00:00"
+   },
+   {
     "title": "Dow soars 1,400 points; Nasdaq surges 6% in its best day since April 2025 as Jensen Huang returns to Nvidia",
     "date": "2026-11-23T21:10:49+00:00"
    },
@@ -139,10 +143,6 @@
     "date": "2026-11-23T19:34:38+00:00"
    },
    {
-    "title": "Tech stocks rally after Nvidia board approves Jensen Huang's return as CEO",
-    "date": "2026-11-23T19:19:08+00:00"
-   },
-   {
     "title": "DNI Jay Clayton tapped as acting national cyber director",
     "date": "2026-11-23T19:12:49+00:00"
    },
@@ -157,6 +157,10 @@
     "date": "2026-11-25T10:00:00+00:00"
    },
    {
+    "title": "$25 minimum wage backers frame midterms as 'blue-collar wave,' 'mandate' to raise pay",
+    "date": "2026-11-23T21:16:40+00:00"
+   },
+   {
     "title": "Bessent gave Iran weeks before it had ‘nothing left to trade.’ New sanctions expose what survived",
     "date": "2026-11-23T21:12:57+00:00"
    },
@@ -165,7 +169,7 @@
     "date": "2026-11-23T21:11:06+00:00"
    },
    {
-    "title": "Dem lawmaker made 'unwelcome' sexual advances toward congressional staffer, House panel finds",
+    "title": "Dem lawmaker to resign after report says he made 'unwelcome' sexual advances toward staffer",
     "date": "2026-11-23T21:06:34+00:00"
    },
    {
@@ -195,10 +199,6 @@
    {
     "title": "US urges Americans in historic region to stay alert after 'dangerous' airspace incident",
     "date": "2026-11-23T20:05:23+00:00"
-   },
-   {
-    "title": "Bet365 Bonus Code: Bet $10, Get $200 on Monday Night Football, Commanders vs Bengals",
-    "date": "2026-11-23T20:02:26+00:00"
    }
   ]
  }
