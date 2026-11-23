@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T23:50:13.153358+00:00",
+ "updated": "2026-11-23T23:55:12.905424+00:00",
  "feeds": {
   "ynet": [
    {
@@ -103,8 +103,16 @@
   ],
   "cnbc": [
    {
+    "title": "CrowdStrike CEO defends Zscaler acquisition, calls it a 'winning combination'",
+    "date": "2026-11-23T23:53:20+00:00"
+   },
+   {
     "title": "Trump sealed deal for Nvidia to rehire Jensen Huang as CEO",
     "date": "2026-11-23T23:42:17+00:00"
+   },
+   {
+    "title": "Nvidia sets options-trading record after CEO comeback. Here are the big trades",
+    "date": "2026-11-23T23:24:02+00:00"
    },
    {
     "title": "Jim Cramer sees more upside for Nvidia stock with Jensen Huang back as CEO",
@@ -141,20 +149,16 @@
    {
     "title": "Tech stocks see monster rally after Jensen Huang returns as Nvidia CEO",
     "date": "2026-11-23T21:22:13+00:00"
-   },
-   {
-    "title": "Dow soars 1,400 points; Nasdaq surges 6% in its best day since April 2025 as Jensen Huang returns to Nvidia",
-    "date": "2026-11-23T21:10:49+00:00"
-   },
-   {
-    "title": "Jensen Huang reinstated as Nvidia CEO. Stock skyrockets 31%",
-    "date": "2026-11-23T21:08:05+00:00"
    }
   ],
   "fox": [
    {
     "title": "Americans don’t have to choose between our AI future and ripping off copyright owners",
     "date": "2026-11-25T10:00:00+00:00"
+   },
+   {
+    "title": "Venezuelan illegal immigrant arrested in Utah after soliciting assassination of Trump, DHS says",
+    "date": "2026-11-23T23:46:10+00:00"
    },
    {
     "title": "NATO warns Putin could strike before European army responds, points to US as military model",
@@ -195,10 +199,6 @@
    {
     "title": "$25 minimum wage backers frame midterms as 'blue-collar wave,' 'mandate' to raise pay",
     "date": "2026-11-23T21:16:40+00:00"
-   },
-   {
-    "title": "Bessent gave Iran weeks before it had ‘nothing left to trade.’ New sanctions expose what survived",
-    "date": "2026-11-23T21:12:57+00:00"
    }
   ]
  }
