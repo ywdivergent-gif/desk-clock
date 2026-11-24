@@ -1,7 +1,11 @@
 {
- "updated": "2026-11-24T08:15:32.992765+00:00",
+ "updated": "2026-11-24T08:20:33.086003+00:00",
  "feeds": {
   "ynet": [
+   {
+    "title": "המציאות המדאיגה: רוצחי נשים מסתובבים חופשי, עשרות נורו למוות",
+    "date": "2026-11-24T08:12:50+00:00"
+   },
    {
     "title": "\"אכזריות מיוחדת\": פבלו שיסף את צווארה של גרושתו, ורצח אותה לעיני בנם בן ה-6 | אישום",
     "date": "2026-11-24T08:08:34+00:00"
@@ -45,10 +49,6 @@
    {
     "title": "כולנו ביבי",
     "date": "2026-11-23T22:08:00+00:00"
-   },
-   {
-    "title": "אירוע חריג במשטרה: מערכות טכנולוגיות חשובות הושבתו מחשש לדליפת מידע",
-    "date": "2026-11-23T22:06:38+00:00"
    }
   ],
   "ynetnews": [
@@ -103,16 +103,16 @@
   ],
   "cnbc": [
    {
-    "title": "Asian Nvidia-related stocks jump after Huang's return, with Taiwan's near price limits",
-    "date": "2026-11-24T08:13:58+00:00"
+    "title": "Stock futures rise as traders see whether Nvidia can extend rally from Jensen Huang’s return: Live updates",
+    "date": "2026-11-24T08:20:09+00:00"
    },
    {
     "title": "Jensen Huang is ‘too big to fire,’ putting Nvidia’s governance in focus: analysts",
-    "date": "2026-11-24T08:09:55+00:00"
+    "date": "2026-11-24T08:20:01+00:00"
    },
    {
-    "title": "Stock futures rise as traders see whether Nvidia can extend rally from Jensen Huang’s return: Live updates",
-    "date": "2026-11-24T07:54:17+00:00"
+    "title": "Asian Nvidia-related stocks jump after Huang's return, with Taiwan's near price limits",
+    "date": "2026-11-24T08:13:58+00:00"
    },
    {
     "title": "Rene Haas to remain CEO of chipmaker Arm through 2033 amid Nvidia top job chatter",
