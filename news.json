@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T19:50:49.243259+00:00",
+ "updated": "2026-11-24T19:55:49.519384+00:00",
  "feeds": {
   "ynet": [
    {
@@ -123,6 +123,10 @@
     "date": "2026-11-24T19:26:26+00:00"
    },
    {
+    "title": "Gold is doing something strange. Here's one way to play it",
+    "date": "2026-11-24T19:25:13+00:00"
+   },
+   {
     "title": "Who qualifies for Costco’s $30-per-share dividend — plus, Meta puts share plan on hold",
     "date": "2026-11-24T19:23:59+00:00"
    },
@@ -145,16 +149,16 @@
    {
     "title": "Nvidia shares fall 7% as Huang comeback rally cools",
     "date": "2026-11-24T18:30:58+00:00"
-   },
-   {
-    "title": "Op-ed: Trump’s Nvidia board intervention put a price on national security. Our adversaries will take note",
-    "date": "2026-11-24T18:30:06+00:00"
    }
   ],
   "fox": [
    {
     "title": "Americans don’t have to choose between our AI future and ripping off copyright owners",
     "date": "2026-11-25T10:00:00+00:00"
+   },
+   {
+    "title": "Microsoft declares 'Code Red' after historic service outage",
+    "date": "2026-11-24T19:47:52+00:00"
    },
    {
     "title": "Biden admin weighed quitting Twitter after Elon Musk purchase, new HHS doc drop reveals",
@@ -181,7 +185,7 @@
     "date": "2026-11-24T18:55:50+00:00"
    },
    {
-    "title": "LET US KNOW! What’s your favorite Thanksgiving dessert — and do you make it or buy it?",
+    "title": "LET US KNOW! What's your favorite Thanksgiving dessert — and do you make it or buy it?",
     "date": "2026-11-24T18:46:50+00:00"
    },
    {
@@ -195,10 +199,6 @@
    {
     "title": "Boston marks Thanksgiving as ‘Day of Mourning’ while historic Plymouth battles anti-Thanksgiving activists",
     "date": "2026-11-24T18:22:04+00:00"
-   },
-   {
-    "title": "Florida woman rocking 'Retired Drug Dealer' T-shirt got arrested on, you guessed it, several drug charges",
-    "date": "2026-11-24T18:21:07+00:00"
    }
   ]
  }
