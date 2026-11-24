@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T12:30:32.776861+00:00",
+ "updated": "2026-11-24T12:35:32.925079+00:00",
  "feeds": {
   "ynet": [
    {
@@ -43,7 +43,7 @@
     "date": "2026-11-24T10:01:54+00:00"
    },
    {
-    "title": "נשיא העליון דורש תשובות מצה\"ל והמשטרה: הפורעים פועלים כמיליציות תחת עיניכם",
+    "title": "נשיא העליון דורש תשובות מכוחות הביטחון: הפורעים פועלים כמיליציות תחת עיניכם",
     "date": "2026-11-24T09:39:02+00:00"
    },
    {
@@ -103,8 +103,16 @@
   ],
   "cnbc": [
    {
+    "title": "Drugmaker Insmed shares rally 14% after Sanofi agrees to buy it in pharma’s biggest deal in three years",
+    "date": "2026-11-24T12:33:41+00:00"
+   },
+   {
     "title": "Stock futures decline as Nvidia pulls back, giving back part of Monday’s rally: Live updates",
-    "date": "2026-11-24T12:29:32+00:00"
+    "date": "2026-11-24T12:32:24+00:00"
+   },
+   {
+    "title": "Russia accuses NATO member Estonia of hostile actions ‘on the verge of unleashing open war’",
+    "date": "2026-11-24T12:32:24+00:00"
    },
    {
     "title": "Best Buy reports comparable sales growth of 6.1%, highest in five years",
@@ -129,14 +137,6 @@
    {
     "title": "Jensen Huang is ‘too big to fire,’ putting Nvidia’s governance in focus: analysts",
     "date": "2026-11-24T10:56:56+00:00"
-   },
-   {
-    "title": "Drugmaker Insmed shares rally 14% after Sanofi agrees to buy it in pharma’s biggest deal in three years",
-    "date": "2026-11-24T10:50:26+00:00"
-   },
-   {
-    "title": "Asian tech stocks recover from ‘collateral damage’ of Jensen Huang’s departure",
-    "date": "2026-11-24T09:46:01+00:00"
    },
    {
     "title": "Signal joins United Airlines, banks in limiting AI agents over customer risks",
