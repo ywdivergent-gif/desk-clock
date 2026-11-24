@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T03:05:23.659508+00:00",
+ "updated": "2026-11-24T03:10:23.898985+00:00",
  "feeds": {
   "ynet": [
    {
@@ -103,6 +103,10 @@
   ],
   "cnbc": [
    {
+    "title": "Six key questions raised by Jensen Huang's return to Nvidia",
+    "date": "2026-11-24T03:05:49+00:00"
+   },
+   {
     "title": "Stock futures inch higher as traders see whether Nvidia can extend rally from Jensen Huang’s return: Live updates",
     "date": "2026-11-24T02:38:29+00:00"
    },
@@ -145,10 +149,6 @@
    {
     "title": "CNBC's The China Connection newsletter: AI race spreads from robots to smartphones",
     "date": "2026-11-23T23:00:01+00:00"
-   },
-   {
-    "title": "Stocks making the biggest moves Monday: Zoom, Hewlett Packard Enterprise, Agilent & more",
-    "date": "2026-11-23T22:46:25+00:00"
    }
   ],
   "fox": [
