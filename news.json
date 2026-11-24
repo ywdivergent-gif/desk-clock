@@ -1,7 +1,11 @@
 {
- "updated": "2026-11-24T13:00:33.012810+00:00",
+ "updated": "2026-11-24T13:05:32.794664+00:00",
  "feeds": {
   "ynet": [
+   {
+    "title": "האקבי: \"חמאס תוקע את תוכנית עזה. עוד לא מסר אפילו רובה אחד\"",
+    "date": "2026-11-24T12:57:00+00:00"
+   },
    {
     "title": "ההדלפה שחושפת את מחיר הדמים האדיר שפוטין מסתיר: \"נקודת המפנה מתקרבת\"",
     "date": "2026-11-24T12:35:39+00:00"
@@ -31,7 +35,7 @@
     "date": "2026-11-24T10:57:41+00:00"
    },
    {
-    "title": "קודמו \"נלכד במבצע נועז\": ראש מנגנון ביטחון הפנים בחמאס חוסל בעזה",
+    "title": "קודמו \"נלכד במבצע נועז\": ראש מנגנון ביטחון הפנים בחמאס חוסל בעזה | תיעוד",
     "date": "2026-11-24T10:50:16+00:00"
    },
    {
@@ -45,10 +49,6 @@
    {
     "title": "סמוטריץ' לחרדים: \"חבירה לשמאל תתהפך לכם על הראש\" | כך הגיבו ביהדות התורה",
     "date": "2026-11-24T10:01:54+00:00"
-   },
-   {
-    "title": "נשיא העליון דורש תשובות מכוחות הביטחון: הפורעים פועלים כמיליציות תחת עיניכם",
-    "date": "2026-11-24T09:39:02+00:00"
    }
   ],
   "ynetnews": [
@@ -103,6 +103,10 @@
   ],
   "cnbc": [
    {
+    "title": "Commercial real estate activity falls 14% in October, as interest rates rise",
+    "date": "2026-11-24T13:00:01+00:00"
+   },
+   {
     "title": "Stocks making the biggest moves premarket: Nvidia, Anthropic, Best Buy & more",
     "date": "2026-11-24T12:58:18+00:00"
    },
@@ -145,16 +149,16 @@
    {
     "title": "Jensen Huang is ‘too big to fire,’ putting Nvidia’s governance in focus: analysts",
     "date": "2026-11-24T10:56:56+00:00"
-   },
-   {
-    "title": "Signal joins United Airlines, banks in limiting AI agents over customer risks",
-    "date": "2026-11-24T07:25:41+00:00"
    }
   ],
   "fox": [
    {
     "title": "Americans don’t have to choose between our AI future and ripping off copyright owners",
     "date": "2026-11-25T10:00:00+00:00"
+   },
+   {
+    "title": "Boy leads girls' team to third straight field hockey state title; coach (his mom) says Massachusetts hates her",
+    "date": "2026-11-24T13:00:43+00:00"
    },
    {
     "title": "Nick Foles breaks downs Rams-Packers matchup for first-ever NFL Thanksgiving Eve game",
@@ -195,10 +199,6 @@
    {
     "title": "Trump was 'gangbusters' to take stunner at WrestleMania, WWE legend 'Stone Cold' Steve Austin says",
     "date": "2026-11-24T11:50:16+00:00"
-   },
-   {
-    "title": "Faith, family and lots of football in next six days; Jameson celebrates airborne; Coen says he'd go but didn't",
-    "date": "2026-11-24T11:38:54+00:00"
    }
   ]
  }
