@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T19:40:49.139448+00:00",
+ "updated": "2026-11-24T19:45:49.403456+00:00",
  "feeds": {
   "ynet": [
    {
@@ -103,6 +103,10 @@
   ],
   "cnbc": [
    {
+    "title": "Jensen Huang tells staff that Nvidia doesn't need a succession plan",
+    "date": "2026-11-24T19:44:34+00:00"
+   },
+   {
     "title": "Retail turnarounds are taking hold just in time for the holiday season",
     "date": "2026-11-24T19:26:39+00:00"
    },
@@ -113,10 +117,6 @@
    {
     "title": "Anthropic shares fall below IPO price. Traders see even more pain",
     "date": "2026-11-24T19:26:21+00:00"
-   },
-   {
-    "title": "Jensen Huang tells staff that Nvidia doesn't need a succession plan",
-    "date": "2026-11-24T19:26:20+00:00"
    },
    {
     "title": "Who qualifies for Costco’s $30-per-share dividend — plus, Meta puts share plan on hold",
@@ -157,6 +157,14 @@
     "date": "2026-11-25T10:00:00+00:00"
    },
    {
+    "title": "Biden admin weighed quitting Twitter after Elon Musk purchase, new HHS doc drop reveals",
+    "date": "2026-11-24T19:37:16+00:00"
+   },
+   {
+    "title": "49ers' Kyle Juszczyk has strong message for women as he honors late mother-in-law with special cleats",
+    "date": "2026-11-24T19:36:20+00:00"
+   },
+   {
     "title": "Orioles agree to $125 million deal with Rays' postseason hero Freddy Peralta in free agency splash: report",
     "date": "2026-11-24T19:29:39+00:00"
    },
@@ -191,14 +199,6 @@
    {
     "title": "Florida woman rocking 'Retired Drug Dealer' T-shirt got arrested on, you guessed it, several drug charges",
     "date": "2026-11-24T18:21:07+00:00"
-   },
-   {
-    "title": "TNA's KC Navarro finally gets to meet Amazing Red one-on-one with X Division Championship on the line",
-    "date": "2026-11-24T18:20:43+00:00"
-   },
-   {
-    "title": "McDonald's taps into Grand Theft Auto hype with Discord ordering feature as experts share concerns",
-    "date": "2026-11-24T18:09:40+00:00"
    }
   ]
  }
