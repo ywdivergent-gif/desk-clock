@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T00:25:13.547866+00:00",
+ "updated": "2026-11-24T00:30:12.947409+00:00",
  "feeds": {
   "ynet": [
    {
@@ -103,6 +103,14 @@
   ],
   "cnbc": [
    {
+    "title": "Nvidia partner and supplier stocks in Asia jump after Jensen Huang's return",
+    "date": "2026-11-24T00:24:51+00:00"
+   },
+   {
+    "title": "Nasdaq-100 futures dip as traders assess whether if Nvidia can build on rebound from Jensen Huang’s return: Live updates",
+    "date": "2026-11-24T00:18:16+00:00"
+   },
+   {
     "title": "CrowdStrike CEO defends Zscaler acquisition, calls it a 'winning combination'",
     "date": "2026-11-23T23:53:20+00:00"
    },
@@ -141,20 +149,16 @@
    {
     "title": "CNBC Points Pro: Should I keep or cancel my Amex Platinum Card?",
     "date": "2026-11-23T21:58:28+00:00"
-   },
-   {
-    "title": "ESPN, NFL to show Super Bowl 61 in Imax theaters",
-    "date": "2026-11-23T21:55:27+00:00"
-   },
-   {
-    "title": "Tech stocks see monster rally after Jensen Huang returns as Nvidia CEO",
-    "date": "2026-11-23T21:22:13+00:00"
    }
   ],
   "fox": [
    {
     "title": "Americans don’t have to choose between our AI future and ripping off copyright owners",
     "date": "2026-11-25T10:00:00+00:00"
+   },
+   {
+    "title": "FIFA awards 2031 Women's World Cup to the United States with major revenue expectations leading the way",
+    "date": "2026-11-24T00:22:19+00:00"
    },
    {
     "title": "Fiona the hippo's tragic death prompts Cincinnati Zoo to install new safeguards at Hippo Cove",
@@ -195,10 +199,6 @@
    {
     "title": "Former Navy SEAL says New Jersey’s Islamophobia bill puts protected speech in the crosshairs",
     "date": "2026-11-23T22:14:56+00:00"
-   },
-   {
-    "title": "With Skubal signing, the New York Mets should have bought themselves the 2027 World Series title | Ian Miller",
-    "date": "2026-11-23T21:37:45+00:00"
    }
   ]
  }
