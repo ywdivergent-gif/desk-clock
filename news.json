@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T17:25:41.551397+00:00",
+ "updated": "2026-11-24T17:30:41.483578+00:00",
  "feeds": {
   "ynet": [
    {
@@ -103,6 +103,14 @@
   ],
   "cnbc": [
    {
+    "title": "Anthropic sinks 8%, falling below $83 IPO price, but analysts are still largely positive",
+    "date": "2026-11-24T17:30:26+00:00"
+   },
+   {
+    "title": "AG Blanche, FBI’s Patel dodge questions about Jensen Huang investigation",
+    "date": "2026-11-24T17:27:40+00:00"
+   },
+   {
     "title": "Stocks making the biggest moves midday: Dick's Sporting Goods, Analog Devices, Nvidia, Pinterest & more",
     "date": "2026-11-24T17:24:42+00:00"
    },
@@ -111,8 +119,8 @@
     "date": "2026-11-24T17:22:30+00:00"
    },
    {
-    "title": "Anthropic sinks 12%, falling below $83 IPO price, but analysts are still largely positive",
-    "date": "2026-11-24T16:48:49+00:00"
+    "title": "Jim Cramer says ‘the time is now’ to put sidelined cash to work",
+    "date": "2026-11-24T17:04:03+00:00"
    },
    {
     "title": "Jensen Huang to face DC grilling the same day Nvidia releases new products at GTC",
@@ -139,22 +147,18 @@
     "date": "2026-11-24T15:25:37+00:00"
    },
    {
-    "title": "What Jensen Huang’s return means for Nvidia’s Colette Kress",
-    "date": "2026-11-24T15:19:46+00:00"
-   },
-   {
     "title": "Commercial real estate activity falls 14% in October, as interest rates rise",
     "date": "2026-11-24T15:05:14+00:00"
-   },
-   {
-    "title": "Nvidia brought Jensen Huang back. But the investigations aren’t over",
-    "date": "2026-11-24T15:03:36+00:00"
    }
   ],
   "fox": [
    {
     "title": "Americans don’t have to choose between our AI future and ripping off copyright owners",
     "date": "2026-11-25T10:00:00+00:00"
+   },
+   {
+    "title": "Biden's first-year fundraising fails to crack 1% of Obama's library haul as questions swirl over legacy",
+    "date": "2026-11-24T17:28:35+00:00"
    },
    {
     "title": "'Worst nightmare' as Delta flight comes to sudden halt due to cabin disruption",
@@ -195,10 +199,6 @@
    {
     "title": "BetMGM Bonus Code FOXNEWS: Unlock $1500 in First Bet Cover for Tuesday's Three-Game NBA Cup Slate",
     "date": "2026-11-24T16:08:22+00:00"
-   },
-   {
-    "title": "Body washed ashore in Oregon identified as former city councilor missing since September plane crash",
-    "date": "2026-11-24T16:04:40+00:00"
    }
   ]
  }
