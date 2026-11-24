@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T21:00:50.037295+00:00",
+ "updated": "2026-11-24T21:05:48.514709+00:00",
  "feeds": {
   "ynet": [
    {
@@ -103,6 +103,14 @@
   ],
   "cnbc": [
    {
+    "title": "Anthropic closes below $83 IPO price, but analysts are still largely positive",
+    "date": "2026-11-24T21:04:03+00:00"
+   },
+   {
+    "title": "Nasdaq slumps about 1.5% as Nvidia comeback reverses course and Anthropic breaks IPO price: Live updates",
+    "date": "2026-11-24T21:03:13+00:00"
+   },
+   {
     "title": "Utah drops criminal charges against Kalshi founders after company suspended operations in state",
     "date": "2026-11-24T20:45:57+00:00"
    },
@@ -141,20 +149,16 @@
    {
     "title": "Who qualifies for Costco’s $30-per-share dividend — plus, Meta puts share plan on hold",
     "date": "2026-11-24T19:23:59+00:00"
-   },
-   {
-    "title": "AG Blanche, FBI’s Patel dodge questions about Jensen Huang investigation",
-    "date": "2026-11-24T19:19:12+00:00"
-   },
-   {
-    "title": "Investors are fleeing this data center stock. I see an opportunity",
-    "date": "2026-11-24T19:15:12+00:00"
    }
   ],
   "fox": [
    {
     "title": "Americans don’t have to choose between our AI future and ripping off copyright owners",
     "date": "2026-11-25T10:00:00+00:00"
+   },
+   {
+    "title": "NATO fighter jet cleared to shoot down Russian missile over Poland as Warsaw pushes for US troops",
+    "date": "2026-11-24T20:56:51+00:00"
    },
    {
     "title": "CIA hit by cyber breach that exposed unclassified data on intelligence analysis network: sources",
@@ -195,10 +199,6 @@
    {
     "title": "Bruce Pearl joins Dan Dakich to weigh in on messy LSU situation: 'Go to another league'",
     "date": "2026-11-24T20:11:14+00:00"
-   },
-   {
-    "title": "Microsoft declares 'Code Red' after historic service outage",
-    "date": "2026-11-24T19:47:52+00:00"
    }
   ]
  }
