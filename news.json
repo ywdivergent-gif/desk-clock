@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T21:35:48.511726+00:00",
+ "updated": "2026-11-24T21:40:48.639341+00:00",
  "feeds": {
   "ynet": [
    {
@@ -103,6 +103,10 @@
   ],
   "cnbc": [
    {
+    "title": "Dell earnings beat on AI strength, company authorizes $25 billion buyback",
+    "date": "2026-11-24T21:29:03+00:00"
+   },
+   {
     "title": "Nasdaq slumps about 1.5% as Nvidia comeback reverses course and Anthropic breaks IPO price: Live updates",
     "date": "2026-11-24T21:16:50+00:00"
    },
@@ -145,10 +149,6 @@
    {
     "title": "Buffer ETFs protect investors from the harshest market swings – for a price",
     "date": "2026-11-24T19:27:25+00:00"
-   },
-   {
-    "title": "Retail turnarounds are taking hold just in time for the holiday season",
-    "date": "2026-11-24T19:26:39+00:00"
    }
   ],
   "fox": [
