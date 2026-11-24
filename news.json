@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T15:55:41.320152+00:00",
+ "updated": "2026-11-24T16:00:41.682859+00:00",
  "feeds": {
   "ynet": [
    {
@@ -107,8 +107,16 @@
     "date": "2026-11-24T15:49:27+00:00"
    },
    {
+    "title": "Amtrak sets ridership record as rising gas prices encourage Americans to travel by rail",
+    "date": "2026-11-24T15:49:05+00:00"
+   },
+   {
     "title": "Anthropic stock falls below $83 IPO price, but analysts are still largely positive",
     "date": "2026-11-24T15:47:46+00:00"
+   },
+   {
+    "title": "Jensen Huang faces DC grilling the same day Nvidia releases new products at GTC",
+    "date": "2026-11-24T15:47:17+00:00"
    },
    {
     "title": "Nvidia shares fall over 5% after Huang comeback rally",
@@ -141,20 +149,20 @@
    {
     "title": "Best Buy reports comparable sales growth of 6.1%, highest in five years",
     "date": "2026-11-24T14:51:58+00:00"
-   },
-   {
-    "title": "Signal joins United Airlines, banks in limiting AI agents over customer risks",
-    "date": "2026-11-24T14:46:01+00:00"
-   },
-   {
-    "title": "Monday’s huge stock rally was a rare event. Here’s what could happen next",
-    "date": "2026-11-24T14:27:27+00:00"
    }
   ],
   "fox": [
    {
     "title": "Americans don’t have to choose between our AI future and ripping off copyright owners",
     "date": "2026-11-25T10:00:00+00:00"
+   },
+   {
+    "title": "Child abduction survivor Elizabeth Smart says she was 'just the first of the seven' girls targeted",
+    "date": "2026-11-24T15:50:14+00:00"
+   },
+   {
+    "title": "Lindsay Clancy prosecutors ask court to delay her retrial in children's stranglings",
+    "date": "2026-11-24T15:47:37+00:00"
    },
    {
     "title": "Ex- Ukraine prosecutor general accuses Zelenskyy's office of interfering in anti-corruption investigation",
@@ -191,14 +199,6 @@
    {
     "title": "Ilhan Omar records show judge, DOJ officials debating before raid of home",
     "date": "2026-11-24T15:22:21+00:00"
-   },
-   {
-    "title": "Former Florida mayor urges American Jews to fight back against rising antisemitism",
-    "date": "2026-11-24T15:13:58+00:00"
-   },
-   {
-    "title": "Arizona Wildcats favored by over 7 points against Providence as college basketball action heats up",
-    "date": "2026-11-24T15:05:58+00:00"
    }
   ]
  }
