@@ -1,7 +1,11 @@
 {
- "updated": "2026-11-24T10:25:32.917028+00:00",
+ "updated": "2026-11-24T10:30:33.491657+00:00",
  "feeds": {
   "ynet": [
+   {
+    "title": "השר לשעבר יצחק לוי הלך לעולמו בגיל 79",
+    "date": "2026-11-24T10:23:47+00:00"
+   },
    {
     "title": "ילדיו של אלוף עמוס חורב נפרדים: \"קיווה שלא ישכחו את מה שעשה למען המדינה\"",
     "date": "2026-11-24T10:15:17+00:00"
@@ -45,13 +49,13 @@
    {
     "title": "מלחמת אוקראינה: החזית קפואה, המלחמה בוערת",
     "date": "2026-11-24T04:46:16+00:00"
-   },
-   {
-    "title": "אחרי ניתוחים כושלים בסוריה, בת ה-13 שבה ללכת בישראל: \"כמעט נשארה נכה\"",
-    "date": "2026-11-24T04:21:17+00:00"
    }
   ],
   "ynetnews": [
+   {
+    "title": "Israel’s chief justice likens settler rioters to militias, demands answers from IDF and police",
+    "date": "2026-11-24T10:29:12+00:00"
+   },
    {
     "title": "Ukraine’s frozen front, burning skies: Putin’s gamble on another brutal winter",
     "date": "2026-11-24T08:29:52+00:00"
@@ -95,10 +99,6 @@
    {
     "title": "Bennett warns Netanyahu against blocking unity government as Eisenkot races to form coalition",
     "date": "2026-11-23T16:34:45+00:00"
-   },
-   {
-    "title": "‘Arrest Dedi Barnea’: German group files war crimes complaint over Hezbollah pager attack",
-    "date": "2026-11-23T16:22:36+00:00"
    }
   ],
   "cnbc": [
