@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T15:35:41.335367+00:00",
+ "updated": "2026-11-24T15:40:41.716889+00:00",
  "feeds": {
   "ynet": [
    {
@@ -103,6 +103,14 @@
   ],
   "cnbc": [
    {
+    "title": "Nvidia shares fall over 5% after Huang comeback rally",
+    "date": "2026-11-24T15:36:34+00:00"
+   },
+   {
+    "title": "Kushner-backed OakNorth secures U.S. bank charter as global digital banks push into America",
+    "date": "2026-11-24T15:34:10+00:00"
+   },
+   {
     "title": "Quitting can actually be the key to success, says expert: It's one of the 'most courageous moves you can make'",
     "date": "2026-11-24T15:25:37+00:00"
    },
@@ -135,26 +143,26 @@
     "date": "2026-11-24T14:46:01+00:00"
    },
    {
-    "title": "Nvidia shares fall over 5% after Huang comeback rally",
-    "date": "2026-11-24T14:43:53+00:00"
-   },
-   {
     "title": "Drugmaker Insmed shares rally 14% after Sanofi agrees to buy it in pharma’s biggest deal in three years",
     "date": "2026-11-24T14:35:05+00:00"
    },
    {
     "title": "Monday’s huge stock rally was a rare event. Here’s what could happen next",
     "date": "2026-11-24T14:27:27+00:00"
-   },
-   {
-    "title": "Jim Cramer's top 10 things to watch in the stock market Tuesday",
-    "date": "2026-11-24T13:53:37+00:00"
    }
   ],
   "fox": [
    {
     "title": "Americans don’t have to choose between our AI future and ripping off copyright owners",
     "date": "2026-11-25T10:00:00+00:00"
+   },
+   {
+    "title": "Tiger Woods is melting balls, Marco Penge ends nightmare year with maiden victory and guys without a job",
+    "date": "2026-11-24T15:33:09+00:00"
+   },
+   {
+    "title": "Leafs star Auston Matthews couldn't hide his confusion after singer muffs 'O Canada' lyrics",
+    "date": "2026-11-24T15:29:07+00:00"
    },
    {
     "title": "Betr Promo Code FOXNEWS: Get $200 in Bonuses and 4x Free Picks for Any NBA Cup Game Tonight",
@@ -191,14 +199,6 @@
    {
     "title": "Country singer Drake White admits he still fears another stroke seven years after nearly dying",
     "date": "2026-11-24T15:00:48+00:00"
-   },
-   {
-    "title": "Chicago's biggest welfare recipients are the politicians at City Hall",
-    "date": "2026-11-24T15:00:19+00:00"
-   },
-   {
-    "title": "Costs to skyrocket for tourists in major city as popular destination battles crowds",
-    "date": "2026-11-24T15:00:01+00:00"
    }
   ]
  }
