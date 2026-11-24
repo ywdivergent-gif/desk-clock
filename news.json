@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T13:10:33.103279+00:00",
+ "updated": "2026-11-24T13:15:32.828865+00:00",
  "feeds": {
   "ynet": [
    {
@@ -103,6 +103,10 @@
   ],
   "cnbc": [
    {
+    "title": "Stock futures decline as Nvidia pulls back, giving back part of Monday’s rally: Live updates",
+    "date": "2026-11-24T13:11:44+00:00"
+   },
+   {
     "title": "Property Play: Commercial real estate activity falls 14% in October, as interest rates rise",
     "date": "2026-11-24T13:05:43+00:00"
    },
@@ -117,10 +121,6 @@
    {
     "title": "Anthropic has room to run despite volatile start as public company, Wedbush says",
     "date": "2026-11-24T12:50:31+00:00"
-   },
-   {
-    "title": "Stock futures decline as Nvidia pulls back, giving back part of Monday’s rally: Live updates",
-    "date": "2026-11-24T12:37:27+00:00"
    },
    {
     "title": "Drugmaker Insmed shares rally 14% after Sanofi agrees to buy it in pharma’s biggest deal in three years",
@@ -155,6 +155,10 @@
    {
     "title": "Americans don’t have to choose between our AI future and ripping off copyright owners",
     "date": "2026-11-25T10:00:00+00:00"
+   },
+   {
+    "title": "Intruders break into Prince William and Kate Middleton’s country home in royal security breach: report",
+    "date": "2026-11-24T13:10:11+00:00"
    },
    {
     "title": "Boy leads girls' team to third straight field hockey state title; coach (his mom) says Massachusetts hates her",
@@ -195,10 +199,6 @@
    {
     "title": "Unsealed Ilhan Omar warrant docs expose decades-long scope of probe into Democrat rep and more top headlines",
     "date": "2026-11-24T11:55:03+00:00"
-   },
-   {
-    "title": "Trump was 'gangbusters' to take stunner at WrestleMania, WWE legend 'Stone Cold' Steve Austin says",
-    "date": "2026-11-24T11:50:16+00:00"
    }
   ]
  }
