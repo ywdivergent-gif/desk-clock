@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T15:15:42.216043+00:00",
+ "updated": "2026-11-24T15:20:41.685957+00:00",
  "feeds": {
   "ynet": [
    {
@@ -103,6 +103,10 @@
   ],
   "cnbc": [
    {
+    "title": "What Jensen Huang’s return means for Nvidia’s Colette Kress",
+    "date": "2026-11-24T15:19:46+00:00"
+   },
+   {
     "title": "Anthropic stock falls below $83 IPO price, but analysts are still largely positive",
     "date": "2026-11-24T15:14:23+00:00"
    },
@@ -145,10 +149,6 @@
    {
     "title": "Russia accuses NATO member Estonia of hostile actions ‘on the verge of unleashing open war’",
     "date": "2026-11-24T13:42:55+00:00"
-   },
-   {
-    "title": "Here are Tuesday's biggest analyst calls: Anthropic, SpaceX, Nvidia, Tesla, Boeing, JetBlue & more",
-    "date": "2026-11-24T13:35:07+00:00"
    }
   ],
   "fox": [
