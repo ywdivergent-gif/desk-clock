@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T11:55:32.797767+00:00",
+ "updated": "2026-11-24T12:00:32.878629+00:00",
  "feeds": {
   "ynet": [
    {
@@ -103,6 +103,10 @@
   ],
   "cnbc": [
    {
+    "title": "U.S. court clears the way for Army’s planned ammunition detonation in Iowa",
+    "date": "2026-11-24T11:56:49+00:00"
+   },
+   {
     "title": "Stock futures decline as Nvidia pulls back, giving back part of Monday’s rally: Live updates",
     "date": "2026-11-24T11:51:11+00:00"
    },
@@ -143,10 +147,6 @@
     "date": "2026-11-24T04:27:38+00:00"
    },
    {
-    "title": "U.S. court orders to proceed with planned ammunition detonation in Iowa",
-    "date": "2026-11-24T03:32:26+00:00"
-   },
-   {
     "title": "U.S. adds Megaspeed to trade blacklist over export control concerns amid Nvidia controversy",
     "date": "2026-11-24T02:37:39+00:00"
    }
@@ -155,6 +155,10 @@
    {
     "title": "Americans don’t have to choose between our AI future and ripping off copyright owners",
     "date": "2026-11-25T10:00:00+00:00"
+   },
+   {
+    "title": "Unsealed Ilhan Omar warrant docs expose decades-long scope of probe into Democrat rep and more top headlines",
+    "date": "2026-11-24T11:55:03+00:00"
    },
    {
     "title": "Trump was 'gangbusters' to take stunner at WrestleMania, WWE legend 'Stone Cold' Steve Austin says",
@@ -195,10 +199,6 @@
    {
     "title": "Massachusetts sues Trump admin to stop ICE's courthouse arrests: 'Unnecessary fear'",
     "date": "2026-11-24T06:16:28+00:00"
-   },
-   {
-    "title": "Trump's Nixon-to-China moment: There's an immigration move only he can make",
-    "date": "2026-11-24T05:06:19+00:00"
    }
   ]
  }
