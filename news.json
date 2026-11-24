@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T09:45:32.936234+00:00",
+ "updated": "2026-11-24T09:50:32.789812+00:00",
  "feeds": {
   "ynet": [
    {
@@ -104,7 +104,11 @@
   "cnbc": [
    {
     "title": "Nvidia shares fall 4% in premarket after Huang comeback rally",
-    "date": "2026-11-24T09:41:02+00:00"
+    "date": "2026-11-24T09:49:11+00:00"
+   },
+   {
+    "title": "Asian tech stocks recover from ‘collateral damage’ of Jensen Huang’s departure",
+    "date": "2026-11-24T09:46:01+00:00"
    },
    {
     "title": "Nasdaq futures turn lower after Nvidia rally as Jensen Huang returns: Live updates",
@@ -113,10 +117,6 @@
    {
     "title": "Jensen Huang is ‘too big to fire,’ putting Nvidia’s governance in focus: analysts",
     "date": "2026-11-24T08:35:16+00:00"
-   },
-   {
-    "title": "Asian Nvidia-related stocks jump after Huang's return, with Taiwan's near price limits",
-    "date": "2026-11-24T08:13:58+00:00"
    },
    {
     "title": "Rene Haas to remain CEO of chipmaker Arm through 2033 amid Nvidia top job chatter",
