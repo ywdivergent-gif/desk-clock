@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T23:10:48.524158+00:00",
+ "updated": "2026-11-24T23:15:48.682012+00:00",
  "feeds": {
   "ynet": [
    {
@@ -103,12 +103,16 @@
   ],
   "cnbc": [
    {
-    "title": "Kalshi daily volume of ‘perps’ trading begins to top its prediction markets",
-    "date": "2026-11-24T23:03:24+00:00"
+    "title": "Stocks making the biggest moves Tuesday: Ambarella, Dell, Autodesk, Urban Outfitters & more",
+    "date": "2026-11-24T23:14:03+00:00"
    },
    {
-    "title": "Stocks making the biggest moves after hours: Ambarella, Dell, Autodesk, Urban Outfitters & more",
-    "date": "2026-11-24T22:49:24+00:00"
+    "title": "Jensen Huang tells staff that Nvidia doesn't need a succession plan",
+    "date": "2026-11-24T23:13:49+00:00"
+   },
+   {
+    "title": "Kalshi daily volume of ‘perps’ trading begins to top its prediction markets",
+    "date": "2026-11-24T23:03:24+00:00"
    },
    {
     "title": "Trump Account contributions from friends and family pass $1 billion mark, Treasury says",
@@ -145,16 +149,16 @@
    {
     "title": "Utah drops criminal charges against Kalshi founders after company suspended operations in state",
     "date": "2026-11-24T20:45:57+00:00"
-   },
-   {
-    "title": "Jensen Huang tells staff that Nvidia doesn't need a succession plan",
-    "date": "2026-11-24T20:42:07+00:00"
    }
   ],
   "fox": [
    {
     "title": "Americans don’t have to choose between our AI future and ripping off copyright owners",
     "date": "2026-11-25T10:00:00+00:00"
+   },
+   {
+    "title": "Thomas Markle, estranged father of Meghan Markle, indicted on child pornography charges",
+    "date": "2026-11-24T23:06:05+00:00"
    },
    {
     "title": "Apple's AirPods Pro 3 drops to $149 during this Black Friday sale",
@@ -195,10 +199,6 @@
    {
     "title": "Israel raises prospect of preemptive strike over emerging Iranian chemical weapons threat",
     "date": "2026-11-24T22:01:25+00:00"
-   },
-   {
-    "title": "Dax Shepard brands college an 'elaborate racket,' predicts tradesmen will get 'last laugh'",
-    "date": "2026-11-24T21:57:05+00:00"
    }
   ]
  }
