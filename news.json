@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T12:15:32.951645+00:00",
+ "updated": "2026-11-24T12:20:33.104578+00:00",
  "feeds": {
   "ynet": [
    {
@@ -103,10 +103,6 @@
   ],
   "cnbc": [
    {
-    "title": "Does the Nvidia-led rip mark the market bottom? Maybe not",
-    "date": "2026-11-24T12:10:59+00:00"
-   },
-   {
     "title": "Best Buy reports comparable sales growth of 6.1%, highest in five years",
     "date": "2026-11-24T12:06:04+00:00"
    },
@@ -149,12 +145,20 @@
    {
     "title": "Six key questions raised by Jensen Huang's return to Nvidia",
     "date": "2026-11-24T07:12:33+00:00"
+   },
+   {
+    "title": "AI adoption grows in Asia, but measuring the gains remains tricky",
+    "date": "2026-11-24T05:07:16+00:00"
    }
   ],
   "fox": [
    {
     "title": "Americans don’t have to choose between our AI future and ripping off copyright owners",
     "date": "2026-11-25T10:00:00+00:00"
+   },
+   {
+    "title": "NCAA ends mandatory off-day media access before the women’s Elite Eight but keeps it for men",
+    "date": "2026-11-24T12:15:26+00:00"
    },
    {
     "title": "DK Metcalf's tantrums are hurting his team as he acts like everyone else is the problem | Matt Calkins",
@@ -195,10 +199,6 @@
    {
     "title": "Ethanol plant worker caught with bomb files, batteries, map in plot that could have killed thousands: feds",
     "date": "2026-11-24T11:00:53+00:00"
-   },
-   {
-    "title": "Turkey farmer dishes on preparing birds for Trump's Thanksgiving presidential pardon",
-    "date": "2026-11-24T11:00:30+00:00"
    }
   ]
  }
