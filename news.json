@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T07:25:23.569678+00:00",
+ "updated": "2026-11-24T07:30:23.803292+00:00",
  "feeds": {
   "ynet": [
    {
@@ -103,6 +103,10 @@
   ],
   "cnbc": [
    {
+    "title": "Asian Nvidia-related stocks jump after Huang's return, with Taiwan's near price limits",
+    "date": "2026-11-24T07:27:15+00:00"
+   },
+   {
     "title": "Six key questions raised by Jensen Huang's return to Nvidia",
     "date": "2026-11-24T07:12:33+00:00"
    },
@@ -141,10 +145,6 @@
    {
     "title": "U.S. adds Megaspeed to trade blacklist over export control concerns amid Nvidia controversy",
     "date": "2026-11-24T02:37:39+00:00"
-   },
-   {
-    "title": "Asian Nvidia-related stocks jump after Huang's return, with Taiwan's near price limits",
-    "date": "2026-11-24T02:20:36+00:00"
    },
    {
     "title": "Amazon faces FAA probe after delivery drone strikes Michigan fiber cable, garage",
