@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T15:30:41.511315+00:00",
+ "updated": "2026-11-24T15:35:41.335367+00:00",
  "feeds": {
   "ynet": [
    {
@@ -103,6 +103,10 @@
   ],
   "cnbc": [
    {
+    "title": "Quitting can actually be the key to success, says expert: It's one of the 'most courageous moves you can make'",
+    "date": "2026-11-24T15:25:37+00:00"
+   },
+   {
     "title": "Anthropic stock falls below $83 IPO price, but analysts are still largely positive",
     "date": "2026-11-24T15:22:29+00:00"
    },
@@ -145,16 +149,32 @@
    {
     "title": "Jim Cramer's top 10 things to watch in the stock market Tuesday",
     "date": "2026-11-24T13:53:37+00:00"
-   },
-   {
-    "title": "Russia accuses NATO member Estonia of hostile actions ‘on the verge of unleashing open war’",
-    "date": "2026-11-24T13:42:55+00:00"
    }
   ],
   "fox": [
    {
     "title": "Americans don’t have to choose between our AI future and ripping off copyright owners",
     "date": "2026-11-25T10:00:00+00:00"
+   },
+   {
+    "title": "Betr Promo Code FOXNEWS: Get $200 in Bonuses and 4x Free Picks for Any NBA Cup Game Tonight",
+    "date": "2026-11-24T15:28:15+00:00"
+   },
+   {
+    "title": "Alleged drunken driver was over 3 times the limit when he killed newly engaged woman days after jail release",
+    "date": "2026-11-24T15:26:05+00:00"
+   },
+   {
+    "title": "Controlled Iowa munitions detonation better than ‘worst-case scenario,’ acting Army secretary says",
+    "date": "2026-11-24T15:25:49+00:00"
+   },
+   {
+    "title": "Underdog Promo Code FOXNEWS: Play $10, Get $50 on Tuesday's NBA Cup Triple-Header",
+    "date": "2026-11-24T15:23:45+00:00"
+   },
+   {
+    "title": "Ilhan Omar records show judge, DOJ officials debating before raid of home",
+    "date": "2026-11-24T15:22:21+00:00"
    },
    {
     "title": "Former Florida mayor urges American Jews to fight back against rising antisemitism",
@@ -179,26 +199,6 @@
    {
     "title": "Costs to skyrocket for tourists in major city as popular destination battles crowds",
     "date": "2026-11-24T15:00:01+00:00"
-   },
-   {
-    "title": "Sen-elect Julia Letlow announces marriage: 'We feel so blessed to have found one another'",
-    "date": "2026-11-24T14:56:53+00:00"
-   },
-   {
-    "title": "Iran flogs female singer 74 times for performing without hijab in viral YouTube concert",
-    "date": "2026-11-24T14:55:27+00:00"
-   },
-   {
-    "title": "Trump to award Giuliani Presidential Medal of Freedom",
-    "date": "2026-11-24T14:47:59+00:00"
-   },
-   {
-    "title": "Pearl Jam decries ICE's 'systemic abuse' after 'heartbreaking' Seattle airport arrest",
-    "date": "2026-11-24T14:29:44+00:00"
-   },
-   {
-    "title": "Commanders cheerleader leaves the internet stunned after MNF breakout performance, Hogan's boot & snow game?",
-    "date": "2026-11-24T14:17:08+00:00"
    }
   ]
  }
