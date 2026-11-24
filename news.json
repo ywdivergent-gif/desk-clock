@@ -1,7 +1,11 @@
 {
- "updated": "2026-11-24T18:55:41.364158+00:00",
+ "updated": "2026-11-24T19:00:41.712364+00:00",
  "feeds": {
   "ynet": [
+   {
+    "title": "בדרך ל\"מדינה מוקצית\": הנזק לישראל בהתנגשות עם ממשל טראמפ - והתשובות שלה",
+    "date": "2026-11-24T18:56:31+00:00"
+   },
    {
     "title": "חימום מנועים במו\"מ: יהדות התורה מגבשת צוות לשיחות רשמיות עם איזנקוט",
     "date": "2026-11-24T17:48:54+00:00"
@@ -45,10 +49,6 @@
    {
     "title": "יועמ\"שית הכנסת: מותר לכנות ח\"כ תומך טרור; חזרה שיטתית לצד גידופים - אסורה",
     "date": "2026-11-24T14:21:39+00:00"
-   },
-   {
-    "title": "אין קצה חוט בחקירת הפיצוץ שבו נרצחה האם: \"כתבתי 'הפכנו לאמריקה' ואז גיליתי שזו אשתי\"",
-    "date": "2026-11-24T14:19:09+00:00"
    }
   ],
   "ynetnews": [
@@ -103,8 +103,16 @@
   ],
   "cnbc": [
    {
+    "title": "Kalshi daily volume of ‘perps’ trading begins to top its prediction markets",
+    "date": "2026-11-24T18:34:55+00:00"
+   },
+   {
     "title": "Consumer confidence shoots up after Democrats' midterm victories — though inflation worries persist",
     "date": "2026-11-24T18:34:43+00:00"
+   },
+   {
+    "title": "Katie Stockton sees a comeback ahead for this beaten-down tech stock",
+    "date": "2026-11-24T18:32:32+00:00"
    },
    {
     "title": "Nvidia shares fall 7% as Huang comeback rally cools",
@@ -113,6 +121,10 @@
    {
     "title": "Op-ed: Trump’s Nvidia board intervention put a price on national security. Our adversaries will take note",
     "date": "2026-11-24T18:30:06+00:00"
+   },
+   {
+    "title": "Utah drops criminal charges against Kalshi founders after company suspended operations in state",
+    "date": "2026-11-24T18:28:33+00:00"
    },
    {
     "title": "Retail turnarounds are taking hold just in time for the holiday season",
@@ -137,18 +149,6 @@
    {
     "title": "Jensen Huang to face DC grilling the same day Nvidia releases new products at GTC",
     "date": "2026-11-24T17:51:45+00:00"
-   },
-   {
-    "title": "Anthropic sinks 8%, falling below $83 IPO price, but analysts are still largely positive",
-    "date": "2026-11-24T17:30:26+00:00"
-   },
-   {
-    "title": "Waymo says recall prompted by 11 new incidents of robotaxis entering closed freeway lanes",
-    "date": "2026-11-24T17:28:37+00:00"
-   },
-   {
-    "title": "Stocks making the biggest moves midday: Dick's Sporting Goods, Analog Devices, Nvidia, Pinterest & more",
-    "date": "2026-11-24T17:24:42+00:00"
    }
   ],
   "fox": [
