@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T22:10:48.483429+00:00",
+ "updated": "2026-11-24T22:15:48.601275+00:00",
  "feeds": {
   "ynet": [
    {
@@ -157,6 +157,14 @@
     "date": "2026-11-25T10:00:00+00:00"
    },
    {
+    "title": "FAA issues ground stop at Chicago O'Hare due to 'equipment outage'",
+    "date": "2026-11-24T22:02:47+00:00"
+   },
+   {
+    "title": "Israel raises prospect of preemptive strike over emerging Iranian chemical weapons threat",
+    "date": "2026-11-24T22:01:25+00:00"
+   },
+   {
     "title": "Dax Shepard brands college an 'elaborate racket,' predicts tradesmen will get 'last laugh'",
     "date": "2026-11-24T21:57:05+00:00"
    },
@@ -191,14 +199,6 @@
    {
     "title": "NATO fighter jet cleared to shoot down Russian missile over Poland as Warsaw pushes for US troops",
     "date": "2026-11-24T20:56:51+00:00"
-   },
-   {
-    "title": "CIA hit by cyber breach that exposed unclassified data on intelligence analysis network: sources",
-    "date": "2026-11-24T20:53:34+00:00"
-   },
-   {
-    "title": "Where did Islanders anthem singer Sarrah Strimel Bentley get the words she sang to ‘O Canada'?",
-    "date": "2026-11-24T20:50:44+00:00"
    }
   ]
  }
