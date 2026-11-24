@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T05:00:23.458218+00:00",
+ "updated": "2026-11-24T05:05:23.600586+00:00",
  "feeds": {
   "ynet": [
    {
@@ -103,6 +103,10 @@
   ],
   "cnbc": [
    {
+    "title": "IFS CEO Mark Moffat on why he walked away from a 24-year career at PwC",
+    "date": "2026-11-24T05:00:02+00:00"
+   },
+   {
     "title": "China has changed tactics but is still thwarting India's rise, a U.S. panel says",
     "date": "2026-11-24T04:27:38+00:00"
    },
@@ -145,10 +149,6 @@
    {
     "title": "Nvidia sets options-trading record after CEO comeback. Here are the big trades",
     "date": "2026-11-23T23:24:02+00:00"
-   },
-   {
-    "title": "Jim Cramer sees more upside for Nvidia stock with Jensen Huang back as CEO",
-    "date": "2026-11-23T23:14:34+00:00"
    }
   ],
   "fox": [
