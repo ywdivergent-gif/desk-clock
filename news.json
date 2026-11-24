@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T15:10:43.479176+00:00",
+ "updated": "2026-11-24T15:15:42.216043+00:00",
  "feeds": {
   "ynet": [
    {
@@ -103,6 +103,10 @@
   ],
   "cnbc": [
    {
+    "title": "Anthropic stock falls below $83 IPO price, but analysts are still largely positive",
+    "date": "2026-11-24T15:14:23+00:00"
+   },
+   {
     "title": "Commercial real estate activity falls 14% in October, as interest rates rise",
     "date": "2026-11-24T15:05:14+00:00"
    },
@@ -113,10 +117,6 @@
    {
     "title": "Stocks making the biggest moves Tuesday: Kohl's, Dicks Sporting Goods, Abercrombie & Fitch & more",
     "date": "2026-11-24T15:02:11+00:00"
-   },
-   {
-    "title": "Anthropic stock falls below $83 IPO price, but analysts are still largely positive",
-    "date": "2026-11-24T14:52:20+00:00"
    },
    {
     "title": "Best Buy reports comparable sales growth of 6.1%, highest in five years",
@@ -157,6 +157,10 @@
     "date": "2026-11-25T10:00:00+00:00"
    },
    {
+    "title": "Arizona Wildcats favored by over 7 points against Providence as college basketball action heats up",
+    "date": "2026-11-24T15:05:58+00:00"
+   },
+   {
     "title": "Fanatics Sportsbook Promo Code FOXNEWS: Get up to $1000 in FanCash Ahead of Tuesday's NBA Cup Slate",
     "date": "2026-11-24T15:01:10+00:00"
    },
@@ -195,10 +199,6 @@
    {
     "title": "Ina Garten says a Thanksgiving pie shortcut makes her dessert 'actually better'",
     "date": "2026-11-24T14:00:31+00:00"
-   },
-   {
-    "title": "'The View' host Ana Navarro says talk of Democrats running a 'White man' in 2028 'p---es me off'",
-    "date": "2026-11-24T13:45:16+00:00"
    }
   ]
  }
