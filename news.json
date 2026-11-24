@@ -1,7 +1,11 @@
 {
- "updated": "2026-11-24T20:00:49.032579+00:00",
+ "updated": "2026-11-24T20:05:49.160896+00:00",
  "feeds": {
   "ynet": [
+   {
+    "title": "\"מבנה עגול חדש בדימונה\": כל ההערכות על ארסנל הגרעין הישראלי - ותמונות הלוויין",
+    "date": "2026-11-24T20:01:47+00:00"
+   },
    {
     "title": "בדרך ל\"מדינה מוקצית\": הנזק לישראל בהתנגשות עם ממשל טראמפ - והתשובות שלה",
     "date": "2026-11-24T18:56:31+00:00"
@@ -45,10 +49,6 @@
    {
     "title": "העונש האכזרי של איראן לזמרת ששרה בלי חיג'אב: \"מצליפים באומץ וביופי\"",
     "date": "2026-11-24T14:43:53+00:00"
-   },
-   {
-    "title": "יועמ\"שית הכנסת: מותר לכנות ח\"כ תומך טרור; חזרה שיטתית לצד גידופים - אסורה",
-    "date": "2026-11-24T14:21:39+00:00"
    }
   ],
   "ynetnews": [
@@ -103,12 +103,16 @@
   ],
   "cnbc": [
    {
-    "title": "Anthropic shares fall below IPO price. Traders see even more pain",
-    "date": "2026-11-24T19:47:42+00:00"
+    "title": "Jensen Huang tells staff that Nvidia doesn't need a succession plan",
+    "date": "2026-11-24T20:04:31+00:00"
    },
    {
-    "title": "Jensen Huang tells staff that Nvidia doesn't need a succession plan",
-    "date": "2026-11-24T19:44:34+00:00"
+    "title": "Op-ed: Trump’s Nvidia board intervention put a price on national security. Our adversaries will take note",
+    "date": "2026-11-24T20:02:49+00:00"
+   },
+   {
+    "title": "Anthropic shares fall below IPO price. Traders see even more pain",
+    "date": "2026-11-24T19:47:42+00:00"
    },
    {
     "title": "Buffer ETFs protect investors from the harshest market swings – for a price",
@@ -145,10 +149,6 @@
    {
     "title": "Consumer confidence shoots up after Democrats' midterm victories — though inflation worries persist",
     "date": "2026-11-24T18:34:43+00:00"
-   },
-   {
-    "title": "Nvidia shares fall 7% as Huang comeback rally cools",
-    "date": "2026-11-24T18:30:58+00:00"
    }
   ],
   "fox": [
