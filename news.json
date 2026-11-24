@@ -1,7 +1,11 @@
 {
- "updated": "2026-11-24T16:35:41.291152+00:00",
+ "updated": "2026-11-24T16:40:41.642829+00:00",
  "feeds": {
   "ynet": [
+   {
+    "title": "צה\"ל גיבש עמדה על שילוב לוחמות בחי\"ר - אבל מחכה לאישורי \"הדרגים הבכירים\"",
+    "date": "2026-11-24T16:33:03+00:00"
+   },
    {
     "title": "דיווח: בארה\"ב דנים בחיסול בכירי המשטר האיראני כדי לסכל את \"הקו הניצי\"",
     "date": "2026-11-24T16:22:07+00:00"
@@ -45,10 +49,6 @@
    {
     "title": "ההדלפה שחושפת את מחיר הדמים האדיר שפוטין מסתיר: \"נקודת המפנה מתקרבת\"",
     "date": "2026-11-24T12:35:39+00:00"
-   },
-   {
-    "title": "חשד לרצח בצרפת: ישראלי אותר ללא רוח חיים בדירה בעיירת נופש",
-    "date": "2026-11-24T11:38:38+00:00"
    }
   ],
   "ynetnews": [
@@ -103,8 +103,12 @@
   ],
   "cnbc": [
    {
+    "title": "Nvidia shares fall 8% as Huang comeback rally cools",
+    "date": "2026-11-24T16:38:21+00:00"
+   },
+   {
     "title": "Stocks making the biggest moves Tuesday: Kohl's, Dick's Sporting Goods, Abercrombie & Fitch & more",
-    "date": "2026-11-24T16:16:24+00:00"
+    "date": "2026-11-24T16:36:15+00:00"
    },
    {
     "title": "Anthropic sinks 12%, falling below $83 IPO price, but analysts are still largely positive",
@@ -125,10 +129,6 @@
    {
     "title": "Jensen Huang faces DC grilling the same day Nvidia releases new products at GTC",
     "date": "2026-11-24T15:47:17+00:00"
-   },
-   {
-    "title": "Nvidia shares fall over 5% after Huang comeback rally",
-    "date": "2026-11-24T15:36:34+00:00"
    },
    {
     "title": "Kushner-backed OakNorth secures U.S. bank charter as global digital banks push into America",
