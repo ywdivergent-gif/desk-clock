@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-24T13:35:41.463591+00:00",
+ "updated": "2026-11-24T13:40:43.929052+00:00",
  "feeds": {
   "ynet": [
+   {
+    "title": "10 שנות מאסר למורה מהצפון: סייע כספית לחמאס, צילם מתקן ביטחוני ותכנן פיגוע בי-ם",
+    "date": "2026-11-24T13:37:07+00:00"
+   },
+   {
+    "title": "מדינת ישראל זקוקה לטיפול",
+    "date": "2026-11-24T13:32:17+00:00"
+   },
    {
     "title": "שבע מחשבות תגובה על משפט נתניהו",
     "date": "2026-11-24T13:21:05+00:00"
@@ -41,14 +49,6 @@
    {
     "title": "קודמו \"נלכד במבצע נועז\": ראש מנגנון ביטחון הפנים בחמאס חוסל בעזה | תיעוד",
     "date": "2026-11-24T10:50:16+00:00"
-   },
-   {
-    "title": "השר לשעבר יצחק לוי הלך לעולמו בגיל 79",
-    "date": "2026-11-24T10:23:47+00:00"
-   },
-   {
-    "title": "ילדיו של אלוף עמוס חורב נפרדים: \"קיווה שלא ישכחו את מה שעשה למען המדינה\"",
-    "date": "2026-11-24T10:15:17+00:00"
    }
   ],
   "ynetnews": [
@@ -103,6 +103,10 @@
   ],
   "cnbc": [
    {
+    "title": "Stock futures decline as Nvidia pulls back, giving back part of Monday’s rally: Live updates",
+    "date": "2026-11-24T13:39:13+00:00"
+   },
+   {
     "title": "Fed's John Williams indicates higher interest rates likely 'over time' to address inflation",
     "date": "2026-11-24T13:33:26+00:00"
    },
@@ -117,10 +121,6 @@
    {
     "title": "Commercial real estate activity falls 14% in October, as interest rates rise",
     "date": "2026-11-24T13:17:16+00:00"
-   },
-   {
-    "title": "Stock futures decline as Nvidia pulls back, giving back part of Monday’s rally: Live updates",
-    "date": "2026-11-24T13:11:44+00:00"
    },
    {
     "title": "Best Buy reports comparable sales growth of 6.1%, highest in five years",
