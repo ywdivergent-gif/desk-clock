@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T21:50:48.420772+00:00",
+ "updated": "2026-11-24T21:55:48.551977+00:00",
  "feeds": {
   "ynet": [
    {
@@ -103,16 +103,16 @@
   ],
   "cnbc": [
    {
+    "title": "Saudi national charged in OpenAI bugging to be released on $1 million bond",
+    "date": "2026-11-24T21:54:49+00:00"
+   },
+   {
     "title": "Dell earnings beat on AI strength, company authorizes $25 billion buyback",
     "date": "2026-11-24T21:29:03+00:00"
    },
    {
     "title": "Nasdaq slumps about 1.5% as Nvidia comeback reverses course and Anthropic breaks IPO price: Live updates",
     "date": "2026-11-24T21:16:50+00:00"
-   },
-   {
-    "title": "Nvidia shares fall more than 5% as Huang comeback rally cools",
-    "date": "2026-11-24T21:15:23+00:00"
    },
    {
     "title": "Trump wanted Jensen Huang back. Now, the president is all alone in Washington",
@@ -157,6 +157,10 @@
     "date": "2026-11-25T10:00:00+00:00"
    },
    {
+    "title": "Obama judge's Omar warrant unsealing directly contradicts his own decision in Trump case",
+    "date": "2026-11-24T21:45:21+00:00"
+   },
+   {
     "title": "Dyson's lightweight cordless vacuum is a whopping 55% off for Black Friday",
     "date": "2026-11-24T21:33:49+00:00"
    },
@@ -195,10 +199,6 @@
    {
     "title": "Best Sportsbook Promos for Tuesday's NBA Cup Slate: $2000+ up for Grabs",
     "date": "2026-11-24T20:37:35+00:00"
-   },
-   {
-    "title": "'The View' host says Hillary Clinton has 'never been wrong about anything,' touts response to Nvidia story",
-    "date": "2026-11-24T20:34:45+00:00"
    }
   ]
  }
