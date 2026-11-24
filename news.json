@@ -1,7 +1,11 @@
 {
- "updated": "2026-11-24T05:10:23.712186+00:00",
+ "updated": "2026-11-24T05:15:23.724655+00:00",
  "feeds": {
   "ynet": [
+   {
+    "title": "סנאטור בכיר: \"במועצת השלום צודקים, ישראל חייבת לעמוד בהתחייבויותיה\"",
+    "date": "2026-11-24T05:14:04+00:00"
+   },
    {
     "title": "מלחמת אוקראינה: החזית קפואה, המלחמה בוערת",
     "date": "2026-11-24T04:46:16+00:00"
@@ -45,10 +49,6 @@
    {
     "title": "די לפיגוע הדיפלומטי ביהודה ושומרון",
     "date": "2026-11-23T22:04:00+00:00"
-   },
-   {
-    "title": "מקפלים דגלים",
-    "date": "2026-11-23T22:02:00+00:00"
    }
   ],
   "ynetnews": [
@@ -103,6 +103,14 @@
   ],
   "cnbc": [
    {
+    "title": "Stock futures rise as traders see whether Nvidia can extend rally from Jensen Huang’s return: Live updates",
+    "date": "2026-11-24T05:13:39+00:00"
+   },
+   {
+    "title": "Jensen Huang is ‘too big to fire,’ putting Nvidia’s governance in focus: analysts",
+    "date": "2026-11-24T05:09:34+00:00"
+   },
+   {
     "title": "AI adoption grows in Asia, but measuring the gains remains tricky",
     "date": "2026-11-24T05:07:16+00:00"
    },
@@ -123,10 +131,6 @@
     "date": "2026-11-24T03:32:26+00:00"
    },
    {
-    "title": "Stock futures inch higher as traders see whether Nvidia can extend rally from Jensen Huang’s return: Live updates",
-    "date": "2026-11-24T03:17:12+00:00"
-   },
-   {
     "title": "Six key questions raised by Jensen Huang's return to Nvidia",
     "date": "2026-11-24T03:05:49+00:00"
    },
@@ -145,16 +149,16 @@
    {
     "title": "CrowdStrike CEO defends Zscaler acquisition, calls it a 'winning combination'",
     "date": "2026-11-23T23:53:20+00:00"
-   },
-   {
-    "title": "Trump sealed deal for Nvidia to rehire Jensen Huang as CEO",
-    "date": "2026-11-23T23:42:17+00:00"
    }
   ],
   "fox": [
    {
     "title": "Americans don’t have to choose between our AI future and ripping off copyright owners",
     "date": "2026-11-25T10:00:00+00:00"
+   },
+   {
+    "title": "Trump's Nixon-to-China moment: There's an immigration move only he can make",
+    "date": "2026-11-24T05:06:19+00:00"
    },
    {
     "title": "Commanders' Jayden Daniels spoils Joe Burrow's night, leads team to game-winning drive vs Bengals",
@@ -195,10 +199,6 @@
    {
     "title": "SEC threatens the nuclear option as LSU’s rebellion puts conference future at risk, RJ Luis plans to sue",
     "date": "2026-11-24T01:26:18+00:00"
-   },
-   {
-    "title": "Unsealed warrant documents for Ilhan Omar's DC home raid reveal decades-long scope of investigation",
-    "date": "2026-11-24T00:56:59+00:00"
    }
   ]
  }
