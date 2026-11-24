@@ -1,7 +1,11 @@
 {
- "updated": "2026-11-24T16:00:41.682859+00:00",
+ "updated": "2026-11-24T16:05:41.564474+00:00",
  "feeds": {
   "ynet": [
+   {
+    "title": "לא עדות, \"דיאלוג דו-צדדי\" עם השופטים: היועמ\"שית תגיע למשפט נתניהו",
+    "date": "2026-11-24T16:00:28+00:00"
+   },
    {
     "title": "\"לא יודעת מאיפה האומץ\": שורדת הנובה הבריחה גנב שפרץ לביתה | תיעוד",
     "date": "2026-11-24T14:55:51+00:00"
@@ -45,10 +49,6 @@
    {
     "title": "הוא עשה נזק לכנסת, ועכשיו הוא מבקש מחיאות כפיים",
     "date": "2026-11-24T11:31:57+00:00"
-   },
-   {
-    "title": "פרסו שטיח פרסי בקמפוס: איראנית וישראלי במסע הסברה בארה\"ב",
-    "date": "2026-11-24T11:29:46+00:00"
    }
   ],
   "ynetnews": [
@@ -103,6 +103,10 @@
   ],
   "cnbc": [
    {
+    "title": "Consumer confidence shoots up after Democrats' midterm victories — though inflation worries persist",
+    "date": "2026-11-24T16:03:13+00:00"
+   },
+   {
     "title": "Drugmaker Insmed shares rally 14% after Sanofi agrees to buy it in pharma’s biggest deal in three years",
     "date": "2026-11-24T15:49:27+00:00"
    },
@@ -145,16 +149,16 @@
    {
     "title": "Stocks making the biggest moves Tuesday: Kohl's, Dicks Sporting Goods, Abercrombie & Fitch & more",
     "date": "2026-11-24T15:02:11+00:00"
-   },
-   {
-    "title": "Best Buy reports comparable sales growth of 6.1%, highest in five years",
-    "date": "2026-11-24T14:51:58+00:00"
    }
   ],
   "fox": [
    {
     "title": "Americans don’t have to choose between our AI future and ripping off copyright owners",
     "date": "2026-11-25T10:00:00+00:00"
+   },
+   {
+    "title": "FanDuel Promo Code: Get $200 When Betting $5 on the NBA, NFL, and NHL During Thanksgiving Week",
+    "date": "2026-11-24T15:56:34+00:00"
    },
    {
     "title": "Child abduction survivor Elizabeth Smart says she was 'just the first of the seven' girls targeted",
@@ -195,10 +199,6 @@
    {
     "title": "Underdog Promo Code FOXNEWS: Play $10, Get $50 on Tuesday's NBA Cup Triple-Header",
     "date": "2026-11-24T15:23:45+00:00"
-   },
-   {
-    "title": "Ilhan Omar records show judge, DOJ officials debating before raid of home",
-    "date": "2026-11-24T15:22:21+00:00"
    }
   ]
  }
