@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T03:30:23.520165+00:00",
+ "updated": "2026-11-24T03:35:24.001634+00:00",
  "feeds": {
   "ynet": [
    {
@@ -103,6 +103,10 @@
   ],
   "cnbc": [
    {
+    "title": "U.S. court orders to proceed with planned ammunition detonation in Iowa",
+    "date": "2026-11-24T03:32:26+00:00"
+   },
+   {
     "title": "Stock futures inch higher as traders see whether Nvidia can extend rally from Jensen Huang’s return: Live updates",
     "date": "2026-11-24T03:17:12+00:00"
    },
@@ -145,10 +149,6 @@
    {
     "title": "DNI Jay Clayton tapped as acting national cyber director",
     "date": "2026-11-23T23:02:18+00:00"
-   },
-   {
-    "title": "CNBC's The China Connection newsletter: AI race spreads from robots to smartphones",
-    "date": "2026-11-23T23:00:01+00:00"
    }
   ],
   "fox": [
@@ -185,7 +185,7 @@
     "date": "2026-11-24T01:30:29+00:00"
    },
    {
-    "title": "SEC threatens the nuclear option as LSU’s rebellion puts conference future at risk",
+    "title": "SEC threatens the nuclear option as LSU’s rebellion puts conference future at risk, RJ Luis plans to sue",
     "date": "2026-11-24T01:26:18+00:00"
    },
    {
