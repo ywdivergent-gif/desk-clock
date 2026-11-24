@@ -1,7 +1,11 @@
 {
- "updated": "2026-11-24T17:30:41.483578+00:00",
+ "updated": "2026-11-24T17:35:41.356148+00:00",
  "feeds": {
   "ynet": [
+   {
+    "title": "צעירה נהרגה מפגיעת רכבת ליד נתב\"ג: שיבושים קשים בקווים לירושלים ולמודיעין",
+    "date": "2026-11-24T17:27:34+00:00"
+   },
    {
     "title": "כ\"ץ: איראן מפתחת נשק כימי כ\"שובר שוויון\" מול ישראל, לא נאפשר לה",
     "date": "2026-11-24T16:59:27+00:00"
@@ -45,10 +49,6 @@
    {
     "title": "מדינת ישראל זקוקה לטיפול",
     "date": "2026-11-24T13:32:17+00:00"
-   },
-   {
-    "title": "שבע מחשבות תגובה על משפט נתניהו",
-    "date": "2026-11-24T13:21:05+00:00"
    }
   ],
   "ynetnews": [
@@ -103,12 +103,12 @@
   ],
   "cnbc": [
    {
-    "title": "Anthropic sinks 8%, falling below $83 IPO price, but analysts are still largely positive",
-    "date": "2026-11-24T17:30:26+00:00"
+    "title": "AG Blanche, FBI’s Patel dodge questions about Jensen Huang investigation",
+    "date": "2026-11-24T17:33:20+00:00"
    },
    {
-    "title": "AG Blanche, FBI’s Patel dodge questions about Jensen Huang investigation",
-    "date": "2026-11-24T17:27:40+00:00"
+    "title": "Anthropic sinks 8%, falling below $83 IPO price, but analysts are still largely positive",
+    "date": "2026-11-24T17:30:26+00:00"
    },
    {
     "title": "Stocks making the biggest moves midday: Dick's Sporting Goods, Analog Devices, Nvidia, Pinterest & more",
