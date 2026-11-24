@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T20:35:49.468450+00:00",
+ "updated": "2026-11-24T20:40:49.284255+00:00",
  "feeds": {
   "ynet": [
    {
@@ -7,7 +7,7 @@
     "date": "2026-11-24T20:19:20+00:00"
    },
    {
-    "title": "משבר בגוש איזנקוט: הדמוקרטים הודיעו על הפסקת השיחות עם מפלגת ישר!",
+    "title": "משבר בגוש והסכם קואליציוני ראשון: ליברמן חתם עם איזנקוט, גולן עצר את השיחות",
     "date": "2026-11-24T20:17:22+00:00"
    },
    {
@@ -104,7 +104,7 @@
   "cnbc": [
    {
     "title": "Jensen Huang tells staff that Nvidia doesn't need a succession plan",
-    "date": "2026-11-24T20:04:31+00:00"
+    "date": "2026-11-24T20:40:06+00:00"
    },
    {
     "title": "Op-ed: Trump’s Nvidia board intervention put a price on national security. Our adversaries will take note",
@@ -157,6 +157,14 @@
     "date": "2026-11-25T10:00:00+00:00"
    },
    {
+    "title": "'The View' host says Hillary Clinton has 'never been wrong about anything,' touts response to Nvidia story",
+    "date": "2026-11-24T20:34:45+00:00"
+   },
+   {
+    "title": "Popular actor says bladder cancer discovery followed one strange bathroom symptom",
+    "date": "2026-11-24T20:33:08+00:00"
+   },
+   {
     "title": "European leader warns Russian aggression could escalate within weeks or months",
     "date": "2026-11-24T20:26:41+00:00"
    },
@@ -191,14 +199,6 @@
    {
     "title": "What United Airlines banning AI agents from booking flights means for your travel plans",
     "date": "2026-11-24T19:23:40+00:00"
-   },
-   {
-    "title": "Republican senator's husband dead: 'Our family is heartbroken'",
-    "date": "2026-11-24T19:19:19+00:00"
-   },
-   {
-    "title": "Commanders kicker harnessed fear of embarrassing his future kids to nail game-winning field goal",
-    "date": "2026-11-24T18:55:50+00:00"
    }
   ]
  }
