@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T07:30:23.803292+00:00",
+ "updated": "2026-11-24T07:35:33.598155+00:00",
  "feeds": {
   "ynet": [
    {
@@ -107,6 +107,10 @@
     "date": "2026-11-24T07:27:15+00:00"
    },
    {
+    "title": "Signal joins United Airlines, banks in limiting AI agents over customer risks",
+    "date": "2026-11-24T07:25:41+00:00"
+   },
+   {
     "title": "Six key questions raised by Jensen Huang's return to Nvidia",
     "date": "2026-11-24T07:12:33+00:00"
    },
@@ -145,10 +149,6 @@
    {
     "title": "U.S. adds Megaspeed to trade blacklist over export control concerns amid Nvidia controversy",
     "date": "2026-11-24T02:37:39+00:00"
-   },
-   {
-    "title": "Amazon faces FAA probe after delivery drone strikes Michigan fiber cable, garage",
-    "date": "2026-11-24T00:56:10+00:00"
    }
   ],
   "fox": [
