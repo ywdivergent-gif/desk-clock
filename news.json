@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T09:25:33.112985+00:00",
+ "updated": "2026-11-24T09:30:32.804249+00:00",
  "feeds": {
   "ynet": [
    {
@@ -104,7 +104,11 @@
   "cnbc": [
    {
     "title": "Nasdaq futures turn lower after Nvidia rally as Jensen Huang returns: Live updates",
-    "date": "2026-11-24T09:21:59+00:00"
+    "date": "2026-11-24T09:27:41+00:00"
+   },
+   {
+    "title": "Nvidia shares fall over 3% in premarket after Huang comeback rally",
+    "date": "2026-11-24T09:20:43+00:00"
    },
    {
     "title": "Jensen Huang is ‘too big to fire,’ putting Nvidia’s governance in focus: analysts",
@@ -145,10 +149,6 @@
    {
     "title": "China has changed tactics but is still thwarting India's rise, a U.S. panel says",
     "date": "2026-11-24T04:27:38+00:00"
-   },
-   {
-    "title": "U.S. court orders to proceed with planned ammunition detonation in Iowa",
-    "date": "2026-11-24T03:32:26+00:00"
    }
   ],
   "fox": [
