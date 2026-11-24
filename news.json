@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T14:40:41.749011+00:00",
+ "updated": "2026-11-24T14:45:41.535582+00:00",
  "feeds": {
   "ynet": [
    {
@@ -107,6 +107,10 @@
     "date": "2026-11-24T14:39:22+00:00"
    },
    {
+    "title": "Anthropic stock falls below $83 IPO price, but analysts are still largely positive",
+    "date": "2026-11-24T14:36:49+00:00"
+   },
+   {
     "title": "Drugmaker Insmed shares rally 14% after Sanofi agrees to buy it in pharma’s biggest deal in three years",
     "date": "2026-11-24T14:35:05+00:00"
    },
@@ -145,10 +149,6 @@
    {
     "title": "Commercial real estate activity falls 14% in October, as interest rates rise",
     "date": "2026-11-24T13:17:16+00:00"
-   },
-   {
-    "title": "Best Buy reports comparable sales growth of 6.1%, highest in five years",
-    "date": "2026-11-24T12:57:35+00:00"
    }
   ],
   "fox": [
