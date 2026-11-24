@@ -1,7 +1,11 @@
 {
- "updated": "2026-11-24T10:55:32.824324+00:00",
+ "updated": "2026-11-24T11:00:36.072087+00:00",
  "feeds": {
   "ynet": [
+   {
+    "title": "כ-100 התפרעו מול בית סולברג, 4 הורשעו: \"ניפצו חלונות וניסו לפרוץ לבית\"",
+    "date": "2026-11-24T10:57:41+00:00"
+   },
    {
     "title": "צה\"ל הודיע שתקף בכיר בחמאס, הפלסטינים: זה המחבל שחוסל",
     "date": "2026-11-24T10:50:16+00:00"
@@ -45,10 +49,6 @@
    {
     "title": "שעון המנדט מתקתק: המסר הסמוי של בנט לאיזנקוט",
     "date": "2026-11-24T06:59:18+00:00"
-   },
-   {
-    "title": "סנאטור בכיר: \"במועצת השלום צודקים, ישראל חייבת לעמוד בהתחייבויותיה\"",
-    "date": "2026-11-24T05:14:04+00:00"
    }
   ],
   "ynetnews": [
@@ -103,20 +103,20 @@
   ],
   "cnbc": [
    {
+    "title": "Nasdaq futures turn lower after Nvidia rally as Jensen Huang returns: Live updates",
+    "date": "2026-11-24T10:57:55+00:00"
+   },
+   {
+    "title": "Jensen Huang is ‘too big to fire,’ putting Nvidia’s governance in focus: analysts",
+    "date": "2026-11-24T10:56:56+00:00"
+   },
+   {
     "title": "Drugmaker Insmed shares rally 14% after Sanofi agrees to buy it in pharma’s biggest deal in three years",
     "date": "2026-11-24T10:50:26+00:00"
    },
    {
-    "title": "Nasdaq futures turn lower after Nvidia rally as Jensen Huang returns: Live updates",
-    "date": "2026-11-24T10:35:31+00:00"
-   },
-   {
     "title": "Asian tech stocks recover from ‘collateral damage’ of Jensen Huang’s departure",
     "date": "2026-11-24T09:46:01+00:00"
-   },
-   {
-    "title": "Jensen Huang is ‘too big to fire,’ putting Nvidia’s governance in focus: analysts",
-    "date": "2026-11-24T08:35:16+00:00"
    },
    {
     "title": "Signal joins United Airlines, banks in limiting AI agents over customer risks",
