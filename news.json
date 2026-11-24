@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T14:30:41.840793+00:00",
+ "updated": "2026-11-24T14:35:41.584003+00:00",
  "feeds": {
   "ynet": [
    {
@@ -103,8 +103,16 @@
   ],
   "cnbc": [
    {
-    "title": "Stock futures decline as Nvidia slides, giving back part of Monday’s rally: Live updates",
-    "date": "2026-11-24T14:21:31+00:00"
+    "title": "Stocks decline as Nvidia slides, giving back part of Monday’s rally: Live updates",
+    "date": "2026-11-24T14:35:23+00:00"
+   },
+   {
+    "title": "Drugmaker Insmed shares rally 14% after Sanofi agrees to buy it in pharma’s biggest deal in three years",
+    "date": "2026-11-24T14:35:05+00:00"
+   },
+   {
+    "title": "Monday’s huge stock rally was a rare event. Here’s what could happen next",
+    "date": "2026-11-24T14:27:27+00:00"
    },
    {
     "title": "Jensen Huang is back as Nvidia CEO, but investigations and risks remain",
@@ -141,14 +149,6 @@
    {
     "title": "Best Buy reports comparable sales growth of 6.1%, highest in five years",
     "date": "2026-11-24T12:57:35+00:00"
-   },
-   {
-    "title": "Anthropic has room to run despite volatile start as public company, Wedbush says",
-    "date": "2026-11-24T12:50:31+00:00"
-   },
-   {
-    "title": "Drugmaker Insmed shares rally 14% after Sanofi agrees to buy it in pharma’s biggest deal in three years",
-    "date": "2026-11-24T12:33:41+00:00"
    }
   ],
   "fox": [
