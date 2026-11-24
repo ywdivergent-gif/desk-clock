@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T12:00:32.878629+00:00",
+ "updated": "2026-11-24T12:05:32.953723+00:00",
  "feeds": {
   "ynet": [
    {
@@ -103,6 +103,14 @@
   ],
   "cnbc": [
    {
+    "title": "Best Buy reports comparable sales growth of 6.1%, highest in five years",
+    "date": "2026-11-24T12:00:41+00:00"
+   },
+   {
+    "title": "Some U.S. food banks see demand top pandemic levels",
+    "date": "2026-11-24T12:00:01+00:00"
+   },
+   {
     "title": "U.S. court clears the way for Army’s planned ammunition detonation in Iowa",
     "date": "2026-11-24T11:56:49+00:00"
    },
@@ -141,20 +149,28 @@
    {
     "title": "Iran says three tankers hit mines in Hormuz despite U.S. escort, as Treasury widens sanctions",
     "date": "2026-11-24T05:05:08+00:00"
-   },
-   {
-    "title": "China has changed tactics but is still thwarting India's rise, a U.S. panel says",
-    "date": "2026-11-24T04:27:38+00:00"
-   },
-   {
-    "title": "U.S. adds Megaspeed to trade blacklist over export control concerns amid Nvidia controversy",
-    "date": "2026-11-24T02:37:39+00:00"
    }
   ],
   "fox": [
    {
     "title": "Americans don’t have to choose between our AI future and ripping off copyright owners",
     "date": "2026-11-25T10:00:00+00:00"
+   },
+   {
+    "title": "Alzheimer’s risk jumps 53% for millions living with common blood sugar condition",
+    "date": "2026-11-24T12:00:57+00:00"
+   },
+   {
+    "title": "Meghan Markle could be dragged into father’s child sex abuse case, expert warns",
+    "date": "2026-11-24T12:00:36+00:00"
+   },
+   {
+    "title": "Jensen Huang is back. Nvidia’s board still owes America answers",
+    "date": "2026-11-24T12:00:13+00:00"
+   },
+   {
+    "title": "US Army to proceed with Iowa detonation of degraded bomb materials: ‘A consensus decision’",
+    "date": "2026-11-24T11:59:30+00:00"
    },
    {
     "title": "Unsealed Ilhan Omar warrant docs expose decades-long scope of probe into Democrat rep and more top headlines",
@@ -183,22 +199,6 @@
    {
     "title": "What the US gets from Israel alliance as support for aid to the Jewish State erodes on left and right: report",
     "date": "2026-11-24T11:00:08+00:00"
-   },
-   {
-    "title": "Trump flirts with leftist Democrats on credit cards and could be flirting with disaster",
-    "date": "2026-11-24T10:00:37+00:00"
-   },
-   {
-    "title": "Bringing hostages home: How Trump revived Rome's citizen-first ethos",
-    "date": "2026-11-24T09:50:45+00:00"
-   },
-   {
-    "title": "California man accused of making online threats against ICE agents: DOJ",
-    "date": "2026-11-24T07:48:09+00:00"
-   },
-   {
-    "title": "Massachusetts sues Trump admin to stop ICE's courthouse arrests: 'Unnecessary fear'",
-    "date": "2026-11-24T06:16:28+00:00"
    }
   ]
  }
