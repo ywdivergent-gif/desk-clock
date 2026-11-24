@@ -1,7 +1,11 @@
 {
- "updated": "2026-11-24T01:35:13.261737+00:00",
+ "updated": "2026-11-24T01:40:12.837764+00:00",
  "feeds": {
   "ynet": [
+   {
+    "title": "מתקפות סייבר ואיומים לפוצץ ספינות - גם בחופי ארה\"ב. החשודה המרכזית: איראן",
+    "date": "2026-11-24T01:36:44+00:00"
+   },
    {
     "title": "אחרי כשעתיים: פגישת המו\"מ בין ישר! לליכוד הסתיימה בהודעה לקונית",
     "date": "2026-11-23T22:09:31+00:00"
@@ -45,10 +49,6 @@
    {
     "title": "טראמפ חשף למה התערב למען הואנג; צפו: המנכ\"ל חזר למטה אנבידיה וזכה לתשואות",
     "date": "2026-11-23T19:14:38+00:00"
-   },
-   {
-    "title": "מנדלבליט חשף בטעות: עורך דינו של ארי הרו מסר את הקלטות נתניהו-מוזס",
-    "date": "2026-11-23T18:56:07+00:00"
    }
   ],
   "ynetnews": [
@@ -157,6 +157,10 @@
     "date": "2026-11-25T10:00:00+00:00"
    },
    {
+    "title": "Bengals wide receiver Tee Higgins skips designer labels to pay tribute to Fiona the Hippo",
+    "date": "2026-11-24T01:34:26+00:00"
+   },
+   {
     "title": "Four illegal immigrants among six arrested in Florida slaughterhouse torture case, AG says",
     "date": "2026-11-24T01:30:29+00:00"
    },
@@ -195,10 +199,6 @@
    {
     "title": "Venezuelan illegal immigrant arrested in Utah after soliciting assassination of Trump, DHS says",
     "date": "2026-11-23T23:46:10+00:00"
-   },
-   {
-    "title": "NATO warns Putin could strike before European army responds, points to US as military model",
-    "date": "2026-11-23T23:37:35+00:00"
    }
   ]
  }
