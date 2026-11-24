@@ -1,7 +1,11 @@
 {
- "updated": "2026-11-24T03:40:23.490432+00:00",
+ "updated": "2026-11-24T03:45:23.555890+00:00",
  "feeds": {
   "ynet": [
+   {
+    "title": "תחזית מזג האוויר: התקררות קלה, צפי לגשמים מקומיים מחר",
+    "date": "2026-11-24T03:41:15+00:00"
+   },
    {
     "title": "בגוש השינוי רוצים להחליף את נתניהו, אף אחד לא מסכים על הדרך | עם מורן אזולאי",
     "date": "2026-11-24T03:00:00+00:00"
@@ -43,12 +47,8 @@
     "date": "2026-11-23T22:00:00+00:00"
    },
    {
-    "title": "ציון הדרך העגום בכבישים: \"שנת 2026 הייתה כישלון גדול לכל הגופים\"",
-    "date": "2026-11-23T19:40:26+00:00"
-   },
-   {
-    "title": "קרב באמצע היישוב: רעול פנים פתח באש, החליף מחסנית ונמלט תחת יריות | תיעוד",
-    "date": "2026-11-23T19:39:15+00:00"
+    "title": "אחרי ניתוחים כושלים בסוריה, בת ה-13 שבה ללכת בישראל: \"כמעט נשארה נכה\"",
+    "date": "2026-11-23T22:00:00+00:00"
    }
   ],
   "ynetnews": [
@@ -157,6 +157,10 @@
     "date": "2026-11-25T10:00:00+00:00"
    },
    {
+    "title": "Field lights shut off in third quarter of Bengals-Commanders Monday Night Football clash",
+    "date": "2026-11-24T03:34:58+00:00"
+   },
+   {
     "title": "Coast Guard boards 2 foreign ships bound for US amid reports of Iranian hacking probe",
     "date": "2026-11-24T03:07:21+00:00"
    },
@@ -195,10 +199,6 @@
    {
     "title": "Ukraine’s drone strike on Russian warship in Libya risks ‘serious escalation,’ former official warns",
     "date": "2026-11-24T00:42:28+00:00"
-   },
-   {
-    "title": "El-Sayed says he'll work with 'a--hole' Ted Cruz if he has to get things done",
-    "date": "2026-11-24T00:30:53+00:00"
    }
   ]
  }
