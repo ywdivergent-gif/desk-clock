@@ -1,7 +1,11 @@
 {
- "updated": "2026-11-24T14:45:41.535582+00:00",
+ "updated": "2026-11-24T14:50:41.368900+00:00",
  "feeds": {
   "ynet": [
+   {
+    "title": "העונש האכזרי של איראן לזמרת ששרה בלי חיג'אב: \"מצליפים באומץ וביופי\"",
+    "date": "2026-11-24T14:43:53+00:00"
+   },
    {
     "title": "יועמ\"שית הכנסת: מותר לכנות ח\"כ תומך טרור; חזרה שיטתית לצד גידופים - אסורה",
     "date": "2026-11-24T14:21:39+00:00"
@@ -45,10 +49,6 @@
    {
     "title": "הלום הקרב זעק מול נציגי גוש השינוי, צעקות גם לעבר מנסור עבאס - שקם והלך",
     "date": "2026-11-24T11:04:54+00:00"
-   },
-   {
-    "title": "\"אהיה שהיד ואלך לגן עדן\": אישום יוגש נגד המחבל שרצח אב ל-6 בערב יום כיפור",
-    "date": "2026-11-24T10:59:54+00:00"
    }
   ],
   "ynetnews": [
@@ -103,8 +103,12 @@
   ],
   "cnbc": [
    {
-    "title": "Stocks decline as Nvidia slides, giving back part of Monday’s rally: Live updates",
-    "date": "2026-11-24T14:39:22+00:00"
+    "title": "Nasdaq declines as Nvidia slides, giving back part of Monday’s rally: Live updates",
+    "date": "2026-11-24T14:50:09+00:00"
+   },
+   {
+    "title": "Signal joins United Airlines, banks in limiting AI agents over customer risks",
+    "date": "2026-11-24T14:46:01+00:00"
    },
    {
     "title": "Anthropic stock falls below $83 IPO price, but analysts are still largely positive",
@@ -145,10 +149,6 @@
    {
     "title": "Six key questions raised by Jensen Huang's return to Nvidia",
     "date": "2026-11-24T13:31:29+00:00"
-   },
-   {
-    "title": "Commercial real estate activity falls 14% in October, as interest rates rise",
-    "date": "2026-11-24T13:17:16+00:00"
    }
   ],
   "fox": [
