@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-24T14:20:41.399624+00:00",
+ "updated": "2026-11-24T14:25:41.461013+00:00",
  "feeds": {
   "ynet": [
+   {
+    "title": "יועמ\"שית הכנסת: מותר לכנות ח\"כ תומך טרור; חזרה שיטתית לצד גידופים - אסורה",
+    "date": "2026-11-24T14:21:39+00:00"
+   },
+   {
+    "title": "אין קצה חוט בחקירת הפיצוץ שבו נרצחה האם: \"כתבתי 'הפכנו לאמריקה' ואז גיליתי שזו אשתי\"",
+    "date": "2026-11-24T14:19:09+00:00"
+   },
    {
     "title": "10 שנות מאסר למורה מהצפון: סייע כספית לחמאס, צילם מתקן ביטחוני ותכנן פיגוע בי-ם",
     "date": "2026-11-24T13:37:07+00:00"
@@ -41,14 +49,6 @@
    {
     "title": "\"אהיה שהיד ואלך לגן עדן\": אישום יוגש נגד המחבל שרצח אב ל-6 בערב יום כיפור",
     "date": "2026-11-24T10:59:54+00:00"
-   },
-   {
-    "title": "כ-100 התפרעו מול בית סולברג, 4 הורשעו: \"ניפצו חלונות וניסו לפרוץ לבית\"",
-    "date": "2026-11-24T10:57:41+00:00"
-   },
-   {
-    "title": "קודמו \"נלכד במבצע נועז\": ראש מנגנון ביטחון הפנים בחמאס חוסל בעזה | תיעוד",
-    "date": "2026-11-24T10:50:16+00:00"
    }
   ],
   "ynetnews": [
@@ -103,16 +103,16 @@
   ],
   "cnbc": [
    {
+    "title": "Stock futures decline as Nvidia slides, giving back part of Monday’s rally: Live updates",
+    "date": "2026-11-24T14:21:31+00:00"
+   },
+   {
     "title": "Jensen Huang is back as Nvidia CEO, but investigations and risks remain",
     "date": "2026-11-24T14:20:33+00:00"
    },
    {
     "title": "Stocks making the biggest moves Tuesday: Nvidia, Anthropic, retailers & more",
     "date": "2026-11-24T14:12:23+00:00"
-   },
-   {
-    "title": "Stock futures decline as Nvidia slides, giving back part of Monday’s rally: Live updates",
-    "date": "2026-11-24T14:01:45+00:00"
    },
    {
     "title": "Jim Cramer's top 10 things to watch in the stock market Tuesday",
@@ -157,6 +157,10 @@
     "date": "2026-11-25T10:00:00+00:00"
    },
    {
+    "title": "Commanders cheerleader leaves the internet stunned after MNF breakout performance, Hogan's boot & snow game?",
+    "date": "2026-11-24T14:17:08+00:00"
+   },
+   {
     "title": "Ina Garten says a Thanksgiving pie shortcut makes her dessert 'actually better'",
     "date": "2026-11-24T14:00:31+00:00"
    },
@@ -195,10 +199,6 @@
    {
     "title": "Alzheimer’s risk jumps 53% for millions living with common blood sugar condition",
     "date": "2026-11-24T12:00:57+00:00"
-   },
-   {
-    "title": "Meghan Markle could be dragged into father’s child sex abuse case, expert warns",
-    "date": "2026-11-24T12:00:36+00:00"
    }
   ]
  }
