@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T07:50:33.205513+00:00",
+ "updated": "2026-11-24T07:55:32.774818+00:00",
  "feeds": {
   "ynet": [
    {
@@ -103,12 +103,12 @@
   ],
   "cnbc": [
    {
-    "title": "Asian Nvidia-related stocks jump after Huang's return, with Taiwan's near price limits",
-    "date": "2026-11-24T07:45:12+00:00"
+    "title": "Stock futures rise as traders see whether Nvidia can extend rally from Jensen Huang’s return: Live updates",
+    "date": "2026-11-24T07:54:17+00:00"
    },
    {
-    "title": "Stock futures rise as traders see whether Nvidia can extend rally from Jensen Huang’s return: Live updates",
-    "date": "2026-11-24T07:40:04+00:00"
+    "title": "Asian Nvidia-related stocks jump after Huang's return, with Taiwan's near price limits",
+    "date": "2026-11-24T07:45:12+00:00"
    },
    {
     "title": "Rene Haas to remain CEO of chipmaker Arm through 2033 amid Nvidia top job chatter",
@@ -157,6 +157,10 @@
     "date": "2026-11-25T10:00:00+00:00"
    },
    {
+    "title": "California man accused of making online threats against ICE agents: DOJ",
+    "date": "2026-11-24T07:48:09+00:00"
+   },
+   {
     "title": "Massachusetts sues Trump admin to stop ICE's courthouse arrests: 'Unnecessary fear'",
     "date": "2026-11-24T06:16:28+00:00"
    },
@@ -195,10 +199,6 @@
    {
     "title": "Bengals wide receiver Tee Higgins skips designer labels to pay tribute to Fiona the Hippo",
     "date": "2026-11-24T01:34:26+00:00"
-   },
-   {
-    "title": "Four illegal immigrants among six arrested in Florida slaughterhouse torture case, AG says",
-    "date": "2026-11-24T01:30:29+00:00"
    }
   ]
  }
