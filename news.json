@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T15:00:43.752836+00:00",
+ "updated": "2026-11-24T15:05:42.100562+00:00",
  "feeds": {
   "ynet": [
    {
@@ -103,6 +103,18 @@
   ],
   "cnbc": [
    {
+    "title": "Commercial real estate activity falls 14% in October, as interest rates rise",
+    "date": "2026-11-24T15:05:14+00:00"
+   },
+   {
+    "title": "Nvidia brought Jensen Huang back. But the investigations aren’t over",
+    "date": "2026-11-24T15:03:36+00:00"
+   },
+   {
+    "title": "Stocks making the biggest moves Tuesday: Kohl's, Dicks Sporting Goods, Abercrombie & Fitch & more",
+    "date": "2026-11-24T15:02:11+00:00"
+   },
+   {
     "title": "Anthropic stock falls below $83 IPO price, but analysts are still largely positive",
     "date": "2026-11-24T14:52:20+00:00"
    },
@@ -127,14 +139,6 @@
     "date": "2026-11-24T14:27:27+00:00"
    },
    {
-    "title": "Jensen Huang is back as Nvidia CEO, but investigations and risks remain",
-    "date": "2026-11-24T14:20:33+00:00"
-   },
-   {
-    "title": "Stocks making the biggest moves Tuesday: Nvidia, Anthropic, retailers & more",
-    "date": "2026-11-24T14:12:23+00:00"
-   },
-   {
     "title": "Jim Cramer's top 10 things to watch in the stock market Tuesday",
     "date": "2026-11-24T13:53:37+00:00"
    },
@@ -145,16 +149,20 @@
    {
     "title": "Here are Tuesday's biggest analyst calls: Anthropic, SpaceX, Nvidia, Tesla, Boeing, JetBlue & more",
     "date": "2026-11-24T13:35:07+00:00"
-   },
-   {
-    "title": "Fed's John Williams indicates higher interest rates likely 'over time' to address inflation",
-    "date": "2026-11-24T13:33:26+00:00"
    }
   ],
   "fox": [
    {
     "title": "Americans don’t have to choose between our AI future and ripping off copyright owners",
     "date": "2026-11-25T10:00:00+00:00"
+   },
+   {
+    "title": "Sen.-elect Julia Letlow announces marriage: 'We feel so blessed to have found one another'",
+    "date": "2026-11-24T14:56:53+00:00"
+   },
+   {
+    "title": "Iran flogs female singer 74 times for performing without hijab in viral YouTube concert",
+    "date": "2026-11-24T14:55:27+00:00"
    },
    {
     "title": "Trump to award Giuliani Presidential Medal of Freedom",
@@ -191,14 +199,6 @@
    {
     "title": "Nick Foles breaks downs Rams-Packers matchup for first-ever NFL Thanksgiving Eve game",
     "date": "2026-11-24T12:48:20+00:00"
-   },
-   {
-    "title": "NCAA ends mandatory off-day media access before the women’s Elite Eight but keeps it for men",
-    "date": "2026-11-24T12:15:26+00:00"
-   },
-   {
-    "title": "DK Metcalf's tantrums are hurting his team as he acts like everyone else is the problem | Matt Calkins",
-    "date": "2026-11-24T12:06:14+00:00"
    }
   ]
  }
