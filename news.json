@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T13:55:41.470989+00:00",
+ "updated": "2026-11-24T14:00:41.381934+00:00",
  "feeds": {
   "ynet": [
    {
@@ -103,6 +103,10 @@
   ],
   "cnbc": [
    {
+    "title": "Jim Cramer's top 10 things to watch in the stock market Tuesday",
+    "date": "2026-11-24T13:53:37+00:00"
+   },
+   {
     "title": "Stock futures decline as Nvidia pulls back, giving back part of Monday’s rally: Live updates",
     "date": "2026-11-24T13:51:02+00:00"
    },
@@ -145,10 +149,6 @@
    {
     "title": "Some U.S. food banks see demand top pandemic levels",
     "date": "2026-11-24T12:00:01+00:00"
-   },
-   {
-    "title": "U.S. court clears the way for Army’s planned ammunition detonation in Iowa",
-    "date": "2026-11-24T11:56:49+00:00"
    }
   ],
   "fox": [
@@ -165,7 +165,7 @@
     "date": "2026-11-24T13:30:38+00:00"
    },
    {
-    "title": "Intruders break into Prince William and Kate Middleton’s country home in royal security breach: report",
+    "title": "Intruders break into Prince William and Kate Middleton’s country home in royal security breach",
     "date": "2026-11-24T13:10:11+00:00"
    },
    {
