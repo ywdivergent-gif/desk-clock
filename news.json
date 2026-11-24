@@ -1,7 +1,11 @@
 {
- "updated": "2026-11-24T17:50:41.800861+00:00",
+ "updated": "2026-11-24T17:55:41.847067+00:00",
  "feeds": {
   "ynet": [
+   {
+    "title": "חימום מנועים במו\"מ: יהדות התורה מגבשת צוות לשיחות רשמיות עם איזנקוט",
+    "date": "2026-11-24T17:48:54+00:00"
+   },
    {
     "title": "גבר במצב קשה אחרי שהותקף על ידי חזיר בר בחיפה",
     "date": "2026-11-24T17:35:37+00:00"
@@ -45,10 +49,6 @@
    {
     "title": "אין קצה חוט בחקירת הפיצוץ שבו נרצחה האם: \"כתבתי 'הפכנו לאמריקה' ואז גיליתי שזו אשתי\"",
     "date": "2026-11-24T14:19:09+00:00"
-   },
-   {
-    "title": "10 שנות מאסר למורה מהצפון: סייע כספית לחמאס, צילם מתקן ביטחוני ותכנן פיגוע בי-ם",
-    "date": "2026-11-24T13:37:07+00:00"
    }
   ],
   "ynetnews": [
@@ -104,7 +104,11 @@
   "cnbc": [
    {
     "title": "AG Blanche, FBI’s Patel dodge questions about Jensen Huang investigation",
-    "date": "2026-11-24T17:47:30+00:00"
+    "date": "2026-11-24T17:52:51+00:00"
+   },
+   {
+    "title": "Jensen Huang to face DC grilling the same day Nvidia releases new products at GTC",
+    "date": "2026-11-24T17:51:45+00:00"
    },
    {
     "title": "Anthropic sinks 8%, falling below $83 IPO price, but analysts are still largely positive",
@@ -125,10 +129,6 @@
    {
     "title": "We're adding to our position in a tech giant that is too cheap to ignore",
     "date": "2026-11-24T17:19:52+00:00"
-   },
-   {
-    "title": "Jensen Huang to face DC grilling the same day Nvidia releases new products at GTC",
-    "date": "2026-11-24T16:42:57+00:00"
    },
    {
     "title": "Consumer confidence shoots up after Democrats' midterm victories — though inflation worries persist",
@@ -155,6 +155,10 @@
    {
     "title": "Americans don’t have to choose between our AI future and ripping off copyright owners",
     "date": "2026-11-25T10:00:00+00:00"
+   },
+   {
+    "title": "A $17 million bill for an AD who never actually started? Michigan's Trev Alberts mess gets uglier",
+    "date": "2026-11-24T17:45:05+00:00"
    },
    {
     "title": "Billy Bob Thornton urges viewers to learn the real history behind Thanksgiving on Fox Nation's 'The Mayflower'",
@@ -195,10 +199,6 @@
    {
     "title": "Draft plan to overhaul Smithsonian spotted on White House staffer's laptop: report",
     "date": "2026-11-24T16:19:16+00:00"
-   },
-   {
-    "title": "Pro wrestling referee's departure from company gets X-rated twist: report",
-    "date": "2026-11-24T16:10:00+00:00"
    }
   ]
  }
