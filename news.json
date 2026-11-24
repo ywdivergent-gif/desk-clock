@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T18:05:41.342332+00:00",
+ "updated": "2026-11-24T18:10:41.940280+00:00",
  "feeds": {
   "ynet": [
    {
@@ -103,8 +103,16 @@
   ],
   "cnbc": [
    {
+    "title": "Op-ed: Trump’s Nvidia board intervention put a price on national security. Our adversaries will take note",
+    "date": "2026-11-24T18:04:20+00:00"
+   },
+   {
     "title": "AG Blanche, FBI’s Patel dodge questions about Jensen Huang investigation",
     "date": "2026-11-24T17:59:44+00:00"
+   },
+   {
+    "title": "Trump Account contributions from friends and family pass $1 billion mark, Treasury says",
+    "date": "2026-11-24T17:59:12+00:00"
    },
    {
     "title": "Jensen Huang to face DC grilling the same day Nvidia releases new products at GTC",
@@ -141,14 +149,6 @@
    {
     "title": "Amtrak sets ridership record as rising gas prices encourage Americans to travel by rail",
     "date": "2026-11-24T15:49:05+00:00"
-   },
-   {
-    "title": "Kushner-backed OakNorth secures U.S. bank charter as global digital banks push into America",
-    "date": "2026-11-24T15:34:10+00:00"
-   },
-   {
-    "title": "Quitting can actually be the key to success, says expert: It's one of the 'most courageous moves you can make'",
-    "date": "2026-11-24T15:25:37+00:00"
    }
   ],
   "fox": [
