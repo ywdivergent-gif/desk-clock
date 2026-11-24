@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T12:05:32.953723+00:00",
+ "updated": "2026-11-24T12:10:33.248313+00:00",
  "feeds": {
   "ynet": [
    {
@@ -104,7 +104,11 @@
   "cnbc": [
    {
     "title": "Best Buy reports comparable sales growth of 6.1%, highest in five years",
-    "date": "2026-11-24T12:00:41+00:00"
+    "date": "2026-11-24T12:06:04+00:00"
+   },
+   {
+    "title": "CrowdStrike will continue surging thanks to strong hyperscaler demand, says Guggenheim",
+    "date": "2026-11-24T12:05:58+00:00"
    },
    {
     "title": "Some U.S. food banks see demand top pandemic levels",
@@ -145,16 +149,20 @@
    {
     "title": "AI adoption grows in Asia, but measuring the gains remains tricky",
     "date": "2026-11-24T05:07:16+00:00"
-   },
-   {
-    "title": "Iran says three tankers hit mines in Hormuz despite U.S. escort, as Treasury widens sanctions",
-    "date": "2026-11-24T05:05:08+00:00"
    }
   ],
   "fox": [
    {
     "title": "Americans don’t have to choose between our AI future and ripping off copyright owners",
     "date": "2026-11-25T10:00:00+00:00"
+   },
+   {
+    "title": "DK Metcalf's tantrums are hurting his team as he acts like everyone else is the problem | Matt Calkins",
+    "date": "2026-11-24T12:06:14+00:00"
+   },
+   {
+    "title": "Former chief of staff to Pentagon chief Hegseth says 'it’s time for Pete to call it quits': report",
+    "date": "2026-11-24T12:04:20+00:00"
    },
    {
     "title": "Alzheimer’s risk jumps 53% for millions living with common blood sugar condition",
@@ -191,14 +199,6 @@
    {
     "title": "Turkey farmer dishes on preparing birds for Trump's Thanksgiving presidential pardon",
     "date": "2026-11-24T11:00:30+00:00"
-   },
-   {
-    "title": "TSA detects suspicious movement in traveler’s suitcase during security screening",
-    "date": "2026-11-24T11:00:22+00:00"
-   },
-   {
-    "title": "What the US gets from Israel alliance as support for aid to the Jewish State erodes on left and right: report",
-    "date": "2026-11-24T11:00:08+00:00"
    }
   ]
  }
