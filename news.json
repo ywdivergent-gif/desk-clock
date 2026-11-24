@@ -1,7 +1,11 @@
 {
- "updated": "2026-11-24T12:35:32.925079+00:00",
+ "updated": "2026-11-24T12:40:33.337725+00:00",
  "feeds": {
   "ynet": [
+   {
+    "title": "הפריצה שחושפת את מחיר הדמים האדיר שפוטין מסתיר: \"נקודת המפנה מתקרבת\"",
+    "date": "2026-11-24T12:35:39+00:00"
+   },
    {
     "title": "חשד לרצח בצרפת: ישראלי אותר ללא רוח חיים בדירה בעיירת נופש",
     "date": "2026-11-24T11:38:38+00:00"
@@ -45,10 +49,6 @@
    {
     "title": "נשיא העליון דורש תשובות מכוחות הביטחון: הפורעים פועלים כמיליציות תחת עיניכם",
     "date": "2026-11-24T09:39:02+00:00"
-   },
-   {
-    "title": "הנתון שמדאיג את צה\"ל: כ-30% מכלי המלחמה היבשתיים מושבתים",
-    "date": "2026-11-24T09:31:17+00:00"
    }
   ],
   "ynetnews": [
@@ -103,12 +103,16 @@
   ],
   "cnbc": [
    {
-    "title": "Drugmaker Insmed shares rally 14% after Sanofi agrees to buy it in pharma’s biggest deal in three years",
-    "date": "2026-11-24T12:33:41+00:00"
+    "title": "Stock futures decline as Nvidia pulls back, giving back part of Monday’s rally: Live updates",
+    "date": "2026-11-24T12:37:27+00:00"
    },
    {
-    "title": "Stock futures decline as Nvidia pulls back, giving back part of Monday’s rally: Live updates",
-    "date": "2026-11-24T12:32:24+00:00"
+    "title": "Stocks making the biggest moves premarket: Nvidia, Anthropic, Best Buy & more",
+    "date": "2026-11-24T12:35:38+00:00"
+   },
+   {
+    "title": "Drugmaker Insmed shares rally 14% after Sanofi agrees to buy it in pharma’s biggest deal in three years",
+    "date": "2026-11-24T12:33:41+00:00"
    },
    {
     "title": "Russia accuses NATO member Estonia of hostile actions ‘on the verge of unleashing open war’",
@@ -145,10 +149,6 @@
    {
     "title": "Six key questions raised by Jensen Huang's return to Nvidia",
     "date": "2026-11-24T07:12:33+00:00"
-   },
-   {
-    "title": "AI adoption grows in Asia, but measuring the gains remains tricky",
-    "date": "2026-11-24T05:07:16+00:00"
    }
   ],
   "fox": [
