@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T06:55:23.455452+00:00",
+ "updated": "2026-11-24T07:00:23.589294+00:00",
  "feeds": {
   "ynet": [
    {
@@ -103,6 +103,14 @@
   ],
   "cnbc": [
    {
+    "title": "Six key questions raised by Jensen Huang's return to Nvidia",
+    "date": "2026-11-24T07:00:07+00:00"
+   },
+   {
+    "title": "Why France is at risk of recession — and what could keep it out of one",
+    "date": "2026-11-24T06:55:36+00:00"
+   },
+   {
     "title": "Stock futures rise as traders see whether Nvidia can extend rally from Jensen Huang’s return: Live updates",
     "date": "2026-11-24T06:53:24+00:00"
    },
@@ -131,10 +139,6 @@
     "date": "2026-11-24T03:32:26+00:00"
    },
    {
-    "title": "Six key questions raised by Jensen Huang's return to Nvidia",
-    "date": "2026-11-24T03:05:49+00:00"
-   },
-   {
     "title": "U.S. adds Megaspeed to trade blacklist over export control concerns amid Nvidia controversy",
     "date": "2026-11-24T02:37:39+00:00"
    },
@@ -145,10 +149,6 @@
    {
     "title": "Amazon faces FAA probe after delivery drone strikes Michigan fiber cable, garage",
     "date": "2026-11-24T00:56:10+00:00"
-   },
-   {
-    "title": "CrowdStrike CEO defends Zscaler acquisition, calls it a 'winning combination'",
-    "date": "2026-11-23T23:53:20+00:00"
    }
   ],
   "fox": [
