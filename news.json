@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T16:15:41.653403+00:00",
+ "updated": "2026-11-24T16:20:41.434176+00:00",
  "feeds": {
   "ynet": [
    {
@@ -103,6 +103,10 @@
   ],
   "cnbc": [
    {
+    "title": "Stocks making the biggest moves Tuesday: Kohl's, Dick's Sporting Goods, Abercrombie & Fitch & more",
+    "date": "2026-11-24T16:16:24+00:00"
+   },
+   {
     "title": "Anthropic sinks 12%, falling below $83 IPO price, but analysts are still largely positive",
     "date": "2026-11-24T16:11:58+00:00"
    },
@@ -145,16 +149,24 @@
    {
     "title": "Nvidia brought Jensen Huang back. But the investigations aren’t over",
     "date": "2026-11-24T15:03:36+00:00"
-   },
-   {
-    "title": "Stocks making the biggest moves Tuesday: Kohl's, Dicks Sporting Goods, Abercrombie & Fitch & more",
-    "date": "2026-11-24T15:02:11+00:00"
    }
   ],
   "fox": [
    {
     "title": "Americans don’t have to choose between our AI future and ripping off copyright owners",
     "date": "2026-11-25T10:00:00+00:00"
+   },
+   {
+    "title": "Pro wrestling referee's departure from company gets X-rated twist: report",
+    "date": "2026-11-24T16:10:00+00:00"
+   },
+   {
+    "title": "BetMGM Bonus Code FOXNEWS: Unlock $1500 in First Bet Cover for Tuesday's Three-Game NBA Cup Slate",
+    "date": "2026-11-24T16:08:22+00:00"
+   },
+   {
+    "title": "Body washed ashore in Oregon identified as former city councilor missing since September plane crash",
+    "date": "2026-11-24T16:04:40+00:00"
    },
    {
     "title": "Marathoner asked husband about ‘powdery’ water before fatal fall – then police found his Google searches",
@@ -187,18 +199,6 @@
    {
     "title": "Leafs star Auston Matthews couldn't hide his confusion after singer muffs 'O Canada' lyrics",
     "date": "2026-11-24T15:29:07+00:00"
-   },
-   {
-    "title": "Betr Promo Code FOXNEWS: Get $200 in Bonuses and 4x Free Picks for Any NBA Cup Game Tonight",
-    "date": "2026-11-24T15:28:15+00:00"
-   },
-   {
-    "title": "Alleged drunken driver was over 3 times the limit when he killed newly engaged woman days after jail release",
-    "date": "2026-11-24T15:26:05+00:00"
-   },
-   {
-    "title": "Controlled Iowa munitions detonation better than ‘worst-case scenario,’ acting Army secretary says",
-    "date": "2026-11-24T15:25:49+00:00"
    }
   ]
  }
