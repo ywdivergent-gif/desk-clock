@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T21:10:48.608331+00:00",
+ "updated": "2026-11-24T21:15:48.576398+00:00",
  "feeds": {
   "ynet": [
    {
@@ -103,20 +103,24 @@
   ],
   "cnbc": [
    {
+    "title": "Nvidia shares fall more than 5% as Huang comeback rally cools",
+    "date": "2026-11-24T21:15:23+00:00"
+   },
+   {
+    "title": "Trump wanted Jensen Huang back. Now, the president is all alone in Washington",
+    "date": "2026-11-24T21:13:39+00:00"
+   },
+   {
+    "title": "Nasdaq slumps about 1.5% as Nvidia comeback reverses course and Anthropic breaks IPO price: Live updates",
+    "date": "2026-11-24T21:12:12+00:00"
+   },
+   {
     "title": "Drugmaker Insmed shares rally 14% after Sanofi agrees to buy it in pharma’s biggest deal in three years",
     "date": "2026-11-24T21:07:19+00:00"
    },
    {
-    "title": "Nvidia shares fall over 5% as Huang comeback rally cools",
-    "date": "2026-11-24T21:07:10+00:00"
-   },
-   {
     "title": "Anthropic closes below $83 IPO price, but analysts are still largely positive",
     "date": "2026-11-24T21:04:03+00:00"
-   },
-   {
-    "title": "Nasdaq slumps about 1.5% as Nvidia comeback reverses course and Anthropic breaks IPO price: Live updates",
-    "date": "2026-11-24T21:03:13+00:00"
    },
    {
     "title": "Utah drops criminal charges against Kalshi founders after company suspended operations in state",
@@ -145,16 +149,16 @@
    {
     "title": "Retail turnarounds are taking hold just in time for the holiday season",
     "date": "2026-11-24T19:26:39+00:00"
-   },
-   {
-    "title": "Trump wanted Jensen Huang back. Now, the president is all alone in Washington",
-    "date": "2026-11-24T19:26:26+00:00"
    }
   ],
   "fox": [
    {
     "title": "Americans don’t have to choose between our AI future and ripping off copyright owners",
     "date": "2026-11-25T10:00:00+00:00"
+   },
+   {
+    "title": "Kamala Harris' former political mentor and boyfriend delivers stinging warning about 2028 comeback",
+    "date": "2026-11-24T21:07:54+00:00"
    },
    {
     "title": "NATO fighter jet cleared to shoot down Russian missile over Poland as Warsaw pushes for US troops",
@@ -195,10 +199,6 @@
    {
     "title": "Hard Rock Bet Promo Code: Bet $5, Get $500 in No Sweat Bets for Tuesday's NBA Cup Games",
     "date": "2026-11-24T20:25:47+00:00"
-   },
-   {
-    "title": "Bruce Pearl joins Dan Dakich to weigh in on messy LSU situation: 'Go to another league'",
-    "date": "2026-11-24T20:11:14+00:00"
    }
   ]
  }
