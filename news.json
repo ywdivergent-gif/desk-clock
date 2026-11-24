@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T13:40:43.929052+00:00",
+ "updated": "2026-11-24T13:45:42.007042+00:00",
  "feeds": {
   "ynet": [
    {
@@ -103,8 +103,16 @@
   ],
   "cnbc": [
    {
+    "title": "Russia accuses NATO member Estonia of hostile actions ‘on the verge of unleashing open war’",
+    "date": "2026-11-24T13:42:55+00:00"
+   },
+   {
     "title": "Stock futures decline as Nvidia pulls back, giving back part of Monday’s rally: Live updates",
-    "date": "2026-11-24T13:39:13+00:00"
+    "date": "2026-11-24T13:42:00+00:00"
+   },
+   {
+    "title": "Here are Tuesday's biggest analyst calls: Anthropic, SpaceX, Nvidia, Tesla, Boeing, JetBlue & more",
+    "date": "2026-11-24T13:35:07+00:00"
    },
    {
     "title": "Fed's John Williams indicates higher interest rates likely 'over time' to address inflation",
@@ -133,14 +141,6 @@
    {
     "title": "Drugmaker Insmed shares rally 14% after Sanofi agrees to buy it in pharma’s biggest deal in three years",
     "date": "2026-11-24T12:33:41+00:00"
-   },
-   {
-    "title": "Russia accuses NATO member Estonia of hostile actions ‘on the verge of unleashing open war’",
-    "date": "2026-11-24T12:32:24+00:00"
-   },
-   {
-    "title": "CrowdStrike will continue surging thanks to strong hyperscaler demand, says Guggenheim",
-    "date": "2026-11-24T12:05:58+00:00"
    },
    {
     "title": "Some U.S. food banks see demand top pandemic levels",
