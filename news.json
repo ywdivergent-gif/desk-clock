@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-24T22:20:48.591208+00:00",
+ "updated": "2026-11-24T22:25:48.373170+00:00",
  "feeds": {
   "ynet": [
+   {
+    "title": "משבר עם יאיר גולן, ובדרך להסכם קואליציוני ראשון: איזנקוט וליברמן סיכמו על תיקים",
+    "date": "2026-11-24T22:21:24+00:00"
+   },
+   {
+    "title": "להקדים השכלה למכה",
+    "date": "2026-11-24T22:18:40+00:00"
+   },
    {
     "title": "חוסן לאומי מתחיל באנשים",
     "date": "2026-11-24T22:08:50+00:00"
@@ -23,10 +31,6 @@
     "date": "2026-11-24T20:19:20+00:00"
    },
    {
-    "title": "משבר עם יאיר גולן, ובדרך להסכם קואליציוני ראשון: איזנקוט וליברמן סיכמו על תיקים",
-    "date": "2026-11-24T20:17:22+00:00"
-   },
-   {
     "title": "\"מבנה עגול חדש בדימונה\": כל ההערכות על ארסנל הגרעין הישראלי - ותמונות הלוויין",
     "date": "2026-11-24T20:01:47+00:00"
    },
@@ -45,10 +49,6 @@
    {
     "title": "צעירה נהרגה מפגיעת רכבת ליד נתב\"ג: שיבושים קשים בקווים לירושלים ולמודיעין",
     "date": "2026-11-24T17:27:34+00:00"
-   },
-   {
-    "title": "כ\"ץ: איראן מפתחת נשק כימי כ\"שובר שוויון\" מול ישראל, לא נאפשר לה",
-    "date": "2026-11-24T16:59:27+00:00"
    }
   ],
   "ynetnews": [
@@ -103,6 +103,10 @@
   ],
   "cnbc": [
    {
+    "title": "Stocks making the biggest moves Tuesday: Dick's Sporting Goods, Analog Devices, Nvidia, Pinterest & more",
+    "date": "2026-11-24T22:24:41+00:00"
+   },
+   {
     "title": "Trump Account contributions from friends and family pass $1 billion mark, Treasury says",
     "date": "2026-11-24T22:18:47+00:00"
    },
@@ -145,16 +149,16 @@
    {
     "title": "How Meta is using Instagram to get an ad boost from its Muse personal AI agent",
     "date": "2026-11-24T20:37:40+00:00"
-   },
-   {
-    "title": "Op-ed: Trump’s Nvidia board intervention put a price on national security. Our adversaries will take note",
-    "date": "2026-11-24T20:02:49+00:00"
    }
   ],
   "fox": [
    {
     "title": "Americans don’t have to choose between our AI future and ripping off copyright owners",
     "date": "2026-11-25T10:00:00+00:00"
+   },
+   {
+    "title": "Ilhan Omar’s legal reckoning is looming and redactions can't hide it",
+    "date": "2026-11-24T22:17:48+00:00"
    },
    {
     "title": "Florida official addresses 'misimpression' about teen son's fatal campsite shooting",
@@ -195,10 +199,6 @@
    {
     "title": "Actress Eiza Gonzalez put the 'hot' in hot lap at Las Vegas GP as she and her leather pants freaked out",
     "date": "2026-11-24T21:12:48+00:00"
-   },
-   {
-    "title": "Kamala Harris' former political mentor and boyfriend delivers stinging warning about 2028 comeback",
-    "date": "2026-11-24T21:07:54+00:00"
    }
   ]
  }
