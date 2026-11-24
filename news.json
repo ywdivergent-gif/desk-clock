@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T14:35:41.584003+00:00",
+ "updated": "2026-11-24T14:40:41.749011+00:00",
  "feeds": {
   "ynet": [
    {
@@ -104,7 +104,7 @@
   "cnbc": [
    {
     "title": "Stocks decline as Nvidia slides, giving back part of Monday’s rally: Live updates",
-    "date": "2026-11-24T14:35:23+00:00"
+    "date": "2026-11-24T14:39:22+00:00"
    },
    {
     "title": "Drugmaker Insmed shares rally 14% after Sanofi agrees to buy it in pharma’s biggest deal in three years",
@@ -157,6 +157,10 @@
     "date": "2026-11-25T10:00:00+00:00"
    },
    {
+    "title": "Pearl Jam decries ICE's 'systemic abuse' after 'heartbreaking' Seattle airport arrest",
+    "date": "2026-11-24T14:29:44+00:00"
+   },
+   {
     "title": "Commanders cheerleader leaves the internet stunned after MNF breakout performance, Hogan's boot & snow game?",
     "date": "2026-11-24T14:17:08+00:00"
    },
@@ -195,10 +199,6 @@
    {
     "title": "Former chief of staff to Pentagon chief Hegseth says 'it’s time for Pete to call it quits': report",
     "date": "2026-11-24T12:04:20+00:00"
-   },
-   {
-    "title": "Alzheimer’s risk jumps 53% for millions living with common blood sugar condition",
-    "date": "2026-11-24T12:00:57+00:00"
    }
   ]
  }
