@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T17:20:41.535190+00:00",
+ "updated": "2026-11-24T17:25:41.551397+00:00",
  "feeds": {
   "ynet": [
    {
@@ -104,7 +104,11 @@
   "cnbc": [
    {
     "title": "Stocks making the biggest moves midday: Dick's Sporting Goods, Analog Devices, Nvidia, Pinterest & more",
-    "date": "2026-11-24T17:01:03+00:00"
+    "date": "2026-11-24T17:24:42+00:00"
+   },
+   {
+    "title": "Nvidia shares fall 7% as Huang comeback rally cools",
+    "date": "2026-11-24T17:22:30+00:00"
    },
    {
     "title": "Anthropic sinks 12%, falling below $83 IPO price, but analysts are still largely positive",
@@ -113,10 +117,6 @@
    {
     "title": "Jensen Huang to face DC grilling the same day Nvidia releases new products at GTC",
     "date": "2026-11-24T16:42:57+00:00"
-   },
-   {
-    "title": "Nvidia shares fall 8% as Huang comeback rally cools",
-    "date": "2026-11-24T16:38:21+00:00"
    },
    {
     "title": "Consumer confidence shoots up after Democrats' midterm victories — though inflation worries persist",
@@ -157,6 +157,10 @@
     "date": "2026-11-25T10:00:00+00:00"
    },
    {
+    "title": "'Worst nightmare' as Delta flight comes to sudden halt due to cabin disruption",
+    "date": "2026-11-24T17:18:19+00:00"
+   },
+   {
     "title": "Why the under looks appealing in Baylor vs Alabama as both teams face unfamiliar shooting conditions",
     "date": "2026-11-24T17:14:11+00:00"
    },
@@ -195,10 +199,6 @@
    {
     "title": "Body washed ashore in Oregon identified as former city councilor missing since September plane crash",
     "date": "2026-11-24T16:04:40+00:00"
-   },
-   {
-    "title": "Marathoner asked husband about ‘powdery’ water before fatal fall – then police found his Google searches",
-    "date": "2026-11-24T16:01:33+00:00"
    }
   ]
  }
