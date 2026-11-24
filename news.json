@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T16:10:41.426489+00:00",
+ "updated": "2026-11-24T16:15:41.653403+00:00",
  "feeds": {
   "ynet": [
    {
@@ -103,6 +103,10 @@
   ],
   "cnbc": [
    {
+    "title": "Anthropic sinks 12%, falling below $83 IPO price, but analysts are still largely positive",
+    "date": "2026-11-24T16:11:58+00:00"
+   },
+   {
     "title": "Consumer confidence shoots up after Democrats' midterm victories — though inflation worries persist",
     "date": "2026-11-24T16:06:07+00:00"
    },
@@ -113,10 +117,6 @@
    {
     "title": "Amtrak sets ridership record as rising gas prices encourage Americans to travel by rail",
     "date": "2026-11-24T15:49:05+00:00"
-   },
-   {
-    "title": "Anthropic stock falls below $83 IPO price, but analysts are still largely positive",
-    "date": "2026-11-24T15:47:46+00:00"
    },
    {
     "title": "Jensen Huang faces DC grilling the same day Nvidia releases new products at GTC",
@@ -157,14 +157,6 @@
     "date": "2026-11-25T10:00:00+00:00"
    },
    {
-    "title": "BetMGM Bonus Code FOXNEWS: Unlock $1500 in First Bet Cover for Tuesday's Three-Game NBA Cup Slate",
-    "date": "2026-11-24T16:08:22+00:00"
-   },
-   {
-    "title": "Body washed ashore in Oregon identified as former city councilor missing since September plane crash",
-    "date": "2026-11-24T16:04:40+00:00"
-   },
-   {
     "title": "Marathoner asked husband about ‘powdery’ water before fatal fall – then police found his Google searches",
     "date": "2026-11-24T16:01:33+00:00"
    },
@@ -199,6 +191,14 @@
    {
     "title": "Betr Promo Code FOXNEWS: Get $200 in Bonuses and 4x Free Picks for Any NBA Cup Game Tonight",
     "date": "2026-11-24T15:28:15+00:00"
+   },
+   {
+    "title": "Alleged drunken driver was over 3 times the limit when he killed newly engaged woman days after jail release",
+    "date": "2026-11-24T15:26:05+00:00"
+   },
+   {
+    "title": "Controlled Iowa munitions detonation better than ‘worst-case scenario,’ acting Army secretary says",
+    "date": "2026-11-24T15:25:49+00:00"
    }
   ]
  }
