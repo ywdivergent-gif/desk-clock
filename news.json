@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T05:05:23.600586+00:00",
+ "updated": "2026-11-24T05:10:23.712186+00:00",
  "feeds": {
   "ynet": [
    {
@@ -103,6 +103,14 @@
   ],
   "cnbc": [
    {
+    "title": "AI adoption grows in Asia, but measuring the gains remains tricky",
+    "date": "2026-11-24T05:07:16+00:00"
+   },
+   {
+    "title": "Iran says three tankers hit mines in Hormuz despite U.S. escort, as Treasury widens sanctions",
+    "date": "2026-11-24T05:05:08+00:00"
+   },
+   {
     "title": "IFS CEO Mark Moffat on why he walked away from a 24-year career at PwC",
     "date": "2026-11-24T05:00:02+00:00"
    },
@@ -139,16 +147,8 @@
     "date": "2026-11-23T23:53:20+00:00"
    },
    {
-    "title": "AI adoption grows in Asia, but measuring the gains remains tricky",
-    "date": "2026-11-23T23:42:27+00:00"
-   },
-   {
     "title": "Trump sealed deal for Nvidia to rehire Jensen Huang as CEO",
     "date": "2026-11-23T23:42:17+00:00"
-   },
-   {
-    "title": "Nvidia sets options-trading record after CEO comeback. Here are the big trades",
-    "date": "2026-11-23T23:24:02+00:00"
    }
   ],
   "fox": [
