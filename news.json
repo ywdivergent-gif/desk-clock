@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T20:45:49.386561+00:00",
+ "updated": "2026-11-24T20:50:49.619966+00:00",
  "feeds": {
   "ynet": [
    {
@@ -7,7 +7,7 @@
     "date": "2026-11-24T20:19:20+00:00"
    },
    {
-    "title": "משבר בגוש והסכם קואליציוני ראשון: ליברמן חתם עם איזנקוט, גולן עצר את השיחות",
+    "title": "משבר בגוש, ובדרך להסכם קואליציוני ראשון: ליברמן סיכם עם איזנקוט, גולן עצר שיחות",
     "date": "2026-11-24T20:17:22+00:00"
    },
    {
@@ -103,6 +103,10 @@
   ],
   "cnbc": [
    {
+    "title": "Utah drops criminal charges against Kalshi founders after company suspended operations in state",
+    "date": "2026-11-24T20:45:57+00:00"
+   },
+   {
     "title": "Jensen Huang tells staff that Nvidia doesn't need a succession plan",
     "date": "2026-11-24T20:42:07+00:00"
    },
@@ -145,16 +149,16 @@
    {
     "title": "Investors are fleeing this data center stock. I see an opportunity",
     "date": "2026-11-24T19:15:12+00:00"
-   },
-   {
-    "title": "Kalshi daily volume of ‘perps’ trading begins to top its prediction markets",
-    "date": "2026-11-24T18:34:55+00:00"
    }
   ],
   "fox": [
    {
     "title": "Americans don’t have to choose between our AI future and ripping off copyright owners",
     "date": "2026-11-25T10:00:00+00:00"
+   },
+   {
+    "title": "Miranda Lambert gushes over Cowboys cheerleaders, Landry Kiffin is a sore loser & rude Thanksgiving emails",
+    "date": "2026-11-24T20:40:42+00:00"
    },
    {
     "title": "Best Sportsbook Promos for Tuesday's NBA Cup Slate: $2000+ up for Grabs",
@@ -195,10 +199,6 @@
    {
     "title": "49ers' Kyle Juszczyk has strong message for women as he honors late mother-in-law with special cleats",
     "date": "2026-11-24T19:36:20+00:00"
-   },
-   {
-    "title": "Orioles agree to $125 million deal with Rays' postseason hero Freddy Peralta in free agency splash: report",
-    "date": "2026-11-24T19:29:39+00:00"
    }
   ]
  }
