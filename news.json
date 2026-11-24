@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T22:15:48.601275+00:00",
+ "updated": "2026-11-24T22:20:48.591208+00:00",
  "feeds": {
   "ynet": [
    {
@@ -103,6 +103,10 @@
   ],
   "cnbc": [
    {
+    "title": "Trump Account contributions from friends and family pass $1 billion mark, Treasury says",
+    "date": "2026-11-24T22:18:47+00:00"
+   },
+   {
     "title": "Dell earnings beat on AI strength, company authorizes $25 billion buyback",
     "date": "2026-11-24T22:07:45+00:00"
    },
@@ -145,16 +149,16 @@
    {
     "title": "Op-ed: Trump’s Nvidia board intervention put a price on national security. Our adversaries will take note",
     "date": "2026-11-24T20:02:49+00:00"
-   },
-   {
-    "title": "Anthropic shares fall below IPO price. Traders see even more pain",
-    "date": "2026-11-24T19:47:42+00:00"
    }
   ],
   "fox": [
    {
     "title": "Americans don’t have to choose between our AI future and ripping off copyright owners",
     "date": "2026-11-25T10:00:00+00:00"
+   },
+   {
+    "title": "Florida official addresses 'misimpression' about teen son's fatal campsite shooting",
+    "date": "2026-11-24T22:12:24+00:00"
    },
    {
     "title": "FAA issues ground stop at Chicago O'Hare due to 'equipment outage'",
@@ -195,10 +199,6 @@
    {
     "title": "Kamala Harris' former political mentor and boyfriend delivers stinging warning about 2028 comeback",
     "date": "2026-11-24T21:07:54+00:00"
-   },
-   {
-    "title": "NATO fighter jet cleared to shoot down Russian missile over Poland as Warsaw pushes for US troops",
-    "date": "2026-11-24T20:56:51+00:00"
    }
   ]
  }
