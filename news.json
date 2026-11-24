@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T11:15:32.816779+00:00",
+ "updated": "2026-11-24T11:20:32.924264+00:00",
  "feeds": {
   "ynet": [
    {
@@ -103,6 +103,10 @@
   ],
   "cnbc": [
    {
+    "title": "Why France is at risk of recession — and what could keep it out of one",
+    "date": "2026-11-24T11:15:30+00:00"
+   },
+   {
     "title": "Nasdaq futures turn lower after Nvidia rally as Jensen Huang returns: Live updates",
     "date": "2026-11-24T10:57:55+00:00"
    },
@@ -125,10 +129,6 @@
    {
     "title": "Six key questions raised by Jensen Huang's return to Nvidia",
     "date": "2026-11-24T07:12:33+00:00"
-   },
-   {
-    "title": "Why France is at risk of recession — and what could keep it out of one",
-    "date": "2026-11-24T06:55:36+00:00"
    },
    {
     "title": "AI adoption grows in Asia, but measuring the gains remains tricky",
