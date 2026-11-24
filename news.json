@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T07:35:33.598155+00:00",
+ "updated": "2026-11-24T07:40:32.572783+00:00",
  "feeds": {
   "ynet": [
    {
@@ -103,6 +103,14 @@
   ],
   "cnbc": [
    {
+    "title": "Stock futures rise as traders see whether Nvidia can extend rally from Jensen Huang’s return: Live updates",
+    "date": "2026-11-24T07:40:04+00:00"
+   },
+   {
+    "title": "Rene Haas to remain CEO of chipmaker Arm through 2033 amid Nvidia top job chatter",
+    "date": "2026-11-24T07:30:10+00:00"
+   },
+   {
     "title": "Asian Nvidia-related stocks jump after Huang's return, with Taiwan's near price limits",
     "date": "2026-11-24T07:27:15+00:00"
    },
@@ -117,10 +125,6 @@
    {
     "title": "Why France is at risk of recession — and what could keep it out of one",
     "date": "2026-11-24T06:55:36+00:00"
-   },
-   {
-    "title": "Stock futures rise as traders see whether Nvidia can extend rally from Jensen Huang’s return: Live updates",
-    "date": "2026-11-24T06:53:24+00:00"
    },
    {
     "title": "Jensen Huang is ‘too big to fire,’ putting Nvidia’s governance in focus: analysts",
@@ -145,10 +149,6 @@
    {
     "title": "U.S. court orders to proceed with planned ammunition detonation in Iowa",
     "date": "2026-11-24T03:32:26+00:00"
-   },
-   {
-    "title": "U.S. adds Megaspeed to trade blacklist over export control concerns amid Nvidia controversy",
-    "date": "2026-11-24T02:37:39+00:00"
    }
   ],
   "fox": [
