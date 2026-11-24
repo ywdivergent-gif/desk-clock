@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T20:40:49.284255+00:00",
+ "updated": "2026-11-24T20:45:49.386561+00:00",
  "feeds": {
   "ynet": [
    {
@@ -104,7 +104,11 @@
   "cnbc": [
    {
     "title": "Jensen Huang tells staff that Nvidia doesn't need a succession plan",
-    "date": "2026-11-24T20:40:06+00:00"
+    "date": "2026-11-24T20:42:07+00:00"
+   },
+   {
+    "title": "How Meta is using Instagram to get an ad boost from its Muse personal AI agent",
+    "date": "2026-11-24T20:37:40+00:00"
    },
    {
     "title": "Op-ed: Trump’s Nvidia board intervention put a price on national security. Our adversaries will take note",
@@ -145,16 +149,16 @@
    {
     "title": "Kalshi daily volume of ‘perps’ trading begins to top its prediction markets",
     "date": "2026-11-24T18:34:55+00:00"
-   },
-   {
-    "title": "Consumer confidence shoots up after Democrats' midterm victories — though inflation worries persist",
-    "date": "2026-11-24T18:34:43+00:00"
    }
   ],
   "fox": [
    {
     "title": "Americans don’t have to choose between our AI future and ripping off copyright owners",
     "date": "2026-11-25T10:00:00+00:00"
+   },
+   {
+    "title": "Best Sportsbook Promos for Tuesday's NBA Cup Slate: $2000+ up for Grabs",
+    "date": "2026-11-24T20:37:35+00:00"
    },
    {
     "title": "'The View' host says Hillary Clinton has 'never been wrong about anything,' touts response to Nvidia story",
@@ -177,7 +181,7 @@
     "date": "2026-11-24T20:25:47+00:00"
    },
    {
-    "title": "Bruce Pearl joins Dan Dakich to weigh in on messy LSU situation: 'Just go join another league'",
+    "title": "Bruce Pearl joins Dan Dakich to weigh in on messy LSU situation: 'Go to another league'",
     "date": "2026-11-24T20:11:14+00:00"
    },
    {
@@ -195,10 +199,6 @@
    {
     "title": "Orioles agree to $125 million deal with Rays' postseason hero Freddy Peralta in free agency splash: report",
     "date": "2026-11-24T19:29:39+00:00"
-   },
-   {
-    "title": "What United Airlines banning AI agents from booking flights means for your travel plans",
-    "date": "2026-11-24T19:23:40+00:00"
    }
   ]
  }
