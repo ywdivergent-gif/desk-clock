@@ -1,7 +1,11 @@
 {
- "updated": "2026-11-24T03:00:24.039676+00:00",
+ "updated": "2026-11-24T03:05:23.659508+00:00",
  "feeds": {
   "ynet": [
+   {
+    "title": "בגוש השינוי רוצים להחליף את נתניהו, אף אחד לא מסכים על הדרך | עם מורן אזולאי",
+    "date": "2026-11-24T03:00:00+00:00"
+   },
    {
     "title": "מתקפות סייבר ואיומים לפוצץ ספינות - גם בחופי ארה\"ב. החשודה המרכזית: איראן",
     "date": "2026-11-24T01:36:44+00:00"
@@ -45,10 +49,6 @@
    {
     "title": "קרב באמצע היישוב: רעול פנים פתח באש, החליף מחסנית ונמלט תחת יריות | תיעוד",
     "date": "2026-11-23T19:39:15+00:00"
-   },
-   {
-    "title": "טראמפ חשף למה התערב למען הואנג; צפו: המנכ\"ל חזר למטה אנבידיה וזכה לתשואות",
-    "date": "2026-11-23T19:14:38+00:00"
    }
   ],
   "ynetnews": [
@@ -157,6 +157,10 @@
     "date": "2026-11-25T10:00:00+00:00"
    },
    {
+    "title": "Newly elected Florida commissioner's son shot dead inside tent during camping trip",
+    "date": "2026-11-24T02:56:31+00:00"
+   },
+   {
     "title": "Army sergeant pleads guilty to cashing in on US military secrets in China-linked plot, DOJ says",
     "date": "2026-11-24T02:48:51+00:00"
    },
@@ -195,10 +199,6 @@
    {
     "title": "FIFA awards 2031 Women's World Cup to the United States with major revenue expectations leading the way",
     "date": "2026-11-24T00:22:19+00:00"
-   },
-   {
-    "title": "Fiona the hippo's tragic death prompts Cincinnati Zoo to install new safeguards at Hippo Cove",
-    "date": "2026-11-24T00:02:27+00:00"
    }
   ]
  }
