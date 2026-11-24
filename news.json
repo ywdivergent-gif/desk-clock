@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T12:25:32.876479+00:00",
+ "updated": "2026-11-24T12:30:32.776861+00:00",
  "feeds": {
   "ynet": [
    {
@@ -103,6 +103,10 @@
   ],
   "cnbc": [
    {
+    "title": "Stock futures decline as Nvidia pulls back, giving back part of Monday’s rally: Live updates",
+    "date": "2026-11-24T12:29:32+00:00"
+   },
+   {
     "title": "Best Buy reports comparable sales growth of 6.1%, highest in five years",
     "date": "2026-11-24T12:06:04+00:00"
    },
@@ -117,10 +121,6 @@
    {
     "title": "U.S. court clears the way for Army’s planned ammunition detonation in Iowa",
     "date": "2026-11-24T11:56:49+00:00"
-   },
-   {
-    "title": "Stock futures decline as Nvidia pulls back, giving back part of Monday’s rally: Live updates",
-    "date": "2026-11-24T11:51:11+00:00"
    },
    {
     "title": "Why France is at risk of recession — and what could keep it out of one",
