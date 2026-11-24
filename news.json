@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T13:30:41.667552+00:00",
+ "updated": "2026-11-24T13:35:41.463591+00:00",
  "feeds": {
   "ynet": [
    {
@@ -103,16 +103,24 @@
   ],
   "cnbc": [
    {
+    "title": "Fed's John Williams indicates higher interest rates likely 'over time' to address inflation",
+    "date": "2026-11-24T13:33:26+00:00"
+   },
+   {
+    "title": "Stocks making the biggest moves Tuesday: Nvidia, Anthropic, Best Buy & more",
+    "date": "2026-11-24T13:31:51+00:00"
+   },
+   {
+    "title": "Six key questions raised by Jensen Huang's return to Nvidia",
+    "date": "2026-11-24T13:31:29+00:00"
+   },
+   {
     "title": "Commercial real estate activity falls 14% in October, as interest rates rise",
     "date": "2026-11-24T13:17:16+00:00"
    },
    {
     "title": "Stock futures decline as Nvidia pulls back, giving back part of Monday’s rally: Live updates",
     "date": "2026-11-24T13:11:44+00:00"
-   },
-   {
-    "title": "Stocks making the biggest moves premarket: Nvidia, Anthropic, Best Buy & more",
-    "date": "2026-11-24T12:58:18+00:00"
    },
    {
     "title": "Best Buy reports comparable sales growth of 6.1%, highest in five years",
@@ -141,20 +149,16 @@
    {
     "title": "U.S. court clears the way for Army’s planned ammunition detonation in Iowa",
     "date": "2026-11-24T11:56:49+00:00"
-   },
-   {
-    "title": "Why France is at risk of recession — and what could keep it out of one",
-    "date": "2026-11-24T11:15:30+00:00"
-   },
-   {
-    "title": "Jensen Huang is ‘too big to fire,’ putting Nvidia’s governance in focus: analysts",
-    "date": "2026-11-24T10:56:56+00:00"
    }
   ],
   "fox": [
    {
     "title": "Americans don’t have to choose between our AI future and ripping off copyright owners",
     "date": "2026-11-25T10:00:00+00:00"
+   },
+   {
+    "title": "WWE star uniquely suited for role in 'Hooters: The Movie'",
+    "date": "2026-11-24T13:30:38+00:00"
    },
    {
     "title": "Intruders break into Prince William and Kate Middleton’s country home in royal security breach: report",
@@ -195,10 +199,6 @@
    {
     "title": "US Army to proceed with Iowa detonation of degraded bomb materials: ‘A consensus decision’",
     "date": "2026-11-24T11:59:30+00:00"
-   },
-   {
-    "title": "Unsealed Ilhan Omar warrant docs expose decades-long scope of probe into Democrat rep and more top headlines",
-    "date": "2026-11-24T11:55:03+00:00"
    }
   ]
  }
