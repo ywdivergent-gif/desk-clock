@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T18:15:41.610235+00:00",
+ "updated": "2026-11-24T18:20:41.267284+00:00",
  "feeds": {
   "ynet": [
    {
@@ -157,6 +157,10 @@
     "date": "2026-11-25T10:00:00+00:00"
    },
    {
+    "title": "McDonald's taps into Grand Theft Auto hype with Discord ordering feature as experts share concerns",
+    "date": "2026-11-24T18:09:40+00:00"
+   },
+   {
     "title": "Unvaccinated Pennsylvania resident dies of measles in state's ninth fatal case this year",
     "date": "2026-11-24T17:50:49+00:00"
    },
@@ -195,10 +199,6 @@
    {
     "title": "Chicago Cubs reportedly sign Japanese star Teruaki Sato to monster contract worth $120 million",
     "date": "2026-11-24T16:25:19+00:00"
-   },
-   {
-    "title": "Apple tightens Mac security as AI agents seek your files",
-    "date": "2026-11-24T16:21:50+00:00"
    }
   ]
  }
