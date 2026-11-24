@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T19:10:49.947833+00:00",
+ "updated": "2026-11-24T19:15:48.932487+00:00",
  "feeds": {
   "ynet": [
    {
@@ -103,6 +103,10 @@
   ],
   "cnbc": [
    {
+    "title": "AG Blanche, FBI’s Patel dodge questions about Jensen Huang investigation",
+    "date": "2026-11-24T19:14:04+00:00"
+   },
+   {
     "title": "Kalshi daily volume of ‘perps’ trading begins to top its prediction markets",
     "date": "2026-11-24T18:34:55+00:00"
    },
@@ -137,10 +141,6 @@
    {
     "title": "As Anthropic falls below its IPO price, here's how big-money traders are reacting",
     "date": "2026-11-24T18:17:12+00:00"
-   },
-   {
-    "title": "AG Blanche, FBI’s Patel dodge questions about Jensen Huang investigation",
-    "date": "2026-11-24T17:59:44+00:00"
    },
    {
     "title": "Trump Account contributions from friends and family pass $1 billion mark, Treasury says",
