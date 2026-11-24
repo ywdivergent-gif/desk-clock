@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T19:15:48.932487+00:00",
+ "updated": "2026-11-24T19:20:49.403447+00:00",
  "feeds": {
   "ynet": [
    {
@@ -104,7 +104,15 @@
   "cnbc": [
    {
     "title": "AG Blanche, FBI’s Patel dodge questions about Jensen Huang investigation",
-    "date": "2026-11-24T19:14:04+00:00"
+    "date": "2026-11-24T19:19:12+00:00"
+   },
+   {
+    "title": "Investors are fleeing this data center stock. I see an opportunity",
+    "date": "2026-11-24T19:15:12+00:00"
+   },
+   {
+    "title": "Trump wanted Jensen Huang back. Now, he's all alone in Washington",
+    "date": "2026-11-24T19:04:13+00:00"
    },
    {
     "title": "Kalshi daily volume of ‘perps’ trading begins to top its prediction markets",
@@ -135,20 +143,12 @@
     "date": "2026-11-24T18:21:35+00:00"
    },
    {
-    "title": "Nvidia revived the AI trade, but investors still have reasons to hedge",
-    "date": "2026-11-24T18:18:53+00:00"
-   },
-   {
     "title": "As Anthropic falls below its IPO price, here's how big-money traders are reacting",
     "date": "2026-11-24T18:17:12+00:00"
    },
    {
     "title": "Trump Account contributions from friends and family pass $1 billion mark, Treasury says",
     "date": "2026-11-24T17:59:12+00:00"
-   },
-   {
-    "title": "Jensen Huang to face DC grilling the same day Nvidia releases new products at GTC",
-    "date": "2026-11-24T17:51:45+00:00"
    }
   ],
   "fox": [
