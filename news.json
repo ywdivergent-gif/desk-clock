@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-24T22:25:48.373170+00:00",
+ "updated": "2026-11-24T22:30:48.618931+00:00",
  "feeds": {
   "ynet": [
+   {
+    "title": "סכנת המלחמה הפוליטית",
+    "date": "2026-11-24T22:24:40+00:00"
+   },
+   {
+    "title": "עונת המסית",
+    "date": "2026-11-24T22:23:07+00:00"
+   },
    {
     "title": "משבר עם יאיר גולן, ובדרך להסכם קואליציוני ראשון: איזנקוט וליברמן סיכמו על תיקים",
     "date": "2026-11-24T22:21:24+00:00"
@@ -41,14 +49,6 @@
    {
     "title": "חימום מנועים במו\"מ: יהדות התורה מגבשת צוות לשיחות רשמיות עם איזנקוט",
     "date": "2026-11-24T17:48:54+00:00"
-   },
-   {
-    "title": "גבר במצב בינוני-קשה אחרי שהותקף על ידי חזיר בר בחיפה",
-    "date": "2026-11-24T17:35:37+00:00"
-   },
-   {
-    "title": "צעירה נהרגה מפגיעת רכבת ליד נתב\"ג: שיבושים קשים בקווים לירושלים ולמודיעין",
-    "date": "2026-11-24T17:27:34+00:00"
    }
   ],
   "ynetnews": [
@@ -157,6 +157,10 @@
     "date": "2026-11-25T10:00:00+00:00"
    },
    {
+    "title": "Benjamin Franklin impersonator appears in shackles and full costume after Boston arrest",
+    "date": "2026-11-24T22:25:05+00:00"
+   },
+   {
     "title": "Ilhan Omar’s legal reckoning is looming and redactions can't hide it",
     "date": "2026-11-24T22:17:48+00:00"
    },
@@ -195,10 +199,6 @@
    {
     "title": "Florida Panthers are giving away something that will make you the envy of all your Thanksgiving guests",
     "date": "2026-11-24T21:18:16+00:00"
-   },
-   {
-    "title": "Actress Eiza Gonzalez put the 'hot' in hot lap at Las Vegas GP as she and her leather pants freaked out",
-    "date": "2026-11-24T21:12:48+00:00"
    }
   ]
  }
