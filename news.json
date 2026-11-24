@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T17:40:41.514743+00:00",
+ "updated": "2026-11-24T17:45:41.437469+00:00",
  "feeds": {
   "ynet": [
    {
@@ -111,6 +111,10 @@
     "date": "2026-11-24T17:30:26+00:00"
    },
    {
+    "title": "Waymo says recall prompted by 11 new incidents of robotaxis entering closed freeway lanes",
+    "date": "2026-11-24T17:28:37+00:00"
+   },
+   {
     "title": "Stocks making the biggest moves midday: Dick's Sporting Goods, Analog Devices, Nvidia, Pinterest & more",
     "date": "2026-11-24T17:24:42+00:00"
    },
@@ -119,8 +123,8 @@
     "date": "2026-11-24T17:22:30+00:00"
    },
    {
-    "title": "Jim Cramer says ‘the time is now’ to put sidelined cash to work",
-    "date": "2026-11-24T17:04:03+00:00"
+    "title": "We're adding to our position in a tech giant that is too cheap to ignore",
+    "date": "2026-11-24T17:19:52+00:00"
    },
    {
     "title": "Jensen Huang to face DC grilling the same day Nvidia releases new products at GTC",
@@ -145,16 +149,16 @@
    {
     "title": "Quitting can actually be the key to success, says expert: It's one of the 'most courageous moves you can make'",
     "date": "2026-11-24T15:25:37+00:00"
-   },
-   {
-    "title": "Commercial real estate activity falls 14% in October, as interest rates rise",
-    "date": "2026-11-24T15:05:14+00:00"
    }
   ],
   "fox": [
    {
     "title": "Americans don’t have to choose between our AI future and ripping off copyright owners",
     "date": "2026-11-25T10:00:00+00:00"
+   },
+   {
+    "title": "Billy Bob Thornton urges viewers to learn the real history behind Thanksgiving on Fox Nation's 'The Mayflower'",
+    "date": "2026-11-24T17:38:12+00:00"
    },
    {
     "title": "Biden's first-year fundraising fails to crack 1% of Obama's library haul as questions swirl over legacy",
@@ -195,10 +199,6 @@
    {
     "title": "Pro wrestling referee's departure from company gets X-rated twist: report",
     "date": "2026-11-24T16:10:00+00:00"
-   },
-   {
-    "title": "BetMGM Bonus Code FOXNEWS: Unlock $1500 in First Bet Cover for Tuesday's Three-Game NBA Cup Slate",
-    "date": "2026-11-24T16:08:22+00:00"
    }
   ]
  }
