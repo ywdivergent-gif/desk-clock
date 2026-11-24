@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T23:00:48.335497+00:00",
+ "updated": "2026-11-24T23:05:49.096293+00:00",
  "feeds": {
   "ynet": [
    {
@@ -103,6 +103,10 @@
   ],
   "cnbc": [
    {
+    "title": "Kalshi daily volume of ‘perps’ trading begins to top its prediction markets",
+    "date": "2026-11-24T23:03:24+00:00"
+   },
+   {
     "title": "Stocks making the biggest moves after hours: Ambarella, Dell, Autodesk, Urban Outfitters & more",
     "date": "2026-11-24T22:49:24+00:00"
    },
@@ -145,16 +149,16 @@
    {
     "title": "Jensen Huang tells staff that Nvidia doesn't need a succession plan",
     "date": "2026-11-24T20:42:07+00:00"
-   },
-   {
-    "title": "How Meta is using Instagram to get an ad boost from its Muse personal AI agent",
-    "date": "2026-11-24T20:37:40+00:00"
    }
   ],
   "fox": [
    {
     "title": "Americans don’t have to choose between our AI future and ripping off copyright owners",
     "date": "2026-11-25T10:00:00+00:00"
+   },
+   {
+    "title": "49ers' Kyle Juszczyk praises Brock Purdy, slams 'Shanahan's system' talk around QB: 'Makes all of us better'",
+    "date": "2026-11-24T22:57:20+00:00"
    },
    {
     "title": "Worst airports for Thanksgiving travel chaos ranked as major US hubs top list",
@@ -195,10 +199,6 @@
    {
     "title": "WWE legend Steve Austin talks 'What?' chant's lasting legacy, whether he can still give out stunners and more",
     "date": "2026-11-24T21:54:45+00:00"
-   },
-   {
-    "title": "Obama judge's Omar warrant unsealing directly contradicts his own decision in Trump case",
-    "date": "2026-11-24T21:45:21+00:00"
    }
   ]
  }
