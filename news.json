@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T19:25:48.981649+00:00",
+ "updated": "2026-11-24T19:30:49.110607+00:00",
  "feeds": {
   "ynet": [
    {
@@ -103,8 +103,24 @@
   ],
   "cnbc": [
    {
-    "title": "Trump wanted Jensen Huang back. Now, he's all alone in Washington",
-    "date": "2026-11-24T19:23:52+00:00"
+    "title": "Retail turnarounds are taking hold just in time for the holiday season",
+    "date": "2026-11-24T19:26:39+00:00"
+   },
+   {
+    "title": "Trump wanted Jensen Huang back. Now, the president is all alone in Washington",
+    "date": "2026-11-24T19:26:26+00:00"
+   },
+   {
+    "title": "Anthropic shares fall below IPO price. Traders see even more pain",
+    "date": "2026-11-24T19:26:21+00:00"
+   },
+   {
+    "title": "Jensen Huang tells staff that Nvidia doesn't need a succession plan",
+    "date": "2026-11-24T19:26:20+00:00"
+   },
+   {
+    "title": "Who qualifies for Costco’s $30-per-share dividend — plus, Meta puts share plan on hold",
+    "date": "2026-11-24T19:23:59+00:00"
    },
    {
     "title": "AG Blanche, FBI’s Patel dodge questions about Jensen Huang investigation",
@@ -133,28 +149,16 @@
    {
     "title": "Op-ed: Trump’s Nvidia board intervention put a price on national security. Our adversaries will take note",
     "date": "2026-11-24T18:30:06+00:00"
-   },
-   {
-    "title": "Utah drops criminal charges against Kalshi founders after company suspended operations in state",
-    "date": "2026-11-24T18:28:33+00:00"
-   },
-   {
-    "title": "Retail turnarounds are taking hold just in time for the holiday season",
-    "date": "2026-11-24T18:21:35+00:00"
-   },
-   {
-    "title": "As Anthropic falls below its IPO price, here's how big-money traders are reacting",
-    "date": "2026-11-24T18:17:12+00:00"
-   },
-   {
-    "title": "Trump Account contributions from friends and family pass $1 billion mark, Treasury says",
-    "date": "2026-11-24T17:59:12+00:00"
    }
   ],
   "fox": [
    {
     "title": "Americans don’t have to choose between our AI future and ripping off copyright owners",
     "date": "2026-11-25T10:00:00+00:00"
+   },
+   {
+    "title": "Republican senator's husband dead: 'Our family is heartbroken'",
+    "date": "2026-11-24T19:19:19+00:00"
    },
    {
     "title": "Commanders kicker harnessed fear of embarrassing his future kids to nail game-winning field goal",
@@ -195,10 +199,6 @@
    {
     "title": "A $17 million bill for an AD who never actually started? Michigan's Trev Alberts mess gets uglier",
     "date": "2026-11-24T17:45:05+00:00"
-   },
-   {
-    "title": "Billy Bob Thornton urges viewers to learn the real history behind Thanksgiving on Fox Nation's 'The Mayflower'",
-    "date": "2026-11-24T17:38:12+00:00"
    }
   ]
  }
