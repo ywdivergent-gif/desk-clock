@@ -1,7 +1,11 @@
 {
- "updated": "2026-11-24T09:40:32.760648+00:00",
+ "updated": "2026-11-24T09:45:32.936234+00:00",
  "feeds": {
   "ynet": [
+   {
+    "title": "הביקורת החריפה של נשיא העליון על המשטרה וצה\"ל: \"הפורעים - כמו מיליציות\"",
+    "date": "2026-11-24T09:39:02+00:00"
+   },
    {
     "title": "הנתון שמדאיג את צה\"ל: כ-30% מכלי המלחמה היבשתיים מושבתים",
     "date": "2026-11-24T09:31:17+00:00"
@@ -45,10 +49,6 @@
    {
     "title": "בגוש השינוי רוצים להחליף את נתניהו, אף אחד לא מסכים על הדרך | עם מורן אזולאי",
     "date": "2026-11-24T03:00:00+00:00"
-   },
-   {
-    "title": "מתקפות סייבר ואיומים לפוצץ ספינות - גם בחופי ארה\"ב. החשודה המרכזית: איראן",
-    "date": "2026-11-24T01:36:44+00:00"
    }
   ],
   "ynetnews": [
@@ -103,12 +103,12 @@
   ],
   "cnbc": [
    {
-    "title": "Nasdaq futures turn lower after Nvidia rally as Jensen Huang returns: Live updates",
-    "date": "2026-11-24T09:34:42+00:00"
+    "title": "Nvidia shares fall 4% in premarket after Huang comeback rally",
+    "date": "2026-11-24T09:41:02+00:00"
    },
    {
-    "title": "Nvidia shares fall over 3% in premarket after Huang comeback rally",
-    "date": "2026-11-24T09:20:43+00:00"
+    "title": "Nasdaq futures turn lower after Nvidia rally as Jensen Huang returns: Live updates",
+    "date": "2026-11-24T09:34:42+00:00"
    },
    {
     "title": "Jensen Huang is ‘too big to fire,’ putting Nvidia’s governance in focus: analysts",
