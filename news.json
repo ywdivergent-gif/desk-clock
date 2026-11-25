@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T12:26:16.134266+00:00",
+ "updated": "2026-11-25T12:31:16.144055+00:00",
  "feeds": {
   "ynet": [
    {
@@ -104,7 +104,11 @@
   "cnbc": [
    {
     "title": "Nasdaq futures tumble as AI sell-off returns with Nvidia, Anthropic leading the way: Live updates",
-    "date": "2026-11-25T12:23:55+00:00"
+    "date": "2026-11-25T12:28:24+00:00"
+   },
+   {
+    "title": "Liesman: Nvidia whiplash tests Kevin Warsh’s push to read market signals",
+    "date": "2026-11-25T12:26:41+00:00"
    },
    {
     "title": "Secondhand shopping is going mainstream this holiday season as consumers seek value",
@@ -145,10 +149,6 @@
    {
     "title": "Trump open to pardoning Jensen Huang if needed: NY Post",
     "date": "2026-11-25T02:09:45+00:00"
-   },
-   {
-    "title": "Jensen Huang's Nvidia return shows the U.S.-China AI race is about more than chips",
-    "date": "2026-11-25T01:13:56+00:00"
    }
   ],
   "fox": [
