@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T10:11:06.579271+00:00",
+ "updated": "2026-11-25T10:16:06.859446+00:00",
  "feeds": {
   "ynet": [
    {
@@ -103,16 +103,12 @@
   ],
   "cnbc": [
    {
+    "title": "Nasdaq futures slide amid reports of fresh U.S. tariffs as tech sell-off intensifies: Live updates",
+    "date": "2026-11-25T10:14:54+00:00"
+   },
+   {
     "title": "Budget carrier Norse Atlantic falls 74% after warning its finances are ‘critical’ amid soaring fuel costs",
     "date": "2026-11-25T09:56:05+00:00"
-   },
-   {
-    "title": "Nasdaq futures slide amid reports of fresh U.S. tariffs as tech sell-off intensifies: Live updates",
-    "date": "2026-11-25T09:45:33+00:00"
-   },
-   {
-    "title": "Tech rout deepens globally; Softbank falls 15%, Nvidia down 4.5% premarket",
-    "date": "2026-11-25T09:42:15+00:00"
    },
    {
     "title": "Ukraine tells Putin to ‘stop complaining’ over oil refinery attacks as Russia promises retaliation",
@@ -149,6 +145,10 @@
    {
     "title": "Jensen Huang's Nvidia return shows the U.S.-China AI race is about more than chips",
     "date": "2026-11-25T01:13:56+00:00"
+   },
+   {
+    "title": "Wednesday's big stock stories: What’s likely to move the market in the next trading session",
+    "date": "2026-11-25T00:12:45+00:00"
    }
   ],
   "fox": [
