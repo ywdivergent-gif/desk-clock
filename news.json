@@ -1,7 +1,11 @@
 {
- "updated": "2026-11-25T12:36:16.225884+00:00",
+ "updated": "2026-11-25T12:41:16.500409+00:00",
  "feeds": {
   "ynet": [
+   {
+    "title": "מה תעשה היועמ\"שית אחרי הדרמה? זה הפתרון שיכול להביא לסיום משפט נתניהו",
+    "date": "2026-11-25T12:40:02+00:00"
+   },
    {
     "title": "הצעת החוק להקמת ועדת חקירה ממלכתית לטבח 7 באוקטובר אושרה בקריאה טרומית",
     "date": "2026-11-25T12:16:27+00:00"
@@ -45,10 +49,6 @@
    {
     "title": "קיריל הותקף על ידי חזיר בר בחיפה ונפצע קשה: \"הוא לא הבין למה התנפל עליו\"",
     "date": "2026-11-25T09:30:17+00:00"
-   },
-   {
-    "title": "יממה לאחר קודמו: חוסל עוד בכיר ב\"בסיג' של חמאס\"",
-    "date": "2026-11-25T09:29:04+00:00"
    }
   ],
   "ynetnews": [
@@ -103,8 +103,12 @@
   ],
   "cnbc": [
    {
+    "title": "Kilmar Ábrego García, a Salvadoran national mistakenly deported from the U.S., arrives in Spain",
+    "date": "2026-11-25T12:40:03+00:00"
+   },
+   {
     "title": "Nasdaq futures tumble as AI sell-off returns with Nvidia, Anthropic leading the way: Live updates",
-    "date": "2026-11-25T12:35:19+00:00"
+    "date": "2026-11-25T12:40:01+00:00"
    },
    {
     "title": "Stocks making the biggest moves premarket: Nvidia, Urban Outfitters, Dell, Ambarella & more",
@@ -145,10 +149,6 @@
    {
     "title": "U.S. jury convicts Huawei in a criminal trial over fraud and trade secrets",
     "date": "2026-11-25T02:43:33+00:00"
-   },
-   {
-    "title": "Houthi attack on Saudi Arabian sovereign wealth fund PIF's tower injures 11",
-    "date": "2026-11-25T02:36:43+00:00"
    }
   ],
   "fox": [
