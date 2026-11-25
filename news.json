@@ -1,7 +1,11 @@
 {
- "updated": "2026-11-25T14:46:16.087716+00:00",
+ "updated": "2026-11-25T14:51:16.607169+00:00",
  "feeds": {
   "ynet": [
+   {
+    "title": "הפגיעות המיניות בחברה החרדית: הפקרתם וגם מחקתם",
+    "date": "2026-11-25T14:45:00+00:00"
+   },
    {
     "title": "זה הזמן: מנהיגים גבריות בריאה",
     "date": "2026-11-25T14:20:00+00:00"
@@ -45,10 +49,6 @@
    {
     "title": "\"צריכים להסדיר את חוק המילואים\": בצה\"ל נערכים ל-2027 עם תקציב לא מאושר",
     "date": "2026-11-25T11:13:28+00:00"
-   },
-   {
-    "title": "\"ההליך הגיע לצומת שבו נכון לבחון כיצד יש להמשיך\" | דברי השופטים המלאים במשפט נתניהו",
-    "date": "2026-11-25T10:55:36+00:00"
    }
   ],
   "ynetnews": [
@@ -103,12 +103,16 @@
   ],
   "cnbc": [
    {
-    "title": "Best low-interest personal loans of December 2026",
-    "date": "2026-11-25T14:42:54+00:00"
+    "title": "U.S. stockpile of unstable and dangerous lead azide scheduled for detonation in Iowa",
+    "date": "2026-11-25T14:48:28+00:00"
    },
    {
-    "title": "Stocks tumble as Nvidia leads AI sell-off, data shows inflation picking up: Live updates",
-    "date": "2026-11-25T14:42:48+00:00"
+    "title": "Dow craters 1,000 points, Nasdaq loses 4% as Nvidia leads resumption of AI sell-off: Live updates",
+    "date": "2026-11-25T14:48:19+00:00"
+   },
+   {
+    "title": "Best low-interest personal loans of December 2026",
+    "date": "2026-11-25T14:42:54+00:00"
    },
    {
     "title": "Kilmar Ábrego García, a Salvadoran national mistakenly deported from the U.S., arrives in Spain",
@@ -129,10 +133,6 @@
    {
     "title": "This robotics stock lost half its value. Here's why Citi says it's a buy",
     "date": "2026-11-25T14:27:03+00:00"
-   },
-   {
-    "title": "Army plans to detonate U.S. stockpile of lead azide in Iowa",
-    "date": "2026-11-25T14:26:56+00:00"
    },
    {
     "title": "Budget carrier Norse Atlantic falls 78% after warning its finances are ‘critical’ amid soaring fuel costs",
