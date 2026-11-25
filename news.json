@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T04:00:56.639580+00:00",
+ "updated": "2026-11-25T04:05:56.380063+00:00",
  "feeds": {
   "ynet": [
    {
@@ -103,12 +103,16 @@
   ],
   "cnbc": [
    {
-    "title": "SoftBank drops 15% as Wall Street AI sell-off ripples across Asian tech names",
-    "date": "2026-11-25T03:52:03+00:00"
+    "title": "Stock futures slip as traders await key inflation report, assess tech sell-off: Live updates",
+    "date": "2026-11-25T04:01:16+00:00"
    },
    {
-    "title": "Stock futures slip as traders await key inflation report, assess tech sell-off: Live updates",
-    "date": "2026-11-25T02:51:22+00:00"
+    "title": "China’s Xiamen Airlines to buy 50 Boeing jets in $7.4 billion deal",
+    "date": "2026-11-25T03:58:32+00:00"
+   },
+   {
+    "title": "SoftBank drops 15% as Wall Street AI sell-off ripples across Asian tech names",
+    "date": "2026-11-25T03:52:03+00:00"
    },
    {
     "title": "U.S. jury convicts Huawei in a criminal trial over fraud and trade secrets",
@@ -145,10 +149,6 @@
    {
     "title": "Dell earnings beat on AI strength, company authorizes $25 billion buyback",
     "date": "2026-11-24T22:07:45+00:00"
-   },
-   {
-    "title": "Saudi national charged in OpenAI bugging to be released on $1 million bond",
-    "date": "2026-11-24T22:03:01+00:00"
    }
   ],
   "fox": [
