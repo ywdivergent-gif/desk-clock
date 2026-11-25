@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T13:46:16.281828+00:00",
+ "updated": "2026-11-25T13:51:16.149258+00:00",
  "feeds": {
   "ynet": [
    {
@@ -103,12 +103,16 @@
   ],
   "cnbc": [
    {
-    "title": "Stock futures tumble as Nvidia leads AI sell-off, data shows inflation picking up: Live updates",
-    "date": "2026-11-25T13:44:53+00:00"
+    "title": "Kilmar Ábrego García, a Salvadoran national mistakenly deported from the U.S., arrives in Spain",
+    "date": "2026-11-25T13:51:03+00:00"
    },
    {
     "title": "Fed’s preferred inflation gauge accelerated to 3.8% in October, likely sealing rate hike",
-    "date": "2026-11-25T13:44:13+00:00"
+    "date": "2026-11-25T13:47:28+00:00"
+   },
+   {
+    "title": "Stock futures tumble as Nvidia leads AI sell-off, data shows inflation picking up: Live updates",
+    "date": "2026-11-25T13:44:53+00:00"
    },
    {
     "title": "U.S. proposes new tariffs on 14 trading partners, including China and the EU",
@@ -125,10 +129,6 @@
    {
     "title": "The Fed is likely to raise rates in December. What it means for your holiday spending",
     "date": "2026-11-25T13:15:01+00:00"
-   },
-   {
-    "title": "Kilmar Ábrego García, a Salvadoran national mistakenly deported from the U.S., arrives in Spain",
-    "date": "2026-11-25T12:40:03+00:00"
    },
    {
     "title": "Liesman: Nvidia whiplash tests Kevin Warsh’s push to read market signals",
@@ -152,6 +152,10 @@
    }
   ],
   "fox": [
+   {
+    "title": "British police name suspects charged in break-in at Prince William and Princess Kate's home",
+    "date": "2026-11-25T13:41:06+00:00"
+   },
    {
     "title": "Geno Auriemma, Dawn Staley shake hands after hostile scrap last season, as NCAA makes handshake rule change",
     "date": "2026-11-25T13:04:43+00:00"
@@ -195,10 +199,6 @@
    {
     "title": "400-year-old shipwreck lock finally opened after researchers crack secret code: 'Incredibly satisfying'",
     "date": "2026-11-25T12:00:21+00:00"
-   },
-   {
-    "title": "Virginia school district defends Thanksgiving 'Day of Mourning' resources for kids as young as third grade",
-    "date": "2026-11-25T12:00:08+00:00"
    }
   ]
  }
