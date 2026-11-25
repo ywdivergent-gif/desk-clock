@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-25T09:41:06.852917+00:00",
+ "updated": "2026-11-25T09:46:06.706003+00:00",
  "feeds": {
   "ynet": [
+   {
+    "title": "דיון חריג במשפט נתניהו: היועמ\"שית מתייצבת מול השופטים",
+    "date": "2026-11-25T09:44:04+00:00"
+   },
+   {
+    "title": "\"הפיתוי\" של הסנאטור האנטי-ישראלי לטראמפ - שמשנה כיוון: \"הוא חכם מאוד\"",
+    "date": "2026-11-25T09:39:18+00:00"
+   },
    {
     "title": "קיריל הותקף על ידי חזיר בר בחיפה ונפצע קשה: \"הוא לא הבין למה התנפל עליו\"",
     "date": "2026-11-25T09:30:17+00:00"
@@ -41,14 +49,6 @@
    {
     "title": "אישה מקלנסווה מתה מפצעיה, חצי שנה אחרי שהותקפה כשניסתה להפריד בעימות אלים",
     "date": "2026-11-25T06:57:44+00:00"
-   },
-   {
-    "title": "ועדה חקירה ממלכתית והקפאת מעצרי עריקים: החוקים הנפיצים שיעלו בכנסת",
-    "date": "2026-11-25T06:22:55+00:00"
-   },
-   {
-    "title": "ליברמן משנה כיוון: \"עד השבוע הבא אפשר להציג ממשלה עם רוב יהודי ברור\"",
-    "date": "2026-11-25T05:57:36+00:00"
    }
   ],
   "ynetnews": [
@@ -104,7 +104,11 @@
   "cnbc": [
    {
     "title": "Nasdaq futures slide amid reports of fresh U.S. tariffs as tech sell-off intensifies: Live updates",
-    "date": "2026-11-25T09:20:15+00:00"
+    "date": "2026-11-25T09:45:33+00:00"
+   },
+   {
+    "title": "Tech rout deepens globally; Softbank falls 15%, Nvidia down 4.5% premarket",
+    "date": "2026-11-25T09:42:15+00:00"
    },
    {
     "title": "Ukraine tells Putin to ‘stop complaining’ over oil refinery attacks as Russia promises retaliation",
@@ -131,10 +135,6 @@
     "date": "2026-11-25T03:58:32+00:00"
    },
    {
-    "title": "SoftBank drops 15% as Wall Street AI sell-off ripples across Asian tech names",
-    "date": "2026-11-25T03:52:03+00:00"
-   },
-   {
     "title": "U.S. jury convicts Huawei in a criminal trial over fraud and trade secrets",
     "date": "2026-11-25T02:43:33+00:00"
    },
@@ -155,6 +155,10 @@
    {
     "title": "Americans don’t have to choose between our AI future and ripping off copyright owners",
     "date": "2026-11-25T10:00:00+00:00"
+   },
+   {
+    "title": "Invasive Burmese pythons push further north into Florida as hunters race to stop ecological devastation",
+    "date": "2026-11-25T09:37:01+00:00"
    },
    {
     "title": "Tuberville suggests Texans 'flee the woke-show' for Alabama after blue wave midterm elections",
@@ -195,10 +199,6 @@
    {
     "title": "Piker backs idea to sell Trump on Medicare-for-all by calling it 'Trumpcare'",
     "date": "2026-11-25T02:00:36+00:00"
-   },
-   {
-    "title": "Former NFL referee calls LSU 'deeply embarrassing' as school faces possible SEC expulsion vote",
-    "date": "2026-11-25T01:58:32+00:00"
    }
   ]
  }
