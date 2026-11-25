@@ -1,7 +1,11 @@
 {
- "updated": "2026-11-25T11:11:06.651153+00:00",
+ "updated": "2026-11-25T11:16:08.843230+00:00",
  "feeds": {
   "ynet": [
+   {
+    "title": "\"צריכים להסדיר את חוק המילואים\": בצה\"ל נערכים ל-2027 עם תקציב לא מאושר",
+    "date": "2026-11-25T11:13:28+00:00"
+   },
    {
     "title": "כוללת את \"סעיף הנאשם\": הצעת חוק הגבלת כהונת רה\"מ אושרה בקריאה טרומית",
     "date": "2026-11-25T11:09:31+00:00"
@@ -45,10 +49,6 @@
    {
     "title": "מהמעברה למשרד המבקר: כך נסללה דרכו של יוסף אלרון לתפקיד",
     "date": "2026-11-25T08:12:20+00:00"
-   },
-   {
-    "title": "איזנקוט נערך להשביע ממשלה בשבוע הבא: \"מפנה מוקשים\" מימין, ומסתבך עם גולן",
-    "date": "2026-11-25T07:59:56+00:00"
    }
   ],
   "ynetnews": [
@@ -173,11 +173,11 @@
     "date": "2026-11-25T10:00:41+00:00"
    },
    {
-    "title": "America’s first Thanksgiving was made possible by daring Revolutionary snipers",
+    "title": "Nation’s largest grocery chain cuts thousands of jobs — sparks fury over who it’s hiring instead: 'Insanity'",
     "date": "2026-11-25T10:00:11+00:00"
    },
    {
-    "title": "Nation’s largest grocery chain cuts thousands of jobs — sparks fury over who it’s hiring instead: 'Insanity'",
+    "title": "America’s first Thanksgiving was made possible by daring Revolutionary snipers",
     "date": "2026-11-25T10:00:11+00:00"
    },
    {
@@ -189,7 +189,7 @@
     "date": "2026-11-25T10:00:00+00:00"
    },
    {
-    "title": "Invasive Burmese pythons push further north into Florida as hunters race to stop ecological devastation",
+    "title": "Invasive Burmese pythons push farther north into Florida as hunters race to stop ecological devastation",
     "date": "2026-11-25T09:37:01+00:00"
    },
    {
