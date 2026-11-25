@@ -1,7 +1,11 @@
 {
- "updated": "2026-11-25T20:01:28.947395+00:00",
+ "updated": "2026-11-25T20:06:28.502747+00:00",
  "feeds": {
   "ynet": [
+   {
+    "title": "המציאות, הדמיון, והכי חשוב - הקרדיט",
+    "date": "2026-11-25T20:00:37+00:00"
+   },
    {
     "title": "המפכ\"ל: לא ייתכן ששוטרים ישתתפו באירועי סולחה בין חמולות",
     "date": "2026-11-25T19:08:26+00:00"
@@ -45,10 +49,6 @@
    {
     "title": "בנט נגד האיש המקורב ביותר לאיזנקוט: \"מוביל קו תקיף נגד נתניהו וממשלת אחדות\"",
     "date": "2026-11-25T15:27:47+00:00"
-   },
-   {
-    "title": "חשש מענן עופרת רעיל: צבא ארה\"ב פוצץ 5 טונות של חומר נפץ לא-יציב | תיעוד",
-    "date": "2026-11-25T15:13:11+00:00"
    }
   ],
   "ynetnews": [
@@ -104,7 +104,7 @@
   "cnbc": [
    {
     "title": "Dow turns positive on the day as Wall Street attempts to recover from sell-off: Live updates",
-    "date": "2026-11-25T20:00:27+00:00"
+    "date": "2026-11-25T20:01:28+00:00"
    },
    {
     "title": "EU postpones discussion to approve Tesla's self-driving tech",
@@ -153,6 +153,10 @@
   ],
   "fox": [
    {
+    "title": "No. 2 Virginia and Marquette get a nearly 2-hour halftime thanks to ... an indoor rain delay?",
+    "date": "2026-11-25T19:53:05+00:00"
+   },
+   {
     "title": "CBS News seeks to settle $20M defamation lawsuit filed by Maryland teenager over Reflecting Pool report",
     "date": "2026-11-25T19:37:52+00:00"
    },
@@ -195,10 +199,6 @@
    {
     "title": "John F Kennedy Jr search commander says Ted Kennedy made one strict demand after divers found nephew’s body",
     "date": "2026-11-25T19:00:30+00:00"
-   },
-   {
-    "title": "Urgent advisory warns Thanksgiving drivers of severe gridlock, lockouts and tire traps",
-    "date": "2026-11-25T18:57:40+00:00"
    }
   ]
  }
