@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T15:01:16.624503+00:00",
+ "updated": "2026-11-25T15:06:16.616154+00:00",
  "feeds": {
   "ynet": [
    {
@@ -103,16 +103,20 @@
   ],
   "cnbc": [
    {
+    "title": "Dow tumbles 700 points, Nasdaq loses 3% as Nvidia leads resumption of AI sell-off: Live updates",
+    "date": "2026-11-25T15:04:24+00:00"
+   },
+   {
+    "title": "Wealthy investors seek tax savings from municipal bonds as yields remain elevated",
+    "date": "2026-11-25T15:00:01+00:00"
+   },
+   {
     "title": "Even the price of toys is on the rise. How Americans are scaling back holiday plans",
     "date": "2026-11-25T14:55:10+00:00"
    },
    {
     "title": "U.S. stockpile of unstable and dangerous lead azide scheduled for detonation in Iowa",
     "date": "2026-11-25T14:48:28+00:00"
-   },
-   {
-    "title": "Dow craters 1,000 points, Nasdaq loses 4% as Nvidia leads resumption of AI sell-off: Live updates",
-    "date": "2026-11-25T14:48:19+00:00"
    },
    {
     "title": "Best low-interest personal loans of December 2026",
@@ -145,13 +149,17 @@
    {
     "title": "Fed’s preferred inflation gauge accelerated to 3.8% in October, raising the 2027 stakes for the central bank",
     "date": "2026-11-25T14:18:45+00:00"
-   },
-   {
-    "title": "Secondhand shopping is going mainstream this holiday season as consumers seek value",
-    "date": "2026-11-25T14:17:01+00:00"
    }
   ],
   "fox": [
+   {
+    "title": "'Catfish Girl' Hannah Barron takes down a buck with a bow, Liv Morgan's selfie has the internet talking & meat",
+    "date": "2026-11-25T14:54:51+00:00"
+   },
+   {
+    "title": "5 of the best food gift baskets for the holidays, from sweet treats to savory favorites",
+    "date": "2026-11-25T14:54:23+00:00"
+   },
    {
     "title": "Yemeni military official brands Iran Houthis’ ‘godfather,’ says Tehran is directing war",
     "date": "2026-11-25T14:50:17+00:00"
@@ -191,14 +199,6 @@
    {
     "title": "British police name suspects charged in break-in at Prince William and Princess Kate's home",
     "date": "2026-11-25T13:41:06+00:00"
-   },
-   {
-    "title": "Geno Auriemma, Dawn Staley shake hands after hostile scrap last season, as NCAA makes handshake rule change",
-    "date": "2026-11-25T13:04:43+00:00"
-   },
-   {
-    "title": "Inside American Airlines plan to keep Thanksgiving travelers moving",
-    "date": "2026-11-25T13:03:32+00:00"
    }
   ]
  }
