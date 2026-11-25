@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T19:31:28.886307+00:00",
+ "updated": "2026-11-25T19:36:28.370977+00:00",
  "feeds": {
   "ynet": [
    {
@@ -103,16 +103,16 @@
   ],
   "cnbc": [
    {
+    "title": "Dow turns positive on the day as Wall Street attempts to recover from sell-off: Live updates",
+    "date": "2026-11-25T19:36:15+00:00"
+   },
+   {
     "title": "SpaceX wins FCC approval to deploy 1 million orbital data center satellites",
     "date": "2026-11-25T19:25:10+00:00"
    },
    {
     "title": "Nvidia leads tech sell-off as Huang comeback rally fizzles and AI concerns return",
     "date": "2026-11-25T19:19:05+00:00"
-   },
-   {
-    "title": "Dow turns positive on the day as Wall Street attempts to recover from sell-off: Live updates",
-    "date": "2026-11-25T19:17:53+00:00"
    },
    {
     "title": "Bullish hopes spring as traders bet against a higher VIX: Options Action Live",
@@ -153,6 +153,18 @@
   ],
   "fox": [
    {
+    "title": "Lindsay Clancy retrial moves forward as state's highest court denies prosecutors' request to pause murder case",
+    "date": "2026-11-25T19:27:03+00:00"
+   },
+   {
+    "title": "This popular Eddie Bauer blanket is down to just $18 for Black Friday — that's 47% off",
+    "date": "2026-11-25T19:27:01+00:00"
+   },
+   {
+    "title": "DOJ lawyers ordered to swarm 'frivolous' 97,000-lawsuit wave from ICE detainees",
+    "date": "2026-11-25T19:24:48+00:00"
+   },
+   {
     "title": "Newsom shredded for ‘hypocritical’ claim Trump 'sells' pardons after moving to spare 548 death row inmates",
     "date": "2026-11-25T19:16:34+00:00"
    },
@@ -161,7 +173,7 @@
     "date": "2026-11-25T19:00:56+00:00"
    },
    {
-    "title": "John F. Kennedy Jr. search commander says Ted Kennedy made one strict demand after divers found nephew’s body",
+    "title": "John F Kennedy Jr search commander says Ted Kennedy made one strict demand after divers found nephew’s body",
     "date": "2026-11-25T19:00:30+00:00"
    },
    {
@@ -187,18 +199,6 @@
    {
     "title": "Livvy Dunne gets handsy in the ring with a sumo wrestler during Japan trip alongside Paul Skenes",
     "date": "2026-11-25T18:28:09+00:00"
-   },
-   {
-    "title": "Why deep pockets weren’t enough to save the GOP in 2026: 'Money is not magic'",
-    "date": "2026-11-25T18:25:28+00:00"
-   },
-   {
-    "title": "Packers vs Rams prediction, odds and best bets for Thanksgiving Eve NFL clash",
-    "date": "2026-11-25T18:05:17+00:00"
-   },
-   {
-    "title": "Tiger Woods declawed in courtroom battle over Sun Day Red company logo",
-    "date": "2026-11-25T18:01:00+00:00"
    }
   ]
  }
