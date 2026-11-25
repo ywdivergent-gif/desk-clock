@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T19:41:28.386945+00:00",
+ "updated": "2026-11-25T19:46:28.417111+00:00",
  "feeds": {
   "ynet": [
    {
@@ -153,6 +153,14 @@
   ],
   "fox": [
    {
+    "title": "Aaron Rodgers accuses coach Mike McCarthy of falling asleep in meetings, missing others, being 'unwell'",
+    "date": "2026-11-25T19:35:31+00:00"
+   },
+   {
+    "title": "Putin's war death toll reportedly tops 700,000 as Russia scrambles for recruits",
+    "date": "2026-11-25T19:34:13+00:00"
+   },
+   {
     "title": "LSU wins court round as SEC's nuclear option could carry a $1 billion price tag, while RJ Luis sues Sankey",
     "date": "2026-11-25T19:32:08+00:00"
    },
@@ -191,14 +199,6 @@
    {
     "title": "Commanders sign embattled wide receiver Brandon Aiyuk to practice squad after release by 49ers",
     "date": "2026-11-25T18:54:55+00:00"
-   },
-   {
-    "title": "Shedeur Sanders surprises Cleveland shoppers by paying for their Thanksgiving groceries",
-    "date": "2026-11-25T18:50:06+00:00"
-   },
-   {
-    "title": "Ranking the best hikes in and around Tucson ahead of the Arizona-Arizona State showdown",
-    "date": "2026-11-25T18:45:36+00:00"
    }
   ]
  }
