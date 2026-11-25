@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T21:16:27.459741+00:00",
+ "updated": "2026-11-25T21:21:27.403753+00:00",
  "feeds": {
   "ynet": [
    {
@@ -7,7 +7,7 @@
     "date": "2026-11-25T21:05:44+00:00"
    },
    {
-    "title": "טרגדיה במעלה אדומים: פעוט כבן שנתיים נפל מגובה במהלך משחק ונהרג",
+    "title": "טרגדיה במעלה אדומים: פעוט כבן שנתיים נמצא חבול, מותו נקבע בבית החולים",
     "date": "2026-11-25T20:54:51+00:00"
    },
    {
@@ -104,7 +104,11 @@
   "cnbc": [
    {
     "title": "Dow closes higher Wednesday, wiping out 1,100-point loss in stunning rebound: Live updates",
-    "date": "2026-11-25T21:15:47+00:00"
+    "date": "2026-11-25T21:17:25+00:00"
+   },
+   {
+    "title": "Macy's postpones Thanksgiving parade due to severe weather",
+    "date": "2026-11-25T21:14:56+00:00"
    },
    {
     "title": "10-year Treasury yield slides despite sticky inflation data as investors buy bonds for protection",
@@ -145,10 +149,6 @@
    {
     "title": "Stocks making the biggest moves Wednesday: HP Inc, Ambarella, Nvidia, Sandisk & more",
     "date": "2026-11-25T18:08:35+00:00"
-   },
-   {
-    "title": "Kalshi traders say state data center moratoriums are more likely than not",
-    "date": "2026-11-25T17:36:54+00:00"
    }
   ],
   "fox": [
