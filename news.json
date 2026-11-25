@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T14:31:16.505449+00:00",
+ "updated": "2026-11-25T14:36:16.224006+00:00",
  "feeds": {
   "ynet": [
    {
@@ -15,7 +15,7 @@
     "date": "2026-11-25T13:38:44+00:00"
    },
    {
-    "title": "גוש השינוי הפיל את חוק הקפאת המעצרים; רגב ליעקב אשר: \"אין אמונה באשכנזים\"",
+    "title": "גוש השינוי הפיל את הקפאת המעצרים; רגב ליעקב אשר שנפגש עם נתניהו: \"אין אמון באשכנזים\"",
     "date": "2026-11-25T13:36:17+00:00"
    },
    {
@@ -103,8 +103,8 @@
   ],
   "cnbc": [
    {
-    "title": "Stock futures tumble as Nvidia leads AI sell-off, data shows inflation picking up: Live updates",
-    "date": "2026-11-25T14:30:52+00:00"
+    "title": "Stocks tumble as Nvidia leads AI sell-off, data shows inflation picking up: Live updates",
+    "date": "2026-11-25T14:35:32+00:00"
    },
    {
     "title": "Stocks making the biggest moves Wednesday: Nvidia, Urban Outfitters, Dell, Ambarella & more",
@@ -153,6 +153,14 @@
   ],
   "fox": [
    {
+    "title": "The absolute worst call of the college football season happened last night while you were sleeping",
+    "date": "2026-11-25T14:26:37+00:00"
+   },
+   {
+    "title": "Viral wildlife video captures deer flipping bobcat into the air during wild confrontation",
+    "date": "2026-11-25T14:23:13+00:00"
+   },
+   {
     "title": "Jalen Brunson, Trevor Lawrence and more dish out Thanksgiving hot takes to OutKick: 'I hate to even say it'",
     "date": "2026-11-25T14:06:21+00:00"
    },
@@ -191,14 +199,6 @@
    {
     "title": "NFL playoff format should be overhauled to ensure best teams all make it, analyst says",
     "date": "2026-11-25T12:58:58+00:00"
-   },
-   {
-    "title": "Christian filmmaker's discovery of Jewish roots sparks mission to uncover centuries-old secret",
-    "date": "2026-11-25T12:53:06+00:00"
-   },
-   {
-    "title": "Tennis legend Chris Evert has been through 'hell and back' amid cancer battle, Billie Jean King says",
-    "date": "2026-11-25T12:48:51+00:00"
    }
   ]
  }
