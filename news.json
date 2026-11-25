@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T00:20:48.426403+00:00",
+ "updated": "2026-11-25T00:25:48.565217+00:00",
  "feeds": {
   "ynet": [
    {
@@ -104,7 +104,11 @@
   "cnbc": [
    {
     "title": "Stock futures slip as traders await key inflation report, assess tech sell-off: Live updates",
-    "date": "2026-11-24T23:46:55+00:00"
+    "date": "2026-11-25T00:20:42+00:00"
+   },
+   {
+    "title": "Wednesday's big stock stories: What’s likely to move the market in the next trading session",
+    "date": "2026-11-25T00:12:45+00:00"
    },
    {
     "title": "Stocks making the biggest moves Tuesday: Ambarella, Dell, Autodesk, Urban Outfitters & more",
@@ -145,10 +149,6 @@
    {
     "title": "Anthropic closes below $83 IPO price, but analysts are still largely positive",
     "date": "2026-11-24T21:04:03+00:00"
-   },
-   {
-    "title": "Utah drops criminal charges against Kalshi founders after company suspended operations in state",
-    "date": "2026-11-24T20:45:57+00:00"
    }
   ],
   "fox": [
@@ -157,11 +157,19 @@
     "date": "2026-11-25T10:00:00+00:00"
    },
    {
+    "title": "Colorado Buffaloes coach Deion Sanders' latest arrogant comments raise serious concerns over ability to lead",
+    "date": "2026-11-25T00:19:18+00:00"
+   },
+   {
+    "title": "Iran to execute 2 anti-regime protesters at dawn after 3 days in death row holding cells",
+    "date": "2026-11-25T00:16:46+00:00"
+   },
+   {
     "title": "FDA approves first new breast cancer hormone therapy in over two decades",
     "date": "2026-11-25T00:14:19+00:00"
    },
    {
-    "title": "Kilmar Abrego Garcia to leave US voluntarily for Europe, avoiding forced deportation",
+    "title": "Kilmar Ábrego García to leave US voluntarily for Europe, avoiding forced deportation",
     "date": "2026-11-25T00:06:23+00:00"
    },
    {
@@ -191,14 +199,6 @@
    {
     "title": "President of blue-collar coalition demanding higher pay, calls 'sub-minimum wage' a 'direct legacy of slavery'",
     "date": "2026-11-24T23:11:47+00:00"
-   },
-   {
-    "title": "Thomas Markle, estranged father of Meghan Markle, indicted on child pornography charges",
-    "date": "2026-11-24T23:06:05+00:00"
-   },
-   {
-    "title": "Apple's AirPods Pro 3 drops to $149 during this Black Friday sale",
-    "date": "2026-11-24T23:03:33+00:00"
    }
   ]
  }
