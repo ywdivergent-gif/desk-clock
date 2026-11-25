@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T07:51:06.769529+00:00",
+ "updated": "2026-11-25T07:56:06.532572+00:00",
  "feeds": {
   "ynet": [
    {
@@ -107,6 +107,10 @@
     "date": "2026-11-25T07:46:08+00:00"
    },
    {
+    "title": "Treasury yields fall as investors await key inflation signal",
+    "date": "2026-11-25T07:44:24+00:00"
+   },
+   {
     "title": "AI debt worries grow as Nvidia rebound masks Big Tech spending squeeze",
     "date": "2026-11-25T06:29:46+00:00"
    },
@@ -145,10 +149,6 @@
    {
     "title": "Wednesday's big stock stories: What’s likely to move the market in the next trading session",
     "date": "2026-11-25T00:12:45+00:00"
-   },
-   {
-    "title": "Stocks making the biggest moves Tuesday: Ambarella, Dell, Autodesk, Urban Outfitters & more",
-    "date": "2026-11-24T23:14:03+00:00"
    }
   ],
   "fox": [
