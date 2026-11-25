@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T14:26:16.325774+00:00",
+ "updated": "2026-11-25T14:31:16.505449+00:00",
  "feeds": {
   "ynet": [
    {
@@ -15,7 +15,7 @@
     "date": "2026-11-25T13:38:44+00:00"
    },
    {
-    "title": "נתניהו נפגש עם יו\"ר יהדות התורה, רגב ליעקב אשר: \"אין אמון באשכנזים\"",
+    "title": "גוש השינוי הפיל את חוק הקפאת המעצרים; רגב ליעקב אשר: \"אין אמונה באשכנזים\"",
     "date": "2026-11-25T13:36:17+00:00"
    },
    {
@@ -103,8 +103,36 @@
   ],
   "cnbc": [
    {
+    "title": "Stock futures tumble as Nvidia leads AI sell-off, data shows inflation picking up: Live updates",
+    "date": "2026-11-25T14:30:52+00:00"
+   },
+   {
+    "title": "Stocks making the biggest moves Wednesday: Nvidia, Urban Outfitters, Dell, Ambarella & more",
+    "date": "2026-11-25T14:30:35+00:00"
+   },
+   {
+    "title": "Jensen Huang tells staff that Nvidia doesn't need a succession plan",
+    "date": "2026-11-25T14:29:50+00:00"
+   },
+   {
+    "title": "Jensen Huang's Nvidia return shows the U.S.-China AI race is about more than chips",
+    "date": "2026-11-25T14:29:00+00:00"
+   },
+   {
+    "title": "This robotics stock lost half its value. Here's why Citi says it's a buy",
+    "date": "2026-11-25T14:27:03+00:00"
+   },
+   {
+    "title": "Army plans to detonate U.S. stockpile of lead azide in Iowa",
+    "date": "2026-11-25T14:26:56+00:00"
+   },
+   {
     "title": "Budget carrier Norse Atlantic falls 78% after warning its finances are ‘critical’ amid soaring fuel costs",
     "date": "2026-11-25T14:24:04+00:00"
+   },
+   {
+    "title": "CNBC Insurance Pro: Should I get pay-per-mile car insurance in New York?",
+    "date": "2026-11-25T14:23:41+00:00"
    },
    {
     "title": "Fed’s preferred inflation gauge accelerated to 3.8% in October, raising the 2027 stakes for the central bank",
@@ -121,34 +149,6 @@
    {
     "title": "Kilmar Ábrego García, a Salvadoran national mistakenly deported from the U.S., arrives in Spain",
     "date": "2026-11-25T14:04:41+00:00"
-   },
-   {
-    "title": "Even the price of toys is on the rise. How Americans are scaling back holiday plans",
-    "date": "2026-11-25T14:01:07+00:00"
-   },
-   {
-    "title": "Stock futures tumble as Nvidia leads AI sell-off, data shows inflation picking up: Live updates",
-    "date": "2026-11-25T13:58:38+00:00"
-   },
-   {
-    "title": "Stocks making the biggest moves Wednesday: Nvidia, Urban Outfitters, Dell, Ambarella & more",
-    "date": "2026-11-25T13:57:03+00:00"
-   },
-   {
-    "title": "U.S. proposes new tariffs on 14 trading partners, including China and the EU",
-    "date": "2026-11-25T13:37:35+00:00"
-   },
-   {
-    "title": "Trump’s meddling in Huang scandal reignites voter angst over tech’s outsized political power",
-    "date": "2026-11-25T13:20:34+00:00"
-   },
-   {
-    "title": "Liesman: Nvidia whiplash tests Kevin Warsh’s push to read market signals",
-    "date": "2026-11-25T12:26:41+00:00"
-   },
-   {
-    "title": "Bank of America sees the S&P 500 climbing to 7,800 next year, making up lost ground",
-    "date": "2026-11-25T11:54:12+00:00"
    }
   ],
   "fox": [
