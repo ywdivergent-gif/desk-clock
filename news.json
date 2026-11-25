@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T14:36:16.224006+00:00",
+ "updated": "2026-11-25T14:41:16.323961+00:00",
  "feeds": {
   "ynet": [
    {
@@ -103,6 +103,10 @@
   ],
   "cnbc": [
    {
+    "title": "Kilmar Ábrego García, a Salvadoran national mistakenly deported from the U.S., arrives in Spain",
+    "date": "2026-11-25T14:39:58+00:00"
+   },
+   {
     "title": "Stocks tumble as Nvidia leads AI sell-off, data shows inflation picking up: Live updates",
     "date": "2026-11-25T14:35:32+00:00"
    },
@@ -145,13 +149,13 @@
    {
     "title": "Our top 10 things to watch in the stock market Wednesday",
     "date": "2026-11-25T14:15:30+00:00"
-   },
-   {
-    "title": "Kilmar Ábrego García, a Salvadoran national mistakenly deported from the U.S., arrives in Spain",
-    "date": "2026-11-25T14:04:41+00:00"
    }
   ],
   "fox": [
+   {
+    "title": "Democrats to include creators and influencers to maximize viewership for presidential primary debates",
+    "date": "2026-11-25T14:31:57+00:00"
+   },
    {
     "title": "The absolute worst call of the college football season happened last night while you were sleeping",
     "date": "2026-11-25T14:26:37+00:00"
@@ -195,10 +199,6 @@
    {
     "title": "‘The Vow’ star Jace Cates recommits to saving himself for marriage despite ‘sex-positive culture’",
     "date": "2026-11-25T13:00:52+00:00"
-   },
-   {
-    "title": "NFL playoff format should be overhauled to ensure best teams all make it, analyst says",
-    "date": "2026-11-25T12:58:58+00:00"
    }
   ]
  }
