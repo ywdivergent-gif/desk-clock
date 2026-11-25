@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T02:40:56.626604+00:00",
+ "updated": "2026-11-25T02:45:56.485803+00:00",
  "feeds": {
   "ynet": [
    {
@@ -103,6 +103,10 @@
   ],
   "cnbc": [
    {
+    "title": "U.S. jury convicts Huawei in a criminal trial over fraud and trade secrets",
+    "date": "2026-11-25T02:43:33+00:00"
+   },
+   {
     "title": "Houthi attack on Saudi Arabian sovereign wealth fund PIF's tower injures 11",
     "date": "2026-11-25T02:36:43+00:00"
    },
@@ -135,10 +139,6 @@
     "date": "2026-11-24T23:13:49+00:00"
    },
    {
-    "title": "Kalshi daily volume of ‘perps’ trading begins to top its prediction markets",
-    "date": "2026-11-24T23:03:24+00:00"
-   },
-   {
     "title": "Trump Account contributions from friends and family pass $1 billion mark, Treasury says",
     "date": "2026-11-24T22:18:47+00:00"
    },
@@ -155,6 +155,10 @@
    {
     "title": "Americans don’t have to choose between our AI future and ripping off copyright owners",
     "date": "2026-11-25T10:00:00+00:00"
+   },
+   {
+    "title": "Hero veteran Virginia trooper rushes to help after car plows into women in crosswalk caught on video",
+    "date": "2026-11-25T02:38:03+00:00"
    },
    {
     "title": "Al Gore buys hometown Tennessee newspaper, vows to preserve local outlet's 'independent voice'",
@@ -195,10 +199,6 @@
    {
     "title": "Fort Hood shooter Nidal Hasan asks federal judge to halt execution",
     "date": "2026-11-25T00:39:04+00:00"
-   },
-   {
-    "title": "Trump administration weighs targeting Iran's top regime leaders in bid to end war: report",
-    "date": "2026-11-25T00:36:01+00:00"
    }
   ]
  }
