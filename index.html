@@ -301,11 +301,14 @@
   }
 
   // ---------- Shabbat times (any location, from Hebcal) ----------
-  const PLACES = [
-    ['Israel', [['293397','Tel Aviv'],['281184','Jerusalem'],['294801','Haifa'],['293918','Petah Tikva'],['282926','Modi\u2019in'],['295432','Beit Shemesh'],['294071','Netanya']]],
-    ['United States', [['5128581','New York (Manhattan)'],['5110302','Brooklyn'],['5100280','Lakewood, NJ'],['4164138','Miami'],['4148411','Boca Raton'],['4887398','Chicago'],['5368361','Los Angeles']]],
-    ['Other', [['6167865','Toronto'],['2643743','London']]]
-  ];
+  // Locations for Shabbat times. Cities without a Hebcal city id use map coordinates.
+  const PLACES = {
+    greatneck: { lat:'40.801', lon:'-73.729', tz:'America/New_York', name:'Great Neck, NY' },
+    boca:      { geo:'4148411', name:'Boca Raton, FL' },
+    telaviv:   { geo:'293397',  name:'Tel Aviv' },
+    jerusalem: { geo:'281184',  name:'Jerusalem' }
+  };
+  const placeId = l => Object.keys(PLACES).find(k => locKey(PLACES[k]) === locKey(l)) || '';
   let loc = store.get('dc_loc', { geo:'293397', name:'Tel Aviv' });
   let zm = store.get('dc_zm', null);   // { key, tz, items }
   const locKey = l => l.geo ? 'g' + l.geo : `p${l.lat},${l.lon}`;
@@ -504,15 +507,10 @@
   const srcSel = $('srcsel');
   Object.entries(SOURCES).forEach(([k, v]) => { const o = document.createElement('option'); o.value = k; o.textContent = v.name; srcSel.append(o); });
   const locSel = $('locsel');
-  PLACES.forEach(([group, list]) => {
-    const g = document.createElement('optgroup'); g.label = group;
-    list.forEach(([id, name]) => { const o = document.createElement('option'); o.value = id; o.textContent = name; g.append(o); });
-    locSel.append(g);
-  });
-  { const o = document.createElement('option'); o.value = 'here'; o.textContent = 'Use my current location'; locSel.append(o); }
+  Object.entries(PLACES).forEach(([id, p]) => { const o = document.createElement('option'); o.value = id; o.textContent = p.name; locSel.append(o); });
   function openSettings(){
     $('key').value = cfg.key; $('tick').value = cfg.tickers.join(', '); srcSel.value = cfg.source;
-    locSel.value = loc.geo || 'here';
+    locSel.value = placeId(loc) || 'telaviv';
     $('locnote').textContent = 'Shows sunset on Friday and when Shabbat ends for this place.';
     $('settings').classList.add('show');
   }
@@ -525,21 +523,11 @@
     const srcChanged = cfg.source !== srcSel.value;
     cfg.source = srcSel.value;
     store.set('dc_key', cfg.key); store.set('dc_tickers_v3', cfg.tickers); store.set('dc_source_v2', cfg.source);
-    const pick = locSel.value;
-    if (pick === 'here'){
-      if (!navigator.geolocation){ $('locnote').textContent = 'This phone did not share a location. Pick a city instead.'; return; }
-      $('locnote').textContent = 'Finding your location…';
-      navigator.geolocation.getCurrentPosition(p => {
-        loc = { lat: p.coords.latitude.toFixed(3), lon: p.coords.longitude.toFixed(3),
-                tz: Intl.DateTimeFormat().resolvedOptions().timeZone, name: 'My location' };
-        store.set('dc_loc', loc); $('shabbat').hidden = true; loadZmanim();
-        $('settings').classList.remove('show');
-      }, () => { $('locnote').textContent = 'Location was not allowed. Pick a city instead.'; }, { timeout: 15000 });
-    } else if (pick !== loc.geo){
-      loc = { geo: pick, name: locSel.selectedOptions[0].textContent };
-      store.set('dc_loc', loc); $('shabbat').hidden = true; loadZmanim();
+    const pick = PLACES[locSel.value];
+    if (pick && locKey(pick) !== locKey(loc)){
+      loc = pick; store.set('dc_loc', loc); $('shabbat').hidden = true; loadZmanim();
     }
-    if (pick !== 'here') $('settings').classList.remove('show');
+    $('settings').classList.remove('show');
     quotes = {}; loadQuotes();
     if (srcChanged){ news = []; loadNews(); }
   });
