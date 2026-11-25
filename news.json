@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T19:01:29.267530+00:00",
+ "updated": "2026-11-25T19:06:28.386770+00:00",
  "feeds": {
   "ynet": [
    {
@@ -104,7 +104,11 @@
   "cnbc": [
    {
     "title": "Dow turns positive on the day as Wall Street attempts to recover from sell-off: Live updates",
-    "date": "2026-11-25T18:58:51+00:00"
+    "date": "2026-11-25T19:05:55+00:00"
+   },
+   {
+    "title": "Nvidia leads tech sell-off as Huang comeback rally fizzles and AI concerns return",
+    "date": "2026-11-25T19:04:20+00:00"
    },
    {
     "title": "There are 5,100 newly minted Anthropic millionaires — here’s all the stuff they don’t tell you about when you suddenly get rich",
@@ -119,20 +123,12 @@
     "date": "2026-11-25T18:35:39+00:00"
    },
    {
-    "title": "Nvidia leads tech sell-off as Huang comeback rally fizzles and AI concerns return",
-    "date": "2026-11-25T18:33:39+00:00"
-   },
-   {
     "title": "Saudi national in OpenAI bugging case is out on bond after DOJ tries to block release",
     "date": "2026-11-25T18:23:12+00:00"
    },
    {
     "title": "SpaceX wins FCC approval to deploy 1 million orbital data center satellites",
     "date": "2026-11-25T18:22:59+00:00"
-   },
-   {
-    "title": "Stocks making the biggest moves Wednesday: HP Inc, Ambarella, Nvidia, Sandisk & more",
-    "date": "2026-11-25T18:08:35+00:00"
    },
    {
     "title": "10-year Treasury yield slides despite sticky inflation data as investors buy bonds for protection",
@@ -149,9 +145,17 @@
    {
     "title": "This missile maker's stock has fallen on expected U.S. military spending cuts, but its backlog reduces the risk",
     "date": "2026-11-25T17:07:12+00:00"
+   },
+   {
+    "title": "Army blows up bomb chemicals in Iowa despite fears a toxic plume could endanger residents",
+    "date": "2026-11-25T16:42:31+00:00"
    }
   ],
   "fox": [
+   {
+    "title": "Commanders sign embattled wide receiver Brandon Aiyuk to practice squad after release by 49ers",
+    "date": "2026-11-25T18:54:55+00:00"
+   },
    {
     "title": "Shedeur Sanders surprises Cleveland shoppers by paying for their Thanksgiving groceries",
     "date": "2026-11-25T18:50:06+00:00"
@@ -195,10 +199,6 @@
    {
     "title": "Trump officials reportedly at odds over tech titan's comeback as national security concerns linger",
     "date": "2026-11-25T17:43:04+00:00"
-   },
-   {
-    "title": "Troubling side effects of Walz’s signature legislation triggering local outrage as he heads for the exit",
-    "date": "2026-11-25T17:37:20+00:00"
    }
   ]
  }
