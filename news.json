@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T13:51:16.149258+00:00",
+ "updated": "2026-11-25T13:56:16.286271+00:00",
  "feeds": {
   "ynet": [
    {
@@ -103,16 +103,16 @@
   ],
   "cnbc": [
    {
+    "title": "Stock futures tumble as Nvidia leads AI sell-off, data shows inflation picking up: Live updates",
+    "date": "2026-11-25T13:55:32+00:00"
+   },
+   {
     "title": "Kilmar Ábrego García, a Salvadoran national mistakenly deported from the U.S., arrives in Spain",
     "date": "2026-11-25T13:51:03+00:00"
    },
    {
     "title": "Fed’s preferred inflation gauge accelerated to 3.8% in October, likely sealing rate hike",
     "date": "2026-11-25T13:47:28+00:00"
-   },
-   {
-    "title": "Stock futures tumble as Nvidia leads AI sell-off, data shows inflation picking up: Live updates",
-    "date": "2026-11-25T13:44:53+00:00"
    },
    {
     "title": "U.S. proposes new tariffs on 14 trading partners, including China and the EU",
@@ -153,6 +153,14 @@
   ],
   "fox": [
    {
+    "title": "Country music star Darius Rucker reveals facing racism from Black fans over genre switch",
+    "date": "2026-11-25T13:47:20+00:00"
+   },
+   {
+    "title": "WWE NXT star shaves head in powerful moment as she battles alopecia: 'With or without hair, I’m Thea Hail'",
+    "date": "2026-11-25T13:47:11+00:00"
+   },
+   {
     "title": "British police name suspects charged in break-in at Prince William and Princess Kate's home",
     "date": "2026-11-25T13:41:06+00:00"
    },
@@ -191,14 +199,6 @@
    {
     "title": "Comedian Alfred Robles wears many hats: Cowboy, Catholic and crowd therapist",
     "date": "2026-11-25T12:00:37+00:00"
-   },
-   {
-    "title": "DANNY DANON: From Auschwitz to the UN, Israel must never retreat",
-    "date": "2026-11-25T12:00:21+00:00"
-   },
-   {
-    "title": "400-year-old shipwreck lock finally opened after researchers crack secret code: 'Incredibly satisfying'",
-    "date": "2026-11-25T12:00:21+00:00"
    }
   ]
  }
