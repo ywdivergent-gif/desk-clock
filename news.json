@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T11:56:06.956184+00:00",
+ "updated": "2026-11-25T12:01:07.135546+00:00",
  "feeds": {
   "ynet": [
    {
@@ -15,7 +15,7 @@
     "date": "2026-11-25T11:13:28+00:00"
    },
    {
-    "title": "הצעת החוק להקמת ועדת חקירה ממלכתית אושרה בקריאה טרומית",
+    "title": "הצעת החוק להקמת ועדת חקירה ממלכתית לטבח 7 באוקטובר אושרה בקריאה טרומית",
     "date": "2026-11-25T11:09:31+00:00"
    },
    {
@@ -153,6 +153,10 @@
   ],
   "fox": [
    {
+    "title": "DR MARC SIEGEL: Why angels remind us to give thanks and never lose hope on Thanksgiving",
+    "date": "2026-11-25T11:50:06+00:00"
+   },
+   {
     "title": "LIVE CHAT: Is the Big Ten in danger of getting only one College Football Playoff bid?",
     "date": "2026-11-25T11:44:28+00:00"
    },
@@ -195,10 +199,6 @@
    {
     "title": "Nation’s largest grocery chain cuts thousands of jobs — sparks fury over who it’s hiring instead: 'Insanity'",
     "date": "2026-11-25T10:00:11+00:00"
-   },
-   {
-    "title": "Senate GOP takes risky bet on Dems as holiday shutdown deadline looms: 'It's a gamble'",
-    "date": "2026-11-25T10:00:09+00:00"
    }
   ]
  }
