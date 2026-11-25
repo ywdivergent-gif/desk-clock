@@ -1,7 +1,11 @@
 {
- "updated": "2026-11-25T19:11:28.424240+00:00",
+ "updated": "2026-11-25T19:16:28.662912+00:00",
  "feeds": {
   "ynet": [
+   {
+    "title": "המפכ\"ל: לא ייתכן ששוטרים ישתתפו באירועי סולחה בין חמולות",
+    "date": "2026-11-25T19:08:26+00:00"
+   },
    {
     "title": "קושנר דחק בנתניהו: \"תיישמו את חלקכם בתוכנית 20 הנקודות, סייעו לעזה בחורף\"",
     "date": "2026-11-25T19:06:23+00:00"
@@ -45,10 +49,6 @@
    {
     "title": "חשש מענן עופרת רעיל: צבא ארה\"ב פוצץ 5 טונות של חומר נפץ לא-יציב | תיעוד",
     "date": "2026-11-25T15:13:11+00:00"
-   },
-   {
-    "title": "הפרשיות שבדרך להימחק - וזו שעדיין מסבכת את נתניהו",
-    "date": "2026-11-25T14:58:43+00:00"
    }
   ],
   "ynetnews": [
@@ -103,12 +103,16 @@
   ],
   "cnbc": [
    {
-    "title": "Dow turns positive on the day as Wall Street attempts to recover from sell-off: Live updates",
-    "date": "2026-11-25T19:09:28+00:00"
+    "title": "Nvidia leads tech sell-off as Huang comeback rally fizzles and AI concerns return",
+    "date": "2026-11-25T19:15:56+00:00"
    },
    {
-    "title": "Nvidia leads tech sell-off as Huang comeback rally fizzles and AI concerns return",
-    "date": "2026-11-25T19:04:20+00:00"
+    "title": "Saudi national in OpenAI bugging case is out on bond after DOJ tries to block release",
+    "date": "2026-11-25T19:11:53+00:00"
+   },
+   {
+    "title": "Dow turns positive on the day as Wall Street attempts to recover from sell-off: Live updates",
+    "date": "2026-11-25T19:09:28+00:00"
    },
    {
     "title": "There are 5,100 newly minted Anthropic millionaires — here’s all the stuff they don’t tell you about when you suddenly get rich",
@@ -121,10 +125,6 @@
    {
     "title": "Gold falls to more than one-year low after data shows U.S. inflation rose further",
     "date": "2026-11-25T18:35:39+00:00"
-   },
-   {
-    "title": "Saudi national in OpenAI bugging case is out on bond after DOJ tries to block release",
-    "date": "2026-11-25T18:23:12+00:00"
    },
    {
     "title": "SpaceX wins FCC approval to deploy 1 million orbital data center satellites",
