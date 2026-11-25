@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T18:31:28.396419+00:00",
+ "updated": "2026-11-25T18:36:28.941770+00:00",
  "feeds": {
   "ynet": [
    {
@@ -103,6 +103,22 @@
   ],
   "cnbc": [
    {
+    "title": "Nvidia leads tech sell-off as Huang comeback rally fizzles and AI concerns return",
+    "date": "2026-11-25T18:33:39+00:00"
+   },
+   {
+    "title": "Anthropic teeters at $1 trillion market cap. Why it may stabilize from here",
+    "date": "2026-11-25T18:31:59+00:00"
+   },
+   {
+    "title": "Saudi national in OpenAI bugging case is out on bond after DOJ tries to block release",
+    "date": "2026-11-25T18:23:12+00:00"
+   },
+   {
+    "title": "SpaceX wins FCC approval to deploy 1 million orbital data center satellites",
+    "date": "2026-11-25T18:22:59+00:00"
+   },
+   {
     "title": "Stocks making the biggest moves Wednesday: HP Inc, Ambarella, Nvidia, Sandisk & more",
     "date": "2026-11-25T18:08:35+00:00"
    },
@@ -115,16 +131,8 @@
     "date": "2026-11-25T18:02:45+00:00"
    },
    {
-    "title": "Anthropic teeters at $1 trillion market cap. Why it may stabilize from here",
-    "date": "2026-11-25T17:44:42+00:00"
-   },
-   {
     "title": "Kalshi traders say state data center moratoriums are more likely than not",
     "date": "2026-11-25T17:36:54+00:00"
-   },
-   {
-    "title": "Nvidia leads tech sell-off as Huang comeback rally fizzles and AI concerns return",
-    "date": "2026-11-25T17:10:17+00:00"
    },
    {
     "title": "Prediction markets push OpenAI IPO expectations later into 2027",
@@ -141,17 +149,13 @@
    {
     "title": "There are 5,100 newly minted Anthropic millionaires—here’s all the stuff they don’t tell you about when you suddenly get rich",
     "date": "2026-11-25T16:32:55+00:00"
-   },
-   {
-    "title": "Even the price of toys is on the rise. How Americans are scaling back holiday plans",
-    "date": "2026-11-25T16:17:13+00:00"
-   },
-   {
-    "title": "Anthropic's stock has been a clunker post-IPO. Why that matters for the AI trade",
-    "date": "2026-11-25T16:05:25+00:00"
    }
   ],
   "fox": [
+   {
+    "title": "Why deep pockets weren’t enough to save the GOP in 2026: 'Money is not magic'",
+    "date": "2026-11-25T18:25:28+00:00"
+   },
    {
     "title": "Packers vs Rams prediction, odds and best bets for Thanksgiving Eve NFL clash",
     "date": "2026-11-25T18:05:17+00:00"
@@ -195,10 +199,6 @@
    {
     "title": "WWE legend 'Stone Cold' Steve Austin shares Thanksgiving plan and holiday staple he believes is 'overrated'",
     "date": "2026-11-25T16:56:13+00:00"
-   },
-   {
-    "title": "Why the Bears' turnovers and the Lions' passing defense make this Thanksgiving game unpredictable",
-    "date": "2026-11-25T16:53:03+00:00"
    }
   ]
  }
