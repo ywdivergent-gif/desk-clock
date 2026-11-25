@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T03:50:57.013414+00:00",
+ "updated": "2026-11-25T03:55:56.359989+00:00",
  "feeds": {
   "ynet": [
    {
@@ -103,6 +103,10 @@
   ],
   "cnbc": [
    {
+    "title": "SoftBank drops 15% as Wall Street AI sell-off ripples across Asian tech names",
+    "date": "2026-11-25T03:52:03+00:00"
+   },
+   {
     "title": "Stock futures slip as traders await key inflation report, assess tech sell-off: Live updates",
     "date": "2026-11-25T02:51:22+00:00"
    },
@@ -117,10 +121,6 @@
    {
     "title": "Trump open to pardoning Jensen Huang if needed: NY Post",
     "date": "2026-11-25T02:09:45+00:00"
-   },
-   {
-    "title": "SoftBank drops 14% as Wall Street AI sell-off ripples across Asian tech names",
-    "date": "2026-11-25T01:57:29+00:00"
    },
    {
     "title": "Jensen Huang's Nvidia return shows the U.S.-China AI race is about more than chips",
@@ -155,6 +155,10 @@
    {
     "title": "Americans don’t have to choose between our AI future and ripping off copyright owners",
     "date": "2026-11-25T10:00:00+00:00"
+   },
+   {
+    "title": "Urban Meyer reveals his pick for the Big Ten’s top team ahead of College Football Playoff",
+    "date": "2026-11-25T03:53:14+00:00"
    },
    {
     "title": "Man arrested after bystanders stop alleged rape attempt inside popular fast-food restaurant's restroom",
@@ -195,10 +199,6 @@
    {
     "title": "California prosecutors, victim advocates challenge Newsom's mass death sentence commutation",
     "date": "2026-11-25T01:21:10+00:00"
-   },
-   {
-    "title": "ICE nabs illegal immigrant days after he claims $1 million Massachusetts State Lottery prize",
-    "date": "2026-11-25T00:47:02+00:00"
    }
   ]
  }
