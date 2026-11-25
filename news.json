@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T16:01:16.384682+00:00",
+ "updated": "2026-11-25T16:06:16.366279+00:00",
  "feeds": {
   "ynet": [
    {
@@ -103,6 +103,14 @@
   ],
   "cnbc": [
    {
+    "title": "U.S. proposes new tariffs on 14 trading partners, including China and the EU",
+    "date": "2026-11-25T16:02:52+00:00"
+   },
+   {
+    "title": "Investors led by U.S. billionaire Todd Boehly to buy Lukoil's oil and gas assets outside Russia, sources say",
+    "date": "2026-11-25T16:00:45+00:00"
+   },
+   {
     "title": "Saudi national charged in OpenAI bugging to be released on $1 million bond",
     "date": "2026-11-25T15:55:40+00:00"
    },
@@ -141,17 +149,13 @@
    {
     "title": "Stocks making the biggest moves Wednesday: Nvidia, Urban Outfitters, Dell, Ambarella & more",
     "date": "2026-11-25T14:30:35+00:00"
-   },
-   {
-    "title": "Jensen Huang tells staff that Nvidia doesn't need a succession plan",
-    "date": "2026-11-25T14:29:50+00:00"
-   },
-   {
-    "title": "Jensen Huang's Nvidia return shows the U.S.-China AI race is about more than chips",
-    "date": "2026-11-25T14:29:00+00:00"
    }
   ],
   "fox": [
+   {
+    "title": "Reddit users share the wildest things they've ever witnessed at company Christmas parties",
+    "date": "2026-11-25T15:52:11+00:00"
+   },
    {
     "title": "FanDuel Promo Code: Bet $5, Get $200 When You Bet on the NFL This Thanksgiving Week, Starting With Rams-Packer",
     "date": "2026-11-25T15:48:50+00:00"
@@ -195,10 +199,6 @@
    {
     "title": "'Catfish Girl' Hannah Barron takes down a buck with a bow, Liv Morgan's selfie has the internet talking & meat",
     "date": "2026-11-25T14:54:51+00:00"
-   },
-   {
-    "title": "5 of the best food gift baskets for the holidays, from sweet treats to savory favorites",
-    "date": "2026-11-25T14:54:23+00:00"
    }
   ]
  }
