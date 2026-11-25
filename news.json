@@ -1,7 +1,19 @@
 {
- "updated": "2026-11-25T22:06:27.500064+00:00",
+ "updated": "2026-11-25T22:11:27.237249+00:00",
  "feeds": {
   "ynet": [
+   {
+    "title": "צל כבד על המערכת כולה",
+    "date": "2026-11-25T22:07:32+00:00"
+   },
+   {
+    "title": "מי באמת הפר אמונים",
+    "date": "2026-11-25T22:06:07+00:00"
+   },
+   {
+    "title": "הדרמה במשפט נתניהו כוללת גם סיכוי לתיקון",
+    "date": "2026-11-25T22:04:26+00:00"
+   },
    {
     "title": "מתי המדינה מתכוונת לשלם?",
     "date": "2026-11-25T22:01:21+00:00"
@@ -37,18 +49,6 @@
    {
     "title": "\"מערכת גשם חורפית של ממש\" | מה שצפוי בשבוע הבא",
     "date": "2026-11-25T18:44:11+00:00"
-   },
-   {
-    "title": "\"נבנה במהירות מחשידה\": המתקן המבוצר החדש באיראן - בין נתנז לאיספהאן",
-    "date": "2026-11-25T17:55:08+00:00"
-   },
-   {
-    "title": "הוקפצו בדרגות תוך כדי מלחמה – ועכשיו בצה\"ל מנסים לתקן",
-    "date": "2026-11-25T17:28:05+00:00"
-   },
-   {
-    "title": "נתניהו בהצהרה אחרי הדרמה במשפט: \"אמרתי שלא יהיה כלום - אבל זה לקח 10 שנים של סבל נורא\"",
-    "date": "2026-11-25T16:37:41+00:00"
    }
   ],
   "ynetnews": [
@@ -153,6 +153,10 @@
   ],
   "fox": [
    {
+    "title": "Duran Duran guitarist Andy Taylor dies at 65, bandmates pay emotional tribute",
+    "date": "2026-11-25T21:58:35+00:00"
+   },
+   {
     "title": "Pat Freiermuth sidesteps Aaron Rodgers' claims about Mike McCarthy and Steelers coaching staff",
     "date": "2026-11-25T21:55:08+00:00"
    },
@@ -195,10 +199,6 @@
    {
     "title": "Parents of 5-year-old boy killed in Oregon school shooting seek court order against teen gunman's mother",
     "date": "2026-11-25T20:46:59+00:00"
-   },
-   {
-    "title": "Rodeo executive says Americans are hungry for Western culture and the values that come with it",
-    "date": "2026-11-25T20:43:28+00:00"
    }
   ]
  }
