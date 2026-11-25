@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T11:46:06.908468+00:00",
+ "updated": "2026-11-25T11:51:06.822879+00:00",
  "feeds": {
   "ynet": [
    {
@@ -153,6 +153,10 @@
   ],
   "fox": [
    {
+    "title": "LIVE CHAT: Is the Big Ten in danger of getting only one College Football Playoff bid?",
+    "date": "2026-11-25T11:44:28+00:00"
+   },
+   {
     "title": "Kroger cuts thousands of jobs across America, recruits foreign workers and more top headlines",
     "date": "2026-11-25T11:40:36+00:00"
    },
@@ -195,10 +199,6 @@
    {
     "title": "Senate GOP takes risky bet on Dems as holiday shutdown deadline looms: 'It's a gamble'",
     "date": "2026-11-25T10:00:09+00:00"
-   },
-   {
-    "title": "Americans don’t have to choose between our AI future and ripping off copyright owners",
-    "date": "2026-11-25T10:00:00+00:00"
    }
   ]
  }
