@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T14:16:16.252994+00:00",
+ "updated": "2026-11-25T14:21:16.128575+00:00",
  "feeds": {
   "ynet": [
    {
@@ -103,12 +103,28 @@
   ],
   "cnbc": [
    {
+    "title": "Budget carrier Norse Atlantic falls 77% after warning its finances are ‘critical’ amid soaring fuel costs",
+    "date": "2026-11-25T14:19:07+00:00"
+   },
+   {
     "title": "Fed’s preferred inflation gauge accelerated to 3.8% in October, raising the 2027 stakes for the central bank",
-    "date": "2026-11-25T14:11:08+00:00"
+    "date": "2026-11-25T14:18:45+00:00"
+   },
+   {
+    "title": "Secondhand shopping is going mainstream this holiday season as consumers seek value",
+    "date": "2026-11-25T14:17:01+00:00"
+   },
+   {
+    "title": "Our top 10 things to watch in the stock market Wednesday",
+    "date": "2026-11-25T14:15:30+00:00"
    },
    {
     "title": "Kilmar Ábrego García, a Salvadoran national mistakenly deported from the U.S., arrives in Spain",
     "date": "2026-11-25T14:04:41+00:00"
+   },
+   {
+    "title": "Even the price of toys is on the rise. How Americans are scaling back holiday plans",
+    "date": "2026-11-25T14:01:07+00:00"
    },
    {
     "title": "Stock futures tumble as Nvidia leads AI sell-off, data shows inflation picking up: Live updates",
@@ -127,31 +143,19 @@
     "date": "2026-11-25T13:20:34+00:00"
    },
    {
-    "title": "The Fed is likely to raise rates in December. What it means for your holiday spending",
-    "date": "2026-11-25T13:15:01+00:00"
-   },
-   {
     "title": "Liesman: Nvidia whiplash tests Kevin Warsh’s push to read market signals",
     "date": "2026-11-25T12:26:41+00:00"
    },
    {
-    "title": "Secondhand shopping is going mainstream this holiday season as consumers seek value",
-    "date": "2026-11-25T12:00:01+00:00"
-   },
-   {
     "title": "Bank of America sees the S&P 500 climbing to 7,800 next year, making up lost ground",
     "date": "2026-11-25T11:54:12+00:00"
-   },
-   {
-    "title": "Budget carrier Norse Atlantic falls 77% after warning its finances are ‘critical’ amid soaring fuel costs",
-    "date": "2026-11-25T11:10:28+00:00"
-   },
-   {
-    "title": "Ukraine tells Putin to ‘stop complaining’ over oil refinery attacks as Russia promises retaliation",
-    "date": "2026-11-25T09:18:37+00:00"
    }
   ],
   "fox": [
+   {
+    "title": "Jalen Brunson, Trevor Lawrence and more dish out Thanksgiving hot takes to OutKick: 'I hate to even say it'",
+    "date": "2026-11-25T14:06:21+00:00"
+   },
    {
     "title": "Pizza becomes unexpected go-to at Thanksgiving time, new report finds",
     "date": "2026-11-25T14:00:58+00:00"
@@ -195,10 +199,6 @@
    {
     "title": "Tennis legend Chris Evert has been through 'hell and back' amid cancer battle, Billie Jean King says",
     "date": "2026-11-25T12:48:51+00:00"
-   },
-   {
-    "title": "Packers activate star pass rusher Micah Parsons from PUP list, opening door to Thanksgiving Eve debut",
-    "date": "2026-11-25T12:47:52+00:00"
    }
   ]
  }
