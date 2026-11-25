@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T04:05:56.380063+00:00",
+ "updated": "2026-11-25T04:10:56.518570+00:00",
  "feeds": {
   "ynet": [
    {
@@ -103,6 +103,10 @@
   ],
   "cnbc": [
    {
+    "title": "‘Ready for any storm’: UAE minister optimistic on economy as IMF lifts forecast",
+    "date": "2026-11-25T04:06:01+00:00"
+   },
+   {
     "title": "Stock futures slip as traders await key inflation report, assess tech sell-off: Live updates",
     "date": "2026-11-25T04:01:16+00:00"
    },
@@ -145,10 +149,6 @@
    {
     "title": "Trump Account contributions from friends and family pass $1 billion mark, Treasury says",
     "date": "2026-11-24T22:18:47+00:00"
-   },
-   {
-    "title": "Dell earnings beat on AI strength, company authorizes $25 billion buyback",
-    "date": "2026-11-24T22:07:45+00:00"
    }
   ],
   "fox": [
