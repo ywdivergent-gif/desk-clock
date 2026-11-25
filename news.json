@@ -1,7 +1,11 @@
 {
- "updated": "2026-11-25T17:51:16.353303+00:00",
+ "updated": "2026-11-25T17:56:16.212180+00:00",
  "feeds": {
   "ynet": [
+   {
+    "title": "\"נבנה במהירות מחשידה\": המתקן המבוצר החדש באיראן - בין נתנז לאיספהאן",
+    "date": "2026-11-25T17:55:08+00:00"
+   },
    {
     "title": "הוקפצו בדרגות תוך כדי מלחמה – ועכשיו בצה\"ל מנסים לתקן",
     "date": "2026-11-25T17:28:05+00:00"
@@ -45,10 +49,6 @@
    {
     "title": "הפגיעות המיניות בחברה החרדית: הפקרתם וגם מחקתם",
     "date": "2026-11-25T14:45:00+00:00"
-   },
-   {
-    "title": "זה הזמן: מנהיגים גבריות בריאה",
-    "date": "2026-11-25T14:20:00+00:00"
    }
   ],
   "ynetnews": [
@@ -103,6 +103,10 @@
   ],
   "cnbc": [
    {
+    "title": "Stocks making the biggest moves midday: HP Inc, Ambarella, Nvidia, Sandisk & more",
+    "date": "2026-11-25T17:55:48+00:00"
+   },
+   {
     "title": "Kalshi traders say state data center moratoriums are more likely than not",
     "date": "2026-11-25T17:36:54+00:00"
    },
@@ -145,13 +149,17 @@
    {
     "title": "Investors led by U.S. billionaire Todd Boehly to buy Lukoil's oil and gas assets outside Russia, sources say",
     "date": "2026-11-25T16:00:45+00:00"
-   },
-   {
-    "title": "These low-volatility stocks are shining in November as markets shudder",
-    "date": "2026-11-25T15:57:55+00:00"
    }
   ],
   "fox": [
+   {
+    "title": "Pre-Thanksgiving flight to Chicago disrupted when unruly passenger rushes toward airplane door",
+    "date": "2026-11-25T17:43:23+00:00"
+   },
+   {
+    "title": "Trump officials reportedly at odds over tech titan's comeback as national security concerns linger",
+    "date": "2026-11-25T17:43:04+00:00"
+   },
    {
     "title": "Troubling side effects of Walz’s signature legislation triggering local outrage as he heads for the exit",
     "date": "2026-11-25T17:37:20+00:00"
@@ -191,14 +199,6 @@
    {
     "title": "BetMGM Bonus Code FOXNEWS: Grab a $1500 Bonus for Rams-Packers to Celebrate Thanksgiving Eve",
     "date": "2026-11-25T16:39:17+00:00"
-   },
-   {
-    "title": "Aaron Rodgers and Mike McCarthy disagreements at heart of quarterback's benching by the Steelers",
-    "date": "2026-11-25T16:36:36+00:00"
-   },
-   {
-    "title": "Claim the Best Sportsbook Promos on Thanksgiving Eve and Get $2000+ in Bonuses",
-    "date": "2026-11-25T16:26:57+00:00"
    }
   ]
  }
