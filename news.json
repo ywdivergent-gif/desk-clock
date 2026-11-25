@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T18:56:28.625378+00:00",
+ "updated": "2026-11-25T19:01:29.267530+00:00",
  "feeds": {
   "ynet": [
    {
@@ -103,12 +103,12 @@
   ],
   "cnbc": [
    {
-    "title": "There are 5,100 newly minted Anthropic millionaires — here’s all the stuff they don’t tell you about when you suddenly get rich",
-    "date": "2026-11-25T18:52:59+00:00"
+    "title": "Dow turns positive on the day as Wall Street attempts to recover from sell-off: Live updates",
+    "date": "2026-11-25T18:58:51+00:00"
    },
    {
-    "title": "Dow turns positive on the day as Wall Street attempts to recover from sell-off: Live updates",
-    "date": "2026-11-25T18:47:52+00:00"
+    "title": "There are 5,100 newly minted Anthropic millionaires — here’s all the stuff they don’t tell you about when you suddenly get rich",
+    "date": "2026-11-25T18:52:59+00:00"
    },
    {
     "title": "Anthropic teeters at $1 trillion market cap. Why it may stabilize from here",
@@ -153,6 +153,10 @@
   ],
   "fox": [
    {
+    "title": "Shedeur Sanders surprises Cleveland shoppers by paying for their Thanksgiving groceries",
+    "date": "2026-11-25T18:50:06+00:00"
+   },
+   {
     "title": "Ranking the best hikes in and around Tucson ahead of the Arizona-Arizona State showdown",
     "date": "2026-11-25T18:45:36+00:00"
    },
@@ -195,10 +199,6 @@
    {
     "title": "Troubling side effects of Walz’s signature legislation triggering local outrage as he heads for the exit",
     "date": "2026-11-25T17:37:20+00:00"
-   },
-   {
-    "title": "Christina Ricci admits Cher is 'still mad at me' decades after one mistake ended 'Mermaids' bond",
-    "date": "2026-11-25T17:14:47+00:00"
    }
   ]
  }
