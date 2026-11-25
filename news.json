@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T23:16:27.437463+00:00",
+ "updated": "2026-11-25T23:21:27.777856+00:00",
  "feeds": {
   "ynet": [
    {
@@ -153,6 +153,10 @@
   ],
   "fox": [
    {
+    "title": "Mike McCarthy's Cowboys comments resurface amid Aaron Rodgers debacle",
+    "date": "2026-11-25T23:12:35+00:00"
+   },
+   {
     "title": "Major League Baseball owners sue MLB Players Association ahead of rapidly approaching lockout",
     "date": "2026-11-25T23:05:06+00:00"
    },
@@ -195,10 +199,6 @@
    {
     "title": "Thanksgiving flights booked after key hour face double the risk of major delay",
     "date": "2026-11-25T21:22:55+00:00"
-   },
-   {
-    "title": "Rams star Puka Nacua's MCL completely tore off the bone as details emerge from season-ending injury: report",
-    "date": "2026-11-25T21:20:16+00:00"
    }
   ]
  }
