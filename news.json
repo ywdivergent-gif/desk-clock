@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T20:06:28.502747+00:00",
+ "updated": "2026-11-25T20:11:28.577417+00:00",
  "feeds": {
   "ynet": [
    {
@@ -104,7 +104,7 @@
   "cnbc": [
    {
     "title": "Dow turns positive on the day as Wall Street attempts to recover from sell-off: Live updates",
-    "date": "2026-11-25T20:01:28+00:00"
+    "date": "2026-11-25T20:09:52+00:00"
    },
    {
     "title": "EU postpones discussion to approve Tesla's self-driving tech",
@@ -153,6 +153,10 @@
   ],
   "fox": [
    {
+    "title": "WHAT’S YOUR TAKE: Will Aaron Rodgers play another snap this season?",
+    "date": "2026-11-25T20:01:12+00:00"
+   },
+   {
     "title": "No. 2 Virginia and Marquette get a nearly 2-hour halftime thanks to ... an indoor rain delay?",
     "date": "2026-11-25T19:53:05+00:00"
    },
@@ -195,10 +199,6 @@
    {
     "title": "Vanity Fair piece on Taylor Swift that doesn't mention her by name draws criticism",
     "date": "2026-11-25T19:00:56+00:00"
-   },
-   {
-    "title": "John F Kennedy Jr search commander says Ted Kennedy made one strict demand after divers found nephew’s body",
-    "date": "2026-11-25T19:00:30+00:00"
    }
   ]
  }
