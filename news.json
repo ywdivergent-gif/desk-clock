@@ -1,7 +1,11 @@
 {
- "updated": "2026-11-25T12:06:06.661266+00:00",
+ "updated": "2026-11-25T12:11:06.790407+00:00",
  "feeds": {
   "ynet": [
+   {
+    "title": "\"סוהר הצמיד רימון הלם חי לגופו של עצור - וגרם לו לכוויות\" | התיעוד ותגובת שב\"ס",
+    "date": "2026-11-25T12:06:27+00:00"
+   },
    {
     "title": "יותר ממחצית מהמורים למתמטיקה ביסודי ללא הכשרה מתאימה | הנתונים מדוח הלמ\"ס",
     "date": "2026-11-25T11:54:52+00:00"
@@ -45,10 +49,6 @@
    {
     "title": "יממה לאחר קודמו: חוסל עוד בכיר ב\"בסיג' של חמאס\"",
     "date": "2026-11-25T09:29:04+00:00"
-   },
-   {
-    "title": "קודמה ההצעה לביטול חוק השידורים, קרעי הורחק: \"המסיבה שלך נגמרה\"",
-    "date": "2026-11-25T09:13:37+00:00"
    }
   ],
   "ynetnews": [
@@ -153,6 +153,22 @@
   ],
   "fox": [
    {
+    "title": "Comedian Alfred Robles wears many hats: Cowboy, Catholic and crowd therapist",
+    "date": "2026-11-25T12:00:37+00:00"
+   },
+   {
+    "title": "DANNY DANON: From Auschwitz to the UN, Israel must never retreat",
+    "date": "2026-11-25T12:00:21+00:00"
+   },
+   {
+    "title": "400-year-old shipwreck lock finally opened after researchers crack secret code: 'Incredibly satisfying'",
+    "date": "2026-11-25T12:00:21+00:00"
+   },
+   {
+    "title": "Virginia school district defends Thanksgiving 'Day of Mourning' resources for kids as young as third grade",
+    "date": "2026-11-25T12:00:08+00:00"
+   },
+   {
     "title": "Slain student’s family faces first Thanksgiving without her, blames missed chances to stop illegal alien",
     "date": "2026-11-25T12:00:02+00:00"
    },
@@ -183,22 +199,6 @@
    {
     "title": "Trump's NVIDIA power play opens Pandora's box Democrats could weaponize, analyst warns",
     "date": "2026-11-25T11:00:17+00:00"
-   },
-   {
-    "title": "How skipping breakfast to save room for dinner shocks your blood sugar and metabolism",
-    "date": "2026-11-25T11:00:16+00:00"
-   },
-   {
-    "title": "MICHAEL RUIZ: Spivey family lawyer says no evidence points to 'stand your ground' shooting victim firing first",
-    "date": "2026-11-25T11:00:05+00:00"
-   },
-   {
-    "title": "If you want to know the dangers of socialism, take a look at Mamdani’s New York",
-    "date": "2026-11-25T10:00:41+00:00"
-   },
-   {
-    "title": "America’s first Thanksgiving was made possible by daring Revolutionary snipers",
-    "date": "2026-11-25T10:00:11+00:00"
    }
   ]
  }
