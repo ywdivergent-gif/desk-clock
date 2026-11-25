@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T15:16:16.429095+00:00",
+ "updated": "2026-11-25T15:21:16.478329+00:00",
  "feeds": {
   "ynet": [
    {
@@ -104,7 +104,11 @@
   "cnbc": [
    {
     "title": "Dow tumbles 700 points, Nasdaq loses 3% as Nvidia leads resumption of AI sell-off: Live updates",
-    "date": "2026-11-25T15:04:24+00:00"
+    "date": "2026-11-25T15:18:46+00:00"
+   },
+   {
+    "title": "Kalshi traders say the odds of states imposing data center moratoriums is more likely than not",
+    "date": "2026-11-25T15:18:29+00:00"
    },
    {
     "title": "Wealthy investors seek tax savings from municipal bonds as yields remain elevated",
@@ -145,13 +149,13 @@
    {
     "title": "Budget carrier Norse Atlantic falls 78% after warning its finances are ‘critical’ amid soaring fuel costs",
     "date": "2026-11-25T14:24:04+00:00"
-   },
-   {
-    "title": "Fed’s preferred inflation gauge accelerated to 3.8% in October, raising the 2027 stakes for the central bank",
-    "date": "2026-11-25T14:18:45+00:00"
    }
   ],
   "fox": [
+   {
+    "title": "Army detonates nearly 5 tons of lead azide at Iowa ammunition plant",
+    "date": "2026-11-25T15:10:07+00:00"
+   },
    {
     "title": "Fanatics Sportsbook Promo Code FOXNEWS: Get up to $1000 in FanCash for Packers-Rams on Thanksgiving Eve",
     "date": "2026-11-25T15:04:12+00:00"
@@ -195,10 +199,6 @@
    {
     "title": "America’s farmers deserve our thanks for all the gifts they give us each day",
     "date": "2026-11-25T14:00:09+00:00"
-   },
-   {
-    "title": "Country music star Darius Rucker reveals facing racism from Black fans over genre switch",
-    "date": "2026-11-25T13:47:20+00:00"
    }
   ]
  }
