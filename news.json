@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T13:01:16.238912+00:00",
+ "updated": "2026-11-25T13:06:16.245723+00:00",
  "feeds": {
   "ynet": [
    {
@@ -104,11 +104,15 @@
   "cnbc": [
    {
     "title": "Stock futures tumble as AI sell-off returns with Nvidia, Anthropic leading the way: Live updates",
-    "date": "2026-11-25T12:50:47+00:00"
+    "date": "2026-11-25T13:06:03+00:00"
    },
    {
     "title": "Trump’s meddling in Huang scandal reignites voter angst over tech’s outsized political power",
-    "date": "2026-11-25T12:44:45+00:00"
+    "date": "2026-11-25T13:05:38+00:00"
+   },
+   {
+    "title": "Even the price of toys is on the rise. How Americans are scaling back holiday plans",
+    "date": "2026-11-25T13:01:01+00:00"
    },
    {
     "title": "Kilmar Ábrego García, a Salvadoran national mistakenly deported from the U.S., arrives in Spain",
@@ -145,13 +149,21 @@
    {
     "title": "China’s Xiamen Airlines to buy 50 Boeing jets in $7.4 billion deal",
     "date": "2026-11-25T03:58:32+00:00"
-   },
-   {
-    "title": "U.S. jury convicts Huawei in a criminal trial over fraud and trade secrets",
-    "date": "2026-11-25T02:43:33+00:00"
    }
   ],
   "fox": [
+   {
+    "title": "Geno Auriemma, Dawn Staley shake hands after hostile scrap last season, as NCAA makes handshake rule change",
+    "date": "2026-11-25T13:04:43+00:00"
+   },
+   {
+    "title": "Inside American Airlines plan to keep Thanksgiving travelers moving",
+    "date": "2026-11-25T13:03:32+00:00"
+   },
+   {
+    "title": "‘The Vow’ star Jace Cates recommits to saving himself for marriage despite ‘sex-positive culture’",
+    "date": "2026-11-25T13:00:52+00:00"
+   },
    {
     "title": "NFL playoff format should be overhauled to ensure best teams all make it, analyst says",
     "date": "2026-11-25T12:58:58+00:00"
@@ -177,28 +189,16 @@
     "date": "2026-11-25T12:00:37+00:00"
    },
    {
-    "title": "400-year-old shipwreck lock finally opened after researchers crack secret code: 'Incredibly satisfying'",
+    "title": "DANNY DANON: From Auschwitz to the UN, Israel must never retreat",
     "date": "2026-11-25T12:00:21+00:00"
    },
    {
-    "title": "DANNY DANON: From Auschwitz to the UN, Israel must never retreat",
+    "title": "400-year-old shipwreck lock finally opened after researchers crack secret code: 'Incredibly satisfying'",
     "date": "2026-11-25T12:00:21+00:00"
    },
    {
     "title": "Virginia school district defends Thanksgiving 'Day of Mourning' resources for kids as young as third grade",
     "date": "2026-11-25T12:00:08+00:00"
-   },
-   {
-    "title": "Slain student’s family faces first Thanksgiving without her, blames missed chances to stop illegal alien",
-    "date": "2026-11-25T12:00:02+00:00"
-   },
-   {
-    "title": "DR MARC SIEGEL: Why angels remind us to give thanks and never lose hope on Thanksgiving",
-    "date": "2026-11-25T11:50:06+00:00"
-   },
-   {
-    "title": "LIVE CHAT: Is the Big Ten in danger of getting only one College Football Playoff bid?",
-    "date": "2026-11-25T11:44:28+00:00"
    }
   ]
  }
