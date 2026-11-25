@@ -1,7 +1,11 @@
 {
- "updated": "2026-11-25T20:26:28.896307+00:00",
+ "updated": "2026-11-25T20:31:28.666112+00:00",
  "feeds": {
   "ynet": [
+   {
+    "title": "נשבר שיא ההגירה לאיים הספרדיים, תינוק נולד באמצע המסע: \"יום היסטורי, לצערנו\"",
+    "date": "2026-11-25T20:29:05+00:00"
+   },
    {
     "title": "המציאות, הדמיון, והכי חשוב - הקרדיט",
     "date": "2026-11-25T20:00:37+00:00"
@@ -45,10 +49,6 @@
    {
     "title": "הליכוד הגישה ערעור רשמי על תוצאות הבחירות ב-120 קלפיות",
     "date": "2026-11-25T15:38:14+00:00"
-   },
-   {
-    "title": "בנט נגד האיש המקורב ביותר לאיזנקוט: \"מוביל קו תקיף נגד נתניהו וממשלת אחדות\"",
-    "date": "2026-11-25T15:27:47+00:00"
    }
   ],
   "ynetnews": [
@@ -103,16 +103,16 @@
   ],
   "cnbc": [
    {
-    "title": "SpaceX, Musk pledge to donate a share each to active Trump Accounts",
-    "date": "2026-11-25T20:25:09+00:00"
-   },
-   {
     "title": "Dow turns positive on the day as Wall Street attempts to recover from sell-off: Live updates",
-    "date": "2026-11-25T20:23:15+00:00"
+    "date": "2026-11-25T20:30:46+00:00"
    },
    {
     "title": "Gold falls to more than one-year low after data shows U.S. inflation rose further",
     "date": "2026-11-25T20:17:39+00:00"
+   },
+   {
+    "title": "We're buying more of a stock down big from its July highs",
+    "date": "2026-11-25T19:55:18+00:00"
    },
    {
     "title": "EU postpones discussion to approve Tesla's self-driving tech",
