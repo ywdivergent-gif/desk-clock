@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T00:50:56.785037+00:00",
+ "updated": "2026-11-25T00:55:57.085712+00:00",
  "feeds": {
   "ynet": [
    {
@@ -103,6 +103,10 @@
   ],
   "cnbc": [
    {
+    "title": "SoftBank drops over 11% as Wall Street AI sell-off ripples across Asian tech names",
+    "date": "2026-11-25T00:55:35+00:00"
+   },
+   {
     "title": "Stock futures slip as traders await key inflation report, assess tech sell-off: Live updates",
     "date": "2026-11-25T00:41:12+00:00"
    },
@@ -145,16 +149,16 @@
    {
     "title": "Drugmaker Insmed shares rally 14% after Sanofi agrees to buy it in pharma’s biggest deal in three years",
     "date": "2026-11-24T21:07:19+00:00"
-   },
-   {
-    "title": "Anthropic closes below $83 IPO price, but analysts are still largely positive",
-    "date": "2026-11-24T21:04:03+00:00"
    }
   ],
   "fox": [
    {
     "title": "Americans don’t have to choose between our AI future and ripping off copyright owners",
     "date": "2026-11-25T10:00:00+00:00"
+   },
+   {
+    "title": "ICE nabs illegal immigrant days after he claims $1 million Massachusetts State Lottery prize",
+    "date": "2026-11-25T00:47:02+00:00"
    },
    {
     "title": "Coast Guard searching for 2 children, 4 adults after plane crashes off Mississippi coast",
@@ -195,10 +199,6 @@
    {
     "title": "Washington Commanders to host troubled WR Brandon Aiyuk for workout after clearing waivers from 49ers",
     "date": "2026-11-24T23:42:44+00:00"
-   },
-   {
-    "title": "Vatican releases Pope Francis' private diary detailing spiritual crisis, encounters with the devil",
-    "date": "2026-11-24T23:42:26+00:00"
    }
   ]
  }
