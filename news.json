@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T17:36:16.532073+00:00",
+ "updated": "2026-11-25T17:41:16.235420+00:00",
  "feeds": {
   "ynet": [
    {
@@ -103,6 +103,10 @@
   ],
   "cnbc": [
    {
+    "title": "Kalshi traders say state data center moratoriums are more likely than not",
+    "date": "2026-11-25T17:36:54+00:00"
+   },
+   {
     "title": "Nvidia leads tech sell-off as Huang comeback rally fizzles and AI concerns return",
     "date": "2026-11-25T17:10:17+00:00"
    },
@@ -145,10 +149,6 @@
    {
     "title": "These low-volatility stocks are shining in November as markets shudder",
     "date": "2026-11-25T15:57:55+00:00"
-   },
-   {
-    "title": "Kalshi traders say the odds of states imposing data center moratoriums is more likely than not",
-    "date": "2026-11-25T15:40:22+00:00"
    }
   ],
   "fox": [
