@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T21:26:27.321639+00:00",
+ "updated": "2026-11-25T21:31:27.842991+00:00",
  "feeds": {
   "ynet": [
    {
@@ -103,8 +103,12 @@
   ],
   "cnbc": [
    {
+    "title": "Bullish hopes spring as traders bet against a higher VIX: Options Action Live",
+    "date": "2026-11-25T21:26:47+00:00"
+   },
+   {
     "title": "Macy's postpones Thanksgiving Day Parade due to severe weather",
-    "date": "2026-11-25T21:24:31+00:00"
+    "date": "2026-11-25T21:26:36+00:00"
    },
    {
     "title": "Dow closes higher Wednesday, wiping out 1,100-point loss in stunning rebound: Live updates",
@@ -133,10 +137,6 @@
    {
     "title": "SpaceX wins FCC approval to deploy 1 million orbital data center satellites",
     "date": "2026-11-25T19:52:47+00:00"
-   },
-   {
-    "title": "Bullish hopes spring as traders bet against a higher VIX: Options Action Live",
-    "date": "2026-11-25T19:12:45+00:00"
    },
    {
     "title": "Saudi national in OpenAI bugging case is out on bond after DOJ tries to block release",
