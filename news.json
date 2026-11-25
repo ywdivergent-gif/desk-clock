@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T13:21:16.161192+00:00",
+ "updated": "2026-11-25T13:26:16.366026+00:00",
  "feeds": {
   "ynet": [
    {
@@ -103,16 +103,16 @@
   ],
   "cnbc": [
    {
+    "title": "Stock futures tumble as AI sell-off returns with Nvidia, Anthropic leading the way: Live updates",
+    "date": "2026-11-25T13:25:57+00:00"
+   },
+   {
     "title": "Trump’s meddling in Huang scandal reignites voter angst over tech’s outsized political power",
     "date": "2026-11-25T13:20:34+00:00"
    },
    {
     "title": "Stocks making the biggest moves premarket: Nvidia, Urban Outfitters, Dell, Ambarella & more",
     "date": "2026-11-25T13:19:58+00:00"
-   },
-   {
-    "title": "Stock futures tumble as AI sell-off returns with Nvidia, Anthropic leading the way: Live updates",
-    "date": "2026-11-25T13:19:23+00:00"
    },
    {
     "title": "Even the price of toys is on the rise. How Americans are scaling back holiday plans",
@@ -139,16 +139,16 @@
     "date": "2026-11-25T12:00:01+00:00"
    },
    {
+    "title": "Bank of America sees the S&P 500 climbing to 7,800 next year, making up lost ground",
+    "date": "2026-11-25T11:54:12+00:00"
+   },
+   {
     "title": "Budget carrier Norse Atlantic falls 77% after warning its finances are ‘critical’ amid soaring fuel costs",
     "date": "2026-11-25T11:10:28+00:00"
    },
    {
     "title": "Ukraine tells Putin to ‘stop complaining’ over oil refinery attacks as Russia promises retaliation",
     "date": "2026-11-25T09:18:37+00:00"
-   },
-   {
-    "title": "Crypto talent will return ‘when AI implodes,’ Arthur Hayes says",
-    "date": "2026-11-25T06:09:44+00:00"
    }
   ],
   "fox": [
