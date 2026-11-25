@@ -1,7 +1,11 @@
 {
- "updated": "2026-11-25T16:11:16.069595+00:00",
+ "updated": "2026-11-25T16:16:16.871451+00:00",
  "feeds": {
   "ynet": [
+   {
+    "title": "לא רק הספינות של פוטין: \"קייב הפציצה גם אונייה איראנית בלוב\" | הקשר לגנרל שביקר אצל ארדואן",
+    "date": "2026-11-25T16:10:03+00:00"
+   },
    {
     "title": "חברות הפרלמנט חסמו את הכניסה לברנע: \"פושע מלחמה!\" | תיעוד - וכך הוא השיב",
     "date": "2026-11-25T15:57:34+00:00"
@@ -45,10 +49,6 @@
    {
     "title": "גוש השינוי הפיל את הקפאת המעצרים; רגב ליעקב אשר שנפגש עם נתניהו: \"אין אמון באשכנזים\"",
     "date": "2026-11-25T13:36:17+00:00"
-   },
-   {
-    "title": "הצדעה במועל יד, קללות וריקודים במעון ר\"מ בריטניה: זעם על \"קרקס המשפיענים\" בדאונינג 10",
-    "date": "2026-11-25T12:44:05+00:00"
    }
   ],
   "ynetnews": [
@@ -153,6 +153,10 @@
   ],
   "fox": [
    {
+    "title": "Mina Kimes cracks Harrison Butker joke about men in the kitchen with callback to kicker's commencement speech",
+    "date": "2026-11-25T16:03:51+00:00"
+   },
+   {
     "title": "Longtime UC Berkeley law professor leaves for Texas, says it prioritized DEI over 'academic excellence'",
     "date": "2026-11-25T16:00:50+00:00"
    },
@@ -195,10 +199,6 @@
    {
     "title": "Army detonates nearly 5 tons of lead azide at Iowa ammunition plant",
     "date": "2026-11-25T15:10:07+00:00"
-   },
-   {
-    "title": "Fanatics Sportsbook Promo Code FOXNEWS: Get up to $1000 in FanCash for Packers-Rams on Thanksgiving Eve",
-    "date": "2026-11-25T15:04:12+00:00"
    }
   ]
  }
