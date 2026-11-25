@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T19:46:28.417111+00:00",
+ "updated": "2026-11-25T19:51:29.070693+00:00",
  "feeds": {
   "ynet": [
    {
@@ -135,6 +135,10 @@
     "date": "2026-11-25T18:35:39+00:00"
    },
    {
+    "title": "Stocks making the biggest moves Wednesday: HP Inc, Ambarella, Nvidia, Sandisk & more",
+    "date": "2026-11-25T18:08:35+00:00"
+   },
+   {
     "title": "10-year Treasury yield slides despite sticky inflation data as investors buy bonds for protection",
     "date": "2026-11-25T18:08:08+00:00"
    },
@@ -145,13 +149,13 @@
    {
     "title": "Prediction markets push OpenAI IPO expectations later into 2027",
     "date": "2026-11-25T17:08:03+00:00"
-   },
-   {
-    "title": "This missile maker's stock has fallen on expected U.S. military spending cuts, but its backlog reduces the risk",
-    "date": "2026-11-25T17:07:12+00:00"
    }
   ],
   "fox": [
+   {
+    "title": "CBS News seeks to settle $20M defamation lawsuit filed by Maryland teenager over reflecting pool report",
+    "date": "2026-11-25T19:37:52+00:00"
+   },
    {
     "title": "Aaron Rodgers accuses coach Mike McCarthy of falling asleep in meetings, missing others, being 'unwell'",
     "date": "2026-11-25T19:35:31+00:00"
@@ -195,10 +199,6 @@
    {
     "title": "Urgent advisory warns Thanksgiving drivers of severe gridlock, lockouts and tire traps",
     "date": "2026-11-25T18:57:40+00:00"
-   },
-   {
-    "title": "Commanders sign embattled wide receiver Brandon Aiyuk to practice squad after release by 49ers",
-    "date": "2026-11-25T18:54:55+00:00"
    }
   ]
  }
