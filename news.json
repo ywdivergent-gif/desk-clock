@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T18:51:28.506711+00:00",
+ "updated": "2026-11-25T18:56:28.625378+00:00",
  "feeds": {
   "ynet": [
    {
@@ -103,6 +103,10 @@
   ],
   "cnbc": [
    {
+    "title": "There are 5,100 newly minted Anthropic millionaires — here’s all the stuff they don’t tell you about when you suddenly get rich",
+    "date": "2026-11-25T18:52:59+00:00"
+   },
+   {
     "title": "Dow turns positive on the day as Wall Street attempts to recover from sell-off: Live updates",
     "date": "2026-11-25T18:47:52+00:00"
    },
@@ -145,13 +149,17 @@
    {
     "title": "This missile maker's stock has fallen on expected U.S. military spending cuts, but its backlog reduces the risk",
     "date": "2026-11-25T17:07:12+00:00"
-   },
-   {
-    "title": "Army blows up bomb chemicals in Iowa despite fears a toxic plume could endanger residents",
-    "date": "2026-11-25T16:42:31+00:00"
    }
   ],
   "fox": [
+   {
+    "title": "Ranking the best hikes in and around Tucson ahead of the Arizona-Arizona State showdown",
+    "date": "2026-11-25T18:45:36+00:00"
+   },
+   {
+    "title": "Autonomous AI agents are giving everyday hackers ‘nation-state’ firepower, cyber expert reveals",
+    "date": "2026-11-25T18:43:29+00:00"
+   },
    {
     "title": "Livvy Dunne gets handsy in the ring with a sumo wrestler during Japan trip alongside Paul Skenes",
     "date": "2026-11-25T18:28:09+00:00"
@@ -191,14 +199,6 @@
    {
     "title": "Christina Ricci admits Cher is 'still mad at me' decades after one mistake ended 'Mermaids' bond",
     "date": "2026-11-25T17:14:47+00:00"
-   },
-   {
-    "title": "Tech billionaire plans 1,000-year floating city at sea",
-    "date": "2026-11-25T17:10:14+00:00"
-   },
-   {
-    "title": "Libyans pledge to retaliate after Ukraine strikes Russian warship near Benghazi, killing 2 soldiers",
-    "date": "2026-11-25T16:57:41+00:00"
    }
   ]
  }
