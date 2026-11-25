@@ -319,10 +319,11 @@
   const ymd = (d, tz) => new Intl.DateTimeFormat('en-CA', { timeZone: tz }).format(d);
 
   async function loadZmanim(){
+    const l = loc;   // the location this request is for
     try{
-      const tz0 = (zm && zm.key === locKey(loc) && zm.tz) || loc.tz || 'Asia/Jerusalem';
+      const tz0 = (zm && zm.key === locKey(l) && zm.tz) || l.tz || 'Asia/Jerusalem';
       const start = ymd(new Date(), tz0), end = ymd(new Date(Date.now() + 12 * 864e5), tz0);
-      const j = await (await fetch(`https://www.hebcal.com/hebcal?v=1&cfg=json&${locQuery(loc)}&c=on&M=on&s=on&maj=on&lg=he&start=${start}&end=${end}`)).json();
+      const j = await (await fetch(`https://www.hebcal.com/hebcal?v=1&cfg=json&${locQuery(l)}&c=on&M=on&s=on&maj=on&lg=he&start=${start}&end=${end}`)).json();
       const tz = (j.location && j.location.tzid) || tz0;
       const items = (j.items || [])
         .filter(i => ['candles','havdalah','parashat'].includes(i.category) || (i.category === 'holiday' && i.yomtov))
@@ -331,11 +332,11 @@
       const starts = items.filter(i => i.c === 'candles').slice(0, 2);
       await Promise.all(starts.map(async c => {
         try{
-          const z = await (await fetch(`https://www.hebcal.com/zmanim?cfg=json&${locQuery(loc)}&date=${c.d.slice(0,10)}`)).json();
+          const z = await (await fetch(`https://www.hebcal.com/zmanim?cfg=json&${locQuery(l)}&date=${c.d.slice(0,10)}`)).json();
           if (z.times && z.times.sunset) items.push({ c:'sunset', d: z.times.sunset });
         }catch(e){}
       }));
-      if (items.length){ zm = { key: locKey(loc), tz, items }; store.set('dc_zm', zm); }
+      if (items.length && locKey(l) === locKey(loc)){ zm = { key: locKey(l), tz, items }; store.set('dc_zm', zm); }
     }catch(e){}
     renderShabbat();
   }
