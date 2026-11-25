@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T06:46:06.606735+00:00",
+ "updated": "2026-11-25T06:51:06.652858+00:00",
  "feeds": {
   "ynet": [
    {
@@ -103,6 +103,10 @@
   ],
   "cnbc": [
    {
+    "title": "AI debt worries grow as Nvidia rebound masks Big Tech spending squeeze",
+    "date": "2026-11-25T06:29:46+00:00"
+   },
+   {
     "title": "Crypto talent will return ‘when AI implodes,’ Arthur Hayes says",
     "date": "2026-11-25T06:09:44+00:00"
    },
@@ -145,10 +149,6 @@
    {
     "title": "Stocks making the biggest moves Tuesday: Ambarella, Dell, Autodesk, Urban Outfitters & more",
     "date": "2026-11-24T23:14:03+00:00"
-   },
-   {
-    "title": "Jensen Huang tells staff that Nvidia doesn't need a succession plan",
-    "date": "2026-11-24T23:13:49+00:00"
    }
   ],
   "fox": [
