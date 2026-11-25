@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T16:46:16.789895+00:00",
+ "updated": "2026-11-25T16:51:18.423637+00:00",
  "feeds": {
   "ynet": [
    {
@@ -103,6 +103,10 @@
   ],
   "cnbc": [
    {
+    "title": "Dow tumbles 700 points, Nasdaq loses 4% as Nvidia leads resumption of AI sell-off: Live updates",
+    "date": "2026-11-25T16:48:49+00:00"
+   },
+   {
     "title": "Army blows up bomb chemicals in Iowa despite fears a toxic plume could endanger residents",
     "date": "2026-11-25T16:42:31+00:00"
    },
@@ -113,10 +117,6 @@
    {
     "title": "10-year Treasury yield slides despite sticky inflation data as investors buy bonds for protection",
     "date": "2026-11-25T16:20:57+00:00"
-   },
-   {
-    "title": "Dow tumbles 700 points, Nasdaq loses 4% as Nvidia leads resumption of AI sell-off: Live updates",
-    "date": "2026-11-25T16:19:48+00:00"
    },
    {
     "title": "Even the price of toys is on the rise. How Americans are scaling back holiday plans",
@@ -152,6 +152,14 @@
    }
   ],
   "fox": [
+   {
+    "title": "Federal grand jury hears evidence in Ilhan Omar investigation, as court records use 3 versions of her name",
+    "date": "2026-11-25T16:40:20+00:00"
+   },
+   {
+    "title": "BetMGM Bonus Code FOXNEWS: Grab a $1500 Bonus for Rams-Packers to Celebrate Thanksgiving Eve",
+    "date": "2026-11-25T16:39:17+00:00"
+   },
    {
     "title": "Aaron Rodgers and Mike McCarthy disagreements at heart of quarterback's benching by the Steelers",
     "date": "2026-11-25T16:36:36+00:00"
@@ -191,14 +199,6 @@
    {
     "title": "Betr Promo Code FOXNEWS: Claim $200 + 4x Free Picks for Tonight's Rams vs Packers Thanksgiving Eve Special",
     "date": "2026-11-25T15:40:55+00:00"
-   },
-   {
-    "title": "'Grave concerns' mount as Army moves to restart DC helicopter training after deadly 2025 crash",
-    "date": "2026-11-25T15:39:49+00:00"
-   },
-   {
-    "title": "Use the Underdog Promo Code FOXNEWS to Play $10, Get $50 on Rams-Packers This Thanksgiving Eve",
-    "date": "2026-11-25T15:26:56+00:00"
    }
   ]
  }
