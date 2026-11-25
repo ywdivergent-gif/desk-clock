@@ -1,7 +1,11 @@
 {
- "updated": "2026-11-25T14:51:16.607169+00:00",
+ "updated": "2026-11-25T14:56:16.218957+00:00",
  "feeds": {
   "ynet": [
+   {
+    "title": "חשש מענן עופרת רעיל: צבא ארה\"ב יפוצץ 5 טונות של חומר נפץ לא-יציב",
+    "date": "2026-11-25T14:51:34+00:00"
+   },
    {
     "title": "הפגיעות המיניות בחברה החרדית: הפקרתם וגם מחקתם",
     "date": "2026-11-25T14:45:00+00:00"
@@ -45,10 +49,6 @@
    {
     "title": "השופטים סימנו את היציאה: כך אפשר לסיים את משפט נתניהו",
     "date": "2026-11-25T11:38:10+00:00"
-   },
-   {
-    "title": "\"צריכים להסדיר את חוק המילואים\": בצה\"ל נערכים ל-2027 עם תקציב לא מאושר",
-    "date": "2026-11-25T11:13:28+00:00"
    }
   ],
   "ynetnews": [
@@ -103,6 +103,10 @@
   ],
   "cnbc": [
    {
+    "title": "Even the price of toys is on the rise. How Americans are scaling back holiday plans",
+    "date": "2026-11-25T14:55:10+00:00"
+   },
+   {
     "title": "U.S. stockpile of unstable and dangerous lead azide scheduled for detonation in Iowa",
     "date": "2026-11-25T14:48:28+00:00"
    },
@@ -145,13 +149,13 @@
    {
     "title": "Secondhand shopping is going mainstream this holiday season as consumers seek value",
     "date": "2026-11-25T14:17:01+00:00"
-   },
-   {
-    "title": "Our top 10 things to watch in the stock market Wednesday",
-    "date": "2026-11-25T14:15:30+00:00"
    }
   ],
   "fox": [
+   {
+    "title": "Yemeni military official brands Iran Houthis’ ‘godfather,’ says Tehran is directing war",
+    "date": "2026-11-25T14:50:17+00:00"
+   },
    {
     "title": "Democrats to include creators and influencers to maximize viewership for presidential primary debates",
     "date": "2026-11-25T14:31:57+00:00"
@@ -195,10 +199,6 @@
    {
     "title": "Inside American Airlines plan to keep Thanksgiving travelers moving",
     "date": "2026-11-25T13:03:32+00:00"
-   },
-   {
-    "title": "‘The Vow’ star Jace Cates recommits to saving himself for marriage despite ‘sex-positive culture’",
-    "date": "2026-11-25T13:00:52+00:00"
    }
   ]
  }
