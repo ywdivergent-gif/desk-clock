@@ -1,9 +1,13 @@
 {
- "updated": "2026-11-25T11:06:06.906456+00:00",
+ "updated": "2026-11-25T11:11:06.651153+00:00",
  "feeds": {
   "ynet": [
    {
-    "title": "\"ההליך הגיע לצומת בו נכון לבחון כיצד יש להמשיך\" | דברי השופטים המלאים במשפט נתניהו",
+    "title": "כוללת את \"סעיף הנאשם\": הצעת חוק הגבלת כהונת רה\"מ אושרה בקריאה טרומית",
+    "date": "2026-11-25T11:09:31+00:00"
+   },
+   {
+    "title": "\"ההליך הגיע לצומת שבו נכון לבחון כיצד יש להמשיך\" | דברי השופטים המלאים במשפט נתניהו",
     "date": "2026-11-25T10:55:36+00:00"
    },
    {
@@ -45,10 +49,6 @@
    {
     "title": "איזנקוט נערך להשביע ממשלה בשבוע הבא: \"מפנה מוקשים\" מימין, ומסתבך עם גולן",
     "date": "2026-11-25T07:59:56+00:00"
-   },
-   {
-    "title": "חברת הכנסת לשעבר תואשם בכפוף לשימוע: עברה ברמזור אדום וגרמה לתאונה",
-    "date": "2026-11-25T07:55:11+00:00"
    }
   ],
   "ynetnews": [
@@ -104,7 +104,11 @@
   "cnbc": [
    {
     "title": "Budget carrier Norse Atlantic falls 77% after warning its finances are ‘critical’ amid soaring fuel costs",
-    "date": "2026-11-25T11:03:25+00:00"
+    "date": "2026-11-25T11:10:28+00:00"
+   },
+   {
+    "title": "Trump’s meddling in Huang scandal reignites voter angst over tech’s outsized political power",
+    "date": "2026-11-25T11:00:01+00:00"
    },
    {
     "title": "Nasdaq futures slide amid reports of fresh U.S. tariffs as tech sell-off intensifies: Live updates",
@@ -145,13 +149,25 @@
    {
     "title": "Jensen Huang's Nvidia return shows the U.S.-China AI race is about more than chips",
     "date": "2026-11-25T01:13:56+00:00"
-   },
-   {
-    "title": "Wednesday's big stock stories: What’s likely to move the market in the next trading session",
-    "date": "2026-11-25T00:12:45+00:00"
    }
   ],
   "fox": [
+   {
+    "title": "Marco Rubio's 2028 stock surges among House Republicans as Trump insiders split on Vance",
+    "date": "2026-11-25T11:00:37+00:00"
+   },
+   {
+    "title": "Trump's NVIDIA power play opens Pandora's box Democrats could weaponize, analyst warns",
+    "date": "2026-11-25T11:00:17+00:00"
+   },
+   {
+    "title": "How skipping breakfast to save room for dinner shocks your blood sugar and metabolism",
+    "date": "2026-11-25T11:00:16+00:00"
+   },
+   {
+    "title": "MICHAEL RUIZ: Spivey family lawyer says no evidence points to 'stand your ground' shooting victim firing first",
+    "date": "2026-11-25T11:00:05+00:00"
+   },
    {
     "title": "If you want to know the dangers of socialism, take a look at Mamdani’s New York",
     "date": "2026-11-25T10:00:41+00:00"
@@ -183,22 +199,6 @@
    {
     "title": "PETA protesters interrupt Rockettes' Christmas performance at Radio City Music Hall over use of live animals",
     "date": "2026-11-25T07:41:00+00:00"
-   },
-   {
-    "title": "Urban Meyer reveals his pick for the Big Ten’s top team ahead of College Football Playoff",
-    "date": "2026-11-25T03:53:14+00:00"
-   },
-   {
-    "title": "Man arrested after bystanders stop alleged rape attempt inside popular fast-food restaurant's restroom",
-    "date": "2026-11-25T03:08:51+00:00"
-   },
-   {
-    "title": "‘Nobody Wants This’ star Tovah Feldshuh has ‘no animosity’ toward co-star despite Israel disagreement",
-    "date": "2026-11-25T03:00:39+00:00"
-   },
-   {
-    "title": "Hero veteran Virginia trooper rushes to help after car plows into women in crosswalk, and it's caught on video",
-    "date": "2026-11-25T02:38:03+00:00"
    }
   ]
  }
