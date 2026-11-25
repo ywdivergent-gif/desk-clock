@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T13:16:16.151703+00:00",
+ "updated": "2026-11-25T13:21:16.161192+00:00",
  "feeds": {
   "ynet": [
    {
@@ -103,28 +103,32 @@
   ],
   "cnbc": [
    {
+    "title": "Trump’s meddling in Huang scandal reignites voter angst over tech’s outsized political power",
+    "date": "2026-11-25T13:20:34+00:00"
+   },
+   {
+    "title": "Stocks making the biggest moves premarket: Nvidia, Urban Outfitters, Dell, Ambarella & more",
+    "date": "2026-11-25T13:19:58+00:00"
+   },
+   {
+    "title": "Stock futures tumble as AI sell-off returns with Nvidia, Anthropic leading the way: Live updates",
+    "date": "2026-11-25T13:19:23+00:00"
+   },
+   {
+    "title": "Even the price of toys is on the rise. How Americans are scaling back holiday plans",
+    "date": "2026-11-25T13:17:31+00:00"
+   },
+   {
+    "title": "The Fed is likely to raise rates in December. What it means for your holiday spending",
+    "date": "2026-11-25T13:15:01+00:00"
+   },
+   {
     "title": "U.S. proposes new tariffs on 14 trading partners, including China and the EU",
     "date": "2026-11-25T13:11:09+00:00"
    },
    {
-    "title": "Stock futures tumble as AI sell-off returns with Nvidia, Anthropic leading the way: Live updates",
-    "date": "2026-11-25T13:06:03+00:00"
-   },
-   {
-    "title": "Trump’s meddling in Huang scandal reignites voter angst over tech’s outsized political power",
-    "date": "2026-11-25T13:05:38+00:00"
-   },
-   {
-    "title": "Even the price of toys is on the rise. How Americans are scaling back holiday plans",
-    "date": "2026-11-25T13:01:01+00:00"
-   },
-   {
     "title": "Kilmar Ábrego García, a Salvadoran national mistakenly deported from the U.S., arrives in Spain",
     "date": "2026-11-25T12:40:03+00:00"
-   },
-   {
-    "title": "Stocks making the biggest moves premarket: Nvidia, Urban Outfitters, Dell, Ambarella & more",
-    "date": "2026-11-25T12:31:52+00:00"
    },
    {
     "title": "Liesman: Nvidia whiplash tests Kevin Warsh’s push to read market signals",
@@ -145,10 +149,6 @@
    {
     "title": "Crypto talent will return ‘when AI implodes,’ Arthur Hayes says",
     "date": "2026-11-25T06:09:44+00:00"
-   },
-   {
-    "title": "‘Ready for any storm’: UAE minister optimistic on economy as IMF lifts forecast",
-    "date": "2026-11-25T04:06:01+00:00"
    }
   ],
   "fox": [
