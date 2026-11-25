@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T19:21:28.339090+00:00",
+ "updated": "2026-11-25T19:26:29.337383+00:00",
  "feeds": {
   "ynet": [
    {
@@ -103,6 +103,10 @@
   ],
   "cnbc": [
    {
+    "title": "SpaceX wins FCC approval to deploy 1 million orbital data center satellites",
+    "date": "2026-11-25T19:25:10+00:00"
+   },
+   {
     "title": "Nvidia leads tech sell-off as Huang comeback rally fizzles and AI concerns return",
     "date": "2026-11-25T19:19:05+00:00"
    },
@@ -127,10 +131,6 @@
     "date": "2026-11-25T18:35:39+00:00"
    },
    {
-    "title": "SpaceX wins FCC approval to deploy 1 million orbital data center satellites",
-    "date": "2026-11-25T18:22:59+00:00"
-   },
-   {
     "title": "10-year Treasury yield slides despite sticky inflation data as investors buy bonds for protection",
     "date": "2026-11-25T18:08:08+00:00"
    },
@@ -152,6 +152,10 @@
    }
   ],
   "fox": [
+   {
+    "title": "Newsom shredded for ‘hypocritical’ claim Trump 'sells' pardons after moving to spare 548 death row inmates",
+    "date": "2026-11-25T19:16:34+00:00"
+   },
    {
     "title": "Vanity Fair piece on Taylor Swift that doesn't mention her by name draws criticism",
     "date": "2026-11-25T19:00:56+00:00"
@@ -195,10 +199,6 @@
    {
     "title": "Tiger Woods declawed in courtroom battle over Sun Day Red company logo",
     "date": "2026-11-25T18:01:00+00:00"
-   },
-   {
-    "title": "Can hackers still read Gmail after a password change?",
-    "date": "2026-11-25T17:55:49+00:00"
    }
   ]
  }
