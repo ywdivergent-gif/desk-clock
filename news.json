@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T12:46:16.254843+00:00",
+ "updated": "2026-11-25T12:51:16.075300+00:00",
  "feeds": {
   "ynet": [
    {
@@ -103,12 +103,12 @@
   ],
   "cnbc": [
    {
-    "title": "Trump’s meddling in Huang scandal reignites voter angst over tech’s outsized political power",
-    "date": "2026-11-25T12:44:45+00:00"
+    "title": "Stock futures tumble as AI sell-off returns with Nvidia, Anthropic leading the way: Live updates",
+    "date": "2026-11-25T12:50:47+00:00"
    },
    {
-    "title": "Nasdaq futures tumble as AI sell-off returns with Nvidia, Anthropic leading the way: Live updates",
-    "date": "2026-11-25T12:42:46+00:00"
+    "title": "Trump’s meddling in Huang scandal reignites voter angst over tech’s outsized political power",
+    "date": "2026-11-25T12:44:45+00:00"
    },
    {
     "title": "Kilmar Ábrego García, a Salvadoran national mistakenly deported from the U.S., arrives in Spain",
@@ -153,15 +153,27 @@
   ],
   "fox": [
    {
+    "title": "Tennis legend Chris Evert has been through 'hell and back' amid cancer battle, Billie Jean King says",
+    "date": "2026-11-25T12:48:51+00:00"
+   },
+   {
+    "title": "Packers activate star pass rusher Micah Parsons from PUP list, opening door to Thanksgiving Eve debut",
+    "date": "2026-11-25T12:47:52+00:00"
+   },
+   {
+    "title": "Activists got rid of the Redskins nickname, but they overlooked the real insult to Native Americans",
+    "date": "2026-11-25T12:41:03+00:00"
+   },
+   {
     "title": "Comedian Alfred Robles wears many hats: Cowboy, Catholic and crowd therapist",
     "date": "2026-11-25T12:00:37+00:00"
    },
    {
-    "title": "DANNY DANON: From Auschwitz to the UN, Israel must never retreat",
+    "title": "400-year-old shipwreck lock finally opened after researchers crack secret code: 'Incredibly satisfying'",
     "date": "2026-11-25T12:00:21+00:00"
    },
    {
-    "title": "400-year-old shipwreck lock finally opened after researchers crack secret code: 'Incredibly satisfying'",
+    "title": "DANNY DANON: From Auschwitz to the UN, Israel must never retreat",
     "date": "2026-11-25T12:00:21+00:00"
    },
    {
@@ -187,18 +199,6 @@
    {
     "title": "Big Ten faces one-bid nightmare in CFP rankings as SEC eyes four bids and Big 12 could thrive",
     "date": "2026-11-25T11:37:26+00:00"
-   },
-   {
-    "title": "Steelers stun the NFL by announcing they are benching Aaron Rodgers and not letting him suit up for next game",
-    "date": "2026-11-25T11:26:48+00:00"
-   },
-   {
-    "title": "Marco Rubio's 2028 stock surges among House Republicans as Trump insiders split on Vance",
-    "date": "2026-11-25T11:00:37+00:00"
-   },
-   {
-    "title": "Trump's NVIDIA power play opens Pandora's box Democrats could weaponize, analyst warns",
-    "date": "2026-11-25T11:00:17+00:00"
    }
   ]
  }
