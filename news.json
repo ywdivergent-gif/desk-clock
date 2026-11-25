@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T21:36:27.749927+00:00",
+ "updated": "2026-11-25T21:41:27.516928+00:00",
  "feeds": {
   "ynet": [
    {
@@ -153,6 +153,10 @@
   ],
   "fox": [
    {
+    "title": "Shane Gillis wishes ex-girlfriend 'the best' after tell-all essay accusing him of cheating and 'red flags'",
+    "date": "2026-11-25T21:29:22+00:00"
+   },
+   {
     "title": "Thanksgiving flights booked after key hour face double the risk of major delay",
     "date": "2026-11-25T21:22:55+00:00"
    },
@@ -195,10 +199,6 @@
    {
     "title": "Presidential contender's 'remarkably tone-deaf’ move against Trump triggers parental uproar: 'Unconscionable'",
     "date": "2026-11-25T20:37:46+00:00"
-   },
-   {
-    "title": "EXCLUSIVE: White House accuses South Korea of breaking promise to Trump as US tech giant faces $688M in fines",
-    "date": "2026-11-25T20:16:44+00:00"
    }
   ]
  }
