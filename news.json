@@ -1,7 +1,11 @@
 {
- "updated": "2026-11-25T11:41:06.771941+00:00",
+ "updated": "2026-11-25T11:46:06.908468+00:00",
  "feeds": {
   "ynet": [
+   {
+    "title": "השופטים סימנו את היציאה: כך אפשר לסיים את משפט נתניהו",
+    "date": "2026-11-25T11:38:10+00:00"
+   },
    {
     "title": "\"צריכים להסדיר את חוק המילואים\": בצה\"ל נערכים ל-2027 עם תקציב לא מאושר",
     "date": "2026-11-25T11:13:28+00:00"
@@ -45,10 +49,6 @@
    {
     "title": "\"מניע אידיאולוגי מובהק\": זה גזר הדין למשתתפי הלינץ' המחריד בבת ים",
     "date": "2026-11-25T08:38:04+00:00"
-   },
-   {
-    "title": "מהמעברה למשרד המבקר: כך נסללה דרכו של יוסף אלרון לתפקיד",
-    "date": "2026-11-25T08:12:20+00:00"
    }
   ],
   "ynetnews": [
@@ -103,16 +103,16 @@
   ],
   "cnbc": [
    {
+    "title": "Nasdaq futures tumble as AI sell-off returns with Nvidia, Anthropic leading the way: Live updates",
+    "date": "2026-11-25T11:45:37+00:00"
+   },
+   {
     "title": "Budget carrier Norse Atlantic falls 77% after warning its finances are ‘critical’ amid soaring fuel costs",
     "date": "2026-11-25T11:10:28+00:00"
    },
    {
     "title": "Trump’s meddling in Huang scandal reignites voter angst over tech’s outsized political power",
     "date": "2026-11-25T11:00:01+00:00"
-   },
-   {
-    "title": "Nasdaq futures slide amid reports of fresh U.S. tariffs as tech sell-off intensifies: Live updates",
-    "date": "2026-11-25T10:47:17+00:00"
    },
    {
     "title": "Ukraine tells Putin to ‘stop complaining’ over oil refinery attacks as Russia promises retaliation",
@@ -153,6 +153,14 @@
   ],
   "fox": [
    {
+    "title": "Kroger cuts thousands of jobs across America, recruits foreign workers and more top headlines",
+    "date": "2026-11-25T11:40:36+00:00"
+   },
+   {
+    "title": "Big Ten faces one-bid nightmare in CFP rankings as SEC eyes four bids and Big 12 could thrive",
+    "date": "2026-11-25T11:37:26+00:00"
+   },
+   {
     "title": "Steelers stun the NFL by announcing they are benching Aaron Rodgers and not letting him suit up for next game",
     "date": "2026-11-25T11:26:48+00:00"
    },
@@ -191,14 +199,6 @@
    {
     "title": "Americans don’t have to choose between our AI future and ripping off copyright owners",
     "date": "2026-11-25T10:00:00+00:00"
-   },
-   {
-    "title": "Invasive Burmese pythons push farther north into Florida as hunters race to stop ecological devastation",
-    "date": "2026-11-25T09:37:01+00:00"
-   },
-   {
-    "title": "Tuberville suggests Texans 'flee the woke-show' for Alabama after blue wave midterm elections",
-    "date": "2026-11-25T07:51:59+00:00"
    }
   ]
  }
