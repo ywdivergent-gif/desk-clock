@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T00:40:48.493632+00:00",
+ "updated": "2026-11-25T00:45:48.614887+00:00",
  "feeds": {
   "ynet": [
    {
@@ -104,7 +104,7 @@
   "cnbc": [
    {
     "title": "Stock futures slip as traders await key inflation report, assess tech sell-off: Live updates",
-    "date": "2026-11-25T00:20:42+00:00"
+    "date": "2026-11-25T00:41:12+00:00"
    },
    {
     "title": "Wednesday's big stock stories: What’s likely to move the market in the next trading session",
@@ -157,6 +157,14 @@
     "date": "2026-11-25T10:00:00+00:00"
    },
    {
+    "title": "Fort Hood shooter Nidal Hasan asks federal judge to halt execution",
+    "date": "2026-11-25T00:39:04+00:00"
+   },
+   {
+    "title": "Trump administration weighs targeting Iran's top regime leaders in bid to end war: report",
+    "date": "2026-11-25T00:36:01+00:00"
+   },
+   {
     "title": "Commanders coach Dan Quinn reacts to star wide receiver's explosive sideline outburst",
     "date": "2026-11-25T00:29:56+00:00"
    },
@@ -191,14 +199,6 @@
    {
     "title": "Unreal video shows Killer Whales delivering unusual gift to confused California paddleboarder",
     "date": "2026-11-24T23:34:15+00:00"
-   },
-   {
-    "title": "More than 100,000 Amazon shoppers love this $30 electric toothbrush, on sale now for Black Friday",
-    "date": "2026-11-24T23:26:07+00:00"
-   },
-   {
-    "title": "Major League Baseball players just called Rob Manfred's bluff with new proposal ahead of lockout | Ian Miller",
-    "date": "2026-11-24T23:13:45+00:00"
    }
   ]
  }
