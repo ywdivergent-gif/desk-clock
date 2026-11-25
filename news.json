@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T02:50:56.750659+00:00",
+ "updated": "2026-11-25T02:55:56.705446+00:00",
  "feeds": {
   "ynet": [
    {
@@ -35,6 +35,10 @@
     "date": "2026-11-24T22:01:39+00:00"
    },
    {
+    "title": "הבן של \"הסנדק\" חוזר באזיקים - אחרי 9 שנים בחו\"ל: מסע ההסגרה החריג של ערן חייא",
+    "date": "2026-11-24T22:00:00+00:00"
+   },
+   {
     "title": "ימים, שבועות או חודשים? האיום הכימי מאיראן - והדילמה בצמרת הביטחונית",
     "date": "2026-11-24T22:00:00+00:00"
    },
@@ -45,10 +49,6 @@
    {
     "title": "השר אליהו כתב ספר על \"מעללי המוסד\" באיראן - בלי לעדכן את הארגון או לקבל אישור",
     "date": "2026-11-24T20:19:20+00:00"
-   },
-   {
-    "title": "\"מבנה עגול חדש בדימונה\": כל ההערכות על ארסנל הגרעין הישראלי - ותמונות הלוויין",
-    "date": "2026-11-24T20:01:47+00:00"
    }
   ],
   "ynetnews": [
@@ -103,6 +103,10 @@
   ],
   "cnbc": [
    {
+    "title": "Stock futures slip as traders await key inflation report, assess tech sell-off: Live updates",
+    "date": "2026-11-25T02:51:22+00:00"
+   },
+   {
     "title": "U.S. jury convicts Huawei in a criminal trial over fraud and trade secrets",
     "date": "2026-11-25T02:43:33+00:00"
    },
@@ -121,10 +125,6 @@
    {
     "title": "Jensen Huang's Nvidia return shows the U.S.-China AI race is about more than chips",
     "date": "2026-11-25T01:13:56+00:00"
-   },
-   {
-    "title": "Stock futures slip as traders await key inflation report, assess tech sell-off: Live updates",
-    "date": "2026-11-25T00:41:12+00:00"
    },
    {
     "title": "Wednesday's big stock stories: What’s likely to move the market in the next trading session",
