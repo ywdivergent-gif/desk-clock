@@ -1,7 +1,11 @@
 {
- "updated": "2026-11-25T18:41:28.799991+00:00",
+ "updated": "2026-11-25T18:46:28.446784+00:00",
  "feeds": {
   "ynet": [
+   {
+    "title": "\"מערכת גשם חורפית של ממש\" | מה שצפוי בשבוע הבא",
+    "date": "2026-11-25T18:44:11+00:00"
+   },
    {
     "title": "\"נבנה במהירות מחשידה\": המתקן המבוצר החדש באיראן - בין נתנז לאיספהאן",
     "date": "2026-11-25T17:55:08+00:00"
@@ -45,10 +49,6 @@
    {
     "title": "כמה קווים אדומים יתמוססו? ההבטחות שגוש השינוי ייאלץ להפר בשביל ממשלה",
     "date": "2026-11-25T14:57:36+00:00"
-   },
-   {
-    "title": "הפגיעות המיניות בחברה החרדית: הפקרתם וגם מחקתם",
-    "date": "2026-11-25T14:45:00+00:00"
    }
   ],
   "ynetnews": [
@@ -111,6 +111,10 @@
     "date": "2026-11-25T18:36:18+00:00"
    },
    {
+    "title": "Gold falls to more than one-year low after data shows U.S. inflation rose further",
+    "date": "2026-11-25T18:35:39+00:00"
+   },
+   {
     "title": "Nvidia leads tech sell-off as Huang comeback rally fizzles and AI concerns return",
     "date": "2026-11-25T18:33:39+00:00"
    },
@@ -145,10 +149,6 @@
    {
     "title": "Army blows up bomb chemicals in Iowa despite fears a toxic plume could endanger residents",
     "date": "2026-11-25T16:42:31+00:00"
-   },
-   {
-    "title": "There are 5,100 newly minted Anthropic millionaires—here’s all the stuff they don’t tell you about when you suddenly get rich",
-    "date": "2026-11-25T16:32:55+00:00"
    }
   ],
   "fox": [
