@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T17:16:16.314100+00:00",
+ "updated": "2026-11-25T17:21:16.511466+00:00",
  "feeds": {
   "ynet": [
    {
@@ -7,7 +7,7 @@
     "date": "2026-11-25T16:37:41+00:00"
    },
    {
-    "title": "\"מראות שלא רואים אפילו באפריקה\": התיעוד מלשכת נשיא איראן עורר סערה",
+    "title": "\"מראות שלא רואים אפילו באפריקה\": התיעוד של נשיא איראן עורר סערה",
     "date": "2026-11-25T16:36:22+00:00"
    },
    {
@@ -153,6 +153,10 @@
   ],
   "fox": [
    {
+    "title": "Tech billionaire plans 1,000-year floating city at sea",
+    "date": "2026-11-25T17:10:14+00:00"
+   },
+   {
     "title": "Libyans pledge to retaliate after Ukraine strikes Russian warship near Benghazi, killing 2 soldiers",
     "date": "2026-11-25T16:57:41+00:00"
    },
@@ -195,10 +199,6 @@
    {
     "title": "These fleece-lined leggings designed for “sub-zero temperatures\" are now 46% off for Black Friday",
     "date": "2026-11-25T16:13:54+00:00"
-   },
-   {
-    "title": "Mina Kimes cracks Harrison Butker joke about men in the kitchen with callback to kicker's commencement speech",
-    "date": "2026-11-25T16:03:51+00:00"
    }
   ]
  }
