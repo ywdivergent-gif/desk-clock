@@ -1,7 +1,11 @@
 {
- "updated": "2026-11-25T03:00:56.589956+00:00",
+ "updated": "2026-11-25T03:05:56.838947+00:00",
  "feeds": {
   "ynet": [
+   {
+    "title": "המדינה הצעירה בעולם שלא מצליחה להתייצב",
+    "date": "2026-11-25T03:00:00+00:00"
+   },
    {
     "title": "חשד למתקפת סייבר סינית על ה-CIA: האקרים חדרו למערכות המודיעין בעזרת AI",
     "date": "2026-11-25T01:06:51+00:00"
@@ -45,10 +49,6 @@
    {
     "title": "יומני האפיפיור חשפו \"מפגשים עם השטן\" ומשבר רוחני: \"שוב שערי הגיהינום\"",
     "date": "2026-11-24T21:22:30+00:00"
-   },
-   {
-    "title": "השר אליהו כתב ספר על \"מעללי המוסד\" באיראן - בלי לעדכן את הארגון או לקבל אישור",
-    "date": "2026-11-24T20:19:20+00:00"
    }
   ],
   "ynetnews": [
@@ -157,7 +157,11 @@
     "date": "2026-11-25T10:00:00+00:00"
    },
    {
-    "title": "Hero veteran Virginia trooper rushes to help after car plows into women in crosswalk caught on video",
+    "title": "‘Nobody Wants This’ star Tovah Feldshuh has ‘no animosity’ toward co-star despite Israel disagreement",
+    "date": "2026-11-25T03:00:39+00:00"
+   },
+   {
+    "title": "Hero veteran Virginia trooper rushes to help after car plows into women in crosswalk, and it's caught on video",
     "date": "2026-11-25T02:38:03+00:00"
    },
    {
@@ -195,10 +199,6 @@
    {
     "title": "Coast Guard searching for 2 children, 4 adults after plane crashes off Mississippi coast",
     "date": "2026-11-25T00:45:06+00:00"
-   },
-   {
-    "title": "Fort Hood shooter Nidal Hasan asks federal judge to halt execution",
-    "date": "2026-11-25T00:39:04+00:00"
    }
   ]
  }
