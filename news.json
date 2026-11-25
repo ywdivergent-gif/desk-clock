@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T00:55:57.085712+00:00",
+ "updated": "2026-11-25T01:00:56.565783+00:00",
  "feeds": {
   "ynet": [
    {
@@ -103,6 +103,10 @@
   ],
   "cnbc": [
    {
+    "title": "Jensen Huang's Nvidia return shows the U.S.-China AI race is about more than chips",
+    "date": "2026-11-25T00:57:45+00:00"
+   },
+   {
     "title": "SoftBank drops over 11% as Wall Street AI sell-off ripples across Asian tech names",
     "date": "2026-11-25T00:55:35+00:00"
    },
@@ -145,10 +149,6 @@
    {
     "title": "Trump wanted Jensen Huang back. Now, the president is all alone in Washington",
     "date": "2026-11-24T21:13:39+00:00"
-   },
-   {
-    "title": "Drugmaker Insmed shares rally 14% after Sanofi agrees to buy it in pharma’s biggest deal in three years",
-    "date": "2026-11-24T21:07:19+00:00"
    }
   ],
   "fox": [
