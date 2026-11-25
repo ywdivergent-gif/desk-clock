@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T20:21:28.438925+00:00",
+ "updated": "2026-11-25T20:26:28.896307+00:00",
  "feeds": {
   "ynet": [
    {
@@ -103,16 +103,16 @@
   ],
   "cnbc": [
    {
-    "title": "Gold falls to more than one-year low after data shows U.S. inflation rose further",
-    "date": "2026-11-25T20:17:39+00:00"
+    "title": "SpaceX, Musk pledge to donate a share each to active Trump Accounts",
+    "date": "2026-11-25T20:25:09+00:00"
    },
    {
     "title": "Dow turns positive on the day as Wall Street attempts to recover from sell-off: Live updates",
-    "date": "2026-11-25T20:09:52+00:00"
+    "date": "2026-11-25T20:23:15+00:00"
    },
    {
-    "title": "SpaceX, Musk pledge to donate a share each to active Trump Accounts",
-    "date": "2026-11-25T20:07:57+00:00"
+    "title": "Gold falls to more than one-year low after data shows U.S. inflation rose further",
+    "date": "2026-11-25T20:17:39+00:00"
    },
    {
     "title": "EU postpones discussion to approve Tesla's self-driving tech",
@@ -152,6 +152,10 @@
    }
   ],
   "fox": [
+   {
+    "title": "EXCLUSIVE: White House accuses South Korea of breaking promise to Trump as US tech giant faces $688M in fines",
+    "date": "2026-11-25T20:16:44+00:00"
+   },
    {
     "title": "Forks remain up as Molly Miller and Arizona State are still undefeated on and off the court",
     "date": "2026-11-25T20:10:26+00:00"
@@ -195,10 +199,6 @@
    {
     "title": "This popular Eddie Bauer blanket is down to just $18 for Black Friday — that's 47% off",
     "date": "2026-11-25T19:27:01+00:00"
-   },
-   {
-    "title": "DOJ lawyers ordered to swarm 'frivolous' 97,000-lawsuit wave from ICE detainees",
-    "date": "2026-11-25T19:24:48+00:00"
    }
   ]
  }
