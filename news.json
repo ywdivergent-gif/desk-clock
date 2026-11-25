@@ -1,7 +1,11 @@
 {
- "updated": "2026-11-25T07:56:06.532572+00:00",
+ "updated": "2026-11-25T08:01:06.673933+00:00",
  "feeds": {
   "ynet": [
+   {
+    "title": "חברת הכנסת לשעבר תואשם בכפוף לשימוע: עברה ברמזור אדום וגרמה לתאונה",
+    "date": "2026-11-25T07:55:11+00:00"
+   },
    {
     "title": "שישה נהרגו בהתרסקות מטוס קל מול חופי מיסיסיפי, בהם שני ילדים",
     "date": "2026-11-25T07:10:42+00:00"
@@ -45,10 +49,6 @@
    {
     "title": "המדינה הצעירה בעולם שלא מצליחה להתייצב",
     "date": "2026-11-25T03:00:00+00:00"
-   },
-   {
-    "title": "חשד למתקפת סייבר סינית על ה-CIA: האקרים חדרו למערכות המודיעין בעזרת AI",
-    "date": "2026-11-25T01:06:51+00:00"
    }
   ],
   "ynetnews": [
@@ -157,6 +157,10 @@
     "date": "2026-11-25T10:00:00+00:00"
    },
    {
+    "title": "Tuberville suggests Texans 'flee the woke-show' for Alabama after blue wave midterm elections",
+    "date": "2026-11-25T07:51:59+00:00"
+   },
+   {
     "title": "PETA protesters interrupt Rockettes' Christmas performance at Radio City Music Hall over use of live animals",
     "date": "2026-11-25T07:41:00+00:00"
    },
@@ -195,10 +199,6 @@
    {
     "title": "Former NFL referee calls LSU 'deeply embarrassing' as school faces possible SEC expulsion vote",
     "date": "2026-11-25T01:58:32+00:00"
-   },
-   {
-    "title": "Tennessee jumps, Alabama drops, Indiana and UCLA tumble in new College Football Playoff top 25 poll",
-    "date": "2026-11-25T01:54:17+00:00"
    }
   ]
  }
