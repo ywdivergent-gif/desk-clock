@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T13:11:16.337890+00:00",
+ "updated": "2026-11-25T13:16:16.151703+00:00",
  "feeds": {
   "ynet": [
    {
@@ -103,6 +103,10 @@
   ],
   "cnbc": [
    {
+    "title": "U.S. proposes new tariffs on 14 trading partners, including China and the EU",
+    "date": "2026-11-25T13:11:09+00:00"
+   },
+   {
     "title": "Stock futures tumble as AI sell-off returns with Nvidia, Anthropic leading the way: Live updates",
     "date": "2026-11-25T13:06:03+00:00"
    },
@@ -145,10 +149,6 @@
    {
     "title": "‘Ready for any storm’: UAE minister optimistic on economy as IMF lifts forecast",
     "date": "2026-11-25T04:06:01+00:00"
-   },
-   {
-    "title": "China’s Xiamen Airlines to buy 50 Boeing jets in $7.4 billion deal",
-    "date": "2026-11-25T03:58:32+00:00"
    }
   ],
   "fox": [
