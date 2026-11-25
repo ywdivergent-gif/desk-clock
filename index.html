@@ -18,6 +18,7 @@
     --up:#30d158; --down:#ff453a; --accent:#ff9f0a;
   }
   *{box-sizing:border-box}
+  html{-webkit-text-size-adjust:100%;text-size-adjust:100%}
   html,body{margin:0;height:100%;background:var(--bg);color:var(--fg);
     font-family:Inter,system-ui,-apple-system,sans-serif;overflow:hidden;
     -webkit-user-select:none;user-select:none;-webkit-tap-highlight-color:transparent}
@@ -38,6 +39,7 @@
     font-size:clamp(12px,1.75vw,17px);color:var(--fg);font-variant-numeric:tabular-nums}
   .shabbat b{color:var(--accent);font-weight:600}
   .shabbat span{color:var(--muted)}
+  .shabbat .place{font-size:.8em;opacity:.8}
   .shabbat.now{border-color:var(--accent)}
   #mkt{margin-top:2.4vh;font-size:clamp(11px,1.4vw,13px);color:var(--muted);letter-spacing:.08em;text-transform:uppercase;display:flex;align-items:center;gap:8px}
   #mkt i{width:7px;height:7px;border-radius:50%;background:var(--muted);display:inline-block}
@@ -65,6 +67,7 @@
   .news-top span:last-child{color:var(--muted)}
   #headline{flex:1;display:flex;align-items:center;margin:1vh 0;font-size:clamp(15px,2.25vw,22px);
     line-height:1.3;font-weight:500;transition:opacity .45s ease;min-height:0;overflow:hidden}
+  #headline span,#enHead span{overflow-wrap:anywhere}
   #headline span{display:-webkit-box;-webkit-line-clamp:3;-webkit-box-orient:vertical;overflow:hidden}
   #headline.fade{opacity:0}
   .news-foot{display:flex;justify-content:space-between;align-items:center;gap:10px}
@@ -153,6 +156,10 @@
 
     <label for="srcsel">News source</label>
     <select id="srcsel"></select>
+
+    <label for="locsel">Shabbat times location</label>
+    <select id="locsel"></select>
+    <p id="locnote">Shows sunset on Friday and when Shabbat ends for this place.</p>
 
     <div class="row"><button id="cancel">Cancel</button><button id="save">Save</button></div>
   </div>
@@ -293,46 +300,71 @@
     $('updated').textContent = `Prices as of ${pad(t.getHours())}:${pad(t.getMinutes())}`;
   }
 
-  // ---------- Shabbat times (Tel Aviv) ----------
-  let zmanim = store.get('dc_zmanim', []);
-  const ilDate = d => new Intl.DateTimeFormat('en-CA', { timeZone:'Asia/Jerusalem' }).format(d);
-  const ilTime = d => new Intl.DateTimeFormat('he-IL', { timeZone:'Asia/Jerusalem', hour:'2-digit', minute:'2-digit', hourCycle:'h23' }).format(d);
-  const ilDay  = d => new Intl.DateTimeFormat('he-IL', { timeZone:'Asia/Jerusalem', weekday:'short' }).format(d);
+  // ---------- Shabbat times (any location, from Hebcal) ----------
+  const PLACES = [
+    ['Israel', [['293397','Tel Aviv'],['281184','Jerusalem'],['294801','Haifa'],['293918','Petah Tikva'],['282926','Modi\u2019in'],['295432','Beit Shemesh'],['294071','Netanya']]],
+    ['United States', [['5128581','New York (Manhattan)'],['5110302','Brooklyn'],['5100280','Lakewood, NJ'],['4164138','Miami'],['4148411','Boca Raton'],['4887398','Chicago'],['5368361','Los Angeles']]],
+    ['Other', [['6167865','Toronto'],['2643743','London']]]
+  ];
+  let loc = store.get('dc_loc', { geo:'293397', name:'Tel Aviv' });
+  let zm = store.get('dc_zm', null);   // { key, tz, items }
+  const locKey = l => l.geo ? 'g' + l.geo : `p${l.lat},${l.lon}`;
+  const locQuery = l => l.geo ? `geonameid=${l.geo}` : `latitude=${l.lat}&longitude=${l.lon}&tzid=${encodeURIComponent(l.tz)}`;
+  const fmt = (tz, o) => new Intl.DateTimeFormat('he-IL', { timeZone: tz, ...o });
+  const hhmm = (d, tz) => fmt(tz, { hour:'2-digit', minute:'2-digit', hourCycle:'h23' }).format(d);
+  const dayName = (d, tz) => fmt(tz, { weekday:'short' }).format(d);
+  const ymd = (d, tz) => new Intl.DateTimeFormat('en-CA', { timeZone: tz }).format(d);
 
   async function loadZmanim(){
     try{
-      const start = ilDate(new Date()), end = ilDate(new Date(Date.now() + 12 * 864e5));
-      const r = await fetch(`https://www.hebcal.com/hebcal?v=1&cfg=json&geonameid=293397&c=on&M=on&s=on&maj=on&lg=he&start=${start}&end=${end}`);
-      const j = await r.json();
+      const tz0 = (zm && zm.key === locKey(loc) && zm.tz) || loc.tz || 'Asia/Jerusalem';
+      const start = ymd(new Date(), tz0), end = ymd(new Date(Date.now() + 12 * 864e5), tz0);
+      const j = await (await fetch(`https://www.hebcal.com/hebcal?v=1&cfg=json&${locQuery(loc)}&c=on&M=on&s=on&maj=on&lg=he&start=${start}&end=${end}`)).json();
+      const tz = (j.location && j.location.tzid) || tz0;
       const items = (j.items || [])
         .filter(i => ['candles','havdalah','parashat'].includes(i.category) || (i.category === 'holiday' && i.yomtov))
         .map(i => ({ c: i.category, d: i.date, h: i.hebrew || i.title }));
-      if (items.length){ zmanim = items; store.set('dc_zmanim', items); }
+      // sunset on each day Shabbat / Yom Tov starts (first two only)
+      const starts = items.filter(i => i.c === 'candles').slice(0, 2);
+      await Promise.all(starts.map(async c => {
+        try{
+          const z = await (await fetch(`https://www.hebcal.com/zmanim?cfg=json&${locQuery(loc)}&date=${c.d.slice(0,10)}`)).json();
+          if (z.times && z.times.sunset) items.push({ c:'sunset', d: z.times.sunset });
+        }catch(e){}
+      }));
+      if (items.length){ zm = { key: locKey(loc), tz, items }; store.set('dc_zm', zm); }
     }catch(e){}
     renderShabbat();
   }
 
   function renderShabbat(){
     const el = $('shabbat'), now = Date.now();
+    if (!zm || zm.key !== locKey(loc)){ el.hidden = true; return; }
+    const tz = zm.tz, items = zm.items;
     const t = i => new Date(i.d).getTime();
-    const hav = zmanim.find(i => i.c === 'havdalah' && t(i) + 20 * 60000 > now);
+    const hav = items.find(i => i.c === 'havdalah' && t(i) + 20 * 60000 > now);
     if (!hav){ el.hidden = true; return; }
-    const prevHav = zmanim.filter(i => i.c === 'havdalah' && t(i) < t(hav)).pop();
-    const candles = zmanim.find(i => i.c === 'candles' && t(i) < t(hav) && (!prevHav || t(i) > t(prevHav)));
+    const prevHav = items.filter(i => i.c === 'havdalah' && t(i) < t(hav)).pop();
+    const inRange = i => t(i) < t(hav) && (!prevHav || t(i) > t(prevHav));
+    const candles = items.find(i => i.c === 'candles' && inRange(i));
+    const sunset = candles && items.find(i => i.c === 'sunset' && i.d.slice(0,10) === candles.d.slice(0,10));
     const from = candles ? candles.d.slice(0,10) : hav.d.slice(0,10), to = hav.d.slice(0,10);
-    const named = zmanim.filter(i => (i.c === 'parashat' || i.c === 'holiday') && i.d.slice(0,10) >= from && i.d.slice(0,10) <= to);
+    const named = items.filter(i => (i.c === 'parashat' || i.c === 'holiday') && i.d.slice(0,10) >= from && i.d.slice(0,10) <= to);
     const name = (named.find(i => i.c === 'holiday') || named[0] || {}).h || 'שבת';
-    const inside = candles && now >= t(candles);
     const hd = new Date(hav.d);
+    const endLabel = fmt(tz, { weekday:'long' }).format(hd) === 'יום שבת' ? 'צאת שבת' : 'צאת החג';
+    const inside = candles && now >= t(candles);
     el.textContent = '';
-    const add = (tag, text) => { const n = document.createElement(tag); n.textContent = text; el.append(n); };
+    const add = (tag, text, cls) => { const n = document.createElement(tag); n.textContent = text; if (cls) n.className = cls; el.append(n); };
     if (inside){
-      add('b', 'שבת שלום'); add('span', name); add('span', 'צאת ' + ilTime(hd));
+      add('b', 'שבת שלום'); add('span', name);
     } else {
       add('b', name);
-      if (candles){ const cd = new Date(candles.d); add('span', `הדלקת נרות ${ilDay(cd)} ${ilTime(cd)}`); }
-      add('span', 'הבדלה ' + ilTime(hd));
+      if (sunset){ const sd = new Date(sunset.d); add('span', `שקיעה ${dayName(sd, tz)} ${hhmm(sd, tz)}`); }
     }
+    add('span', `${endLabel} ${hhmm(hd, tz)}`);
+    add('span', loc.name, 'place');
+    el.lastChild.dir = 'ltr';
     el.classList.toggle('now', !!inside);
     el.hidden = false;
   }
@@ -471,8 +503,17 @@
   // ---------- settings ----------
   const srcSel = $('srcsel');
   Object.entries(SOURCES).forEach(([k, v]) => { const o = document.createElement('option'); o.value = k; o.textContent = v.name; srcSel.append(o); });
+  const locSel = $('locsel');
+  PLACES.forEach(([group, list]) => {
+    const g = document.createElement('optgroup'); g.label = group;
+    list.forEach(([id, name]) => { const o = document.createElement('option'); o.value = id; o.textContent = name; g.append(o); });
+    locSel.append(g);
+  });
+  { const o = document.createElement('option'); o.value = 'here'; o.textContent = 'Use my current location'; locSel.append(o); }
   function openSettings(){
     $('key').value = cfg.key; $('tick').value = cfg.tickers.join(', '); srcSel.value = cfg.source;
+    locSel.value = loc.geo || 'here';
+    $('locnote').textContent = 'Shows sunset on Friday and when Shabbat ends for this place.';
     $('settings').classList.add('show');
   }
   $('gear').addEventListener('click', e => { e.stopPropagation(); openSettings(); });
@@ -484,7 +525,21 @@
     const srcChanged = cfg.source !== srcSel.value;
     cfg.source = srcSel.value;
     store.set('dc_key', cfg.key); store.set('dc_tickers_v3', cfg.tickers); store.set('dc_source_v2', cfg.source);
-    $('settings').classList.remove('show');
+    const pick = locSel.value;
+    if (pick === 'here'){
+      if (!navigator.geolocation){ $('locnote').textContent = 'This phone did not share a location. Pick a city instead.'; return; }
+      $('locnote').textContent = 'Finding your location…';
+      navigator.geolocation.getCurrentPosition(p => {
+        loc = { lat: p.coords.latitude.toFixed(3), lon: p.coords.longitude.toFixed(3),
+                tz: Intl.DateTimeFormat().resolvedOptions().timeZone, name: 'My location' };
+        store.set('dc_loc', loc); $('shabbat').hidden = true; loadZmanim();
+        $('settings').classList.remove('show');
+      }, () => { $('locnote').textContent = 'Location was not allowed. Pick a city instead.'; }, { timeout: 15000 });
+    } else if (pick !== loc.geo){
+      loc = { geo: pick, name: locSel.selectedOptions[0].textContent };
+      store.set('dc_loc', loc); $('shabbat').hidden = true; loadZmanim();
+    }
+    if (pick !== 'here') $('settings').classList.remove('show');
     quotes = {}; loadQuotes();
     if (srcChanged){ news = []; loadNews(); }
   });
