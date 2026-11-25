@@ -1,7 +1,11 @@
 {
- "updated": "2026-11-25T19:06:28.386770+00:00",
+ "updated": "2026-11-25T19:11:28.424240+00:00",
  "feeds": {
   "ynet": [
+   {
+    "title": "קושנר דחק בנתניהו: \"תיישמו את חלקכם בתוכנית 20 הנקודות, סייעו לעזה בחורף\"",
+    "date": "2026-11-25T19:06:23+00:00"
+   },
    {
     "title": "\"מערכת גשם חורפית של ממש\" | מה שצפוי בשבוע הבא",
     "date": "2026-11-25T18:44:11+00:00"
@@ -45,10 +49,6 @@
    {
     "title": "הפרשיות שבדרך להימחק - וזו שעדיין מסבכת את נתניהו",
     "date": "2026-11-25T14:58:43+00:00"
-   },
-   {
-    "title": "כמה קווים אדומים יתמוססו? ההבטחות שגוש השינוי ייאלץ להפר בשביל ממשלה",
-    "date": "2026-11-25T14:57:36+00:00"
    }
   ],
   "ynetnews": [
@@ -104,7 +104,7 @@
   "cnbc": [
    {
     "title": "Dow turns positive on the day as Wall Street attempts to recover from sell-off: Live updates",
-    "date": "2026-11-25T19:05:55+00:00"
+    "date": "2026-11-25T19:09:28+00:00"
    },
    {
     "title": "Nvidia leads tech sell-off as Huang comeback rally fizzles and AI concerns return",
@@ -153,6 +153,18 @@
   ],
   "fox": [
    {
+    "title": "Vanity Fair piece on Taylor Swift that doesn't mention her by name draws criticism",
+    "date": "2026-11-25T19:00:56+00:00"
+   },
+   {
+    "title": "John F. Kennedy Jr. search commander says Ted Kennedy made one strict demand after divers found nephew’s body",
+    "date": "2026-11-25T19:00:30+00:00"
+   },
+   {
+    "title": "Urgent advisory warns Thanksgiving drivers of severe gridlock, lockouts and tire traps",
+    "date": "2026-11-25T18:57:40+00:00"
+   },
+   {
     "title": "Commanders sign embattled wide receiver Brandon Aiyuk to practice squad after release by 49ers",
     "date": "2026-11-25T18:54:55+00:00"
    },
@@ -187,18 +199,6 @@
    {
     "title": "Can hackers still read Gmail after a password change?",
     "date": "2026-11-25T17:55:49+00:00"
-   },
-   {
-    "title": "Far-left podcaster's 'bottom feeder' remark about Melania Trump draws conservative rebuke",
-    "date": "2026-11-25T17:48:19+00:00"
-   },
-   {
-    "title": "Pre-Thanksgiving flight to Chicago disrupted when unruly passenger rushes toward airplane door",
-    "date": "2026-11-25T17:43:23+00:00"
-   },
-   {
-    "title": "Trump officials reportedly at odds over tech titan's comeback as national security concerns linger",
-    "date": "2026-11-25T17:43:04+00:00"
    }
   ]
  }
