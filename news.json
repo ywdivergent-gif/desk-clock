@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T15:46:16.330171+00:00",
+ "updated": "2026-11-25T15:51:16.229244+00:00",
  "feeds": {
   "ynet": [
    {
@@ -103,6 +103,10 @@
   ],
   "cnbc": [
    {
+    "title": "JPMorgan says the S&P 500 will rise to 8,200 next year because of the AI supercycle",
+    "date": "2026-11-25T15:46:00+00:00"
+   },
+   {
     "title": "Army blows up bomb chemicals in Iowa despite fears a toxic plume could endanger residents",
     "date": "2026-11-25T15:45:12+00:00"
    },
@@ -145,13 +149,17 @@
    {
     "title": "This robotics stock lost half its value. Here's why Citi says it's a buy",
     "date": "2026-11-25T14:27:03+00:00"
-   },
-   {
-    "title": "Budget carrier Norse Atlantic falls 78% after warning its finances are ‘critical’ amid soaring fuel costs",
-    "date": "2026-11-25T14:24:04+00:00"
    }
   ],
   "fox": [
+   {
+    "title": "Betr Promo Code FOXNEWS: Claim $200 + 4x Free Picks for Tonight's Rams vs Packers Thanksgiving Eve Special",
+    "date": "2026-11-25T15:40:55+00:00"
+   },
+   {
+    "title": "'Grave concerns' mount as Army moves to restart DC helicopter training after deadly 2025 crash",
+    "date": "2026-11-25T15:39:49+00:00"
+   },
    {
     "title": "Use the Underdog Promo Code FOXNEWS to Play $10, Get $50 on Rams-Packers This Thanksgiving Eve",
     "date": "2026-11-25T15:26:56+00:00"
@@ -191,14 +199,6 @@
    {
     "title": "Yemeni military official brands Iran Houthis’ ‘godfather,’ says Tehran is directing war",
     "date": "2026-11-25T14:50:17+00:00"
-   },
-   {
-    "title": "Democrats to include creators and influencers to maximize viewership for presidential primary debates",
-    "date": "2026-11-25T14:31:57+00:00"
-   },
-   {
-    "title": "The absolute worst call of the college football season happened last night while you were sleeping",
-    "date": "2026-11-25T14:26:37+00:00"
    }
   ]
  }
