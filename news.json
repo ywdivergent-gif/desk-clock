@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T00:05:48.487028+00:00",
+ "updated": "2026-11-25T00:10:48.422571+00:00",
  "feeds": {
   "ynet": [
    {
@@ -103,6 +103,10 @@
   ],
   "cnbc": [
    {
+    "title": "Stock futures slip as traders await key inflation report, assess tech sell-off: Live updates",
+    "date": "2026-11-24T23:46:55+00:00"
+   },
+   {
     "title": "Stocks making the biggest moves Tuesday: Ambarella, Dell, Autodesk, Urban Outfitters & more",
     "date": "2026-11-24T23:14:03+00:00"
    },
@@ -131,10 +135,6 @@
     "date": "2026-11-24T21:46:55+00:00"
    },
    {
-    "title": "Nasdaq slumps about 1.5% as Nvidia comeback reverses course and Anthropic breaks IPO price: Live updates",
-    "date": "2026-11-24T21:16:50+00:00"
-   },
-   {
     "title": "Trump wanted Jensen Huang back. Now, the president is all alone in Washington",
     "date": "2026-11-24T21:13:39+00:00"
    },
@@ -155,6 +155,10 @@
    {
     "title": "Americans don’t have to choose between our AI future and ripping off copyright owners",
     "date": "2026-11-25T10:00:00+00:00"
+   },
+   {
+    "title": "Bill Maher declares late-night comedy is 'dead' after major political shift",
+    "date": "2026-11-25T00:00:16+00:00"
    },
    {
     "title": "Washington Commanders to host troubled WR Brandon Aiyuk for workout after clearing waivers from 49ers",
@@ -195,10 +199,6 @@
    {
     "title": "Worst airports for Thanksgiving travel chaos ranked as major US hubs top list",
     "date": "2026-11-24T22:52:02+00:00"
-   },
-   {
-    "title": "Broncos coach Sean Payton suspends RB JK Dobbins for conduct 'detrimental to the team'",
-    "date": "2026-11-24T22:31:10+00:00"
    }
   ]
  }
