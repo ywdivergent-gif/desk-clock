@@ -1,13 +1,17 @@
 {
- "updated": "2026-11-25T20:56:28.713477+00:00",
+ "updated": "2026-11-25T21:01:28.297153+00:00",
  "feeds": {
   "ynet": [
+   {
+    "title": "טרגדיה במעלה אדומים: פעוט כבן שנתיים נפל מגובה במהלך משחק ונהרג",
+    "date": "2026-11-25T20:54:51+00:00"
+   },
    {
     "title": "איזנקוט מתכנן ממשלה: דמי הרצינות לחרדים, התיקים שיישמרו לש\"ס ומה יקבלו גולן, בנט וליברמן",
     "date": "2026-11-25T20:42:15+00:00"
    },
    {
-    "title": "נשבר שיא ההגירה לאיים הספרדיים, תינוק נולד באמצע המסע: \"יום היסטורי, לצערנו\"",
+    "title": "נשבר שיא ההגירה לאיים הספרדיים, תינוק נולד באמצע המסע: \"צריכים סיוע צבאי\"",
     "date": "2026-11-25T20:29:05+00:00"
    },
    {
@@ -45,10 +49,6 @@
    {
     "title": "לא רק הספינות של פוטין: \"קייב הפציצה גם אונייה איראנית בלוב\" | הקשר לגנרל שביקר אצל ארדואן",
     "date": "2026-11-25T16:10:03+00:00"
-   },
-   {
-    "title": "חברות הפרלמנט חסמו את הכניסה לברנע: \"פושע מלחמה!\" | תיעוד - וכך הוא השיב",
-    "date": "2026-11-25T15:57:34+00:00"
    }
   ],
   "ynetnews": [
@@ -103,12 +103,12 @@
   ],
   "cnbc": [
    {
-    "title": "Dow turns positive on the day as Wall Street attempts to recover from sell-off: Live updates",
-    "date": "2026-11-25T20:40:06+00:00"
+    "title": "Vance says he was assured Jensen Huang was not under DOJ investigation",
+    "date": "2026-11-25T21:00:08+00:00"
    },
    {
-    "title": "Vance says he was assured Jensen Huang was not under DOJ investigation",
-    "date": "2026-11-25T20:28:42+00:00"
+    "title": "Dow turns positive on the day as Wall Street attempts to recover from sell-off: Live updates",
+    "date": "2026-11-25T20:40:06+00:00"
    },
    {
     "title": "Gold falls to more than one-year low after data shows U.S. inflation rose further",
@@ -153,6 +153,10 @@
   ],
   "fox": [
    {
+    "title": "Maddow says Democrats can abolish Electoral College if they 'swing for the fences'",
+    "date": "2026-11-25T20:48:20+00:00"
+   },
+   {
     "title": "Parents of 5-year-old boy killed in Oregon school shooting seek court order against teen gunman's mother",
     "date": "2026-11-25T20:46:59+00:00"
    },
@@ -173,7 +177,7 @@
     "date": "2026-11-25T20:38:15+00:00"
    },
    {
-    "title": "Presidential contender's 'remarkably tone deaf’ move against Trump triggers parental uproar: 'Unconscionable'",
+    "title": "Presidential contender's 'remarkably tone-deaf’ move against Trump triggers parental uproar: 'Unconscionable'",
     "date": "2026-11-25T20:37:46+00:00"
    },
    {
@@ -195,10 +199,6 @@
    {
     "title": "No. 2 Virginia and Marquette get a nearly 2-hour halftime thanks to ... an indoor rain delay?",
     "date": "2026-11-25T19:53:05+00:00"
-   },
-   {
-    "title": "CBS News seeks to settle $20M defamation lawsuit filed by Maryland teenager over Reflecting Pool report",
-    "date": "2026-11-25T19:37:52+00:00"
    }
   ]
  }
