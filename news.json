@@ -1,9 +1,9 @@
 {
- "updated": "2026-11-25T16:41:15.948258+00:00",
+ "updated": "2026-11-25T16:46:16.789895+00:00",
  "feeds": {
   "ynet": [
    {
-    "title": "שידור ישיר: נתניהו מגיב לראשונה לדרמה במשפט",
+    "title": "נתניהו בהצהרה אחרי הדרמה במשפט: \"אמרתי שלא יהיה כלום - אבל זה לקח 10 שנים של סבל נורא\"",
     "date": "2026-11-25T16:37:41+00:00"
    },
    {
@@ -103,6 +103,14 @@
   ],
   "cnbc": [
    {
+    "title": "Army blows up bomb chemicals in Iowa despite fears a toxic plume could endanger residents",
+    "date": "2026-11-25T16:42:31+00:00"
+   },
+   {
+    "title": "There are 5,100 newly minted Anthropic millionaires—here’s all the stuff they don’t tell you about when you suddenly get rich",
+    "date": "2026-11-25T16:32:55+00:00"
+   },
+   {
     "title": "10-year Treasury yield slides despite sticky inflation data as investors buy bonds for protection",
     "date": "2026-11-25T16:20:57+00:00"
    },
@@ -131,16 +139,8 @@
     "date": "2026-11-25T15:57:55+00:00"
    },
    {
-    "title": "Saudi national charged in OpenAI bugging to be released on $1 million bond",
-    "date": "2026-11-25T15:55:40+00:00"
-   },
-   {
     "title": "JPMorgan says the S&P 500 will rise to 8,200 next year because of the AI supercycle",
     "date": "2026-11-25T15:46:00+00:00"
-   },
-   {
-    "title": "Army blows up bomb chemicals in Iowa despite fears a toxic plume could endanger residents",
-    "date": "2026-11-25T15:45:12+00:00"
    },
    {
     "title": "Kalshi traders say the odds of states imposing data center moratoriums is more likely than not",
@@ -152,6 +152,10 @@
    }
   ],
   "fox": [
+   {
+    "title": "Aaron Rodgers and Mike McCarthy disagreements at heart of quarterback's benching by the Steelers",
+    "date": "2026-11-25T16:36:36+00:00"
+   },
    {
     "title": "Claim the Best Sportsbook Promos on Thanksgiving Eve and Get $2000+ in Bonuses",
     "date": "2026-11-25T16:26:57+00:00"
@@ -195,10 +199,6 @@
    {
     "title": "Use the Underdog Promo Code FOXNEWS to Play $10, Get $50 on Rams-Packers This Thanksgiving Eve",
     "date": "2026-11-25T15:26:56+00:00"
-   },
-   {
-    "title": "Prosecutors drop felony charge from 2020 against incoming House Dem",
-    "date": "2026-11-25T15:25:23+00:00"
    }
   ]
  }
