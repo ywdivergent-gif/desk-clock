@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T19:51:29.070693+00:00",
+ "updated": "2026-11-25T19:56:28.597655+00:00",
  "feeds": {
   "ynet": [
    {
@@ -103,12 +103,16 @@
   ],
   "cnbc": [
    {
+    "title": "EU postpones discussion to approve Tesla's self-driving tech",
+    "date": "2026-11-25T19:54:42+00:00"
+   },
+   {
     "title": "Dow turns positive on the day as Wall Street attempts to recover from sell-off: Live updates",
-    "date": "2026-11-25T19:36:15+00:00"
+    "date": "2026-11-25T19:54:33+00:00"
    },
    {
     "title": "SpaceX wins FCC approval to deploy 1 million orbital data center satellites",
-    "date": "2026-11-25T19:25:10+00:00"
+    "date": "2026-11-25T19:52:47+00:00"
    },
    {
     "title": "Nvidia leads tech sell-off as Huang comeback rally fizzles and AI concerns return",
@@ -121,10 +125,6 @@
    {
     "title": "Saudi national in OpenAI bugging case is out on bond after DOJ tries to block release",
     "date": "2026-11-25T19:11:53+00:00"
-   },
-   {
-    "title": "There are 5,100 newly minted Anthropic millionaires — here’s all the stuff they don’t tell you about when you suddenly get rich",
-    "date": "2026-11-25T18:52:59+00:00"
    },
    {
     "title": "Anthropic teeters at $1 trillion market cap. Why it may stabilize from here",
