@@ -1,7 +1,11 @@
 {
- "updated": "2026-11-25T14:21:16.128575+00:00",
+ "updated": "2026-11-25T14:26:16.325774+00:00",
  "feeds": {
   "ynet": [
+   {
+    "title": "זה הזמן: מנהיגים גבריות בריאה",
+    "date": "2026-11-25T14:20:00+00:00"
+   },
    {
     "title": "ההזדמנות של איזנקוט",
     "date": "2026-11-25T14:12:00+00:00"
@@ -45,10 +49,6 @@
    {
     "title": "\"ההליך הגיע לצומת שבו נכון לבחון כיצד יש להמשיך\" | דברי השופטים המלאים במשפט נתניהו",
     "date": "2026-11-25T10:55:36+00:00"
-   },
-   {
-    "title": "\"עינוי דין, רדיפה\": סערה במערכת הפוליטית בעקבות הדרמה במשפט נתניהו",
-    "date": "2026-11-25T10:41:14+00:00"
    }
   ],
   "ynetnews": [
@@ -103,8 +103,8 @@
   ],
   "cnbc": [
    {
-    "title": "Budget carrier Norse Atlantic falls 77% after warning its finances are ‘critical’ amid soaring fuel costs",
-    "date": "2026-11-25T14:19:07+00:00"
+    "title": "Budget carrier Norse Atlantic falls 78% after warning its finances are ‘critical’ amid soaring fuel costs",
+    "date": "2026-11-25T14:24:04+00:00"
    },
    {
     "title": "Fed’s preferred inflation gauge accelerated to 3.8% in October, raising the 2027 stakes for the central bank",
