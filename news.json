@@ -1,7 +1,11 @@
 {
- "updated": "2026-11-25T12:41:16.500409+00:00",
+ "updated": "2026-11-25T12:46:16.254843+00:00",
  "feeds": {
   "ynet": [
+   {
+    "title": "הצדעה במועל יד, קללות וריקודים במעון ר\"מ בריטניה: זעם על \"קרקס המשפיענים\" בדאונינג 10",
+    "date": "2026-11-25T12:44:05+00:00"
+   },
    {
     "title": "מה תעשה היועמ\"שית אחרי הדרמה? זה הפתרון שיכול להביא לסיום משפט נתניהו",
     "date": "2026-11-25T12:40:02+00:00"
@@ -45,10 +49,6 @@
    {
     "title": "\"הפיתוי\" של הסנאטור האנטי-ישראלי לטראמפ - שמשנה כיוון: \"הוא חכם מאוד\"",
     "date": "2026-11-25T09:39:18+00:00"
-   },
-   {
-    "title": "קיריל הותקף על ידי חזיר בר בחיפה ונפצע קשה: \"הוא לא הבין למה התנפל עליו\"",
-    "date": "2026-11-25T09:30:17+00:00"
    }
   ],
   "ynetnews": [
@@ -103,12 +103,16 @@
   ],
   "cnbc": [
    {
-    "title": "Kilmar Ábrego García, a Salvadoran national mistakenly deported from the U.S., arrives in Spain",
-    "date": "2026-11-25T12:40:03+00:00"
+    "title": "Trump’s meddling in Huang scandal reignites voter angst over tech’s outsized political power",
+    "date": "2026-11-25T12:44:45+00:00"
    },
    {
     "title": "Nasdaq futures tumble as AI sell-off returns with Nvidia, Anthropic leading the way: Live updates",
-    "date": "2026-11-25T12:40:01+00:00"
+    "date": "2026-11-25T12:42:46+00:00"
+   },
+   {
+    "title": "Kilmar Ábrego García, a Salvadoran national mistakenly deported from the U.S., arrives in Spain",
+    "date": "2026-11-25T12:40:03+00:00"
    },
    {
     "title": "Stocks making the biggest moves premarket: Nvidia, Urban Outfitters, Dell, Ambarella & more",
@@ -125,10 +129,6 @@
    {
     "title": "Budget carrier Norse Atlantic falls 77% after warning its finances are ‘critical’ amid soaring fuel costs",
     "date": "2026-11-25T11:10:28+00:00"
-   },
-   {
-    "title": "Trump’s meddling in Huang scandal reignites voter angst over tech’s outsized political power",
-    "date": "2026-11-25T11:00:01+00:00"
    },
    {
     "title": "Ukraine tells Putin to ‘stop complaining’ over oil refinery attacks as Russia promises retaliation",
