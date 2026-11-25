@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T02:30:56.959197+00:00",
+ "updated": "2026-11-25T02:35:56.537334+00:00",
  "feeds": {
   "ynet": [
    {
@@ -103,6 +103,10 @@
   ],
   "cnbc": [
    {
+    "title": "Houthi attack on Saudi Arabian sovereign wealth fund PIF's tower injures 11",
+    "date": "2026-11-25T02:33:11+00:00"
+   },
+   {
     "title": "Trump open to pardoning Jensen Huang if needed: NY Post",
     "date": "2026-11-25T02:09:45+00:00"
    },
@@ -145,16 +149,20 @@
    {
     "title": "Saudi national charged in OpenAI bugging to be released on $1 million bond",
     "date": "2026-11-24T22:03:01+00:00"
-   },
-   {
-    "title": "Ending soon: Capital One Venture welcome bonus worth $1,050 or more in travel",
-    "date": "2026-11-24T21:46:55+00:00"
    }
   ],
   "fox": [
    {
     "title": "Americans don’t have to choose between our AI future and ripping off copyright owners",
     "date": "2026-11-25T10:00:00+00:00"
+   },
+   {
+    "title": "Al Gore buys hometown Tennessee newspaper, vows to preserve local outlet's 'independent voice'",
+    "date": "2026-11-25T02:30:54+00:00"
+   },
+   {
+    "title": "Lions owner/chair emeritus Martha Firestone Ford dead at 101",
+    "date": "2026-11-25T02:29:26+00:00"
    },
    {
     "title": "Florida AG calls for doctor to lose medical license over 149 alleged illegal abortions",
@@ -191,14 +199,6 @@
    {
     "title": "Trump administration weighs targeting Iran's top regime leaders in bid to end war: report",
     "date": "2026-11-25T00:36:01+00:00"
-   },
-   {
-    "title": "Commanders coach Dan Quinn reacts to star wide receiver's explosive sideline outburst",
-    "date": "2026-11-25T00:29:56+00:00"
-   },
-   {
-    "title": "Colorado Buffaloes coach Deion Sanders' latest arrogant comments raise serious concerns over ability to lead",
-    "date": "2026-11-25T00:19:18+00:00"
    }
   ]
  }
