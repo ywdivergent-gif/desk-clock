@@ -1,10 +1,10 @@
 {
- "updated": "2026-11-25T10:06:06.795377+00:00",
+ "updated": "2026-11-25T10:11:06.579271+00:00",
  "feeds": {
   "ynet": [
    {
     "title": "דיון חריג במשפט נתניהו: היועמ\"שית מתייצבת מול השופטים",
-    "date": "2026-11-25T09:44:04+00:00"
+    "date": "2026-11-25T10:05:44+00:00"
    },
    {
     "title": "\"הפיתוי\" של הסנאטור האנטי-ישראלי לטראמפ - שמשנה כיוון: \"הוא חכם מאוד\"",
@@ -119,10 +119,6 @@
     "date": "2026-11-25T09:18:37+00:00"
    },
    {
-    "title": "Treasury yields fall as investors await key inflation signal",
-    "date": "2026-11-25T07:44:24+00:00"
-   },
-   {
     "title": "AI debt worries grow as Nvidia rebound masks Big Tech spending squeeze",
     "date": "2026-11-25T06:29:46+00:00"
    },
@@ -149,9 +145,29 @@
    {
     "title": "Trump open to pardoning Jensen Huang if needed: NY Post",
     "date": "2026-11-25T02:09:45+00:00"
+   },
+   {
+    "title": "Jensen Huang's Nvidia return shows the U.S.-China AI race is about more than chips",
+    "date": "2026-11-25T01:13:56+00:00"
    }
   ],
   "fox": [
+   {
+    "title": "If you want to know the dangers of socialism, take a look at Mamdani’s New York",
+    "date": "2026-11-25T10:00:41+00:00"
+   },
+   {
+    "title": "America’s first Thanksgiving was made possible by daring Revolutionary snipers",
+    "date": "2026-11-25T10:00:11+00:00"
+   },
+   {
+    "title": "Nation’s largest grocery chain cuts thousands of jobs — sparks fury over who it’s hiring instead: 'Insanity'",
+    "date": "2026-11-25T10:00:11+00:00"
+   },
+   {
+    "title": "Senate GOP takes risky bet on Dems as holiday shutdown deadline looms: 'It's a gamble'",
+    "date": "2026-11-25T10:00:09+00:00"
+   },
    {
     "title": "Americans don’t have to choose between our AI future and ripping off copyright owners",
     "date": "2026-11-25T10:00:00+00:00"
@@ -183,22 +199,6 @@
    {
     "title": "Hero veteran Virginia trooper rushes to help after car plows into women in crosswalk, and it's caught on video",
     "date": "2026-11-25T02:38:03+00:00"
-   },
-   {
-    "title": "Al Gore buys hometown Tennessee newspaper, vows to preserve local outlet's 'independent voice'",
-    "date": "2026-11-25T02:30:54+00:00"
-   },
-   {
-    "title": "Lions owner/chair emeritus Martha Firestone Ford dead at 101",
-    "date": "2026-11-25T02:29:26+00:00"
-   },
-   {
-    "title": "Florida AG calls for doctor to lose medical license over 149 alleged illegal abortions",
-    "date": "2026-11-25T02:21:58+00:00"
-   },
-   {
-    "title": "Piker backs idea to sell Trump on Medicare-for-all by calling it 'Trumpcare'",
-    "date": "2026-11-25T02:00:36+00:00"
    }
   ]
  }
