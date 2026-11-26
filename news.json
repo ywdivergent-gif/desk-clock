@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T19:37:01.657250+00:00",
+ "updated": "2026-11-26T19:42:01.789160+00:00",
  "feeds": {
   "ynet": [
    {
@@ -153,6 +153,10 @@
   ],
   "fox": [
    {
+    "title": "Jennifer Lawrence ranks Chris Pratt as her ‘worst’ on-screen kiss",
+    "date": "2026-11-26T19:29:40+00:00"
+   },
+   {
     "title": "EPA reports 'zero detection of airborne lead' day after Iowa lead azide detonation",
     "date": "2026-11-26T19:20:16+00:00"
    },
@@ -195,10 +199,6 @@
    {
     "title": "New Jersey Devils mock Steelers coach Mike McCarthy with brutal 'ice cream sandwich' jab",
     "date": "2026-11-26T18:24:26+00:00"
-   },
-   {
-    "title": "WWE's CM Punk leaving politics out of the ring for USA vs Mexico match at Survivor Series: WarGames",
-    "date": "2026-11-26T18:22:44+00:00"
    }
   ]
  }
