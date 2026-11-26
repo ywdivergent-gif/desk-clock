@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T23:56:38.041020+00:00",
+ "updated": "2026-11-26T00:01:37.774461+00:00",
  "feeds": {
   "ynet": [
    {
@@ -103,6 +103,10 @@
   ],
   "cnbc": [
    {
+    "title": "Asia-Pacific markets set for subdued open as investors weigh fresh U.S. tariffs",
+    "date": "2026-11-26T00:01:07+00:00"
+   },
+   {
     "title": "Gold falls to more than one-year low after data shows U.S. inflation rose further",
     "date": "2026-11-25T23:50:53+00:00"
    },
@@ -145,10 +149,6 @@
    {
     "title": "Saudi national in OpenAI bugging case is out on bond after DOJ tries to block release",
     "date": "2026-11-25T19:11:53+00:00"
-   },
-   {
-    "title": "Anthropic teeters at $1 trillion market cap. Why it may stabilize from here",
-    "date": "2026-11-25T18:36:39+00:00"
    }
   ],
   "fox": [
