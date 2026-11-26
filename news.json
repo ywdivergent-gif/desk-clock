@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T04:11:38.261341+00:00",
+ "updated": "2026-11-26T04:16:38.396195+00:00",
  "feeds": {
   "ynet": [
    {
@@ -103,6 +103,10 @@
   ],
   "cnbc": [
    {
+    "title": "How Trump’s latest tariff moves hand India an edge over rival Asian exporters",
+    "date": "2026-11-26T04:12:18+00:00"
+   },
+   {
     "title": "Judge blocks FCC early-renewal process for Disney-owned ABC stations, for now",
     "date": "2026-11-26T04:00:15+00:00"
    },
@@ -145,13 +149,13 @@
    {
     "title": "SpaceX, Musk pledge to donate a share each to active Trump Accounts",
     "date": "2026-11-26T00:27:52+00:00"
-   },
-   {
-    "title": "Inside India newsletter: Roaring economy, foreign investors’ return and now record auto sales",
-    "date": "2026-11-26T00:12:16+00:00"
    }
   ],
   "fox": [
+   {
+    "title": "Federal judge blocks FCC from reviewing ABC station licenses early as part of agency's spat with network",
+    "date": "2026-11-26T04:05:14+00:00"
+   },
    {
     "title": "Fanatics Sportsbook Celebrates $1 Billion in FanCash With $200 in Bonus Bets and an NBA Jersey for New Custome",
     "date": "2026-11-26T03:57:27+00:00"
@@ -195,10 +199,6 @@
    {
     "title": "Thanksgiving pie prices: Most expensive and the best bang for your buck",
     "date": "2026-11-26T00:32:27+00:00"
-   },
-   {
-    "title": "Taking Ozempic or Wegovy could lead to extra cancer screenings, new study suggests",
-    "date": "2026-11-26T00:02:07+00:00"
    }
   ]
  }
