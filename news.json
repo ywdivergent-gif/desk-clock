@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T15:56:53.111018+00:00",
+ "updated": "2026-11-26T16:01:53.081242+00:00",
  "feeds": {
   "ynet": [
    {
@@ -103,10 +103,6 @@
   ],
   "cnbc": [
    {
-    "title": "Nvidia chip buyers told to rule out Chinese renters to buy GPUs, sources say",
-    "date": "2026-11-26T15:34:08+00:00"
-   },
-   {
     "title": "Spain’s Pablo Hernández de Cos set to lead European Central Bank",
     "date": "2026-11-26T15:28:26+00:00"
    },
@@ -149,6 +145,10 @@
    {
     "title": "Latin America has the copper and energy the AI build-out needs. Infrastructure is the test",
     "date": "2026-11-26T08:59:11+00:00"
+   },
+   {
+    "title": "Taking on Starlink: Europe’s largest satellite factory opens in push to rival Musk",
+    "date": "2026-11-26T07:45:05+00:00"
    }
   ],
   "fox": [
