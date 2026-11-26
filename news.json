@@ -1,11 +1,7 @@
 {
- "updated": "2026-11-26T15:16:53.056020+00:00",
+ "updated": "2026-11-26T15:21:52.907464+00:00",
  "feeds": {
   "ynet": [
-   {
-    "title": "הצעתי למנדלבליט צוות \"איפכא מסתברא\" בתיק נתניהו - אבל כל מי שחשב אחרת הודר",
-    "date": "2026-11-26T15:11:15+00:00"
-   },
    {
     "title": "גולדקנופף: ליברמן ביקש סליחה. אם הוא נכנע לרבנים - מה זה משנה מה אמר?",
     "date": "2026-11-26T14:57:50+00:00"
@@ -49,6 +45,10 @@
    {
     "title": "\"נגמר המזל\": זכה במיליון דולר בלוטו - ובדרך לגירוש אחרי שנעצר בידי סוכני הגירה",
     "date": "2026-11-26T10:39:33+00:00"
+   },
+   {
+    "title": "השופט למנדלבליט, אחרי הדרמה במשפט נתניהו: \"המשכת הלאה בלי לבדוק?!\"",
+    "date": "2026-11-26T10:14:52+00:00"
    }
   ],
   "ynetnews": [
@@ -153,6 +153,14 @@
   ],
   "fox": [
    {
+    "title": "Hard Rock Bet Promo Code: Bet $5, Get $500 in No Sweat Bets on Thanksgiving",
+    "date": "2026-11-26T15:13:03+00:00"
+   },
+   {
+    "title": "BetMGM Bonus Code FOXNEWS Covers Your First Thanksgiving NFL Bet up to $1500",
+    "date": "2026-11-26T15:08:43+00:00"
+   },
+   {
     "title": "Human vs ChatGPT NFL Week 12 betting picks: Thanksgiving Day picks to fade from the internet’s worst bettor",
     "date": "2026-11-26T15:03:13+00:00"
    },
@@ -177,10 +185,6 @@
     "date": "2026-11-26T14:27:56+00:00"
    },
    {
-    "title": "Shopping with Friends: 8 Black Friday deals to shop now",
-    "date": "2026-11-26T14:17:24+00:00"
-   },
-   {
     "title": "From Starbucks to takeout, Reddit thread exposes how everyday purchases drain your budget",
     "date": "2026-11-26T14:05:13+00:00"
    },
@@ -195,10 +199,6 @@
    {
     "title": "Your holiday shopping data needs a cleanup before Black Friday",
     "date": "2026-11-26T13:43:19+00:00"
-   },
-   {
-    "title": "Trump, NATO chief push Russia to avoid any actions that would 'expand the war' with Ukraine",
-    "date": "2026-11-26T13:16:51+00:00"
    }
   ]
  }
