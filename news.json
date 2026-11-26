@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T20:17:01.615863+00:00",
+ "updated": "2026-11-26T20:22:01.460323+00:00",
  "feeds": {
   "ynet": [
    {
@@ -104,7 +104,7 @@
   "cnbc": [
    {
     "title": "Trump demands probe into ‘record setting error’ after third-quarter GDP data gets massive revision higher",
-    "date": "2026-11-26T18:44:15+00:00"
+    "date": "2026-11-26T20:18:11+00:00"
    },
    {
     "title": "Microdrama apps chase profits as Hollywood moves into short-form, vertical video",
@@ -153,6 +153,10 @@
   ],
   "fox": [
    {
+    "title": "Amon-Ra St Brown kicks off Thanksgiving with ridiculous one-handed grab, stanky leg celebration",
+    "date": "2026-11-26T20:11:04+00:00"
+   },
+   {
     "title": "Sylvester Stallone endured broke, lonely days cleaning lion cages before Henry Winkler changed his life",
     "date": "2026-11-26T20:00:45+00:00"
    },
@@ -195,10 +199,6 @@
    {
     "title": "Nick Saban is suddenly singing a very different tune about winning national championships",
     "date": "2026-11-26T18:40:23+00:00"
-   },
-   {
-    "title": "Aaron Rodgers' remarks on Mike Vrabel-Dianna Russini scandal resurface as Patriots could use QB help",
-    "date": "2026-11-26T18:28:20+00:00"
    }
   ]
  }
