@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T21:22:00.397040+00:00",
+ "updated": "2026-11-26T21:27:00.484574+00:00",
  "feeds": {
   "ynet": [
    {
@@ -153,6 +153,10 @@
   ],
   "fox": [
    {
+    "title": "UK shields fighter jets, contacts reservists in Cold War-scale push amid Russia threat",
+    "date": "2026-11-26T21:14:20+00:00"
+   },
+   {
     "title": "Trump takes on Somali welfare dependency in Thanksgiving message, lays out who should stay in US",
     "date": "2026-11-26T20:58:30+00:00"
    },
@@ -195,10 +199,6 @@
    {
     "title": "FlyDubai to resume Tel Aviv flights following attempted hijacking incident",
     "date": "2026-11-26T18:53:19+00:00"
-   },
-   {
-    "title": "Caleb Williams, who seemed to disrespect national anthem months ago, shows patriotism on Thanksgiving",
-    "date": "2026-11-26T18:52:29+00:00"
    }
   ]
  }
