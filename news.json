@@ -1,7 +1,11 @@
 {
- "updated": "2026-11-26T18:07:01.674430+00:00",
+ "updated": "2026-11-26T18:12:01.402551+00:00",
  "feeds": {
   "ynet": [
+   {
+    "title": "גם אצלכם? הפסקות חשמל חריגות באזורים נרחבים | זו הסיבה",
+    "date": "2026-11-26T18:06:58+00:00"
+   },
    {
     "title": "גורמי הביטחון אישרו: פליי דובאי תוכל לשוב לטוס לישראל | זה המועד המתוכנן",
     "date": "2026-11-26T17:51:51+00:00"
@@ -45,10 +49,6 @@
    {
     "title": "במדינה הענייה בהודו: פוליטיקאי שמואשם ברצח חיתן את בתו לעיני 400 אלף אורחים",
     "date": "2026-11-26T14:57:12+00:00"
-   },
-   {
-    "title": "שני איטלקים נהרגו במתקפת כטב\"מים איראנית בכוויית, טהרן טוענת: לא תקפנו",
-    "date": "2026-11-26T14:10:44+00:00"
    }
   ],
   "ynetnews": [
@@ -153,6 +153,14 @@
   ],
   "fox": [
    {
+    "title": "Steelers team president chooses side in Aaron Rodgers, Mike McCarthy split",
+    "date": "2026-11-26T18:02:44+00:00"
+   },
+   {
+    "title": "Veruschka, supermodel in 'Casino Royale' and 'Blow-Up,' dead at 87",
+    "date": "2026-11-26T18:00:52+00:00"
+   },
+   {
     "title": "Jack Nicholson’s son Ray admits he and his reclusive dad ‘can’t talk about a lot’",
     "date": "2026-11-26T17:56:51+00:00"
    },
@@ -191,14 +199,6 @@
    {
     "title": "Kelsey Grammer calls American Dream a ‘gift’ he wants to pass down to his 8 children",
     "date": "2026-11-26T16:00:53+00:00"
-   },
-   {
-    "title": "Bill Maher says both Trump and Obama have more common sense than critics on either side would admit",
-    "date": "2026-11-26T16:00:07+00:00"
-   },
-   {
-    "title": "2026's biggest political turkeys: Scandals, gaffes and other memorable unfortunate moments from this year",
-    "date": "2026-11-26T16:00:02+00:00"
    }
   ]
  }
