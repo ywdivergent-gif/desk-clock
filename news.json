@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T04:16:38.396195+00:00",
+ "updated": "2026-11-26T04:21:38.512575+00:00",
  "feeds": {
   "ynet": [
    {
@@ -103,6 +103,10 @@
   ],
   "cnbc": [
    {
+    "title": "Hedge funds are no longer just for the rich. They’re wooing everyday investors",
+    "date": "2026-11-26T04:20:18+00:00"
+   },
+   {
     "title": "How Trump’s latest tariff moves hand India an edge over rival Asian exporters",
     "date": "2026-11-26T04:12:18+00:00"
    },
@@ -141,10 +145,6 @@
    {
     "title": "Where the market may be mispricing risk most: AI boom, volatility, high-yield bonds",
     "date": "2026-11-26T01:34:58+00:00"
-   },
-   {
-    "title": "Hedge funds are no longer just for the rich. They’re coming for everyday investors",
-    "date": "2026-11-26T01:10:58+00:00"
    },
    {
     "title": "SpaceX, Musk pledge to donate a share each to active Trump Accounts",
