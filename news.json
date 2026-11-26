@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T14:46:53.004839+00:00",
+ "updated": "2026-11-26T14:51:53.087026+00:00",
  "feeds": {
   "ynet": [
    {
@@ -103,6 +103,10 @@
   ],
   "cnbc": [
    {
+    "title": "Marlboro maker Altria explores takeover of UK's Imperial Brands",
+    "date": "2026-11-26T14:47:37+00:00"
+   },
+   {
     "title": "Spain’s Pablo Hernández de Cos set to lead European Central Bank",
     "date": "2026-11-26T14:20:44+00:00"
    },
@@ -145,13 +149,13 @@
    {
     "title": "Taking on Starlink: Europe’s largest satellite factory opens in push to rival Musk",
     "date": "2026-11-26T07:45:05+00:00"
-   },
-   {
-    "title": "Robots could be doing household chores in just 1-2 years, Chinese EV firm says",
-    "date": "2026-11-26T07:30:11+00:00"
    }
   ],
   "fox": [
+   {
+    "title": "Betr Promo Code FOXNEWS: Unlock $200 + 4 Free Picks Ahead of a Stacked Thanksgiving NFL Slate",
+    "date": "2026-11-26T14:40:24+00:00"
+   },
    {
     "title": "Fanatics Sportsbook Promo Code FOXNEWS: Claim $1000 in FanCash for Today's Thanksgiving NFL Slate",
     "date": "2026-11-26T14:32:55+00:00"
@@ -195,10 +199,6 @@
    {
     "title": "A look at how the Trumps spend their Thanksgiving holiday through the years",
     "date": "2026-11-26T13:00:30+00:00"
-   },
-   {
-    "title": "Remembering Dolly Parton's Cowboys halftime show on our first Thanksgiving without her, Rodgers memes & naps",
-    "date": "2026-11-26T12:54:11+00:00"
    }
   ]
  }
