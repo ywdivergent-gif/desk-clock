@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T01:51:38.463926+00:00",
+ "updated": "2026-11-26T01:56:38.436828+00:00",
  "feeds": {
   "ynet": [
    {
@@ -103,6 +103,10 @@
   ],
   "cnbc": [
    {
+    "title": "Norse Atlantic flights suspended after warning finances 'critical'",
+    "date": "2026-11-26T01:52:20+00:00"
+   },
+   {
     "title": "South Korea upgrades growth forecast, raises benchmark rates to highest in two years",
     "date": "2026-11-26T01:50:21+00:00"
    },
@@ -113,10 +117,6 @@
    {
     "title": "Hedge funds are no longer just for the rich. They’re coming for everyday investors",
     "date": "2026-11-26T01:10:58+00:00"
-   },
-   {
-    "title": "Norse Atlantic flights suspended after warning finances 'critical'",
-    "date": "2026-11-26T01:04:54+00:00"
    },
    {
     "title": "Inside India newsletter: Roaring economy, foreign investors’ return and now record auto sales",
