@@ -1,7 +1,11 @@
 {
- "updated": "2026-11-26T18:47:01.148365+00:00",
+ "updated": "2026-11-26T18:52:02.070523+00:00",
  "feeds": {
   "ynet": [
+   {
+    "title": "\"לזה משלמים\": הפרסומת ב\"סאטרדיי נייט לייב\" עם ילדה פלסטינית קטועת רגל - והזעם",
+    "date": "2026-11-26T18:48:10+00:00"
+   },
    {
     "title": "מחאה בהפתעה: חרדים קיצוניים חוסמים את אחת הכניסות לנתב\"ג",
     "date": "2026-11-26T18:45:27+00:00"
@@ -45,10 +49,6 @@
    {
     "title": "גישור פלילי על הפרק: בהרב-מיארה הייתה רוצה להמשיך במשפט כרגיל - אבל זה לא קביל עוד",
     "date": "2026-11-26T16:01:15+00:00"
-   },
-   {
-    "title": "בתי חולים כמוקדי עינויים: כך חמאס מנסה לשמר את שלטונו בעזה",
-    "date": "2026-11-26T15:40:15+00:00"
    }
   ],
   "ynetnews": [
@@ -153,6 +153,10 @@
   ],
   "fox": [
    {
+    "title": "Nick Saban is suddenly singing a very different tune about winning national championships",
+    "date": "2026-11-26T18:40:23+00:00"
+   },
+   {
     "title": "Aaron Rodgers' remarks on Mike Vrabel-Dianna Russini scandal resurface as Patriots could use QB help",
     "date": "2026-11-26T18:28:20+00:00"
    },
@@ -195,10 +199,6 @@
    {
     "title": "Jack Nicholson’s son Ray admits he and his reclusive dad ‘can’t talk about a lot’",
     "date": "2026-11-26T17:56:51+00:00"
-   },
-   {
-    "title": "The Best Thanksgiving Sportsbook Promos Unlock $2000+ in Bonuses for New Users",
-    "date": "2026-11-26T17:41:08+00:00"
    }
   ]
  }
