@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-26T14:56:53.179097+00:00",
+ "updated": "2026-11-26T15:01:52.886632+00:00",
  "feeds": {
   "ynet": [
+   {
+    "title": "גולדקנופף: ליברמן ביקש סליחה. אם הוא נכנע לרבנים - מה זה משנה מה אמר?",
+    "date": "2026-11-26T14:57:50+00:00"
+   },
+   {
+    "title": "במדינה הענייה בהודו: פוליטיקאי שמואשם ברצח חיתן את בתו לעיני 400 אלף אורחים",
+    "date": "2026-11-26T14:57:12+00:00"
+   },
    {
     "title": "שני איטלקים נהרגו במתקפת כטב\"מים איראנית בכוויית: \"היעד היה אתר חיוני\"",
     "date": "2026-11-26T14:10:44+00:00"
@@ -41,14 +49,6 @@
    {
     "title": "השופט למנדלבליט, אחרי הדרמה במשפט נתניהו: \"המשכת הלאה בלי לבדוק?!\"",
     "date": "2026-11-26T10:14:52+00:00"
-   },
-   {
-    "title": "דרש פרוטקשן על שירותי שמירה - ולא סיפק אותם: אישום נגד ראש המועצה מהצפון",
-    "date": "2026-11-26T10:11:19+00:00"
-   },
-   {
-    "title": "מטרת איזנקוט: לסגור הסכמים עם הגוש עד מוצ\"ש | הציר החרדי - ושאלת בנט",
-    "date": "2026-11-26T09:45:47+00:00"
    }
   ],
   "ynetnews": [
@@ -103,12 +103,12 @@
   ],
   "cnbc": [
    {
-    "title": "Marlboro maker Altria explores takeover of UK's Imperial Brands",
-    "date": "2026-11-26T14:47:37+00:00"
+    "title": "Spain’s Pablo Hernández de Cos set to lead European Central Bank",
+    "date": "2026-11-26T14:59:47+00:00"
    },
    {
-    "title": "Spain’s Pablo Hernández de Cos set to lead European Central Bank",
-    "date": "2026-11-26T14:20:44+00:00"
+    "title": "Marlboro maker Altria explores takeover of UK's Imperial Brands",
+    "date": "2026-11-26T14:47:37+00:00"
    },
    {
     "title": "What is ‘texture-maxxing’? The food trend putting crunch on the menu",
@@ -153,6 +153,10 @@
   ],
   "fox": [
    {
+    "title": "Thanksgiving on Ozempic: Clever tricks to survive the feast without offending the host",
+    "date": "2026-11-26T14:50:55+00:00"
+   },
+   {
     "title": "Betr Promo Code FOXNEWS: Unlock $200 + 4 Free Picks Ahead of a Stacked Thanksgiving NFL Slate",
     "date": "2026-11-26T14:40:24+00:00"
    },
@@ -195,10 +199,6 @@
    {
     "title": "Pro wrestling star Dustin Rhodes announces death of 3-year-old grandson",
     "date": "2026-11-26T13:11:35+00:00"
-   },
-   {
-    "title": "A look at how the Trumps spend their Thanksgiving holiday through the years",
-    "date": "2026-11-26T13:00:30+00:00"
    }
   ]
  }
