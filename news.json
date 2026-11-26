@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T02:51:38.215769+00:00",
+ "updated": "2026-11-26T02:56:37.790698+00:00",
  "feeds": {
   "ynet": [
    {
@@ -153,6 +153,10 @@
   ],
   "fox": [
    {
+    "title": "USC suspends entire marching band from UCLA game over crude sign prank on Bruins campus",
+    "date": "2026-11-26T02:41:31+00:00"
+   },
+   {
     "title": "Super Bowl champion, Steelers teammate of Aaron Rodgers shows support for quarterback after dramatic fallout",
     "date": "2026-11-26T02:31:00+00:00"
    },
@@ -195,10 +199,6 @@
    {
     "title": "Steelers officially release Aaron Rodgers and keep coach Mike McCarthy on the job despite embarrassing claims",
     "date": "2026-11-25T23:25:27+00:00"
-   },
-   {
-    "title": "Mike McCarthy's Cowboys comments resurface amid Aaron Rodgers debacle",
-    "date": "2026-11-25T23:12:35+00:00"
    }
   ]
  }
