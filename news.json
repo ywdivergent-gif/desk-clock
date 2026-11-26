@@ -1,9 +1,13 @@
 {
- "updated": "2026-11-26T14:11:53.101074+00:00",
+ "updated": "2026-11-26T14:16:53.047503+00:00",
  "feeds": {
   "ynet": [
    {
-    "title": "איזנקוט וגולן סיכמו על הסכם קואליציוני. ליברמן: \"נתניהו יציע רוטציה כשהוא שני, זה תרגיל\"",
+    "title": "שני איטלקים נהרגו במתקפת כטב\"מים איראנית בכוויית: \"היעד היה אתר חיוני\"",
+    "date": "2026-11-26T14:10:44+00:00"
+   },
+   {
+    "title": "איזנקוט וגולן סיכמו על הסכם קואליציוני: אלו התיקים שיקבלו הדמוקרטים בממשלת שינוי",
     "date": "2026-11-26T13:45:29+00:00"
    },
    {
@@ -45,10 +49,6 @@
    {
     "title": "מטרת איזנקוט: לסגור הסכמים עם הגוש עד מוצ\"ש | הציר החרדי - ושאלת בנט",
     "date": "2026-11-26T09:45:47+00:00"
-   },
-   {
-    "title": "הנאשם בתקיפה הופיע כעד \"בטעות\" במקום הקורבן - וזוכה",
-    "date": "2026-11-26T09:27:55+00:00"
    }
   ],
   "ynetnews": [
@@ -153,11 +153,15 @@
   ],
   "fox": [
    {
+    "title": "From Starbucks to takeout, Reddit thread exposes how everyday purchases drain your budget",
+    "date": "2026-11-26T14:05:13+00:00"
+   },
+   {
     "title": "'The Vow' star Jace Cates' dad calls contestant 'rigid' as faith tensions flare in the house",
     "date": "2026-11-26T14:00:13+00:00"
    },
    {
-    "title": "Norse Atlantic airlines suspends all flights, on brink of bankruptcy amid rising fuel costs",
+    "title": "Norse Atlantic airline suspends all flights, on brink of bankruptcy amid rising fuel costs",
     "date": "2026-11-26T13:56:57+00:00"
    },
    {
@@ -195,10 +199,6 @@
    {
     "title": "Patrick Mahomes and Josh Allen set up for another shootout as Chiefs face Bills on Thanksgiving",
     "date": "2026-11-26T12:23:40+00:00"
-   },
-   {
-    "title": "Stone Cold Steve Austin hates slow fishing, Trey McKinney hunts geese & Steven Rinella talks turkey",
-    "date": "2026-11-26T12:10:32+00:00"
    }
   ]
  }
