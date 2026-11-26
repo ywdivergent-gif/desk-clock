@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T01:31:38.526178+00:00",
+ "updated": "2026-11-26T01:36:37.724684+00:00",
  "feeds": {
   "ynet": [
    {
@@ -103,6 +103,10 @@
   ],
   "cnbc": [
    {
+    "title": "Where the market may be mispricing risk most: AI boom, volatility, high-yield bonds",
+    "date": "2026-11-26T01:34:58+00:00"
+   },
+   {
     "title": "South Korea raises rates to highest in two years, as inflation remains above target",
     "date": "2026-11-26T01:23:26+00:00"
    },
@@ -145,10 +149,6 @@
    {
     "title": "EU postpones discussion to approve Tesla's self-driving tech",
     "date": "2026-11-25T19:54:42+00:00"
-   },
-   {
-    "title": "SpaceX wins FCC approval to deploy 1 million orbital data center satellites",
-    "date": "2026-11-25T19:52:47+00:00"
    }
   ],
   "fox": [
