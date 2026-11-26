@@ -1,7 +1,11 @@
 {
- "updated": "2026-11-26T02:31:37.737940+00:00",
+ "updated": "2026-11-26T02:36:37.791612+00:00",
  "feeds": {
   "ynet": [
+   {
+    "title": "ניסיון חיסול נוסף בעזה, צה\"ל: \"תקפנו מחבל בכיר בחמאס\"",
+    "date": "2026-11-26T02:30:35+00:00"
+   },
    {
     "title": "10 דקות שטרפו קלפים של עשור שלם: כל התחנות במשפט נתניהו",
     "date": "2026-11-25T22:26:02+00:00"
@@ -45,10 +49,6 @@
    {
     "title": "המציאות, הדמיון, והכי חשוב - הקרדיט",
     "date": "2026-11-25T20:00:37+00:00"
-   },
-   {
-    "title": "המפכ\"ל: לא ייתכן ששוטרים ישתתפו באירועי סולחה בין חמולות",
-    "date": "2026-11-25T19:08:26+00:00"
    }
   ],
   "ynetnews": [
@@ -103,6 +103,10 @@
   ],
   "cnbc": [
    {
+    "title": "SpaceX wins FCC approval to deploy 1 million orbital data center satellites",
+    "date": "2026-11-26T02:35:39+00:00"
+   },
+   {
     "title": "‘Your booth is waiting’: Denny’s welcomes Jensen Huang back as Nvidia CEO",
     "date": "2026-11-26T02:15:51+00:00"
    },
@@ -145,13 +149,13 @@
    {
     "title": "Vance says he was assured Jensen Huang was not under DOJ investigation",
     "date": "2026-11-25T21:00:08+00:00"
-   },
-   {
-    "title": "We're buying more of a stock down big from its July highs",
-    "date": "2026-11-25T19:55:18+00:00"
    }
   ],
   "fox": [
+   {
+    "title": "Netanyahu declares corruption trial has 'fallen apart' after judges question key charges",
+    "date": "2026-11-26T02:26:48+00:00"
+   },
    {
     "title": "Aaron Rodgers' ex-Packers teammate makes bold prediction about QB’s NFL future after shocking Steelers exit",
     "date": "2026-11-26T01:58:58+00:00"
@@ -195,10 +199,6 @@
    {
     "title": "Major League Baseball owners sue MLB Players Association ahead of rapidly approaching lockout",
     "date": "2026-11-25T23:05:06+00:00"
-   },
-   {
-    "title": "Aaron Rodgers interview is exactly why ESPN pays Pat McAfee | Bobby Burack",
-    "date": "2026-11-25T23:03:52+00:00"
    }
   ]
  }
