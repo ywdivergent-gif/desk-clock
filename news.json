@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T22:17:00.624409+00:00",
+ "updated": "2026-11-26T22:22:00.623274+00:00",
  "feeds": {
   "ynet": [
    {
@@ -153,6 +153,10 @@
   ],
   "fox": [
    {
+    "title": "MAC admits that officials incorrectly cost Kent State touchdown with blown call against Eastern Michigan",
+    "date": "2026-11-26T22:06:05+00:00"
+   },
+   {
     "title": "‘Charlie Brown’ voice actor received zero residuals for nearly 50 years due to banned ’70s contract",
     "date": "2026-11-26T22:00:42+00:00"
    },
@@ -195,10 +199,6 @@
    {
     "title": "Ukrainian intelligence says North Korea paused missile deliveries to Russia amid friction over South Korea",
     "date": "2026-11-26T19:10:13+00:00"
-   },
-   {
-    "title": "Politics, money and Thanksgiving dinner: Just two words can help avoid argument",
-    "date": "2026-11-26T19:00:55+00:00"
    }
   ]
  }
