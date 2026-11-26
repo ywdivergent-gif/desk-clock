@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T17:32:01.393213+00:00",
+ "updated": "2026-11-26T17:37:01.860228+00:00",
  "feeds": {
   "ynet": [
    {
@@ -103,6 +103,10 @@
   ],
   "cnbc": [
    {
+    "title": "Microdrama apps chase profits as Hollywood moves into short-form, vertical video",
+    "date": "2026-11-26T17:35:36+00:00"
+   },
+   {
     "title": "Trump, NATO chief caution Russia as attacks on Ukraine’s energy infrastructure intensify",
     "date": "2026-11-26T16:12:47+00:00"
    },
@@ -135,10 +139,6 @@
     "date": "2026-11-26T12:22:25+00:00"
    },
    {
-    "title": "Microdrama apps chase profits as Hollywood moves into short-form, vertical video",
-    "date": "2026-11-26T12:00:01+00:00"
-   },
-   {
     "title": "Switzerland’s biggest bank set for showdown with lawmakers as capital fight intensifies amid crisis planning",
     "date": "2026-11-26T11:17:39+00:00"
    },
@@ -152,6 +152,10 @@
    }
   ],
   "fox": [
+   {
+    "title": "Underdog Thanksgiving Promo Code FOXNEWS: Play $10, Get $50 on Lions-Bears, Cowboys-Eagles, or Bills-Chiefs",
+    "date": "2026-11-26T17:28:37+00:00"
+   },
    {
     "title": "Will Ferrell golf show 'The Hawk' canceled by Netflix after flopping in first season",
     "date": "2026-11-26T16:43:40+00:00"
@@ -195,10 +199,6 @@
    {
     "title": "Holder says 2028 Democratic presidential candidates must campaign for restoring US as a 'DEI-infused nation'",
     "date": "2026-11-26T15:40:50+00:00"
-   },
-   {
-    "title": "Hard Rock Bet Promo Code: Bet $5, Get $500 in No Sweat Bets on Thanksgiving",
-    "date": "2026-11-26T15:13:03+00:00"
    }
   ]
  }
