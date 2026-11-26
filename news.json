@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T09:51:44.802481+00:00",
+ "updated": "2026-11-26T09:56:44.485504+00:00",
  "feeds": {
   "ynet": [
    {
@@ -103,6 +103,10 @@
   ],
   "cnbc": [
    {
+    "title": "Global stocks rally as investors shrug off U.S. tariffs and AI jitters to 'fish for bargains'",
+    "date": "2026-11-26T09:51:40+00:00"
+   },
+   {
     "title": "The Nobel-winning science turning ‘water harvesting’ into a commercial race",
     "date": "2026-11-26T09:07:32+00:00"
    },
@@ -111,8 +115,8 @@
     "date": "2026-11-26T09:02:30+00:00"
    },
    {
-    "title": "Global stocks rally as investors shrug off U.S. tariffs and AI jitters",
-    "date": "2026-11-26T08:42:26+00:00"
+    "title": "Latin America has the copper and energy the AI build-out needs. Infrastructure is the test",
+    "date": "2026-11-26T08:59:11+00:00"
    },
    {
     "title": "U.S. tariff-hike threats pile pressure on partners to sign trade deals",
@@ -145,10 +149,6 @@
    {
     "title": "Hedge funds are no longer just for the rich. They’re wooing everyday investors",
     "date": "2026-11-26T04:20:18+00:00"
-   },
-   {
-    "title": "How Trump’s latest tariff moves hand India an edge over rival Asian exporters",
-    "date": "2026-11-26T04:12:18+00:00"
    }
   ],
   "fox": [
