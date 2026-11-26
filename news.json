@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T13:51:53.052549+00:00",
+ "updated": "2026-11-26T13:56:53.041138+00:00",
  "feeds": {
   "ynet": [
    {
@@ -153,6 +153,10 @@
   ],
   "fox": [
    {
+    "title": "Your holiday shopping data needs a cleanup before Black Friday",
+    "date": "2026-11-26T13:43:19+00:00"
+   },
+   {
     "title": "Trump, NATO chief push Russia to avoid any actions that would 'expand the war' with Ukraine",
     "date": "2026-11-26T13:16:51+00:00"
    },
@@ -195,10 +199,6 @@
    {
     "title": "Secret Pentagon UFO hunt drew blueprints for hidden Nevada bunker to store ‘exotic’ materials",
     "date": "2026-11-26T12:00:48+00:00"
-   },
-   {
-    "title": "7 iconic Thanksgiving dishes Americans love to hate but keep serving every year",
-    "date": "2026-11-26T12:00:21+00:00"
    }
   ]
  }
