@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T08:41:45.317442+00:00",
+ "updated": "2026-11-26T08:46:44.547834+00:00",
  "feeds": {
   "ynet": [
    {
@@ -103,6 +103,10 @@
   ],
   "cnbc": [
    {
+    "title": "Global stocks rally as investors shrug off U.S. tariffs and AI jitters",
+    "date": "2026-11-26T08:42:26+00:00"
+   },
+   {
     "title": "Norse Atlantic suspends all flights, warns it may file for bankruptcy after share price collapse",
     "date": "2026-11-26T08:25:47+00:00"
    },
@@ -113,10 +117,6 @@
    {
     "title": "The Nobel-winning science turning ‘water harvesting’ into a commercial race",
     "date": "2026-11-26T08:06:48+00:00"
-   },
-   {
-    "title": "Asia-Pacific markets close higher as investors look past fresh U.S. tariffs",
-    "date": "2026-11-26T08:00:27+00:00"
    },
    {
     "title": "Taking on Starlink: Europe’s largest satellite factory opens in push to rival Musk",
