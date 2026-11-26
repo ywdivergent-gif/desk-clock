@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T23:12:09.147822+00:00",
+ "updated": "2026-11-26T23:17:09.240135+00:00",
  "feeds": {
   "ynet": [
    {
@@ -153,6 +153,10 @@
   ],
   "fox": [
    {
+    "title": "Universities, schools nationwide use Thanksgiving as chance to promote 'Day of Mourning' and decolonization",
+    "date": "2026-11-26T23:00:47+00:00"
+   },
+   {
     "title": "Chris Van Hollen gains celebrity donor backing as Fonda, De Niro and more support ditching Schumer in letter",
     "date": "2026-11-26T22:34:56+00:00"
    },
@@ -195,10 +199,6 @@
    {
     "title": "Jennifer Lawrence ranks Chris Pratt as her ‘worst’ on-screen kiss",
     "date": "2026-11-26T19:29:40+00:00"
-   },
-   {
-    "title": "EPA reports 'zero detection of airborne lead' day after Iowa lead azide detonation",
-    "date": "2026-11-26T19:20:16+00:00"
    }
   ]
  }
