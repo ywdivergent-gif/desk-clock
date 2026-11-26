@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T05:31:38.064751+00:00",
+ "updated": "2026-11-26T05:36:44.543030+00:00",
  "feeds": {
   "ynet": [
    {
@@ -53,55 +53,59 @@
   ],
   "ynetnews": [
    {
-    "title": "Report: NSA outage disrupts key Middle East intelligence hub amid US war with Iran",
-    "date": "2026-11-19T11:05:38+00:00"
+    "title": "Report: North Korea helping Iran develop launch systems inside underground missile cities",
+    "date": "2026-11-25T09:53:30+00:00"
    },
    {
-    "title": "21 hours in economy: Mexico's president goes viral for humble trip to China summit",
-    "date": "2026-11-19T09:58:23+00:00"
+    "title": "From immigrant transit camp to state comptroller: the rise of Supreme Court outsider Yosef Elron",
+    "date": "2026-11-25T09:34:44+00:00"
    },
    {
-    "title": "Liberman to receive security briefing from Netanyahu after Bennett meeting rattles opposition",
-    "date": "2026-11-19T09:52:48+00:00"
+    "title": "Five sentenced to up to seven years in prison over 2021 Bat Yam mob attack of Arab man",
+    "date": "2026-11-25T08:48:58+00:00"
    },
    {
-    "title": "Trump, Xi and Putin hold historic three-way summit in China amid global tensions",
-    "date": "2026-11-19T09:40:29+00:00"
+    "title": "Eisenkot bloc prepares to swear in government next week, with pressure mounting on Shas",
+    "date": "2026-11-25T08:06:31+00:00"
    },
    {
-    "title": "Ultra-Orthodox protesters plan rush-hour highway blockade over draft dodger's arrest",
-    "date": "2026-11-19T08:41:45+00:00"
+    "title": "Knesset set for showdown over Oct. 7 inquiry, Netanyahu eligibility and draft dodgers",
+    "date": "2026-11-25T07:46:58+00:00"
    },
    {
-    "title": "Jordan's $6.6 billion water revolution: why it matters for Israel",
-    "date": "2026-11-19T07:15:23+00:00"
+    "title": "Liberman reverses course, opens door to government backed by ultra-Orthodox parties and Ra’am",
+    "date": "2026-11-25T06:15:38+00:00"
    },
    {
-    "title": "'Revenge': northern Israel mosque set on fire in suspected hate crime",
-    "date": "2026-11-19T06:42:58+00:00"
+    "title": "Son of Israel’s ‘godfather’ returns in handcuffs: inside Eran Haya’s extraordinary extradition",
+    "date": "2026-11-25T05:32:13+00:00"
    },
    {
-    "title": "Berlin's far-left Die Linke faces new Hezbollah-linked mosque scandal",
-    "date": "2026-11-19T04:00:37+00:00"
+    "title": "Trump signals narrowing window for Iran strikes: ‘We have funding through the end of January’",
+    "date": "2026-11-25T05:20:43+00:00"
    },
    {
-    "title": "Armed with an ax, pro-Palestinian activist destroys $60 million US military plane",
-    "date": "2026-11-19T03:40:39+00:00"
+    "title": "Days, weeks or months? Iran's chemical weapons threat and Israel's dilemma over when to strike",
+    "date": "2026-11-25T04:09:55+00:00"
    },
    {
-    "title": "From 35 minutes to 10: Dubai's flying taxis move closer to takeoff",
-    "date": "2026-11-19T02:26:00+00:00"
+    "title": "China suspected in AI-powered cyberattack on CIA and US intelligence agencies",
+    "date": "2026-11-25T02:02:24+00:00"
    },
    {
-    "title": "Netanyahu pushes for 4-7 day Iran war as Trump hesitates, NYT reports",
-    "date": "2026-11-19T01:59:53+00:00"
+    "title": "90 suspected warheads and a mystery at Dimona: US scientists shed light on Israel's nuclear arsenal",
+    "date": "2026-11-25T00:23:30+00:00"
    },
    {
-    "title": "Inside the Muslim religious sect in the UK raided over child rape, trafficking allegations",
-    "date": "2026-11-18T22:44:02+00:00"
+    "title": "Israeli teacher sentenced to 10 years for funding Hamas, providing intelligence on defense facility",
+    "date": "2026-11-24T21:12:14+00:00"
    }
   ],
   "cnbc": [
+   {
+    "title": "Beware higher correlation but nab high U.S. credit yields, fund managers say",
+    "date": "2026-11-26T05:36:01+00:00"
+   },
    {
     "title": "North Korea's Kim calls for nuclear arsenal expansion, says status 'will never change'",
     "date": "2026-11-26T05:16:38+00:00"
@@ -145,10 +149,6 @@
    {
     "title": "Norse Atlantic flights suspended after warning finances 'critical'",
     "date": "2026-11-26T01:52:20+00:00"
-   },
-   {
-    "title": "Where the market may be mispricing risk most: AI boom, volatility, high-yield bonds",
-    "date": "2026-11-26T01:34:58+00:00"
    }
   ],
   "fox": [
