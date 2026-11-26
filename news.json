@@ -1,7 +1,11 @@
 {
- "updated": "2026-11-26T04:46:38.199560+00:00",
+ "updated": "2026-11-26T04:51:38.473411+00:00",
  "feeds": {
   "ynet": [
+   {
+    "title": "חשד לרצח בשרון: צעיר נמצא ירוי ברכב",
+    "date": "2026-11-26T04:47:00+00:00"
+   },
    {
     "title": "\"מערכת גשם חורפית של ממש\" | מה שצפוי בשבוע הבא",
     "date": "2026-11-26T03:30:59+00:00"
@@ -45,10 +49,6 @@
    {
     "title": "המשטרה חוקרת: פעוט כבן שנתיים נמצא חבול במעלה אדומים, מותו נקבע בבי\"ח",
     "date": "2026-11-25T20:54:51+00:00"
-   },
-   {
-    "title": "נשבר שיא ההגירה לאיים הספרדיים, תינוק נולד באמצע המסע: \"צריכים סיוע צבאי\"",
-    "date": "2026-11-25T20:29:05+00:00"
    }
   ],
   "ynetnews": [
@@ -103,6 +103,10 @@
   ],
   "cnbc": [
    {
+    "title": "South Korea's Kospi leads gains as tech rebound lifts Asia markets",
+    "date": "2026-11-26T04:49:03+00:00"
+   },
+   {
     "title": "Hedge funds are no longer just for the rich. They’re wooing everyday investors",
     "date": "2026-11-26T04:20:18+00:00"
    },
@@ -137,10 +141,6 @@
    {
     "title": "Norse Atlantic flights suspended after warning finances 'critical'",
     "date": "2026-11-26T01:52:20+00:00"
-   },
-   {
-    "title": "South Korea's Kospi leads gains as tech rebound lifts Asia markets",
-    "date": "2026-11-26T01:45:52+00:00"
    },
    {
     "title": "Where the market may be mispricing risk most: AI boom, volatility, high-yield bonds",
