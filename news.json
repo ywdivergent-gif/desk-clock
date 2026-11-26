@@ -1,7 +1,11 @@
 {
- "updated": "2026-11-26T18:42:01.914551+00:00",
+ "updated": "2026-11-26T18:47:01.148365+00:00",
  "feeds": {
   "ynet": [
+   {
+    "title": "מחאה בהפתעה: חרדים קיצוניים חוסמים את אחת הכניסות לנתב\"ג",
+    "date": "2026-11-26T18:45:27+00:00"
+   },
    {
     "title": "חולה אלצהיימר נעלם מביתו. הוא אותר כ-160 ק\"מ משם, מנגן בפסנתר",
     "date": "2026-11-26T18:36:58+00:00"
@@ -45,10 +49,6 @@
    {
     "title": "בתי חולים כמוקדי עינויים: כך חמאס מנסה לשמר את שלטונו בעזה",
     "date": "2026-11-26T15:40:15+00:00"
-   },
-   {
-    "title": "גולדקנופף: ליברמן ביקש סליחה. אם הוא נכנע לרבנים - מה זה משנה מה אמר?",
-    "date": "2026-11-26T14:57:50+00:00"
    }
   ],
   "ynetnews": [
@@ -104,7 +104,7 @@
   "cnbc": [
    {
     "title": "Trump demands probe into ‘record setting error’ after third-quarter GDP data gets massive revision higher",
-    "date": "2026-11-26T18:32:29+00:00"
+    "date": "2026-11-26T18:44:15+00:00"
    },
    {
     "title": "Microdrama apps chase profits as Hollywood moves into short-form, vertical video",
