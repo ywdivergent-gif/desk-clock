@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T10:01:44.964194+00:00",
+ "updated": "2026-11-26T10:06:44.575929+00:00",
  "feeds": {
   "ynet": [
    {
@@ -103,6 +103,10 @@
   ],
   "cnbc": [
    {
+    "title": "U.S. tariff-hike threats pile pressure on partners to sign trade deals",
+    "date": "2026-11-26T10:02:44+00:00"
+   },
+   {
     "title": "Global stocks rally as investors shrug off U.S. tariffs and AI jitters to 'fish for bargains'",
     "date": "2026-11-26T09:51:40+00:00"
    },
@@ -117,10 +121,6 @@
    {
     "title": "Latin America has the copper and energy the AI build-out needs. Infrastructure is the test",
     "date": "2026-11-26T08:59:11+00:00"
-   },
-   {
-    "title": "U.S. tariff-hike threats pile pressure on partners to sign trade deals",
-    "date": "2026-11-26T08:09:39+00:00"
    },
    {
     "title": "Taking on Starlink: Europe’s largest satellite factory opens in push to rival Musk",
@@ -152,6 +152,10 @@
    }
   ],
   "fox": [
+   {
+    "title": "Holiday staples still surging ahead of Thanksgiving dinner. Economist shares how to save on the spread",
+    "date": "2026-11-26T10:00:15+00:00"
+   },
    {
     "title": "Thanksgiving reminds us that gratitude, not grievance, carries a nation through",
     "date": "2026-11-26T09:50:23+00:00"
@@ -195,10 +199,6 @@
    {
     "title": "USC benches marching band from on-field shows for UCLA game over crude sign prank on Bruins campus",
     "date": "2026-11-26T02:41:31+00:00"
-   },
-   {
-    "title": "Super Bowl champion, Steelers teammate of Aaron Rodgers shows support for quarterback after dramatic fallout",
-    "date": "2026-11-26T02:31:00+00:00"
    }
   ]
  }
