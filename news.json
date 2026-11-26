@@ -1,13 +1,17 @@
 {
- "updated": "2026-11-26T08:21:44.559843+00:00",
+ "updated": "2026-11-26T08:26:44.661694+00:00",
  "feeds": {
   "ynet": [
+   {
+    "title": "ליעם נהרג בתאונה במעלה אדומים, הנהג טען בחקירתו: לא ידעתי שפגעתי בו",
+    "date": "2026-11-26T08:21:06+00:00"
+   },
    {
     "title": "מכלית דלק התהפכה, מכוניות עלו באש: 31 הרוגים באסון בכביש המהיר במצרים | תיעוד",
     "date": "2026-11-26T08:17:55+00:00"
    },
    {
-    "title": "תושב הגליל יואשם: תכנן לרצוח איש כוחות הביטחון",
+    "title": "כתב אישום נגד תושב הגליל: תכנן לרצוח לוחם מג\"ב במילואים מהיישוב שבו גר",
     "date": "2026-11-26T08:08:46+00:00"
    },
    {
@@ -23,16 +27,12 @@
     "date": "2026-11-26T07:38:39+00:00"
    },
    {
-    "title": "איזנקוט נערך לממשלה בלי הליכוד - וחידש את המגעים עם הדמוקרטים",
+    "title": "איזנקוט נערך לממשלה בלי הליכוד - וחידש את המו\"מ עם הדמוקרטים | התיקים שדורש גולן",
     "date": "2026-11-26T07:30:46+00:00"
    },
    {
     "title": "הסגרתו של ראש ארגון הפשע הושלמה: ערן חייא נחת בישראל",
     "date": "2026-11-26T06:13:50+00:00"
-   },
-   {
-    "title": "ליעם נהרג בתאונה במעלה אדומים, הנהג טען בחקירתו: לא ידעתי שפגעתי בו",
-    "date": "2026-11-26T05:54:56+00:00"
    },
    {
     "title": "10 דקות שטרפו קלפים של עשור שלם: כל התחנות במשפט נתניהו",
@@ -103,12 +103,16 @@
   ],
   "cnbc": [
    {
-    "title": "Norse Atlantic suspends all flights, warns it may file for bankruptcy",
-    "date": "2026-11-26T08:16:19+00:00"
+    "title": "Norse Atlantic suspends all flights, warns it may file for bankruptcy after share price collapse",
+    "date": "2026-11-26T08:25:47+00:00"
    },
    {
     "title": "U.S. tariff-hike threats pile pressure on partners to sign trade deals",
     "date": "2026-11-26T08:09:39+00:00"
+   },
+   {
+    "title": "The Nobel-winning science turning ‘water harvesting’ into a commercial race",
+    "date": "2026-11-26T08:06:48+00:00"
    },
    {
     "title": "Asia-Pacific markets close higher as investors look past fresh U.S. tariffs",
@@ -145,10 +149,6 @@
    {
     "title": "How Trump’s latest tariff moves hand India an edge over rival Asian exporters",
     "date": "2026-11-26T04:12:18+00:00"
-   },
-   {
-    "title": "Judge blocks FCC early-renewal process for Disney-owned ABC stations, for now",
-    "date": "2026-11-26T04:00:15+00:00"
    }
   ],
   "fox": [
