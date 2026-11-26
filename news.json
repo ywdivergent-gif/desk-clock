@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T00:41:38.561875+00:00",
+ "updated": "2026-11-26T00:46:38.232135+00:00",
  "feeds": {
   "ynet": [
    {
@@ -153,6 +153,10 @@
   ],
   "fox": [
    {
+    "title": "Thanksgiving pie prices: Most expensive and the best bang for your buck",
+    "date": "2026-11-26T00:32:27+00:00"
+   },
+   {
     "title": "Taking Ozempic or Wegovy could lead to extra cancer screenings, new study suggests",
     "date": "2026-11-26T00:02:07+00:00"
    },
@@ -195,10 +199,6 @@
    {
     "title": "Duran Duran guitarist Andy Taylor dies at 65; bandmates pay emotional tribute",
     "date": "2026-11-25T21:58:35+00:00"
-   },
-   {
-    "title": "Pat Freiermuth sidesteps Aaron Rodgers' claims about Mike McCarthy and Steelers coaching staff",
-    "date": "2026-11-25T21:55:08+00:00"
    }
   ]
  }
