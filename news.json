@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T19:17:01.444055+00:00",
+ "updated": "2026-11-26T19:22:01.623201+00:00",
  "feeds": {
   "ynet": [
    {
@@ -153,6 +153,10 @@
   ],
   "fox": [
    {
+    "title": "Ukrainian intelligence says North Korea paused missile deliveries to Russia amid friction over South Korea",
+    "date": "2026-11-26T19:10:13+00:00"
+   },
+   {
     "title": "Politics, money and Thanksgiving dinner: Just two words can help avoid argument",
     "date": "2026-11-26T19:00:55+00:00"
    },
@@ -195,10 +199,6 @@
    {
     "title": "Bangkok oil refinery explosion injures at least 9, Thailand company monitoring air quality",
     "date": "2026-11-26T18:21:59+00:00"
-   },
-   {
-    "title": "Lexie Hull backflips in her bikini on her honeymoon, cheater caught at Thanksgiving dinner & unhinged partying",
-    "date": "2026-11-26T18:18:46+00:00"
    }
   ]
  }
