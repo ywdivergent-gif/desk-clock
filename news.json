@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-26T10:11:44.504994+00:00",
+ "updated": "2026-11-26T10:16:44.630810+00:00",
  "feeds": {
   "ynet": [
+   {
+    "title": "נזיפת השופט במנדלבליט, אחרי הדרמה במשפט נתניהו: \"המשכת הלאה בלי לבדוק?!\"",
+    "date": "2026-11-26T10:14:52+00:00"
+   },
+   {
+    "title": "דרש פרוטקשן על שירותי שמירה - ולא סיפק אותם: אישום נגד ראש המועצה מהצפון",
+    "date": "2026-11-26T10:11:19+00:00"
+   },
    {
     "title": "מטרת איזנקוט: לסגור הסכמים עם הגוש עד מוצ\"ש | הציר החרדי - ושאלת בנט",
     "date": "2026-11-26T09:45:47+00:00"
@@ -41,14 +49,6 @@
    {
     "title": "המתקפה של ביטאון ש\"ס על גוש איזנקוט - והפיצול במסרים בתוך יהדות התורה",
     "date": "2026-11-26T08:03:35+00:00"
-   },
-   {
-    "title": "נזיפת השופט במנדלבליט, אחרי הדרמה במשפט נתניהו: \"המשכת הלאה בלי לבדוק?!\"",
-    "date": "2026-11-26T08:01:16+00:00"
-   },
-   {
-    "title": "מגעים בין נציגי איזנקוט לאבו מאזן? הדיווח על \"שיח בנוגע לעתיד עזה\" - וההכחשה",
-    "date": "2026-11-26T07:38:39+00:00"
    }
   ],
   "ynetnews": [
@@ -153,6 +153,10 @@
   ],
   "fox": [
    {
+    "title": "Meet the mastermind behind New York City's iconic Christmas light displays and holiday magic",
+    "date": "2026-11-26T10:09:44+00:00"
+   },
+   {
     "title": "Holiday staples still surging ahead of Thanksgiving dinner. Economist shares how to save on the spread",
     "date": "2026-11-26T10:00:15+00:00"
    },
@@ -195,10 +199,6 @@
    {
     "title": "FedEx cargo jet overshoots runway at Miami International Airport and stops just short of busy road",
     "date": "2026-11-26T02:46:04+00:00"
-   },
-   {
-    "title": "USC benches marching band from on-field shows for UCLA game over crude sign prank on Bruins campus",
-    "date": "2026-11-26T02:41:31+00:00"
    }
   ]
  }
