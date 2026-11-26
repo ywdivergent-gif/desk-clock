@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T08:11:44.523690+00:00",
+ "updated": "2026-11-26T08:16:44.515396+00:00",
  "feeds": {
   "ynet": [
    {
@@ -103,6 +103,10 @@
   ],
   "cnbc": [
    {
+    "title": "Norse Atlantic suspends all flights, warns it may file for bankruptcy",
+    "date": "2026-11-26T08:16:19+00:00"
+   },
+   {
     "title": "U.S. tariff-hike threats pile pressure on partners to sign trade deals",
     "date": "2026-11-26T08:09:39+00:00"
    },
@@ -145,10 +149,6 @@
    {
     "title": "Judge blocks FCC early-renewal process for Disney-owned ABC stations, for now",
     "date": "2026-11-26T04:00:15+00:00"
-   },
-   {
-    "title": "South Korea upgrades growth forecast, raises benchmark rates to highest in two years",
-    "date": "2026-11-26T03:32:53+00:00"
    }
   ],
   "fox": [
