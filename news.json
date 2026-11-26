@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T20:42:01.992674+00:00",
+ "updated": "2026-11-26T20:47:01.402833+00:00",
  "feeds": {
   "ynet": [
    {
@@ -119,6 +119,10 @@
     "date": "2026-11-26T16:12:47+00:00"
    },
    {
+    "title": "Buyer beware? Nvidia's volatile swings expose risks of single-stock ETFs",
+    "date": "2026-11-26T16:00:01+00:00"
+   },
+   {
     "title": "Spain’s Pablo Hernández de Cos set to lead European Central Bank",
     "date": "2026-11-26T15:28:26+00:00"
    },
@@ -145,10 +149,6 @@
    {
     "title": "Global stocks rally as investors shrug off U.S. tariffs and AI jitters to 'fish for bargains'",
     "date": "2026-11-26T12:22:25+00:00"
-   },
-   {
-    "title": "Switzerland’s biggest bank set for showdown with lawmakers as capital fight intensifies amid crisis planning",
-    "date": "2026-11-26T11:17:39+00:00"
    }
   ],
   "fox": [
