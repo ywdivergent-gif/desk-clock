@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T09:56:44.485504+00:00",
+ "updated": "2026-11-26T10:01:44.964194+00:00",
  "feeds": {
   "ynet": [
    {
@@ -153,6 +153,10 @@
   ],
   "fox": [
    {
+    "title": "Thanksgiving reminds us that gratitude, not grievance, carries a nation through",
+    "date": "2026-11-26T09:50:23+00:00"
+   },
+   {
     "title": "Shooting during New Jersey high school football game leaves 1 dead",
     "date": "2026-11-26T07:49:52+00:00"
    },
@@ -195,10 +199,6 @@
    {
     "title": "Super Bowl champion, Steelers teammate of Aaron Rodgers shows support for quarterback after dramatic fallout",
     "date": "2026-11-26T02:31:00+00:00"
-   },
-   {
-    "title": "Netanyahu declares corruption trial has 'fallen apart' after judges question key charges",
-    "date": "2026-11-26T02:26:48+00:00"
    }
   ]
  }
