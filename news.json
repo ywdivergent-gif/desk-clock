@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T16:11:53.053420+00:00",
+ "updated": "2026-11-26T16:16:52.861503+00:00",
  "feeds": {
   "ynet": [
    {
@@ -104,7 +104,7 @@
   "cnbc": [
    {
     "title": "Trump, NATO chief caution Russia as attacks on Ukraine’s energy infrastructure intensify",
-    "date": "2026-11-26T16:05:47+00:00"
+    "date": "2026-11-26T16:12:47+00:00"
    },
    {
     "title": "Spain’s Pablo Hernández de Cos set to lead European Central Bank",
@@ -153,6 +153,10 @@
   ],
   "fox": [
    {
+    "title": "Former NFL players defend Aaron Rodgers after Steelers release him amid Mike McCarthy dispute",
+    "date": "2026-11-26T16:07:47+00:00"
+   },
+   {
     "title": "Kelsey Grammer calls American Dream a ‘gift’ he wants to pass down to his 8 children",
     "date": "2026-11-26T16:00:53+00:00"
    },
@@ -195,10 +199,6 @@
    {
     "title": "Thanksgiving on Ozempic: Clever tricks to survive the feast without offending the host",
     "date": "2026-11-26T14:50:55+00:00"
-   },
-   {
-    "title": "Betr Promo Code FOXNEWS: Unlock $200 + 4 Free Picks Ahead of a Stacked Thanksgiving NFL Slate",
-    "date": "2026-11-26T14:40:24+00:00"
    }
   ]
  }
