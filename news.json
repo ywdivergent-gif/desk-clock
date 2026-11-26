@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T00:01:37.774461+00:00",
+ "updated": "2026-11-26T00:06:38.483421+00:00",
  "feeds": {
   "ynet": [
    {
@@ -127,10 +127,6 @@
     "date": "2026-11-25T21:17:25+00:00"
    },
    {
-    "title": "10-year Treasury yield slides despite sticky inflation data as investors buy bonds for protection",
-    "date": "2026-11-25T21:02:05+00:00"
-   },
-   {
     "title": "Vance says he was assured Jensen Huang was not under DOJ investigation",
     "date": "2026-11-25T21:00:08+00:00"
    },
@@ -149,9 +145,17 @@
    {
     "title": "Saudi national in OpenAI bugging case is out on bond after DOJ tries to block release",
     "date": "2026-11-25T19:11:53+00:00"
+   },
+   {
+    "title": "Anthropic teeters at $1 trillion market cap. Why it may stabilize from here",
+    "date": "2026-11-25T18:36:39+00:00"
    }
   ],
   "fox": [
+   {
+    "title": "Ms Rachel calls silence on Gaza conflict 'f---ed up,' says it's upset her so much she now swears",
+    "date": "2026-11-25T23:55:48+00:00"
+   },
    {
     "title": "Tony Romo lands new job at sports gaming company Betr months after his CBS departure over OWI arrest",
     "date": "2026-11-25T23:30:38+00:00"
@@ -195,10 +199,6 @@
    {
     "title": "UConn head coach Geno Auriemma goes scorched earth on his team after loss to South Carolina",
     "date": "2026-11-25T21:47:03+00:00"
-   },
-   {
-    "title": "100th Macy’s Thanksgiving Day Parade postponed: What to know",
-    "date": "2026-11-25T21:46:31+00:00"
    }
   ]
  }
