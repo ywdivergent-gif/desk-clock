@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T03:01:38.441128+00:00",
+ "updated": "2026-11-26T03:06:38.122232+00:00",
  "feeds": {
   "ynet": [
    {
@@ -103,6 +103,10 @@
   ],
   "cnbc": [
    {
+    "title": "S&P warns Nvidia credit rating could be cut over 'rising' management and governance risk",
+    "date": "2026-11-26T02:57:32+00:00"
+   },
+   {
     "title": "SpaceX wins FCC approval to deploy 1 million orbital data center satellites",
     "date": "2026-11-26T02:35:39+00:00"
    },
@@ -117,6 +121,10 @@
    {
     "title": "South Korea upgrades growth forecast, raises benchmark rates to highest in two years",
     "date": "2026-11-26T01:50:21+00:00"
+   },
+   {
+    "title": "South Korea's Kospi leads gains as tech rebound lifts Asia markets",
+    "date": "2026-11-26T01:45:52+00:00"
    },
    {
     "title": "Where the market may be mispricing risk most: AI boom, volatility, high-yield bonds",
@@ -141,17 +149,17 @@
    {
     "title": "Liesman: Why Greenspan could bet on productivity — and Warsh needs to hike",
     "date": "2026-11-25T21:56:43+00:00"
-   },
-   {
-    "title": "Bullish hopes spring as traders bet against a higher VIX: Options Action Live",
-    "date": "2026-11-25T21:26:47+00:00"
-   },
-   {
-    "title": "Vance says he was assured Jensen Huang was not under DOJ investigation",
-    "date": "2026-11-25T21:00:08+00:00"
    }
   ],
   "fox": [
+   {
+    "title": "Packers' Christian Watson takes massive hit from Rams' Kamren Kinchens, leads to defender's ejection",
+    "date": "2026-11-26T02:56:07+00:00"
+   },
+   {
+    "title": "FedEx cargo jet overshoots runway at Miami International Airport and stops just short of busy road",
+    "date": "2026-11-26T02:46:04+00:00"
+   },
    {
     "title": "USC suspends entire marching band from UCLA game over crude sign prank on Bruins campus",
     "date": "2026-11-26T02:41:31+00:00"
@@ -191,14 +199,6 @@
    {
     "title": "Ms Rachel calls silence on Gaza conflict 'f---ed up,' says it's upset her so much she now swears",
     "date": "2026-11-25T23:55:48+00:00"
-   },
-   {
-    "title": "Tony Romo lands new job at sports gaming company Betr months after his CBS departure over OWI arrest",
-    "date": "2026-11-25T23:30:38+00:00"
-   },
-   {
-    "title": "Steelers officially release Aaron Rodgers and keep coach Mike McCarthy on the job despite embarrassing claims",
-    "date": "2026-11-25T23:25:27+00:00"
    }
   ]
  }
