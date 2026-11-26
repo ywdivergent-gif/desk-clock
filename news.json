@@ -1,7 +1,11 @@
 {
- "updated": "2026-11-26T19:07:01.225079+00:00",
+ "updated": "2026-11-26T19:12:01.446662+00:00",
  "feeds": {
   "ynet": [
+   {
+    "title": "מבטיח \"מסלול התנגשות\": האיש שמוביל את המרד הפרוגרסיבי נגד \"שומר ישראל\" בסנאט",
+    "date": "2026-11-26T19:05:03+00:00"
+   },
    {
     "title": "\"לזה משלמים\": הפרסומת ב\"סאטרדיי נייט לייב\" עם ילדה פלסטינית קטועת רגל - והזעם",
     "date": "2026-11-26T18:48:10+00:00"
@@ -45,10 +49,6 @@
    {
     "title": "ליעם הקטן הובא למנוחות, אביו ספד בדמעות: \"מילאת את האחים שלך בשמחה\"",
     "date": "2026-11-26T16:13:37+00:00"
-   },
-   {
-    "title": "גישור פלילי על הפרק: בהרב-מיארה הייתה רוצה להמשיך במשפט כרגיל - אבל זה לא קביל עוד",
-    "date": "2026-11-26T16:01:15+00:00"
    }
   ],
   "ynetnews": [
@@ -131,6 +131,10 @@
     "date": "2026-11-26T13:34:51+00:00"
    },
    {
+    "title": "Want to save money this winter? Start by asking why",
+    "date": "2026-11-26T13:00:01+00:00"
+   },
+   {
     "title": "Planes, trains and automobiles: The best ways to beat travel fatigue—so you can come home feeling rested and fulfilled",
     "date": "2026-11-26T13:00:01+00:00"
    },
@@ -145,13 +149,13 @@
    {
     "title": "Switzerland’s biggest bank set for showdown with lawmakers as capital fight intensifies amid crisis planning",
     "date": "2026-11-26T11:17:39+00:00"
-   },
-   {
-    "title": "The Nobel-winning science turning ‘water harvesting’ into a commercial race",
-    "date": "2026-11-26T11:01:13+00:00"
    }
   ],
   "fox": [
+   {
+    "title": "Politics, money and Thanksgiving dinner: Just two words can help avoid argument",
+    "date": "2026-11-26T19:00:55+00:00"
+   },
    {
     "title": "Bet365 Thanksgiving Bonus Code: Bet $10, Get $200 on the NFL Triple-Header Today",
     "date": "2026-11-26T18:54:08+00:00"
@@ -195,10 +199,6 @@
    {
     "title": "Lexie Hull backflips in her bikini on her honeymoon, cheater caught at Thanksgiving dinner & unhinged partying",
     "date": "2026-11-26T18:18:46+00:00"
-   },
-   {
-    "title": "UK antisemitism advisor launches probe into BBC, says culture demands Jewish staffers 'justify' existence",
-    "date": "2026-11-26T18:17:19+00:00"
    }
   ]
  }
