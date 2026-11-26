@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-26T08:01:44.609130+00:00",
+ "updated": "2026-11-26T08:06:44.632761+00:00",
  "feeds": {
   "ynet": [
+   {
+    "title": "המתקפה של ביטאון ש\"ס על גוש איזנקוט - והפיצול במסרים בתוך יהדות התורה",
+    "date": "2026-11-26T08:03:35+00:00"
+   },
+   {
+    "title": "יום אחרי הדרמה במשפט: מנדלבליט מתייצב מול סנגורי נתניהו",
+    "date": "2026-11-26T08:01:16+00:00"
+   },
    {
     "title": "מגעים בין נציגי איזנקוט לאבו מאזן? \"שיח בנוגע לעתיד עזה\"",
     "date": "2026-11-26T07:38:39+00:00"
@@ -41,14 +49,6 @@
    {
     "title": "איזנקוט מתכנן ממשלה: דמי הרצינות לחרדים, התיקים שיישמרו לש\"ס ומה יקבלו גולן, בנט וליברמן",
     "date": "2026-11-25T22:21:49+00:00"
-   },
-   {
-    "title": "אשם בכל מקרה",
-    "date": "2026-11-25T22:08:49+00:00"
-   },
-   {
-    "title": "צל כבד על המערכת כולה",
-    "date": "2026-11-25T22:07:32+00:00"
    }
   ],
   "ynetnews": [
@@ -153,6 +153,10 @@
   ],
   "fox": [
    {
+    "title": "Shooting during New Jersey high school football game leaves 1 dead",
+    "date": "2026-11-26T07:49:52+00:00"
+   },
+   {
     "title": "Judge temporarily blocks FCC from reviewing ABC station licenses amid First Amendment fight",
     "date": "2026-11-26T07:33:03+00:00"
    },
@@ -195,10 +199,6 @@
    {
     "title": "Netanyahu declares corruption trial has 'fallen apart' after judges question key charges",
     "date": "2026-11-26T02:26:48+00:00"
-   },
-   {
-    "title": "Aaron Rodgers' ex-Packers teammate makes bold prediction about QB’s NFL future after shocking Steelers exit",
-    "date": "2026-11-26T01:58:58+00:00"
    }
   ]
  }
