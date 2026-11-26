@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T06:46:44.615235+00:00",
+ "updated": "2026-11-26T06:51:44.828826+00:00",
  "feeds": {
   "ynet": [
    {
@@ -153,6 +153,10 @@
   ],
   "fox": [
    {
+    "title": "Pritzker accused of turning education tax credit into partisan fight by opting out of program: 'Sad to see'",
+    "date": "2026-11-26T06:46:28+00:00"
+   },
+   {
     "title": "Rams birthday boy Blake Corum runs all over Green Bay Packers' defense in 26-13 Thanksgiving Eve win",
     "date": "2026-11-26T05:07:54+00:00"
    },
@@ -195,10 +199,6 @@
    {
     "title": "TNA's KC Navarro details battle to get to Destination X pay-per-view in midst of travel nightmare",
     "date": "2026-11-26T01:38:23+00:00"
-   },
-   {
-    "title": "Six Florida family members killed in plane crash on way home from fishing trip identified",
-    "date": "2026-11-26T00:46:16+00:00"
    }
   ]
  }
