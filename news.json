@@ -1,7 +1,11 @@
 {
- "updated": "2026-11-26T17:52:01.535719+00:00",
+ "updated": "2026-11-26T17:57:01.637861+00:00",
  "feeds": {
   "ynet": [
+   {
+    "title": "גורמי הביטחון אישרו: פליי דובאי תוכל לשוב לטוס לישראל | זה המועד המתוכנן",
+    "date": "2026-11-26T17:51:51+00:00"
+   },
    {
     "title": "בנט דחה פגישת מו\"מ עם איזנקוט: המסר שהעביר - והדרישה להצגת מתווה גיוס החרדים",
     "date": "2026-11-26T17:22:20+00:00"
@@ -45,10 +49,6 @@
    {
     "title": "שני איטלקים נהרגו במתקפת כטב\"מים איראנית בכוויית, טהרן טוענת: לא תקפנו",
     "date": "2026-11-26T14:10:44+00:00"
-   },
-   {
-    "title": "איזנקוט וגולן סיכמו על הסכם קואליציוני: אלו התיקים שיקבלו הדמוקרטים בממשלת שינוי",
-    "date": "2026-11-26T13:45:29+00:00"
    }
   ],
   "ynetnews": [
@@ -103,6 +103,10 @@
   ],
   "cnbc": [
    {
+    "title": "Semiconductor chips are the new oil. Here's why",
+    "date": "2026-11-26T17:52:15+00:00"
+   },
+   {
     "title": "Microdrama apps chase profits as Hollywood moves into short-form, vertical video",
     "date": "2026-11-26T17:39:23+00:00"
    },
@@ -121,10 +125,6 @@
    {
     "title": "What is ‘texture-maxxing’? The food trend putting crunch on the menu",
     "date": "2026-11-26T13:34:51+00:00"
-   },
-   {
-    "title": "Semiconductor chips are the new oil. Here's why",
-    "date": "2026-11-26T13:19:25+00:00"
    },
    {
     "title": "Planes, trains and automobiles: The best ways to beat travel fatigue—so you can come home feeling rested and fulfilled",
