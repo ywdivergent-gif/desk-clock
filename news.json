@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T00:06:38.483421+00:00",
+ "updated": "2026-11-26T00:11:37.977152+00:00",
  "feeds": {
   "ynet": [
    {
@@ -153,6 +153,14 @@
   ],
   "fox": [
    {
+    "title": "Taking Ozempic or Wegovy could lead to extra cancer screenings, new study suggests",
+    "date": "2026-11-26T00:02:07+00:00"
+   },
+   {
+    "title": "Second Circuit deals blow to Manhattan DA, breathes new life into Trump's hush-money appeal",
+    "date": "2026-11-26T00:00:15+00:00"
+   },
+   {
     "title": "Ms Rachel calls silence on Gaza conflict 'f---ed up,' says it's upset her so much she now swears",
     "date": "2026-11-25T23:55:48+00:00"
    },
@@ -191,14 +199,6 @@
    {
     "title": "Pat Freiermuth sidesteps Aaron Rodgers' claims about Mike McCarthy and Steelers coaching staff",
     "date": "2026-11-25T21:55:08+00:00"
-   },
-   {
-    "title": "Trump's birthright citizenship restrictions struck down again by DC federal judge he called 'hater'",
-    "date": "2026-11-25T21:48:11+00:00"
-   },
-   {
-    "title": "UConn head coach Geno Auriemma goes scorched earth on his team after loss to South Carolina",
-    "date": "2026-11-25T21:47:03+00:00"
    }
   ]
  }
