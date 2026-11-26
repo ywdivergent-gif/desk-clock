@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T05:16:38.215043+00:00",
+ "updated": "2026-11-26T05:21:38.154440+00:00",
  "feeds": {
   "ynet": [
    {
@@ -7,7 +7,7 @@
     "date": "2026-11-26T05:11:13+00:00"
    },
    {
-    "title": "חשד לרצח בשרון: צעיר נמצא ירוי ברכב",
+    "title": "חשד לרצח בשרון: צעיר נורה למוות ברכבו",
     "date": "2026-11-26T04:47:00+00:00"
    },
    {
@@ -103,6 +103,10 @@
   ],
   "cnbc": [
    {
+    "title": "North Korea's Kim calls for nuclear arsenal expansion, says status 'will never change'",
+    "date": "2026-11-26T05:16:38+00:00"
+   },
+   {
     "title": "South Korea's Kospi leads gains as tech rebound lifts Asia markets",
     "date": "2026-11-26T04:49:03+00:00"
    },
@@ -145,13 +149,13 @@
    {
     "title": "Where the market may be mispricing risk most: AI boom, volatility, high-yield bonds",
     "date": "2026-11-26T01:34:58+00:00"
-   },
-   {
-    "title": "SpaceX, Musk pledge to donate a share each to active Trump Accounts",
-    "date": "2026-11-26T00:27:52+00:00"
    }
   ],
   "fox": [
+   {
+    "title": "Rams birthday boy Blake Corum runs all over Green Bay Packers' defense in 26-13 Thanksgiving Eve win",
+    "date": "2026-11-26T05:07:54+00:00"
+   },
    {
     "title": "Federal judge blocks FCC from reviewing ABC station licenses early as part of agency's spat with network",
     "date": "2026-11-26T04:05:14+00:00"
@@ -195,10 +199,6 @@
    {
     "title": "Six Florida family members killed in plane crash on way home from fishing trip identified",
     "date": "2026-11-26T00:46:16+00:00"
-   },
-   {
-    "title": "Thanksgiving pie prices: Most expensive and the best bang for your buck",
-    "date": "2026-11-26T00:32:27+00:00"
    }
   ]
  }
