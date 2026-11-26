@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T17:57:01.637861+00:00",
+ "updated": "2026-11-26T18:02:01.301089+00:00",
  "feeds": {
   "ynet": [
    {
@@ -103,6 +103,10 @@
   ],
   "cnbc": [
    {
+    "title": "Trump demands probe into ‘record setting error’ after third-quarter GDP data gets massive revision higher",
+    "date": "2026-11-26T17:57:32+00:00"
+   },
+   {
     "title": "Semiconductor chips are the new oil. Here's why",
     "date": "2026-11-26T17:52:15+00:00"
    },
@@ -145,10 +149,6 @@
    {
     "title": "The Nobel-winning science turning ‘water harvesting’ into a commercial race",
     "date": "2026-11-26T11:01:13+00:00"
-   },
-   {
-    "title": "Norse Atlantic suspends all flights, warns it may file for bankruptcy after share price collapse",
-    "date": "2026-11-26T09:02:30+00:00"
    }
   ],
   "fox": [
