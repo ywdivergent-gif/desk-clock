@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T03:16:37.550769+00:00",
+ "updated": "2026-11-26T03:21:38.265932+00:00",
  "feeds": {
   "ynet": [
    {
@@ -103,16 +103,16 @@
   ],
   "cnbc": [
    {
+    "title": "S&P warns Nvidia credit rating could be cut over 'rising' management and governance risk",
+    "date": "2026-11-26T03:19:44+00:00"
+   },
+   {
     "title": "‘Your booth is waiting’: Denny’s welcomes Jensen Huang back as Nvidia CEO",
     "date": "2026-11-26T03:13:43+00:00"
    },
    {
     "title": "K-beauty stocks rally as Korean brands top Amazon bestseller lists globally ahead of Black Friday",
     "date": "2026-11-26T03:09:47+00:00"
-   },
-   {
-    "title": "S&P warns Nvidia credit rating could be cut over 'rising' management and governance risk",
-    "date": "2026-11-26T02:57:32+00:00"
    },
    {
     "title": "SpaceX wins FCC approval to deploy 1 million orbital data center satellites",
