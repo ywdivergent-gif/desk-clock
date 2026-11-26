@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T03:06:38.122232+00:00",
+ "updated": "2026-11-26T03:11:38.406947+00:00",
  "feeds": {
   "ynet": [
    {
@@ -103,6 +103,10 @@
   ],
   "cnbc": [
    {
+    "title": "K-beauty stocks rally as Korean brands top Amazon bestseller lists globally ahead of Black Friday",
+    "date": "2026-11-26T03:09:47+00:00"
+   },
+   {
     "title": "S&P warns Nvidia credit rating could be cut over 'rising' management and governance risk",
     "date": "2026-11-26T02:57:32+00:00"
    },
@@ -145,10 +149,6 @@
    {
     "title": "Macy's postpones Thanksgiving Day Parade due to severe weather",
     "date": "2026-11-25T22:26:56+00:00"
-   },
-   {
-    "title": "Liesman: Why Greenspan could bet on productivity — and Warsh needs to hike",
-    "date": "2026-11-25T21:56:43+00:00"
    }
   ],
   "fox": [
