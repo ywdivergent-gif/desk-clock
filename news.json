@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T07:36:44.527103+00:00",
+ "updated": "2026-11-26T07:41:44.590439+00:00",
  "feeds": {
   "ynet": [
    {
@@ -103,6 +103,10 @@
   ],
   "cnbc": [
    {
+    "title": "Robots could be doing household chores in just 1-2 years, Chinese EV firm says",
+    "date": "2026-11-26T07:30:11+00:00"
+   },
+   {
     "title": "Wealthy Europeans look beyond stocks amid AI selloff. Here’s where they’re investing",
     "date": "2026-11-26T07:23:42+00:00"
    },
@@ -145,13 +149,13 @@
    {
     "title": "‘Your booth is waiting’: Denny’s welcomes Jensen Huang back as Nvidia CEO",
     "date": "2026-11-26T03:13:43+00:00"
-   },
-   {
-    "title": "K-beauty stocks rally as Korean brands top Amazon bestseller lists globally ahead of Black Friday",
-    "date": "2026-11-26T03:09:47+00:00"
    }
   ],
   "fox": [
+   {
+    "title": "Judge temporarily blocks FCC from reviewing ABC station licenses amid First Amendment fight",
+    "date": "2026-11-26T07:33:03+00:00"
+   },
    {
     "title": "Pritzker accused of turning education tax credit into partisan fight by opting out of program: 'Sad to see'",
     "date": "2026-11-26T06:46:28+00:00"
@@ -195,10 +199,6 @@
    {
     "title": "Aaron Rodgers' ex-Packers teammate makes bold prediction about QB’s NFL future after shocking Steelers exit",
     "date": "2026-11-26T01:58:58+00:00"
-   },
-   {
-    "title": "TNA's KC Navarro details battle to get to Destination X pay-per-view in midst of travel nightmare",
-    "date": "2026-11-26T01:38:23+00:00"
    }
   ]
  }
