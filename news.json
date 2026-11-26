@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T23:27:08.878423+00:00",
+ "updated": "2026-11-26T23:32:09.203431+00:00",
  "feeds": {
   "ynet": [
    {
@@ -153,6 +153,10 @@
   ],
   "fox": [
    {
+    "title": "Iran accuses Zelenskyy of 'false flag' Kuwait drone strike op to get Trump's attention",
+    "date": "2026-11-26T23:19:59+00:00"
+   },
+   {
     "title": "Trademark Dan Campbell fourth-down gamble backfires, opening door to stunning Bears comeback victory",
     "date": "2026-11-26T23:11:13+00:00"
    },
@@ -195,10 +199,6 @@
    {
     "title": "Sylvester Stallone endured broke, lonely days cleaning lion cages before Henry Winkler changed his life",
     "date": "2026-11-26T20:00:45+00:00"
-   },
-   {
-    "title": "'One Job Away' campaign is helping SAG-AFTRA members meet work thresholds to keep health insurance",
-    "date": "2026-11-26T20:00:29+00:00"
    }
   ]
  }
