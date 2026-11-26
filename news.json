@@ -1,7 +1,11 @@
 {
- "updated": "2026-11-26T12:41:53.129494+00:00",
+ "updated": "2026-11-26T12:46:52.975246+00:00",
  "feeds": {
   "ynet": [
+   {
+    "title": "החקירה לאחר ההסגרה: ראש ארגון הפשע רוצה עימות עם העבריין שלפי החשד ניסה לחסל",
+    "date": "2026-11-26T12:39:52+00:00"
+   },
    {
     "title": "אזהרת ליברמן: \"נתניהו יציע לאיזנקוט רוטציה כשהוא שני, זה תרגיל. הוא רוצה בחירות\"",
     "date": "2026-11-26T12:27:32+00:00"
@@ -45,10 +49,6 @@
    {
     "title": "שב\"כ עצר ל-10 ימים פרופ' מהשרון בחשד להשפעה זרה בבחירות: \"משתייך לזרם שלא מצביע\"",
     "date": "2026-11-26T08:54:59+00:00"
-   },
-   {
-    "title": "\"התחושה - שלא נהיה הורים\": חלום הפונדקאות שהפך לסיוט",
-    "date": "2026-11-26T08:52:56+00:00"
    }
   ],
   "ynetnews": [
@@ -153,6 +153,10 @@
   ],
   "fox": [
    {
+    "title": "CFP selection committee continues to churn out inexplicable, indefensible rankings | Ian Miller",
+    "date": "2026-11-26T12:34:32+00:00"
+   },
+   {
     "title": "Dak Prescott's 1,000-yard, 11-touchdown surge over three games makes Cowboys heavy Thanksgiving favorites",
     "date": "2026-11-26T12:24:21+00:00"
    },
@@ -195,10 +199,6 @@
    {
     "title": "Trump country cracked: 5 races that saw double-digit Trump territory fall to Democrats in 2026",
     "date": "2026-11-26T11:00:51+00:00"
-   },
-   {
-    "title": "Holiday scammers hook older Americans first, then return later to drain their savings, expert warns",
-    "date": "2026-11-26T11:00:41+00:00"
    }
   ]
  }
