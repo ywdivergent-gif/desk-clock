@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T02:41:37.749468+00:00",
+ "updated": "2026-11-26T02:46:38.412503+00:00",
  "feeds": {
   "ynet": [
    {
@@ -153,6 +153,10 @@
   ],
   "fox": [
    {
+    "title": "Super Bowl champion, Steelers teammate of Aaron Rodgers shows support for quarterback after dramatic fallout",
+    "date": "2026-11-26T02:31:00+00:00"
+   },
+   {
     "title": "Netanyahu declares corruption trial has 'fallen apart' after judges question key charges",
     "date": "2026-11-26T02:26:48+00:00"
    },
@@ -195,10 +199,6 @@
    {
     "title": "Mike McCarthy's Cowboys comments resurface amid Aaron Rodgers debacle",
     "date": "2026-11-25T23:12:35+00:00"
-   },
-   {
-    "title": "Major League Baseball owners sue MLB Players Association ahead of rapidly approaching lockout",
-    "date": "2026-11-25T23:05:06+00:00"
    }
   ]
  }
