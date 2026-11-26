@@ -1,7 +1,11 @@
 {
- "updated": "2026-11-26T08:06:44.632761+00:00",
+ "updated": "2026-11-26T08:11:44.523690+00:00",
  "feeds": {
   "ynet": [
+   {
+    "title": "תושב הגליל יואשם: תכנן לרצוח איש כוחות הביטחון",
+    "date": "2026-11-26T08:08:46+00:00"
+   },
    {
     "title": "המתקפה של ביטאון ש\"ס על גוש איזנקוט - והפיצול במסרים בתוך יהדות התורה",
     "date": "2026-11-26T08:03:35+00:00"
@@ -45,10 +49,6 @@
    {
     "title": "חבר הלשכה המדינית של חמאס חוסל בעזה: \"שני טילים שוגרו למבנה\"",
     "date": "2026-11-26T02:30:35+00:00"
-   },
-   {
-    "title": "איזנקוט מתכנן ממשלה: דמי הרצינות לחרדים, התיקים שיישמרו לש\"ס ומה יקבלו גולן, בנט וליברמן",
-    "date": "2026-11-25T22:21:49+00:00"
    }
   ],
   "ynetnews": [
@@ -103,6 +103,10 @@
   ],
   "cnbc": [
    {
+    "title": "U.S. tariff-hike threats pile pressure on partners to sign trade deals",
+    "date": "2026-11-26T08:09:39+00:00"
+   },
+   {
     "title": "Asia-Pacific markets close higher as investors look past fresh U.S. tariffs",
     "date": "2026-11-26T08:00:27+00:00"
    },
@@ -145,10 +149,6 @@
    {
     "title": "South Korea upgrades growth forecast, raises benchmark rates to highest in two years",
     "date": "2026-11-26T03:32:53+00:00"
-   },
-   {
-    "title": "S&P warns Nvidia credit rating could be cut over 'rising' management and governance risk",
-    "date": "2026-11-26T03:19:44+00:00"
    }
   ],
   "fox": [
