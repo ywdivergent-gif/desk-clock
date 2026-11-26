@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T02:16:38.496522+00:00",
+ "updated": "2026-11-26T02:21:37.654981+00:00",
  "feeds": {
   "ynet": [
    {
@@ -103,6 +103,10 @@
   ],
   "cnbc": [
    {
+    "title": "‘Your booth is waiting’: Denny’s welcomes Jensen Huang back as Nvidia CEO",
+    "date": "2026-11-26T02:15:51+00:00"
+   },
+   {
     "title": "Norse Atlantic flights suspended after warning finances 'critical'",
     "date": "2026-11-26T01:52:20+00:00"
    },
@@ -145,10 +149,6 @@
    {
     "title": "We're buying more of a stock down big from its July highs",
     "date": "2026-11-25T19:55:18+00:00"
-   },
-   {
-    "title": "EU postpones discussion to approve Tesla's self-driving tech",
-    "date": "2026-11-25T19:54:42+00:00"
    }
   ],
   "fox": [
