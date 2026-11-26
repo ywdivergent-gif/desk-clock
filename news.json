@@ -1,7 +1,11 @@
 {
- "updated": "2026-11-26T16:01:53.081242+00:00",
+ "updated": "2026-11-26T16:06:53.014768+00:00",
  "feeds": {
   "ynet": [
+   {
+    "title": "גישור פלילי על הפרק: בהרב-מיארה הייתה רוצה להמשיך במשפט כרגיל - אבל זה לא קביל עוד",
+    "date": "2026-11-26T16:01:15+00:00"
+   },
    {
     "title": "בתי חולים כמוקדי עינויים: כך חמאס מנסה לשמר את שלטונו בעזה",
     "date": "2026-11-26T15:40:15+00:00"
@@ -45,10 +49,6 @@
    {
     "title": "בג\"ץ הורה להחזירם, צה\"ל סייע - והפורעים הגיעו עם שופל והרסו את הבית",
     "date": "2026-11-26T11:35:08+00:00"
-   },
-   {
-    "title": "\"נגמר המזל\": זכה במיליון דולר בלוטו - ובדרך לגירוש אחרי שנעצר בידי סוכני הגירה",
-    "date": "2026-11-26T10:39:33+00:00"
    }
   ],
   "ynetnews": [
@@ -103,6 +103,10 @@
   ],
   "cnbc": [
    {
+    "title": "Trump, NATO chief caution Russia as attacks on Ukraine’s energy infrastructure intensify",
+    "date": "2026-11-26T16:05:47+00:00"
+   },
+   {
     "title": "Spain’s Pablo Hernández de Cos set to lead European Central Bank",
     "date": "2026-11-26T15:28:26+00:00"
    },
@@ -133,10 +137,6 @@
    {
     "title": "The Nobel-winning science turning ‘water harvesting’ into a commercial race",
     "date": "2026-11-26T11:01:13+00:00"
-   },
-   {
-    "title": "Trump, NATO chief caution Russia as attacks on Ukraine’s energy infrastructure intensify",
-    "date": "2026-11-26T10:45:45+00:00"
    },
    {
     "title": "Norse Atlantic suspends all flights, warns it may file for bankruptcy after share price collapse",
