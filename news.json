@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T00:51:38.451399+00:00",
+ "updated": "2026-11-26T00:56:37.664452+00:00",
  "feeds": {
   "ynet": [
    {
@@ -153,6 +153,10 @@
   ],
   "fox": [
    {
+    "title": "Six Florida family members killed in plane crash on way home from fishing trip identified",
+    "date": "2026-11-26T00:46:16+00:00"
+   },
+   {
     "title": "Thanksgiving pie prices: Most expensive and the best bang for your buck",
     "date": "2026-11-26T00:32:27+00:00"
    },
@@ -195,10 +199,6 @@
    {
     "title": "Famed NFL agent reveals potential consequences for Steelers, Mike McCarthy after public Aaron Rodgers rupture",
     "date": "2026-11-25T22:14:16+00:00"
-   },
-   {
-    "title": "Duran Duran guitarist Andy Taylor dies at 65; bandmates pay emotional tribute",
-    "date": "2026-11-25T21:58:35+00:00"
    }
   ]
  }
