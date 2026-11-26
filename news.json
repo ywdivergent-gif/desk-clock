@@ -1,7 +1,11 @@
 {
- "updated": "2026-11-26T10:41:44.930939+00:00",
+ "updated": "2026-11-26T10:46:44.465490+00:00",
  "feeds": {
   "ynet": [
+   {
+    "title": "\"נגמר המזל\": זכה במיליון דולר בלוטו - ובדרך לגירוש אחרי שנעצר בידי סוכני הגירה",
+    "date": "2026-11-26T10:39:33+00:00"
+   },
    {
     "title": "השופט למנדלבליט, אחרי הדרמה במשפט נתניהו: \"המשכת הלאה בלי לבדוק?!\"",
     "date": "2026-11-26T10:14:52+00:00"
@@ -45,10 +49,6 @@
    {
     "title": "כתב אישום נגד תושב הגליל: תכנן לרצוח לוחם מג\"ב במילואים מהיישוב שבו גר",
     "date": "2026-11-26T08:08:46+00:00"
-   },
-   {
-    "title": "המתקפה של ביטאון ש\"ס על גוש איזנקוט - והפיצול במסרים בתוך יהדות התורה",
-    "date": "2026-11-26T08:03:35+00:00"
    }
   ],
   "ynetnews": [
@@ -103,16 +103,16 @@
   ],
   "cnbc": [
    {
+    "title": "The Nobel-winning science turning ‘water harvesting’ into a commercial race",
+    "date": "2026-11-26T10:46:23+00:00"
+   },
+   {
     "title": "U.S. tariff-hike threats pile pressure on partners to sign trade deals",
     "date": "2026-11-26T10:02:44+00:00"
    },
    {
     "title": "Global stocks rally as investors shrug off U.S. tariffs and AI jitters to 'fish for bargains'",
     "date": "2026-11-26T09:51:40+00:00"
-   },
-   {
-    "title": "The Nobel-winning science turning ‘water harvesting’ into a commercial race",
-    "date": "2026-11-26T09:07:32+00:00"
    },
    {
     "title": "Norse Atlantic suspends all flights, warns it may file for bankruptcy after share price collapse",
