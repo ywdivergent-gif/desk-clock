@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T01:11:38.486783+00:00",
+ "updated": "2026-11-26T01:16:38.800342+00:00",
  "feeds": {
   "ynet": [
    {
@@ -103,6 +103,10 @@
   ],
   "cnbc": [
    {
+    "title": "Hedge funds are no longer just for the rich. They’re coming for everyday investors",
+    "date": "2026-11-26T01:10:58+00:00"
+   },
+   {
     "title": "Norse Atlantic flights suspended after warning finances 'critical'",
     "date": "2026-11-26T01:04:54+00:00"
    },
@@ -145,10 +149,6 @@
    {
     "title": "SpaceX wins FCC approval to deploy 1 million orbital data center satellites",
     "date": "2026-11-25T19:52:47+00:00"
-   },
-   {
-    "title": "Saudi national in OpenAI bugging case is out on bond after DOJ tries to block release",
-    "date": "2026-11-25T19:11:53+00:00"
    }
   ],
   "fox": [
