@@ -1,7 +1,11 @@
 {
- "updated": "2026-11-26T19:27:01.741251+00:00",
+ "updated": "2026-11-26T19:32:01.948480+00:00",
  "feeds": {
   "ynet": [
+   {
+    "title": "בניר עוז הכריעו: \"בתי העדות\" יפורקו - וישוחזרו במתחם זיכרון חיצוני",
+    "date": "2026-11-26T19:29:52+00:00"
+   },
    {
     "title": "מבטיח \"מסלול התנגשות\": האיש שמוביל את המרד הפרוגרסיבי נגד \"שומר ישראל\" בסנאט",
     "date": "2026-11-26T19:05:03+00:00"
@@ -11,7 +15,7 @@
     "date": "2026-11-26T18:48:10+00:00"
    },
    {
-    "title": "מחאה בהפתעה: חרדים קיצוניים חוסמים את אחת הכניסות לנתב\"ג",
+    "title": "מחאה בהפתעה: חרדים קיצוניים חוסמים את אחת הכניסות לנתב\"ג | ישיר מההפגנה",
     "date": "2026-11-26T18:45:27+00:00"
    },
    {
@@ -45,10 +49,6 @@
    {
     "title": "לוחם עם פוסט טראומה עוכב 14 שעות בבנגקוק - וגורש: \"בגלל שאני ישראלי\"",
     "date": "2026-11-26T16:21:35+00:00"
-   },
-   {
-    "title": "ליעם הקטן הובא למנוחות, אביו ספד בדמעות: \"מילאת את האחים שלך בשמחה\"",
-    "date": "2026-11-26T16:13:37+00:00"
    }
   ],
   "ynetnews": [
@@ -153,6 +153,10 @@
   ],
   "fox": [
    {
+    "title": "EPA reports 'zero detection of airborne lead' day after Iowa lead azide detonation",
+    "date": "2026-11-26T19:20:16+00:00"
+   },
+   {
     "title": "Ukrainian intelligence says North Korea paused missile deliveries to Russia amid friction over South Korea",
     "date": "2026-11-26T19:10:13+00:00"
    },
@@ -195,10 +199,6 @@
    {
     "title": "WWE's CM Punk leaving politics out of the ring for USA vs Mexico match at Survivor Series: WarGames",
     "date": "2026-11-26T18:22:44+00:00"
-   },
-   {
-    "title": "Bangkok oil refinery explosion injures at least 9, Thailand company monitoring air quality",
-    "date": "2026-11-26T18:21:59+00:00"
    }
   ]
  }
