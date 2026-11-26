@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T07:56:44.523892+00:00",
+ "updated": "2026-11-26T08:01:44.609130+00:00",
  "feeds": {
   "ynet": [
    {
@@ -103,6 +103,10 @@
   ],
   "cnbc": [
    {
+    "title": "Asia-Pacific markets close higher as investors look past fresh U.S. tariffs",
+    "date": "2026-11-26T08:00:27+00:00"
+   },
+   {
     "title": "Taking on Starlink: Europe’s largest satellite factory opens in push to rival Musk",
     "date": "2026-11-26T07:45:05+00:00"
    },
@@ -125,10 +129,6 @@
    {
     "title": "Beware higher correlation but nab high U.S. credit yields, fund managers say",
     "date": "2026-11-26T05:36:01+00:00"
-   },
-   {
-    "title": "South Korea's Kospi leads gains as tech rebound lifts Asia markets",
-    "date": "2026-11-26T04:49:03+00:00"
    },
    {
     "title": "Hedge funds are no longer just for the rich. They’re wooing everyday investors",
