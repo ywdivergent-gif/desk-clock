@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T16:36:53.048381+00:00",
+ "updated": "2026-11-26T16:41:53.091837+00:00",
  "feeds": {
   "ynet": [
    {
@@ -153,6 +153,10 @@
   ],
   "fox": [
    {
+    "title": "The alcohol question that should never be asked at holiday parties, experts say",
+    "date": "2026-11-26T16:30:51+00:00"
+   },
+   {
     "title": "Aaron Rodgers may be a diva, but he was right to expose his coach and dysfunction in Pittsburgh | Matt Calkins",
     "date": "2026-11-26T16:13:56+00:00"
    },
@@ -195,10 +199,6 @@
    {
     "title": "Human vs ChatGPT NFL Week 12 betting picks: Thanksgiving Day picks to fade from the internet’s worst bettor",
     "date": "2026-11-26T15:03:13+00:00"
-   },
-   {
-    "title": "Travelers roast the worst passenger offenses they've endured at 30,000 feet",
-    "date": "2026-11-26T15:00:08+00:00"
    }
   ]
  }
