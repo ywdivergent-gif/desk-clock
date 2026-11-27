@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T16:22:38.281679+00:00",
+ "updated": "2026-11-27T16:27:38.059572+00:00",
  "feeds": {
   "ynet": [
    {
@@ -103,6 +103,10 @@
   ],
   "cnbc": [
    {
+    "title": "Dow rallies 500 points as benchmark heads for best week since April 2025: Live updates",
+    "date": "2026-11-27T16:26:44+00:00"
+   },
+   {
     "title": "Stocks making the biggest moves Friday: SpaceX, Altria, Vertex Pharmaceuticals & more",
     "date": "2026-11-27T16:12:11+00:00"
    },
@@ -113,10 +117,6 @@
    {
     "title": "Josh Brown lost a bet on Disney. It is now on his Best Stocks in the Market list",
     "date": "2026-11-27T16:02:31+00:00"
-   },
-   {
-    "title": "Dow rallies 500 points as benchmark heads for best week since April 2025: Live updates",
-    "date": "2026-11-27T16:00:50+00:00"
    },
    {
     "title": "Trump demands probe into 'record setting error' after third-quarter GDP data gets massive revision higher",
@@ -152,6 +152,10 @@
    }
   ],
   "fox": [
+   {
+    "title": "Americans eyeing dream vacation trip warned that rescue crews could take days to reach them",
+    "date": "2026-11-27T16:20:29+00:00"
+   },
    {
     "title": "Tom Brady and Terry Bradshaw roast Aaron Rodgers for McCarthy breakup; both feuded with their coaches",
     "date": "2026-11-27T15:44:17+00:00"
@@ -195,10 +199,6 @@
    {
     "title": "Google Gemini may expose private emails to reviewers",
     "date": "2026-11-27T13:38:58+00:00"
-   },
-   {
-    "title": "Broncos vs Steelers on Black Friday NFL: Why the under looks like the play on Amazon Prime",
-    "date": "2026-11-27T13:06:11+00:00"
    }
   ]
  }
