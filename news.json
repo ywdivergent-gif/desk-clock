@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T14:02:27.005699+00:00",
+ "updated": "2026-11-27T14:07:27.181606+00:00",
  "feeds": {
   "ynet": [
    {
@@ -153,6 +153,10 @@
   ],
   "fox": [
    {
+    "title": "Treasure hunters searching a field uncover 5,500-coin hoard hiding 'national treasure'",
+    "date": "2026-11-27T14:00:36+00:00"
+   },
+   {
     "title": "Josh Holloway reveals Kevin Costner's high standards on the Yellowstone set before his exit",
     "date": "2026-11-27T13:49:45+00:00"
    },
@@ -195,10 +199,6 @@
    {
     "title": "Fox News ‘Antisemitism Exposed’ Newsletter: 'Hulk' actor Ruffalo no like Schumer",
     "date": "2026-11-27T11:37:26+00:00"
-   },
-   {
-    "title": "Trump draws line on Somali welfare in Thanksgiving message and more top headlines",
-    "date": "2026-11-27T11:28:04+00:00"
    }
   ]
  }
