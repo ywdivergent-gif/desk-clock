@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T00:22:08.981120+00:00",
+ "updated": "2026-11-27T00:27:09.254099+00:00",
  "feeds": {
   "ynet": [
    {
@@ -39,15 +39,15 @@
     "date": "2026-11-26T22:00:00+00:00"
    },
    {
-    "title": "\"הטרור היהודי ממיט חורבן כלכלי. אין לפלסטינים מס רכוש\" | עוד מחיר לתג מחיר",
-    "date": "2026-11-26T22:00:00+00:00"
-   },
-   {
     "title": "\"היו חידונים בקוקפיט בדרך מאיראן\": ביקור בבסיס שממנו אולי תצא התקיפה הבאה",
     "date": "2026-11-26T22:00:00+00:00"
    },
    {
     "title": "תוכנית החורבן: הרעיון \"המטורף\" לפגיעה באיראן",
+    "date": "2026-11-26T22:00:00+00:00"
+   },
+   {
+    "title": "\"הטרור היהודי ממיט חורבן כלכלי. אין לפלסטינים מס רכוש\" | עוד מחיר לתג מחיר",
     "date": "2026-11-26T22:00:00+00:00"
    }
   ],
@@ -103,6 +103,10 @@
   ],
   "cnbc": [
    {
+    "title": "Sovereign wealth funds are acting more like private equity giants — and inheriting their risks",
+    "date": "2026-11-27T00:22:29+00:00"
+   },
+   {
     "title": "Stock futures tick higher as Wall Street gets set to wrap up a volatile holiday week: Live updates",
     "date": "2026-11-27T00:18:17+00:00"
    },
@@ -145,10 +149,6 @@
    {
     "title": "Planes, trains and automobiles: The best ways to beat travel fatigue—so you can come home feeling rested and fulfilled",
     "date": "2026-11-26T13:00:01+00:00"
-   },
-   {
-    "title": "U.S. tariff-hike threats pile pressure on partners to sign trade deals",
-    "date": "2026-11-26T12:46:55+00:00"
    }
   ],
   "fox": [
