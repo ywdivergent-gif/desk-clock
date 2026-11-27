@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T11:42:27.196584+00:00",
+ "updated": "2026-11-27T11:47:26.805102+00:00",
  "feeds": {
   "ynet": [
    {
@@ -153,6 +153,10 @@
   ],
   "fox": [
    {
+    "title": "Fox News ‘Antisemitism Exposed’ Newsletter: 'Hulk' actor Ruffalo no like Schumer",
+    "date": "2026-11-27T11:37:26+00:00"
+   },
+   {
     "title": "Trump draws line on Somali welfare in Thanksgiving message and more top headlines",
     "date": "2026-11-27T11:28:04+00:00"
    },
@@ -195,10 +199,6 @@
    {
     "title": "Apple AirTag leads firefighters to cat stuck in narrow gap between cement walls",
     "date": "2026-11-27T07:45:26+00:00"
-   },
-   {
-    "title": "Shopping with Friends: 8 Black Friday deals to shop now",
-    "date": "2026-11-27T05:30:24+00:00"
    }
   ]
  }
