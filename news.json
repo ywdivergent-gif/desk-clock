@@ -1,7 +1,11 @@
 {
- "updated": "2026-11-27T18:12:38.073918+00:00",
+ "updated": "2026-11-27T18:17:38.818083+00:00",
  "feeds": {
   "ynet": [
+   {
+    "title": "הפורצים לבתים בתל אביב הופכים נועזים ומסוכנים יותר: \"היה פה סרט אימים\"",
+    "date": "2026-11-27T18:12:35+00:00"
+   },
    {
     "title": "עוקץ הרכבים הגדול: \"הגיעו אליי אנשים בעשר בלילה\" | כך תיזהרו",
     "date": "2026-11-27T17:40:39+00:00"
@@ -45,10 +49,6 @@
    {
     "title": "החשד - דרס ערבים בכוונה: \"לא הפעם הראשונה שהגיע לכפר קאסם\"",
     "date": "2026-11-27T09:44:04+00:00"
-   },
-   {
-    "title": "צעיר שנפצע בתאונה נלקח מביה\"ח לתחנת המשטרה, מצבו הידרדר: \"מח\"ש חוקרת\"",
-    "date": "2026-11-27T09:30:58+00:00"
    }
   ],
   "ynetnews": [
@@ -153,6 +153,10 @@
   ],
   "fox": [
    {
+    "title": "Passenger denied alcohol on birthday flight over exit-row rule sparks fierce online debate",
+    "date": "2026-11-27T18:05:34+00:00"
+   },
+   {
     "title": "Did NIL really 'level the playing field' in recruiting? The answer is more complicated than you think",
     "date": "2026-11-27T18:00:52+00:00"
    },
@@ -195,10 +199,6 @@
    {
     "title": "Bob Newhart faced $6M lawsuit threat after trying to quit hit sitcom: book",
     "date": "2026-11-27T15:00:14+00:00"
-   },
-   {
-    "title": "Nature video captures elk fending off two wolves in a dramatic animal fight caught on camera",
-    "date": "2026-11-27T14:32:30+00:00"
    }
   ]
  }
