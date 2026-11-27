@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T02:12:09.447465+00:00",
+ "updated": "2026-11-27T02:17:09.466117+00:00",
  "feeds": {
   "ynet": [
    {
@@ -153,6 +153,10 @@
   ],
   "fox": [
    {
+    "title": "FLASHBACK: Two presidents pulled off secret Thanksgiving surprises for US troops — see the moments",
+    "date": "2026-11-27T02:00:39+00:00"
+   },
+   {
     "title": "TPUSA mourns Florida high school chapter president killed with family in devastating plane crash",
     "date": "2026-11-27T01:42:11+00:00"
    },
@@ -195,10 +199,6 @@
    {
     "title": "MAC admits that officials incorrectly cost Kent State touchdown with blown call against Eastern Michigan",
     "date": "2026-11-26T22:06:05+00:00"
-   },
-   {
-    "title": "‘Charlie Brown’ voice actor received zero residuals for nearly 50 years due to banned ’70s contract",
-    "date": "2026-11-26T22:00:42+00:00"
    }
   ]
  }
