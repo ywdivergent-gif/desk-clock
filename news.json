@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T14:22:27.005500+00:00",
+ "updated": "2026-11-27T14:27:27.584427+00:00",
  "feeds": {
   "ynet": [
    {
@@ -103,6 +103,22 @@
   ],
   "cnbc": [
    {
+    "title": "Stocks making the biggest moves Friday: SpaceX, Altria, Vertex Pharmaceuticals, Nvidia & more",
+    "date": "2026-11-27T14:27:10+00:00"
+   },
+   {
+    "title": "Top 10 things to watch in the stock market on Black Friday",
+    "date": "2026-11-27T14:25:13+00:00"
+   },
+   {
+    "title": "This week’s bounce following a rapid correction may not hold, history shows",
+    "date": "2026-11-27T14:18:22+00:00"
+   },
+   {
+    "title": "EU leaders fail to break $1.7 trillion budget deadlock as political pressure mounts",
+    "date": "2026-11-27T14:12:55+00:00"
+   },
+   {
     "title": "Dow futures rally 600 points as benchmark heads for best week since April 2025: Live updates",
     "date": "2026-11-27T14:01:16+00:00"
    },
@@ -133,22 +149,6 @@
    {
     "title": "It’s not just you: Durable goods are getting less reliable, from sputtering cars to glitching smart TVs",
     "date": "2026-11-27T13:05:02+00:00"
-   },
-   {
-    "title": "Spain’s election could pull Madrid closer to Trump’s Washington",
-    "date": "2026-11-27T13:00:42+00:00"
-   },
-   {
-    "title": "Stocks making the biggest moves premarket: SpaceX, Altria, Vertex Pharmaceuticals, Nvidia & more",
-    "date": "2026-11-27T12:32:11+00:00"
-   },
-   {
-    "title": "The Tech Download: Will Jensen Huang’s return be the spark the shaky AI market needs?",
-    "date": "2026-11-27T12:00:22+00:00"
-   },
-   {
-    "title": "Tech German software major SAP is reportedly weighing cutting at least 10,000 jobs in AI push",
-    "date": "2026-11-27T11:49:18+00:00"
    }
   ],
   "fox": [
