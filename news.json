@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T20:17:38.405921+00:00",
+ "updated": "2026-11-27T20:22:37.994911+00:00",
  "feeds": {
   "ynet": [
    {
@@ -153,6 +153,10 @@
   ],
   "fox": [
    {
+    "title": "New Jersey Devils goalie Connor Hellebuyck gets the start against the Winnipeg Jets on home ice",
+    "date": "2026-11-27T20:11:51+00:00"
+   },
+   {
     "title": "Black Friday college football off to unusual start as UTSA records rare back-to-back safeties",
     "date": "2026-11-27T20:05:04+00:00"
    },
@@ -195,10 +199,6 @@
    {
     "title": "Mamdani's top 4 socialist promises met with reality checks as his first year in office nears its end",
     "date": "2026-11-27T19:00:09+00:00"
-   },
-   {
-    "title": "In honor of the USDA's release of Bigfoot files, OutKick is releasing its own reader submitted stories",
-    "date": "2026-11-27T18:56:23+00:00"
    }
   ]
  }
