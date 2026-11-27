@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T16:52:37.989549+00:00",
+ "updated": "2026-11-27T16:57:38.024602+00:00",
  "feeds": {
   "ynet": [
    {
@@ -103,12 +103,12 @@
   ],
   "cnbc": [
    {
-    "title": "Dow rallies 600 points as benchmark heads for best week since April 2025: Live updates",
-    "date": "2026-11-27T16:52:18+00:00"
+    "title": "Stocks making the biggest moves Friday: XP, Newmont, Sandisk & more",
+    "date": "2026-11-27T16:57:04+00:00"
    },
    {
-    "title": "Stocks making the biggest moves Friday: SpaceX, Altria, Vertex Pharmaceuticals & more",
-    "date": "2026-11-27T16:50:54+00:00"
+    "title": "Dow rallies 600 points as benchmark heads for best week since April 2025: Live updates",
+    "date": "2026-11-27T16:55:50+00:00"
    },
    {
     "title": "Josh Brown lost a bet on Disney. It is now on his Best Stocks in the Market list",
@@ -153,6 +153,10 @@
   ],
   "fox": [
    {
+    "title": "AEW star Gabe Kidd spends Thanksgiving at random fan's house after being stuck in Nebraska",
+    "date": "2026-11-27T16:47:51+00:00"
+   },
+   {
     "title": "Convicted killer who tortured teen to death complains about prison conditions after botched execution",
     "date": "2026-11-27T16:38:45+00:00"
    },
@@ -195,10 +199,6 @@
    {
     "title": "Treasure hunters searching a field uncover 5,500-coin hoard hiding 'national treasure'",
     "date": "2026-11-27T14:00:36+00:00"
-   },
-   {
-    "title": "Josh Holloway reveals Kevin Costner's high standards on the Yellowstone set before his exit",
-    "date": "2026-11-27T13:49:45+00:00"
    }
   ]
  }
