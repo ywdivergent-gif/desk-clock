@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T17:47:38.232727+00:00",
+ "updated": "2026-11-27T17:52:38.814449+00:00",
  "feeds": {
   "ynet": [
    {
@@ -103,6 +103,10 @@
   ],
   "cnbc": [
    {
+    "title": "SpaceX shares jump over 3% amid tech rally and after Musk says he will expand on Trump Account share donations",
+    "date": "2026-11-27T17:50:22+00:00"
+   },
+   {
     "title": "Dow rallies 500 points as benchmark heads for best week since October 2022: Live updates",
     "date": "2026-11-27T17:42:53+00:00"
    },
@@ -145,10 +149,6 @@
    {
     "title": "EU leaders fail to break $1.7 trillion budget deadlock as political pressure mounts",
     "date": "2026-11-27T14:12:55+00:00"
-   },
-   {
-    "title": "Budget airline Norse Atlantic files for bankruptcy in Europe after failing to secure funding",
-    "date": "2026-11-27T13:58:19+00:00"
    }
   ],
   "fox": [
