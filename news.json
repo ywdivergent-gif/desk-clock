@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T19:47:38.333954+00:00",
+ "updated": "2026-11-27T19:52:38.091913+00:00",
  "feeds": {
   "ynet": [
    {
@@ -153,6 +153,10 @@
   ],
   "fox": [
    {
+    "title": "Biden book sales lag way behind Obama, Clinton memoirs in first week",
+    "date": "2026-11-27T19:38:23+00:00"
+   },
+   {
     "title": "Tiny English village battles government over migrant housing plan amid crime fears for women",
     "date": "2026-11-27T19:37:23+00:00"
    },
@@ -195,10 +199,6 @@
    {
     "title": "AI bionic eye breakthrough could help restore sight",
     "date": "2026-11-27T18:45:13+00:00"
-   },
-   {
-    "title": "Former Vikings punter Chris Kluwe called MAGA a \"Nazi movement\" may flip deep-red California seat blue",
-    "date": "2026-11-27T18:32:59+00:00"
    }
   ]
  }
