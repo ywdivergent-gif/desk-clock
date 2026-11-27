@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T19:17:38.440976+00:00",
+ "updated": "2026-11-27T19:22:37.937709+00:00",
  "feeds": {
   "ynet": [
    {
@@ -103,6 +103,10 @@
   ],
   "cnbc": [
    {
+    "title": "OpenAI countersues Apple for stealing trade secrets",
+    "date": "2026-11-27T19:10:21+00:00"
+   },
+   {
     "title": "Jensen Huang's return did little to ease AI jitters. We used the weakness to buy",
     "date": "2026-11-27T18:46:20+00:00"
    },
@@ -145,13 +149,17 @@
    {
     "title": "This week’s bounce following a rapid correction may not hold, history shows",
     "date": "2026-11-27T15:18:12+00:00"
-   },
-   {
-    "title": "Top 10 things to watch in the stock market on Black Friday",
-    "date": "2026-11-27T15:08:31+00:00"
    }
   ],
   "fox": [
+   {
+    "title": "Powerful NY Democrat Andrea Stewart-Cousins dead at 76, reports say",
+    "date": "2026-11-27T19:10:31+00:00"
+   },
+   {
+    "title": "Fox News AI Newsletter: Locals 'never seen nothing like' hulking Meta data center",
+    "date": "2026-11-27T19:10:21+00:00"
+   },
    {
     "title": "Mamdani's top 4 socialist promises met with reality checks as his first year in office nears its end",
     "date": "2026-11-27T19:00:09+00:00"
@@ -191,14 +199,6 @@
    {
     "title": "Joe Rogan says American education system is turning young people against their own country",
     "date": "2026-11-27T18:10:04+00:00"
-   },
-   {
-    "title": "Passenger denied alcohol on birthday flight over exit-row rule sparks online debate",
-    "date": "2026-11-27T18:05:34+00:00"
-   },
-   {
-    "title": "Did NIL really 'level the playing field' in recruiting? The answer is more complicated than you think",
-    "date": "2026-11-27T18:00:52+00:00"
    }
   ]
  }
