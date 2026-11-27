@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-27T21:27:37.583976+00:00",
+ "updated": "2026-11-27T21:32:37.656276+00:00",
  "feeds": {
   "ynet": [
+   {
+    "title": "זהירות, גזענות",
+    "date": "2026-11-27T21:21:33+00:00"
+   },
+   {
+    "title": "כשהשופטים כפרו בכפר",
+    "date": "2026-11-27T21:19:06+00:00"
+   },
    {
     "title": "לא היה כלום?",
     "date": "2026-11-27T21:16:57+00:00"
@@ -41,14 +49,6 @@
    {
     "title": "\"הגבר הפופולרי ביותר\" בטינדר נאשם באונס",
     "date": "2026-11-27T16:07:59+00:00"
-   },
-   {
-    "title": "עימות סוער לפני הבחירות שיכריעו את גורל רה\"מ האנטי-ישראלי: \"מה את חייבת לחמאס?\"",
-    "date": "2026-11-27T15:00:17+00:00"
-   },
-   {
-    "title": "בנט לא פוסל ממשלת מיעוט - וזה המסר של מנהיג הציבור הליטאי",
-    "date": "2026-11-27T14:55:56+00:00"
    }
   ],
   "ynetnews": [
@@ -153,6 +153,14 @@
   ],
   "fox": [
    {
+    "title": "Cowboys' Jerry Jones makes statement on Brian Schottenheimer's future after embarrassing Thanksgiving loss",
+    "date": "2026-11-27T21:18:35+00:00"
+   },
+   {
+    "title": "Betr Promo Code FOXNEWS: Get $200 in Bonuses + 4x Free Picks for Tonight's NBA Cup Finale",
+    "date": "2026-11-27T21:17:30+00:00"
+   },
+   {
     "title": "The Killers guitarist Dave Keuning went blind in one eye during life-threatening stroke",
     "date": "2026-11-27T21:12:33+00:00"
    },
@@ -191,14 +199,6 @@
    {
     "title": "Underdog Promo Code FOXNEWS: Play $10, Get $50 on the Black Friday NBA Cup Finale",
     "date": "2026-11-27T20:36:57+00:00"
-   },
-   {
-    "title": "Seattle bar owner refuses to back down after declaring 'Ladies' Night' is for 'biological women' only",
-    "date": "2026-11-27T20:30:09+00:00"
-   },
-   {
-    "title": "Franklin Graham's Christmas mission turns simple shoeboxes into gifts of faith for millions of children",
-    "date": "2026-11-27T20:15:27+00:00"
    }
   ]
  }
