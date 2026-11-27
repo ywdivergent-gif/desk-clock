@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T12:42:27.157933+00:00",
+ "updated": "2026-11-27T12:47:27.011711+00:00",
  "feeds": {
   "ynet": [
    {
@@ -103,6 +103,10 @@
   ],
   "cnbc": [
    {
+    "title": "Dow futures rally 600 points as benchmark heads for best week since April 2025: Live updates",
+    "date": "2026-11-27T12:45:53+00:00"
+   },
+   {
     "title": "Stocks making the biggest moves premarket: SpaceX, Altria, Vertex Pharmaceuticals, Nvidia & more",
     "date": "2026-11-27T12:32:11+00:00"
    },
@@ -127,10 +131,6 @@
     "date": "2026-11-27T10:20:39+00:00"
    },
    {
-    "title": "Stock futures rise as Wall Street gets set to wrap up a volatile holiday week: Live updates",
-    "date": "2026-11-27T09:12:19+00:00"
-   },
-   {
     "title": "Private markets are more accessible than ever for investors. Getting out is another matter",
     "date": "2026-11-27T08:05:09+00:00"
    },
@@ -152,6 +152,10 @@
    }
   ],
   "fox": [
+   {
+    "title": "TSA warns common Thanksgiving packing mistake could cause delays on the way home",
+    "date": "2026-11-27T12:40:11+00:00"
+   },
    {
     "title": "Thanksgiving scraps reinvented by top chefs for delicious, easy-to-make meals",
     "date": "2026-11-27T12:00:41+00:00"
@@ -195,10 +199,6 @@
    {
     "title": "Trump mourns Florida detective killed by suspected drunk driver on Thanksgiving",
     "date": "2026-11-27T10:49:27+00:00"
-   },
-   {
-    "title": "Revolutionary War’s ‘Captain Molly’ took up her husband’s fight for freedom",
-    "date": "2026-11-27T10:00:48+00:00"
    }
   ]
  }
