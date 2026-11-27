@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T04:07:09.139841+00:00",
+ "updated": "2026-11-27T04:12:09.354489+00:00",
  "feeds": {
   "ynet": [
    {
@@ -103,6 +103,10 @@
   ],
   "cnbc": [
    {
+    "title": "This 170-year historical study says ‘major market collapse’ is coming",
+    "date": "2026-11-27T04:07:07+00:00"
+   },
+   {
     "title": "Stock futures tick higher as Wall Street gets set to wrap up a volatile holiday week: Live updates",
     "date": "2026-11-27T03:40:42+00:00"
    },
@@ -145,10 +149,6 @@
    {
     "title": "Spain’s Pablo Hernández de Cos set to lead European Central Bank",
     "date": "2026-11-26T15:28:26+00:00"
-   },
-   {
-    "title": "Marlboro maker Altria explores takeover of UK's Imperial Brands",
-    "date": "2026-11-26T14:47:37+00:00"
    }
   ],
   "fox": [
