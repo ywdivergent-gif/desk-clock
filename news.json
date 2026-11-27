@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T01:37:09.333793+00:00",
+ "updated": "2026-11-27T01:42:08.999262+00:00",
  "feeds": {
   "ynet": [
    {
@@ -103,6 +103,10 @@
   ],
   "cnbc": [
    {
+    "title": "China industrial profits growth surges to a 5-month high of 20.1% in October",
+    "date": "2026-11-27T01:38:00+00:00"
+   },
+   {
     "title": "Sovereign wealth funds are acting more like private equity giants — and inheriting their risks",
     "date": "2026-11-27T00:22:29+00:00"
    },
@@ -144,10 +148,6 @@
    },
    {
     "title": "Want to save money this winter? Start by asking why",
-    "date": "2026-11-26T13:00:01+00:00"
-   },
-   {
-    "title": "Planes, trains and automobiles: The best ways to beat travel fatigue—so you can come home feeling rested and fulfilled",
     "date": "2026-11-26T13:00:01+00:00"
    }
   ],
