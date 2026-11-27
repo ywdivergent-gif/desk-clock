@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T19:37:40.106339+00:00",
+ "updated": "2026-11-27T19:42:38.225268+00:00",
  "feeds": {
   "ynet": [
    {
@@ -153,6 +153,14 @@
   ],
   "fox": [
    {
+    "title": "Tiny English village battles government over migrant housing plan amid crime fears for women",
+    "date": "2026-11-27T19:37:23+00:00"
+   },
+   {
+    "title": "James Carville skewers podcast guest after she claimed 'No one got fired over pronouns'",
+    "date": "2026-11-27T19:30:34+00:00"
+   },
+   {
     "title": "DHS accuses California of endangering ICE officers after bodycam shows police telling agents 'good luck'",
     "date": "2026-11-27T19:20:57+00:00"
    },
@@ -191,14 +199,6 @@
    {
     "title": "Former Vikings punter Chris Kluwe called MAGA a \"Nazi movement\" may flip deep-red California seat blue",
     "date": "2026-11-27T18:32:59+00:00"
-   },
-   {
-    "title": "Hackers breach Air Force's flagship cloud computing platform, report says",
-    "date": "2026-11-27T18:29:03+00:00"
-   },
-   {
-    "title": "'Facts of Life' star Lisa Whelchel, 63, vows she'll never repeat ayahuasca trip after frog venom ordeal",
-    "date": "2026-11-27T18:18:19+00:00"
    }
   ]
  }
