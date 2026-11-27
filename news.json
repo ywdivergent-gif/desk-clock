@@ -1,7 +1,11 @@
 {
- "updated": "2026-11-27T20:37:38.131993+00:00",
+ "updated": "2026-11-27T20:42:38.155141+00:00",
  "feeds": {
   "ynet": [
+   {
+    "title": "גולן במקום בן גביר, פורר יחליף את לוין, רייטן את קרעי: חילופי השרים הצפויים - ועימותי העבר",
+    "date": "2026-11-27T20:37:59+00:00"
+   },
    {
     "title": "המטרה - לשדוד מבלים בחסות \"גז מדמיע\": החשד אחרי הכאוס בהופעת הענק במנצ'סטר",
     "date": "2026-11-27T18:26:40+00:00"
@@ -45,10 +49,6 @@
    {
     "title": "אחרי אמירת השופטים: להביט נכוחה במציאות",
     "date": "2026-11-27T11:48:38+00:00"
-   },
-   {
-    "title": "בהרב מיארה, תתפטרי",
-    "date": "2026-11-27T11:46:38+00:00"
    }
   ],
   "ynetnews": [
@@ -153,6 +153,10 @@
   ],
   "fox": [
    {
+    "title": "Seattle bar owner refuses to back down after declaring 'Ladies' Night' is for 'biological women' only",
+    "date": "2026-11-27T20:30:09+00:00"
+   },
+   {
     "title": "Franklin Graham's Christmas mission turns simple shoeboxes into gifts of faith for millions of children",
     "date": "2026-11-27T20:15:27+00:00"
    },
@@ -195,10 +199,6 @@
    {
     "title": "Powerful NY Democrat Andrea Stewart-Cousins dead at 76, reports say",
     "date": "2026-11-27T19:10:31+00:00"
-   },
-   {
-    "title": "Fox News AI Newsletter: Locals 'never seen nothing like' hulking Meta data center",
-    "date": "2026-11-27T19:10:21+00:00"
    }
   ]
  }
