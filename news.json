@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T23:02:46.546578+00:00",
+ "updated": "2026-11-27T23:07:46.266453+00:00",
  "feeds": {
   "ynet": [
    {
@@ -103,12 +103,12 @@
   ],
   "cnbc": [
    {
-    "title": "Inflation has shoppers hunting for value. That bodes well for Black Friday",
-    "date": "2026-11-27T22:00:57+00:00"
+    "title": "OpenAI countersues Apple for stealing trade secrets",
+    "date": "2026-11-27T23:07:13+00:00"
    },
    {
-    "title": "OpenAI countersues Apple for stealing trade secrets",
-    "date": "2026-11-27T20:52:32+00:00"
+    "title": "Inflation has shoppers hunting for value. That bodes well for Black Friday",
+    "date": "2026-11-27T22:00:57+00:00"
    },
    {
     "title": "Hackers breach U.S. Air Force flagship Cloud One computing platform",
@@ -153,6 +153,10 @@
   ],
   "fox": [
    {
+    "title": "Eagles kicker didn't get ex-NFLer's memo about not digging into post-game Thanksgiving food",
+    "date": "2026-11-27T23:00:31+00:00"
+   },
+   {
     "title": "NBC pulls controversial anti-Israel ad after igniting fury from Jewish groups",
     "date": "2026-11-27T22:30:51+00:00"
    },
@@ -195,10 +199,6 @@
    {
     "title": "Betr Promo Code FOXNEWS: Get $200 in Bonuses + 4x Free Picks for Tonight's NBA Cup Finale",
     "date": "2026-11-27T21:17:30+00:00"
-   },
-   {
-    "title": "The Killers guitarist Dave Keuning went blind in one eye during life-threatening stroke",
-    "date": "2026-11-27T21:12:33+00:00"
    }
   ]
  }
