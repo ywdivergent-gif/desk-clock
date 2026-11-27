@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T16:27:38.059572+00:00",
+ "updated": "2026-11-27T16:32:38.211539+00:00",
  "feeds": {
   "ynet": [
    {
@@ -104,11 +104,11 @@
   "cnbc": [
    {
     "title": "Dow rallies 500 points as benchmark heads for best week since April 2025: Live updates",
-    "date": "2026-11-27T16:26:44+00:00"
+    "date": "2026-11-27T16:31:35+00:00"
    },
    {
     "title": "Stocks making the biggest moves Friday: SpaceX, Altria, Vertex Pharmaceuticals & more",
-    "date": "2026-11-27T16:12:11+00:00"
+    "date": "2026-11-27T16:31:07+00:00"
    },
    {
     "title": "It’s not just you: Durable goods are getting less reliable, from sputtering cars to glitching smart TVs",
@@ -125,6 +125,10 @@
    {
     "title": "'The Traitors' ended with a $246,300 prize—here's who won and what they told us about spending it",
     "date": "2026-11-27T15:49:29+00:00"
+   },
+   {
+    "title": "AI shopping agents are having a moment, but Amazon and a growing number of sites threaten to stunt their growth",
+    "date": "2026-11-27T15:27:11+00:00"
    },
    {
     "title": "This week’s bounce following a rapid correction may not hold, history shows",
@@ -145,10 +149,6 @@
    {
     "title": "Budget airline Norse Atlantic files for bankruptcy in Europe after failing to secure funding",
     "date": "2026-11-27T13:58:19+00:00"
-   },
-   {
-    "title": "Hackers breach U.S. Air Force flagship Cloud One computing platform",
-    "date": "2026-11-27T13:23:01+00:00"
    }
   ],
   "fox": [
