@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T11:02:26.857444+00:00",
+ "updated": "2026-11-27T11:07:27.155809+00:00",
  "feeds": {
   "ynet": [
    {
@@ -103,6 +103,10 @@
   ],
   "cnbc": [
    {
+    "title": "Inflation has shoppers hunting for value. That bodes well for Black Friday",
+    "date": "2026-11-27T11:00:01+00:00"
+   },
+   {
     "title": "SpaceX shares jump 4% amid tech rally and after Musk says he will expand on Trump Account share donations",
     "date": "2026-11-27T10:20:39+00:00"
    },
@@ -145,13 +149,25 @@
    {
     "title": "Sovereign wealth funds are acting more like private equity giants — and inheriting their risks",
     "date": "2026-11-27T00:22:29+00:00"
-   },
-   {
-    "title": "Trump demands probe into ‘record setting error’ after third-quarter GDP data gets massive revision higher",
-    "date": "2026-11-26T21:13:17+00:00"
    }
   ],
   "fox": [
+   {
+    "title": "Campus assault survivor warns colleges, families must step up to protect students amid wave of attacks",
+    "date": "2026-11-27T11:00:59+00:00"
+   },
+   {
+    "title": "Comedian Tim Robinson calls police 'dirty pigs' under memorial tribute to killed K-9 officer",
+    "date": "2026-11-27T11:00:48+00:00"
+   },
+   {
+    "title": "How to spot real Black Friday savings this holiday season amid the affordability squeeze",
+    "date": "2026-11-27T11:00:26+00:00"
+   },
+   {
+    "title": "Fox News Digital's News Quiz: November 27, 2026",
+    "date": "2026-11-27T11:00:21+00:00"
+   },
    {
     "title": "Pregnant inmate escapes in New Mexico prison transport SUV during Whataburger stop",
     "date": "2026-11-27T10:55:03+00:00"
@@ -183,22 +199,6 @@
    {
     "title": "Buffalo Bills outlast Kansas City Chiefs in defensive struggle to maintain top seed status in AFC",
     "date": "2026-11-27T05:02:40+00:00"
-   },
-   {
-    "title": "Mike Tomlin calls Steelers situation following Aaron Rodgers vs. Mike McCarthy feud 'a dumpster fire'",
-    "date": "2026-11-27T04:02:03+00:00"
-   },
-   {
-    "title": "Strobe Talbott, former deputy secretary of state and Brookings Institution president, dies at 80",
-    "date": "2026-11-27T03:10:20+00:00"
-   },
-   {
-    "title": "Putin's grip on Crimea tested amid major blackout as Zelenskyy warns of looming Russian strike",
-    "date": "2026-11-27T02:25:49+00:00"
-   },
-   {
-    "title": "Eagles erase 21-point deficit to stun Cowboys with biggest Thanksgiving comeback in NFL history",
-    "date": "2026-11-27T02:13:15+00:00"
    }
   ]
  }
