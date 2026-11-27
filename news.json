@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T16:02:29.218922+00:00",
+ "updated": "2026-11-27T16:07:38.293120+00:00",
  "feeds": {
   "ynet": [
    {
@@ -103,6 +103,10 @@
   ],
   "cnbc": [
    {
+    "title": "It’s not just you: Durable goods are getting less reliable, from sputtering cars to glitching smart TVs",
+    "date": "2026-11-27T16:06:57+00:00"
+   },
+   {
     "title": "Dow rallies 500 points as benchmark heads for best week since April 2025: Live updates",
     "date": "2026-11-27T16:00:50+00:00"
    },
@@ -145,10 +149,6 @@
    {
     "title": "Hackers breach U.S. Air Force flagship Cloud One computing platform",
     "date": "2026-11-27T13:23:01+00:00"
-   },
-   {
-    "title": "The S&P 500 is in a correction. Bear markets and recessions don't always follow",
-    "date": "2026-11-27T13:21:56+00:00"
    }
   ],
   "fox": [
