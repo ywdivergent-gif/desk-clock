@@ -1,7 +1,11 @@
 {
- "updated": "2026-11-27T17:07:38.881105+00:00",
+ "updated": "2026-11-27T17:12:38.335345+00:00",
  "feeds": {
   "ynet": [
+   {
+    "title": "תקיפה אמריקנית חריגה: \"השבתנו ספינה שיצאה מאיראן - וניסתה להפר את המצור\"",
+    "date": "2026-11-27T17:08:45+00:00"
+   },
    {
     "title": "\"זה מרסק אותי\": הפוסט הכואב של ירדן ביבס - והדרישה לעצור את החלטת ניר עוז",
     "date": "2026-11-27T16:18:35+00:00"
@@ -45,10 +49,6 @@
    {
     "title": "מתן כהנא: נתניהו מנסה להוביל לבחירות כשהוא רה\"מ, לא נוכל לאפשר את זה",
     "date": "2026-11-27T09:27:29+00:00"
-   },
-   {
-    "title": "האפשרות ששוקלים בגוש השינוי: \"האצבע היהודית\" מרע\"מ - שתעמוד ב\"תנאים\" של ליברמן",
-    "date": "2026-11-27T09:14:12+00:00"
    }
   ],
   "ynetnews": [
@@ -103,12 +103,12 @@
   ],
   "cnbc": [
    {
-    "title": "Stocks making the biggest moves midday: XP, Newmont, Sandisk & more",
-    "date": "2026-11-27T17:01:07+00:00"
+    "title": "Dow rallies 500 points as benchmark heads for best week since April 2025: Live updates",
+    "date": "2026-11-27T17:12:01+00:00"
    },
    {
-    "title": "Dow rallies 600 points as benchmark heads for best week since April 2025: Live updates",
-    "date": "2026-11-27T16:55:50+00:00"
+    "title": "Stocks making the biggest moves midday: XP, Newmont, Sandisk & more",
+    "date": "2026-11-27T17:01:07+00:00"
    },
    {
     "title": "Josh Brown lost a bet on Disney. It is now on his Best Stocks in the Market list",
@@ -153,6 +153,14 @@
   ],
   "fox": [
    {
+    "title": "WWE's Dragon Lee says Team Mexico will bring 'fire in the ring' ahead of Survivor Series match vs USA",
+    "date": "2026-11-27T17:02:04+00:00"
+   },
+   {
+    "title": "Country star Craig Morgan's off-the-grid life in Alaska, where his closest neighbor is 7 miles away",
+    "date": "2026-11-27T17:00:45+00:00"
+   },
+   {
     "title": "AEW star Gabe Kidd spends Thanksgiving at random fan's house after being stuck in Nebraska",
     "date": "2026-11-27T16:47:51+00:00"
    },
@@ -191,14 +199,6 @@
    {
     "title": "George Kittle 'really should be a part of' WWE when he done in the NFL, 49ers star says",
     "date": "2026-11-27T14:14:01+00:00"
-   },
-   {
-    "title": "Wife of Patrick Mahomes unleashes fire and fury towards refs after botched call in Buffalo",
-    "date": "2026-11-27T14:13:46+00:00"
-   },
-   {
-    "title": "Treasure hunters searching a field uncover 5,500-coin hoard hiding 'national treasure'",
-    "date": "2026-11-27T14:00:36+00:00"
    }
   ]
  }
