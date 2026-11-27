@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T20:02:38.120244+00:00",
+ "updated": "2026-11-27T20:07:38.891195+00:00",
  "feeds": {
   "ynet": [
    {
@@ -103,6 +103,10 @@
   ],
   "cnbc": [
    {
+    "title": "Hackers breach U.S. Air Force flagship Cloud One computing platform",
+    "date": "2026-11-27T20:03:08+00:00"
+   },
+   {
     "title": "OpenAI countersues Apple for stealing trade secrets",
     "date": "2026-11-27T19:10:21+00:00"
    },
@@ -145,10 +149,6 @@
    {
     "title": "'The Traitors' ended with a $246,300 prize—here's who won and what they told us about spending it",
     "date": "2026-11-27T15:49:29+00:00"
-   },
-   {
-    "title": "This week’s bounce following a rapid correction may not hold, history shows",
-    "date": "2026-11-27T15:18:12+00:00"
    }
   ],
   "fox": [
