@@ -1,7 +1,11 @@
 {
- "updated": "2026-11-27T06:37:18.779269+00:00",
+ "updated": "2026-11-27T06:42:18.738404+00:00",
  "feeds": {
   "ynet": [
+   {
+    "title": "חשד לאלימות חמורה נגד קטינים: 6 עובדים ועובדות בפנימייה בנגב נעצרו",
+    "date": "2026-11-27T06:36:47+00:00"
+   },
    {
     "title": "קוסטה ריקה סירבה להכניס את שליחת האו\"ם האנטי-ישראלית: \"קשרים לטרור\"",
     "date": "2026-11-27T06:27:45+00:00"
@@ -45,10 +49,6 @@
    {
     "title": "ניסה לרצוח פעמיים ראש ארגון פשע: החשדות נגד בנו של \"הסנדק הישראלי\"",
     "date": "2026-11-26T22:59:07+00:00"
-   },
-   {
-    "title": "המכשולים שנותרו לפני שאיזנקוט יוכל לומר \"עלה בידי\" - וההרכב הצפוי של ממשלת השינוי",
-    "date": "2026-11-26T22:46:25+00:00"
    }
   ],
   "ynetnews": [
@@ -103,6 +103,10 @@
   ],
   "cnbc": [
    {
+    "title": "German software major SAP weighs cutting at least 10,000 jobs in AI push: Bloomberg",
+    "date": "2026-11-27T06:36:30+00:00"
+   },
+   {
     "title": "Stock futures rise as Wall Street gets set to wrap up a volatile holiday week: Live updates",
     "date": "2026-11-27T06:21:06+00:00"
    },
@@ -145,10 +149,6 @@
    {
     "title": "Nvidia chip buyers told to rule out Chinese renters to purchase GPUs, sources say",
     "date": "2026-11-26T17:04:54+00:00"
-   },
-   {
-    "title": "Trump, NATO chief caution Russia as attacks on Ukraine’s energy infrastructure intensify",
-    "date": "2026-11-26T16:12:47+00:00"
    }
   ],
   "fox": [
