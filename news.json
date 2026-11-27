@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T06:47:18.723051+00:00",
+ "updated": "2026-11-27T06:52:18.567866+00:00",
  "feeds": {
   "ynet": [
    {
@@ -103,6 +103,10 @@
   ],
   "cnbc": [
    {
+    "title": "Spain’s Pablo Hernández de Cos set to lead European Central Bank",
+    "date": "2026-11-27T06:50:38+00:00"
+   },
+   {
     "title": "German software major SAP weighs cutting at least 10,000 jobs in AI push: Bloomberg",
     "date": "2026-11-27T06:36:30+00:00"
    },
@@ -145,10 +149,6 @@
    {
     "title": "Semiconductor chips are the new oil. Here's why",
     "date": "2026-11-26T17:52:15+00:00"
-   },
-   {
-    "title": "Nvidia chip buyers told to rule out Chinese renters to purchase GPUs, sources say",
-    "date": "2026-11-26T17:04:54+00:00"
    }
   ],
   "fox": [
