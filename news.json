@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T18:52:38.237510+00:00",
+ "updated": "2026-11-27T18:57:38.207403+00:00",
  "feeds": {
   "ynet": [
    {
@@ -153,6 +153,10 @@
   ],
   "fox": [
    {
+    "title": "AI bionic eye breakthrough could help restore sight",
+    "date": "2026-11-27T18:45:13+00:00"
+   },
+   {
     "title": "Former Vikings punter Chris Kluwe called MAGA a \"Nazi movement\" may flip deep-red California seat blue",
     "date": "2026-11-27T18:32:59+00:00"
    },
@@ -195,10 +199,6 @@
    {
     "title": "AEW star Gabe Kidd spends Thanksgiving at random fan's house after being stuck in Nebraska",
     "date": "2026-11-27T16:47:51+00:00"
-   },
-   {
-    "title": "Convicted killer who tortured teen to death complains about prison conditions after botched execution",
-    "date": "2026-11-27T16:38:45+00:00"
    }
   ]
  }
