@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T05:12:18.550043+00:00",
+ "updated": "2026-11-27T05:17:18.814848+00:00",
  "feeds": {
   "ynet": [
    {
@@ -103,6 +103,10 @@
   ],
   "cnbc": [
    {
+    "title": "China’s factories are growing profits again, but the AI boom is picking the winners",
+    "date": "2026-11-27T05:15:55+00:00"
+   },
+   {
     "title": "Stock futures tick higher as Wall Street gets set to wrap up a volatile holiday week: Live updates",
     "date": "2026-11-27T04:40:59+00:00"
    },
@@ -117,10 +121,6 @@
    {
     "title": "Two Italians killed in Kuwait drone attack; Trump says Iran war ends ‘whenever I want it’",
     "date": "2026-11-27T03:30:23+00:00"
-   },
-   {
-    "title": "China industrial profits growth surges to a 5-month high of 20.1% in October",
-    "date": "2026-11-27T02:04:09+00:00"
    },
    {
     "title": "Sovereign wealth funds are acting more like private equity giants — and inheriting their risks",
@@ -152,6 +152,10 @@
    }
   ],
   "fox": [
+   {
+    "title": "Buffalo Bills outlast Kansas City Chiefs in defensive struggle to maintain top seed status in AFC",
+    "date": "2026-11-27T05:02:40+00:00"
+   },
    {
     "title": "Mike Tomlin calls Steelers situation following Aaron Rodgers vs. Mike McCarthy feud 'a dumpster fire'",
     "date": "2026-11-27T04:02:03+00:00"
@@ -195,10 +199,6 @@
    {
     "title": "Caleb Williams' heroics have Bears thinking No. 1 seed in NFC playoffs",
     "date": "2026-11-27T00:19:58+00:00"
-   },
-   {
-    "title": "Iran accuses Zelenskyy of 'false flag' Kuwait drone strike op to get Trump's attention",
-    "date": "2026-11-26T23:19:59+00:00"
    }
   ]
  }
