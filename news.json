@@ -1,7 +1,19 @@
 {
- "updated": "2026-11-27T21:17:37.339050+00:00",
+ "updated": "2026-11-27T21:22:37.892724+00:00",
  "feeds": {
   "ynet": [
+   {
+    "title": "לא היה כלום?",
+    "date": "2026-11-27T21:16:57+00:00"
+   },
+   {
+    "title": "ברחה מחברון, התגוררה ברמלה, נרצחה בבאר שבע",
+    "date": "2026-11-27T21:15:12+00:00"
+   },
+   {
+    "title": "הפרקליטות: מערערים או נסוגים? העיקר שתהליכי קבלת ההחלטות ישופרו",
+    "date": "2026-11-27T21:14:44+00:00"
+   },
    {
     "title": "גולן במקום בן גביר, פורר יחליף את לוין, רייטן את קרעי: חילופי השרים הצפויים - ועימותי העבר",
     "date": "2026-11-27T20:37:59+00:00"
@@ -37,18 +49,6 @@
    {
     "title": "בנט לא פוסל ממשלת מיעוט - וזה המסר של מנהיג הציבור הליטאי",
     "date": "2026-11-27T14:55:56+00:00"
-   },
-   {
-    "title": "לחץ על נתניהו להציע להיות שני ברוטציה, איזנקוט במתקפה על הליכוד: \"מורחים זמן\"",
-    "date": "2026-11-27T13:22:15+00:00"
-   },
-   {
-    "title": "האקרים פרצו למערכת הענן של חיל האוויר האמריקני: \"זה ביג דיל\"",
-    "date": "2026-11-27T11:57:33+00:00"
-   },
-   {
-    "title": "אחרי אמירת השופטים: להביט נכוחה במציאות",
-    "date": "2026-11-27T11:48:38+00:00"
    }
   ],
   "ynetnews": [
@@ -153,6 +153,14 @@
   ],
   "fox": [
    {
+    "title": "The Killers guitarist Dave Keuning went blind in one eye during life-threatening stroke",
+    "date": "2026-11-27T21:12:33+00:00"
+   },
+   {
+    "title": "The Best Black Friday Sportsbook Promos Provide $2000+ in Bonuses Today",
+    "date": "2026-11-27T21:11:50+00:00"
+   },
+   {
     "title": "Aaron Rodgers and Mike McCarthy's family members getting involved in public Steelers feud",
     "date": "2026-11-27T21:08:40+00:00"
    },
@@ -191,14 +199,6 @@
    {
     "title": "Franklin Graham's Christmas mission turns simple shoeboxes into gifts of faith for millions of children",
     "date": "2026-11-27T20:15:27+00:00"
-   },
-   {
-    "title": "New Jersey Devils goalie Connor Hellebuyck gets the start against the Winnipeg Jets on home ice",
-    "date": "2026-11-27T20:11:51+00:00"
-   },
-   {
-    "title": "Black Friday college football off to unusual start as UTSA records rare back-to-back safeties",
-    "date": "2026-11-27T20:05:04+00:00"
    }
   ]
  }
