@@ -1,7 +1,11 @@
 {
- "updated": "2026-11-27T15:02:27.312500+00:00",
+ "updated": "2026-11-27T15:07:27.012861+00:00",
  "feeds": {
   "ynet": [
+   {
+    "title": "עימות סוער לפני הבחירות שיכריעו את גורל רה\"מ האנטי-ישראלי: \"מה את חייבת לחמאס?\"",
+    "date": "2026-11-27T15:00:17+00:00"
+   },
    {
     "title": "בנט לא פוסל ממשלת מיעוט - וזה המסר של מנהיג הציבור הליטאי",
     "date": "2026-11-27T14:55:56+00:00"
@@ -45,10 +49,6 @@
    {
     "title": "חוסל מחבל חמאס שחדר לישראל ב-7/10 - והשתתף ב\"טקס\" שחרור חטופים",
     "date": "2026-11-27T08:41:07+00:00"
-   },
-   {
-    "title": "איראן נחנקת מהמצור הכלכלי, מחיר הלחם נוסק. טראמפ: אם נתקוף, זה יהיה היעד",
-    "date": "2026-11-27T08:17:34+00:00"
    }
   ],
   "ynetnews": [
@@ -153,6 +153,10 @@
   ],
   "fox": [
    {
+    "title": "Bob Newhart faced $6M lawsuit threat after trying to quit hit sitcom: book",
+    "date": "2026-11-27T15:00:14+00:00"
+   },
+   {
     "title": "Nature video captures elk fending off two wolves in a dramatic animal fight caught on camera",
     "date": "2026-11-27T14:32:30+00:00"
    },
@@ -195,10 +199,6 @@
    {
     "title": "Supplements in the spotlight as longevity doctor shares his personal daily routine",
     "date": "2026-11-27T13:00:26+00:00"
-   },
-   {
-    "title": "TSA warns common Thanksgiving packing mistake could cause delays on the way home",
-    "date": "2026-11-27T12:40:11+00:00"
    }
   ]
  }
