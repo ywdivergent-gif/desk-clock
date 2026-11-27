@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T18:17:38.818083+00:00",
+ "updated": "2026-11-27T18:22:38.366240+00:00",
  "feeds": {
   "ynet": [
    {
@@ -103,6 +103,10 @@
   ],
   "cnbc": [
    {
+    "title": "Budget airline Norse Atlantic files for bankruptcy in Europe after failing to secure funding",
+    "date": "2026-11-27T18:20:32+00:00"
+   },
+   {
     "title": "Dow rallies nearly 600 points to close out best week since 2022: Live updates",
     "date": "2026-11-27T18:11:52+00:00"
    },
@@ -145,13 +149,17 @@
    {
     "title": "German software firm SAP is reportedly cutting at least 10,000 jobs in AI push",
     "date": "2026-11-27T14:52:40+00:00"
-   },
-   {
-    "title": "EU leaders fail to break $1.7 trillion budget deadlock as political pressure mounts",
-    "date": "2026-11-27T14:12:55+00:00"
    }
   ],
   "fox": [
+   {
+    "title": "WWE star Cody Rhodes fires back at criticism for supporting Trump's presidential fitness campaign",
+    "date": "2026-11-27T18:11:40+00:00"
+   },
+   {
+    "title": "Joe Rogan says American education system is turning young people against their own country",
+    "date": "2026-11-27T18:10:04+00:00"
+   },
    {
     "title": "Passenger denied alcohol on birthday flight over exit-row rule sparks fierce online debate",
     "date": "2026-11-27T18:05:34+00:00"
@@ -191,14 +199,6 @@
    {
     "title": "Tom Brady and Terry Bradshaw roast Aaron Rodgers for McCarthy breakup; both feuded with their coaches",
     "date": "2026-11-27T15:44:17+00:00"
-   },
-   {
-    "title": "Ugly fan fights break out at Thanksgiving NFL games just like old Black Friday brawls, Milton goes off & food!",
-    "date": "2026-11-27T15:12:19+00:00"
-   },
-   {
-    "title": "Bob Newhart faced $6M lawsuit threat after trying to quit hit sitcom: book",
-    "date": "2026-11-27T15:00:14+00:00"
    }
   ]
  }
