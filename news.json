@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T14:37:27.593732+00:00",
+ "updated": "2026-11-27T14:42:27.046610+00:00",
  "feeds": {
   "ynet": [
    {
@@ -104,7 +104,7 @@
   "cnbc": [
    {
     "title": "Dow rallies 500 points as benchmark heads for best week since April 2025: Live updates",
-    "date": "2026-11-27T14:36:06+00:00"
+    "date": "2026-11-27T14:42:09+00:00"
    },
    {
     "title": "Stocks making the biggest moves Friday: SpaceX, Altria, Vertex Pharmaceuticals & more",
@@ -153,6 +153,10 @@
   ],
   "fox": [
    {
+    "title": "Nature video captures elk fending off two wolves in a dramatic animal fight caught on camera",
+    "date": "2026-11-27T14:32:30+00:00"
+   },
+   {
     "title": "US pilot tells Trump which fighter jet is ‘world’s greatest’ during Thanksgiving phone call",
     "date": "2026-11-27T14:25:40+00:00"
    },
@@ -195,10 +199,6 @@
    {
     "title": "TSA warns common Thanksgiving packing mistake could cause delays on the way home",
     "date": "2026-11-27T12:40:11+00:00"
-   },
-   {
-    "title": "Thanksgiving scraps reinvented by top chefs for delicious, easy-to-make meals",
-    "date": "2026-11-27T12:00:41+00:00"
    }
   ]
  }
