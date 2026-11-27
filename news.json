@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T16:47:38.504435+00:00",
+ "updated": "2026-11-27T16:52:37.989549+00:00",
  "feeds": {
   "ynet": [
    {
@@ -103,24 +103,24 @@
   ],
   "cnbc": [
    {
+    "title": "Dow rallies 600 points as benchmark heads for best week since April 2025: Live updates",
+    "date": "2026-11-27T16:52:18+00:00"
+   },
+   {
+    "title": "Stocks making the biggest moves Friday: SpaceX, Altria, Vertex Pharmaceuticals & more",
+    "date": "2026-11-27T16:50:54+00:00"
+   },
+   {
+    "title": "Josh Brown lost a bet on Disney. It is now on his Best Stocks in the Market list",
+    "date": "2026-11-27T16:49:35+00:00"
+   },
+   {
     "title": "AI shopping agents are having a moment, but Amazon and a growing number of sites threaten to stunt their growth",
     "date": "2026-11-27T16:43:14+00:00"
    },
    {
-    "title": "Dow rallies 500 points as benchmark heads for best week since April 2025: Live updates",
-    "date": "2026-11-27T16:31:35+00:00"
-   },
-   {
-    "title": "Stocks making the biggest moves Friday: SpaceX, Altria, Vertex Pharmaceuticals & more",
-    "date": "2026-11-27T16:31:07+00:00"
-   },
-   {
     "title": "It’s not just you: Durable goods are getting less reliable, from sputtering cars to glitching smart TVs",
     "date": "2026-11-27T16:08:10+00:00"
-   },
-   {
-    "title": "Josh Brown lost a bet on Disney. It is now on his Best Stocks in the Market list",
-    "date": "2026-11-27T16:02:31+00:00"
    },
    {
     "title": "Trump demands probe into 'record setting error' after third-quarter GDP data gets massive revision higher",
@@ -152,6 +152,10 @@
    }
   ],
   "fox": [
+   {
+    "title": "Convicted killer who tortured teen to death complains about prison conditions after botched execution",
+    "date": "2026-11-27T16:38:45+00:00"
+   },
    {
     "title": "Murdered college student's parents fume over accused killer's request for 'special pillow' in jail",
     "date": "2026-11-27T16:28:11+00:00"
@@ -195,10 +199,6 @@
    {
     "title": "Josh Holloway reveals Kevin Costner's high standards on the Yellowstone set before his exit",
     "date": "2026-11-27T13:49:45+00:00"
-   },
-   {
-    "title": "Nebraska Cornhuskers look to pull another upset as Iowa Hawkeyes eye college football playoff path",
-    "date": "2026-11-27T13:40:05+00:00"
    }
   ]
  }
