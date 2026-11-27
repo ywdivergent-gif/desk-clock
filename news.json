@@ -1,7 +1,11 @@
 {
- "updated": "2026-11-27T13:22:26.800906+00:00",
+ "updated": "2026-11-27T13:27:27.654222+00:00",
  "feeds": {
   "ynet": [
+   {
+    "title": "גולן במסר לבנט: \"גלה אומץ, אחדות עם הליכוד - החמצה שלא תהיה עליה מחילה\"",
+    "date": "2026-11-27T13:22:15+00:00"
+   },
    {
     "title": "האקרים פרצו למערכת הענן של חיל האוויר האמריקני: \"זה ביג דיל\"",
     "date": "2026-11-27T11:57:33+00:00"
@@ -45,10 +49,6 @@
    {
     "title": "מנסור עבאס צפוי להכריז: חמאס הוא ארגון טרור | זה המהלך ששוקלים בגוש השינוי",
     "date": "2026-11-27T07:21:56+00:00"
-   },
-   {
-    "title": "6 מטפלים בפנימייה בנגב נעצרו בחשד להתעללות בחוסים: \"הצוות ידע והתעלם\"",
-    "date": "2026-11-27T06:36:47+00:00"
    }
   ],
   "ynetnews": [
@@ -103,8 +103,16 @@
   ],
   "cnbc": [
    {
+    "title": "Hackers breach U.S. Air Force flagship Cloud One computing platform",
+    "date": "2026-11-27T13:23:01+00:00"
+   },
+   {
     "title": "The S&P 500 is in a correction. Bear markets and recessions don't always follow",
     "date": "2026-11-27T13:21:56+00:00"
+   },
+   {
+    "title": "New car prices are at a record high. Here's where to look for deals",
+    "date": "2026-11-27T13:15:01+00:00"
    },
    {
     "title": "Dow futures rally 600 points as benchmark heads for best week since April 2025: Live updates",
@@ -113,6 +121,10 @@
    {
     "title": "Rheinmetall reins in growth ambitions as Europe's rearmament boom hits hurdles",
     "date": "2026-11-27T13:08:07+00:00"
+   },
+   {
+    "title": "It’s not just you: Durable goods are getting less reliable, from sputtering cars to glitching smart TVs",
+    "date": "2026-11-27T13:05:02+00:00"
    },
    {
     "title": "Spain’s election could pull Madrid closer to Trump’s Washington",
@@ -137,18 +149,6 @@
    {
     "title": "Private markets are more accessible than ever for investors. Getting out is another matter",
     "date": "2026-11-27T08:05:09+00:00"
-   },
-   {
-    "title": "Spain’s Pablo Hernández de Cos set to lead European Central Bank",
-    "date": "2026-11-27T06:50:38+00:00"
-   },
-   {
-    "title": "Fast cars, big money: Why sportswear races into Formula 1 as sponsorship spending soars 75%",
-    "date": "2026-11-27T05:46:04+00:00"
-   },
-   {
-    "title": "Two Italians killed in Kuwait drone attack; Trump says Iran war ends ‘whenever I want it’",
-    "date": "2026-11-27T03:30:23+00:00"
    }
   ],
   "fox": [
