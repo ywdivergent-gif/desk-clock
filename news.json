@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T05:42:18.675372+00:00",
+ "updated": "2026-11-27T05:47:18.888357+00:00",
  "feeds": {
   "ynet": [
    {
@@ -103,6 +103,10 @@
   ],
   "cnbc": [
    {
+    "title": "Fast cars, big money: Why sportswear races into Formula 1 as sponsorship spending soars 75%",
+    "date": "2026-11-27T05:46:04+00:00"
+   },
+   {
     "title": "China’s factories are growing profits again, but the AI boom is picking the winners",
     "date": "2026-11-27T05:15:55+00:00"
    },
@@ -145,13 +149,13 @@
    {
     "title": "Trump, NATO chief caution Russia as attacks on Ukraine’s energy infrastructure intensify",
     "date": "2026-11-26T16:12:47+00:00"
-   },
-   {
-    "title": "Buyer beware? Nvidia's volatile swings expose risks of single-stock ETFs",
-    "date": "2026-11-26T16:00:01+00:00"
    }
   ],
   "fox": [
+   {
+    "title": "Shopping with Friends: 8 Black Friday deals to shop now",
+    "date": "2026-11-27T05:30:24+00:00"
+   },
    {
     "title": "Buffalo Bills outlast Kansas City Chiefs in defensive struggle to maintain top seed status in AFC",
     "date": "2026-11-27T05:02:40+00:00"
@@ -195,10 +199,6 @@
    {
     "title": "Georgia man accused of killing wife after dispute over children's Christmas presents",
     "date": "2026-11-27T00:56:49+00:00"
-   },
-   {
-    "title": "Caleb Williams' heroics have Bears thinking No. 1 seed in NFC playoffs",
-    "date": "2026-11-27T00:19:58+00:00"
    }
   ]
  }
