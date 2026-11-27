@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T02:37:09.411326+00:00",
+ "updated": "2026-11-27T02:42:09.257662+00:00",
  "feeds": {
   "ynet": [
    {
@@ -153,6 +153,10 @@
   ],
   "fox": [
    {
+    "title": "Putin's grip on Crimea tested amid major blackout as Zelenskyy warns of looming Russian strike",
+    "date": "2026-11-27T02:25:49+00:00"
+   },
+   {
     "title": "Eagles erase 21-point deficit to stun Cowboys with biggest Thanksgiving comeback in NFL history",
     "date": "2026-11-27T02:13:15+00:00"
    },
@@ -195,10 +199,6 @@
    {
     "title": "Universities, schools nationwide use Thanksgiving as chance to promote 'Day of Mourning' and decolonization",
     "date": "2026-11-26T23:00:47+00:00"
-   },
-   {
-    "title": "Chris Van Hollen gains celebrity donor backing as Fonda, De Niro and others support ditching Schumer in letter",
-    "date": "2026-11-26T22:34:56+00:00"
    }
   ]
  }
