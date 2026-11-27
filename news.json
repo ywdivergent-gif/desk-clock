@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T21:42:37.771571+00:00",
+ "updated": "2026-11-27T21:47:37.509852+00:00",
  "feeds": {
   "ynet": [
    {
@@ -103,6 +103,10 @@
   ],
   "cnbc": [
    {
+    "title": "Even the price of toys is on the rise. How Americans are scaling back holiday plans",
+    "date": "2026-11-27T21:45:41+00:00"
+   },
+   {
     "title": "OpenAI countersues Apple for stealing trade secrets",
     "date": "2026-11-27T20:52:32+00:00"
    },
@@ -145,13 +149,21 @@
    {
     "title": "Trump demands probe into 'record setting error' after third-quarter GDP data gets massive revision higher",
     "date": "2026-11-27T15:52:00+00:00"
-   },
-   {
-    "title": "'The Traitors' ended with a $246,300 prize—here's who won and what they told us about spending it",
-    "date": "2026-11-27T15:49:29+00:00"
    }
   ],
   "fox": [
+   {
+    "title": "Underdog Black Friday Promo Code: Enter Code FOXNEWS for a $50 Bonus Today",
+    "date": "2026-11-27T21:36:39+00:00"
+   },
+   {
+    "title": "BetMGM Bonus Code FOXNEWS: Get a $1500 Bonus for Broncos-Steelers",
+    "date": "2026-11-27T21:31:47+00:00"
+   },
+   {
+    "title": "Donald Trump Jr criticizes Netflix over racy 'Hunting Wives' Thanksgiving post",
+    "date": "2026-11-27T21:30:23+00:00"
+   },
    {
     "title": "Cowboys' Jerry Jones makes statement on Brian Schottenheimer's future after embarrassing Thanksgiving loss",
     "date": "2026-11-27T21:18:35+00:00"
@@ -187,18 +199,6 @@
    {
     "title": "Fanatics Sportsbook Promo Code FOXNEWS: Claim $1000 in FanCash on Black Friday for Steelers-Broncos and More",
     "date": "2026-11-27T20:44:21+00:00"
-   },
-   {
-    "title": "The retro canned-soup recipe home cooks are pulling out for Thanksgiving leftovers",
-    "date": "2026-11-27T20:40:15+00:00"
-   },
-   {
-    "title": "Nick Sirianni goes after fans in the stands after stunning comeback, amazing Rodgers stat & Kristin Cavallari!",
-    "date": "2026-11-27T20:37:36+00:00"
-   },
-   {
-    "title": "Underdog Promo Code FOXNEWS: Play $10, Get $50 on the Black Friday NBA Cup Finale",
-    "date": "2026-11-27T20:36:57+00:00"
    }
   ]
  }
