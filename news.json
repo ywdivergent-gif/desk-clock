@@ -1,7 +1,11 @@
 {
- "updated": "2026-11-27T16:07:38.293120+00:00",
+ "updated": "2026-11-27T16:12:38.157952+00:00",
  "feeds": {
   "ynet": [
+   {
+    "title": "\"מר טינדר\" נאשם באונס",
+    "date": "2026-11-27T16:07:59+00:00"
+   },
    {
     "title": "עימות סוער לפני הבחירות שיכריעו את גורל רה\"מ האנטי-ישראלי: \"מה את חייבת לחמאס?\"",
     "date": "2026-11-27T15:00:17+00:00"
@@ -45,10 +49,6 @@
    {
     "title": "לא רק אוהלים: תיעוד בלעדי - מה באמת בנה חיזבאללה בשטח ישראל לפני 7/10",
     "date": "2026-11-27T09:00:55+00:00"
-   },
-   {
-    "title": "חוסל מחבל חמאס שחדר לישראל ב-7/10 - והשתתף ב\"טקס\" שחרור חטופים",
-    "date": "2026-11-27T08:41:07+00:00"
    }
   ],
   "ynetnews": [
@@ -103,8 +103,16 @@
   ],
   "cnbc": [
    {
+    "title": "Stocks making the biggest moves Friday: SpaceX, Altria, Vertex Pharmaceuticals & more",
+    "date": "2026-11-27T16:12:11+00:00"
+   },
+   {
     "title": "It’s not just you: Durable goods are getting less reliable, from sputtering cars to glitching smart TVs",
-    "date": "2026-11-27T16:06:57+00:00"
+    "date": "2026-11-27T16:08:10+00:00"
+   },
+   {
+    "title": "Josh Brown lost a bet on Disney. It is now on his Best Stocks in the Market list",
+    "date": "2026-11-27T16:02:31+00:00"
    },
    {
     "title": "Dow rallies 500 points as benchmark heads for best week since April 2025: Live updates",
@@ -131,20 +139,12 @@
     "date": "2026-11-27T14:52:40+00:00"
    },
    {
-    "title": "Stocks making the biggest moves Friday: SpaceX, Altria, Vertex Pharmaceuticals & more",
-    "date": "2026-11-27T14:35:29+00:00"
-   },
-   {
     "title": "EU leaders fail to break $1.7 trillion budget deadlock as political pressure mounts",
     "date": "2026-11-27T14:12:55+00:00"
    },
    {
     "title": "Budget airline Norse Atlantic files for bankruptcy in Europe after failing to secure funding",
     "date": "2026-11-27T13:58:19+00:00"
-   },
-   {
-    "title": "Walmart is crushing SpaceX. Only one is a bargain",
-    "date": "2026-11-27T13:56:12+00:00"
    },
    {
     "title": "Hackers breach U.S. Air Force flagship Cloud One computing platform",
