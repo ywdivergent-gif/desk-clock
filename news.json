@@ -1,7 +1,11 @@
 {
- "updated": "2026-11-27T18:27:38.115062+00:00",
+ "updated": "2026-11-27T18:32:38.697331+00:00",
  "feeds": {
   "ynet": [
+   {
+    "title": "המטרה - לשדוד מבלים בחסות \"גז מדמיע\": החשד אחרי הכאוס בהופעת הענק במנצ'סטר",
+    "date": "2026-11-27T18:26:40+00:00"
+   },
    {
     "title": "הפורצים לבתים בתל אביב הופכים נועזים ומסוכנים יותר: \"היה פה סרט אימים\"",
     "date": "2026-11-27T18:12:35+00:00"
@@ -45,10 +49,6 @@
    {
     "title": "בהרב מיארה, תתפטרי",
     "date": "2026-11-27T11:46:38+00:00"
-   },
-   {
-    "title": "החשד - דרס ערבים בכוונה: \"לא הפעם הראשונה שהגיע לכפר קאסם\"",
-    "date": "2026-11-27T09:44:04+00:00"
    }
   ],
   "ynetnews": [
@@ -153,6 +153,10 @@
   ],
   "fox": [
    {
+    "title": "'Facts of Life' star Lisa Whelchel, 63, vows she'll never repeat ayahuasca trip after frog venom ordeal",
+    "date": "2026-11-27T18:18:19+00:00"
+   },
+   {
     "title": "WWE star Cody Rhodes fires back at criticism for supporting Trump's presidential fitness campaign",
     "date": "2026-11-27T18:11:40+00:00"
    },
@@ -195,10 +199,6 @@
    {
     "title": "Americans eyeing dream vacation trip warned that rescue crews could take days to reach them",
     "date": "2026-11-27T16:20:29+00:00"
-   },
-   {
-    "title": "Tom Brady and Terry Bradshaw roast Aaron Rodgers for McCarthy breakup; both feuded with their coaches",
-    "date": "2026-11-27T15:44:17+00:00"
    }
   ]
  }
