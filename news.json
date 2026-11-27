@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T15:17:27.207162+00:00",
+ "updated": "2026-11-27T15:22:27.197991+00:00",
  "feeds": {
   "ynet": [
    {
@@ -103,6 +103,10 @@
   ],
   "cnbc": [
    {
+    "title": "This week’s bounce following a rapid correction may not hold, history shows",
+    "date": "2026-11-27T15:18:12+00:00"
+   },
+   {
     "title": "Top 10 things to watch in the stock market on Black Friday",
     "date": "2026-11-27T15:08:31+00:00"
    },
@@ -117,10 +121,6 @@
    {
     "title": "Stocks making the biggest moves Friday: SpaceX, Altria, Vertex Pharmaceuticals & more",
     "date": "2026-11-27T14:35:29+00:00"
-   },
-   {
-    "title": "This week’s bounce following a rapid correction may not hold, history shows",
-    "date": "2026-11-27T14:18:22+00:00"
    },
    {
     "title": "EU leaders fail to break $1.7 trillion budget deadlock as political pressure mounts",
@@ -152,6 +152,10 @@
    }
   ],
   "fox": [
+   {
+    "title": "Ugly fan fights break out at Thanksgiving NFL games just like old Black Friday brawls, Milton goes off & food!",
+    "date": "2026-11-27T15:12:19+00:00"
+   },
    {
     "title": "Bob Newhart faced $6M lawsuit threat after trying to quit hit sitcom: book",
     "date": "2026-11-27T15:00:14+00:00"
@@ -195,10 +199,6 @@
    {
     "title": "From Hollywood mogul to Biden-Harris insiders, Democrats turn to familiar faces to shape their next chapter",
     "date": "2026-11-27T13:00:33+00:00"
-   },
-   {
-    "title": "Supplements in the spotlight as longevity doctor shares his personal daily routine",
-    "date": "2026-11-27T13:00:26+00:00"
    }
   ]
  }
