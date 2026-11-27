@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T18:07:38.416595+00:00",
+ "updated": "2026-11-27T18:12:38.073918+00:00",
  "feeds": {
   "ynet": [
    {
@@ -104,11 +104,11 @@
   "cnbc": [
    {
     "title": "Dow rallies nearly 600 points to close out best week since 2022: Live updates",
-    "date": "2026-11-27T18:03:50+00:00"
+    "date": "2026-11-27T18:11:52+00:00"
    },
    {
-    "title": "SpaceX shares jump over 3% amid tech rally and after Musk says he will expand on Trump Account share donations",
-    "date": "2026-11-27T17:50:22+00:00"
+    "title": "SpaceX shares jump over 4% amid tech rally and after Musk says he will expand on Trump Account share donations",
+    "date": "2026-11-27T18:10:10+00:00"
    },
    {
     "title": "Stocks making the biggest moves midday: XP, Newmont, Sandisk & more",
@@ -153,6 +153,10 @@
   ],
   "fox": [
    {
+    "title": "Did NIL really 'level the playing field' in recruiting? The answer is more complicated than you think",
+    "date": "2026-11-27T18:00:52+00:00"
+   },
+   {
     "title": "GOP senator shares tragic update about husband's death",
     "date": "2026-11-27T17:16:21+00:00"
    },
@@ -195,10 +199,6 @@
    {
     "title": "Nature video captures elk fending off two wolves in a dramatic animal fight caught on camera",
     "date": "2026-11-27T14:32:30+00:00"
-   },
-   {
-    "title": "US pilot tells Trump which fighter jet is ‘world’s greatest’ during Thanksgiving phone call",
-    "date": "2026-11-27T14:25:40+00:00"
    }
   ]
  }
