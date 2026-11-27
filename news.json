@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T13:17:26.959251+00:00",
+ "updated": "2026-11-27T13:22:26.800906+00:00",
  "feeds": {
   "ynet": [
    {
@@ -103,6 +103,10 @@
   ],
   "cnbc": [
    {
+    "title": "The S&P 500 is in a correction. Bear markets and recessions don't always follow",
+    "date": "2026-11-27T13:21:56+00:00"
+   },
+   {
     "title": "Dow futures rally 600 points as benchmark heads for best week since April 2025: Live updates",
     "date": "2026-11-27T13:11:22+00:00"
    },
@@ -113,10 +117,6 @@
    {
     "title": "Spain’s election could pull Madrid closer to Trump’s Washington",
     "date": "2026-11-27T13:00:42+00:00"
-   },
-   {
-    "title": "The S&P 500 is in a correction. Bear markets and recessions don't always follow",
-    "date": "2026-11-27T12:47:08+00:00"
    },
    {
     "title": "Stocks making the biggest moves premarket: SpaceX, Altria, Vertex Pharmaceuticals, Nvidia & more",
