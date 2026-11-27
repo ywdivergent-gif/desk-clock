@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T10:02:18.844906+00:00",
+ "updated": "2026-11-27T10:07:18.530200+00:00",
  "feeds": {
   "ynet": [
    {
@@ -103,10 +103,6 @@
   ],
   "cnbc": [
    {
-    "title": "Spain Votes: Will Sanchez's big gamble pay off?",
-    "date": "2026-11-27T09:44:38+00:00"
-   },
-   {
     "title": "Stock futures rise as Wall Street gets set to wrap up a volatile holiday week: Live updates",
     "date": "2026-11-27T09:12:19+00:00"
    },
@@ -149,9 +145,21 @@
    {
     "title": "Trump demands probe into ‘record setting error’ after third-quarter GDP data gets massive revision higher",
     "date": "2026-11-26T21:13:17+00:00"
+   },
+   {
+    "title": "Microdrama apps chase profits as Hollywood moves into short-form, vertical video",
+    "date": "2026-11-26T18:27:43+00:00"
    }
   ],
   "fox": [
+   {
+    "title": "Revolutionary War’s ‘Captain Molly’ took up her husband’s fight for freedom",
+    "date": "2026-11-27T10:00:48+00:00"
+   },
+   {
+    "title": "From ping-pong diplomacy to wrestling, American athletes can open doors abroad",
+    "date": "2026-11-27T10:00:01+00:00"
+   },
    {
     "title": "How woke Hollywood is remaking, and ruining, every film you've ever loved",
     "date": "2026-11-27T09:50:45+00:00"
@@ -191,14 +199,6 @@
    {
     "title": "TPUSA mourns Florida high school chapter president killed with family in devastating plane crash",
     "date": "2026-11-27T01:42:11+00:00"
-   },
-   {
-    "title": "Olympic trailblazer Anita DeFrantz, longtime advocate for women in sports, dies at 74",
-    "date": "2026-11-27T01:41:36+00:00"
-   },
-   {
-    "title": "Unforgiving rim denies Arkansas a miracle comeback against Michigan State on Thanksgiving",
-    "date": "2026-11-27T01:08:54+00:00"
    }
   ]
  }
