@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T07:52:18.563519+00:00",
+ "updated": "2026-11-27T07:57:18.825183+00:00",
  "feeds": {
   "ynet": [
    {
@@ -15,7 +15,7 @@
     "date": "2026-11-27T06:27:45+00:00"
    },
    {
-    "title": "גננת נעצרה בחשד לתקיפת פעוטות בגן ילדים בחריש",
+    "title": "סייעת נעצרה בחשד לתקיפת פעוטות בגן ילדים בחריש",
     "date": "2026-11-27T06:24:50+00:00"
    },
    {
@@ -153,6 +153,10 @@
   ],
   "fox": [
    {
+    "title": "Apple AirTag leads firefighters to cat stuck in narrow gap between cement walls",
+    "date": "2026-11-27T07:45:26+00:00"
+   },
+   {
     "title": "Shopping with Friends: 8 Black Friday deals to shop now",
     "date": "2026-11-27T05:30:24+00:00"
    },
@@ -195,10 +199,6 @@
    {
     "title": "Democrats, Republicans find rare common ground when asked what they're thankful for",
     "date": "2026-11-27T01:00:34+00:00"
-   },
-   {
-    "title": "Georgia man accused of killing wife after dispute over children's Christmas presents",
-    "date": "2026-11-27T00:56:49+00:00"
    }
   ]
  }
