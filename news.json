@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T09:47:18.590996+00:00",
+ "updated": "2026-11-27T09:52:18.915113+00:00",
  "feeds": {
   "ynet": [
    {
@@ -103,6 +103,10 @@
   ],
   "cnbc": [
    {
+    "title": "Spain Votes: Will Sanchez's big gamble pay off?",
+    "date": "2026-11-27T09:44:38+00:00"
+   },
+   {
     "title": "Private markets are more accessible than ever for investors. Getting out is another matter",
     "date": "2026-11-27T08:05:09+00:00"
    },
@@ -145,10 +149,6 @@
    {
     "title": "Microdrama apps chase profits as Hollywood moves into short-form, vertical video",
     "date": "2026-11-26T18:27:43+00:00"
-   },
-   {
-    "title": "Semiconductor chips are the new oil. Here's why",
-    "date": "2026-11-26T17:52:15+00:00"
    }
   ],
   "fox": [
