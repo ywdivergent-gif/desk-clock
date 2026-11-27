@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T15:47:27.185030+00:00",
+ "updated": "2026-11-27T15:52:27.631823+00:00",
  "feeds": {
   "ynet": [
    {
@@ -103,6 +103,14 @@
   ],
   "cnbc": [
    {
+    "title": "Trump demands probe into 'record setting error' after third-quarter GDP data gets massive revision higher",
+    "date": "2026-11-27T15:52:00+00:00"
+   },
+   {
+    "title": "'The Traitors' ended with a $246,300 prize—here's who won and what they told us about spending it",
+    "date": "2026-11-27T15:49:29+00:00"
+   },
+   {
     "title": "Dow rallies 500 points as benchmark heads for best week since April 2025: Live updates",
     "date": "2026-11-27T15:44:37+00:00"
    },
@@ -141,17 +149,13 @@
    {
     "title": "The S&P 500 is in a correction. Bear markets and recessions don't always follow",
     "date": "2026-11-27T13:21:56+00:00"
-   },
-   {
-    "title": "New car prices are at a record high. Here's where to look for deals",
-    "date": "2026-11-27T13:15:01+00:00"
-   },
-   {
-    "title": "Rheinmetall reins in growth ambitions as Europe's rearmament boom hits hurdles",
-    "date": "2026-11-27T13:08:07+00:00"
    }
   ],
   "fox": [
+   {
+    "title": "Tom Brady and Terry Bradshaw roast Aaron Rodgers for McCarthy breakup; both feuded with their coaches",
+    "date": "2026-11-27T15:44:17+00:00"
+   },
    {
     "title": "Ugly fan fights break out at Thanksgiving NFL games just like old Black Friday brawls, Milton goes off & food!",
     "date": "2026-11-27T15:12:19+00:00"
@@ -195,10 +199,6 @@
    {
     "title": "Broncos vs Steelers on Black Friday NFL: Why the under looks like the play on Amazon Prime",
     "date": "2026-11-27T13:06:11+00:00"
-   },
-   {
-    "title": "From Hollywood mogul to Biden-Harris insiders, Democrats turn to familiar faces to shape their next chapter",
-    "date": "2026-11-27T13:00:33+00:00"
    }
   ]
  }
