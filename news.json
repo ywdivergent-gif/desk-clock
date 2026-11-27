@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T10:52:26.998237+00:00",
+ "updated": "2026-11-27T10:57:26.931899+00:00",
  "feeds": {
   "ynet": [
    {
@@ -107,10 +107,6 @@
     "date": "2026-11-27T10:20:39+00:00"
    },
    {
-    "title": "Chinese chip stocks notch biggest ever one-day gains as Beijing signals broader market support",
-    "date": "2026-11-27T10:13:44+00:00"
-   },
-   {
     "title": "Defense giant Rheinmetall embraces ‘new normal’ of caution after military contract setback; stock rises",
     "date": "2026-11-27T10:11:09+00:00"
    },
@@ -149,9 +145,17 @@
    {
     "title": "Sovereign wealth funds are acting more like private equity giants — and inheriting their risks",
     "date": "2026-11-27T00:22:29+00:00"
+   },
+   {
+    "title": "Trump demands probe into ‘record setting error’ after third-quarter GDP data gets massive revision higher",
+    "date": "2026-11-26T21:13:17+00:00"
    }
   ],
   "fox": [
+   {
+    "title": "Trump mourns Florida detective killed by suspected drunk driver on Thanksgiving",
+    "date": "2026-11-27T10:49:27+00:00"
+   },
    {
     "title": "Revolutionary War’s ‘Captain Molly’ took up her husband’s fight for freedom",
     "date": "2026-11-27T10:00:48+00:00"
@@ -195,10 +199,6 @@
    {
     "title": "FLASHBACK: Two presidents pulled off secret Thanksgiving surprises for US troops — see the moments",
     "date": "2026-11-27T02:00:39+00:00"
-   },
-   {
-    "title": "TPUSA mourns Florida high school chapter president killed with family in devastating plane crash",
-    "date": "2026-11-27T01:42:11+00:00"
    }
   ]
  }
