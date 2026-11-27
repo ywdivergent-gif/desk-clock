@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T13:52:34.081918+00:00",
+ "updated": "2026-11-27T13:57:27.031052+00:00",
  "feeds": {
   "ynet": [
    {
@@ -153,6 +153,10 @@
   ],
   "fox": [
    {
+    "title": "Josh Holloway reveals Kevin Costner's high standards on the Yellowstone set before his exit",
+    "date": "2026-11-27T13:49:45+00:00"
+   },
+   {
     "title": "Nebraska Cornhuskers look to pull another upset as Iowa Hawkeyes eye college football playoff path",
     "date": "2026-11-27T13:40:05+00:00"
    },
@@ -195,10 +199,6 @@
    {
     "title": "Trump draws line on Somali welfare in Thanksgiving message and more top headlines",
     "date": "2026-11-27T11:28:04+00:00"
-   },
-   {
-    "title": "Campus assault survivor warns colleges, families must step up to protect students amid wave of attacks",
-    "date": "2026-11-27T11:00:59+00:00"
    }
   ]
  }
