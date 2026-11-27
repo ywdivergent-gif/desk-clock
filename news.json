@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T20:52:38.268437+00:00",
+ "updated": "2026-11-27T20:57:38.250141+00:00",
  "feeds": {
   "ynet": [
    {
@@ -103,12 +103,12 @@
   ],
   "cnbc": [
    {
-    "title": "Hackers breach U.S. Air Force flagship Cloud One computing platform",
-    "date": "2026-11-27T20:03:08+00:00"
+    "title": "OpenAI countersues Apple for stealing trade secrets",
+    "date": "2026-11-27T20:52:32+00:00"
    },
    {
-    "title": "OpenAI countersues Apple for stealing trade secrets",
-    "date": "2026-11-27T19:10:21+00:00"
+    "title": "Hackers breach U.S. Air Force flagship Cloud One computing platform",
+    "date": "2026-11-27T20:03:08+00:00"
    },
    {
     "title": "Jensen Huang's return did little to ease AI jitters. We used the weakness to buy",
@@ -153,6 +153,10 @@
   ],
   "fox": [
    {
+    "title": "Fanatics Sportsbook Promo Code FOXNEWS: Claim $1000 in FanCash on Black Friday for Steelers-Broncos and More",
+    "date": "2026-11-27T20:44:21+00:00"
+   },
+   {
     "title": "The retro canned-soup recipe home cooks are pulling out for Thanksgiving leftovers",
     "date": "2026-11-27T20:40:15+00:00"
    },
@@ -195,10 +199,6 @@
    {
     "title": "Tiny English village battles government over migrant housing plan amid crime fears for women",
     "date": "2026-11-27T19:37:23+00:00"
-   },
-   {
-    "title": "James Carville skewers podcast guest after she claimed 'No one got fired over pronouns'",
-    "date": "2026-11-27T19:30:34+00:00"
    }
   ]
  }
