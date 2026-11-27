@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T18:57:38.207403+00:00",
+ "updated": "2026-11-27T19:02:38.197649+00:00",
  "feeds": {
   "ynet": [
    {
@@ -153,6 +153,10 @@
   ],
   "fox": [
    {
+    "title": "US military disables tanker ship attempting to slip through Iran blockade on Thanksgiving Day",
+    "date": "2026-11-27T18:48:07+00:00"
+   },
+   {
     "title": "AI bionic eye breakthrough could help restore sight",
     "date": "2026-11-27T18:45:13+00:00"
    },
@@ -195,10 +199,6 @@
    {
     "title": "Country star Craig Morgan's off-the-grid life in Alaska, where his closest neighbor is 7 miles away",
     "date": "2026-11-27T17:00:45+00:00"
-   },
-   {
-    "title": "AEW star Gabe Kidd spends Thanksgiving at random fan's house after being stuck in Nebraska",
-    "date": "2026-11-27T16:47:51+00:00"
    }
   ]
  }
