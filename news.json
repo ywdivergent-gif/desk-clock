@@ -1,7 +1,11 @@
 {
- "updated": "2026-11-27T11:57:26.781720+00:00",
+ "updated": "2026-11-27T12:02:27.174692+00:00",
  "feeds": {
   "ynet": [
+   {
+    "title": "האקרים פרצו למערכת הענן של חיל האוויר האמריקני: \"זה ביג דיל\"",
+    "date": "2026-11-27T11:57:33+00:00"
+   },
    {
     "title": "אחרי אמירת השופטים: להביט נכוחה במציאות",
     "date": "2026-11-27T11:48:38+00:00"
@@ -45,10 +49,6 @@
    {
     "title": "6 מטפלים בפנימייה בנגב נעצרו בחשד להתעללות בחוסים: \"הצוות ידע והתעלם\"",
     "date": "2026-11-27T06:36:47+00:00"
-   },
-   {
-    "title": "קוסטה ריקה סירבה להכניס את שליחת האו\"ם האנטי-ישראלית: \"קשרים לטרור\"",
-    "date": "2026-11-27T06:27:45+00:00"
    }
   ],
   "ynetnews": [
@@ -103,6 +103,10 @@
   ],
   "cnbc": [
    {
+    "title": "The Tech Download: Will Jensen Huang’s return be the spark the shaky AI market needs?",
+    "date": "2026-11-27T12:00:22+00:00"
+   },
+   {
     "title": "Tech German software major SAP is reportedly weighing cutting at least 10,000 jobs in AI push",
     "date": "2026-11-27T11:49:18+00:00"
    },
@@ -145,13 +149,13 @@
    {
     "title": "Anthropic teeters at $1 trillion market cap. Why it may stabilize from here",
     "date": "2026-11-27T01:55:50+00:00"
-   },
-   {
-    "title": "Sovereign wealth funds are acting more like private equity giants — and inheriting their risks",
-    "date": "2026-11-27T00:22:29+00:00"
    }
   ],
   "fox": [
+   {
+    "title": "Cowboys legend Randy White reveals intense encounter between his mother and Eagles fans during playing career",
+    "date": "2026-11-27T11:55:57+00:00"
+   },
    {
     "title": "Fox News ‘Antisemitism Exposed’ Newsletter: 'Hulk' actor Ruffalo no like Schumer",
     "date": "2026-11-27T11:37:26+00:00"
@@ -195,10 +199,6 @@
    {
     "title": "How woke Hollywood is remaking, and ruining, every film you've ever loved",
     "date": "2026-11-27T09:50:45+00:00"
-   },
-   {
-    "title": "Apple AirTag leads firefighters to cat stuck in narrow gap between cement walls",
-    "date": "2026-11-27T07:45:26+00:00"
    }
   ]
  }
