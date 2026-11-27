@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T14:27:27.584427+00:00",
+ "updated": "2026-11-27T14:32:27.008259+00:00",
  "feeds": {
   "ynet": [
    {
@@ -103,12 +103,16 @@
   ],
   "cnbc": [
    {
-    "title": "Stocks making the biggest moves Friday: SpaceX, Altria, Vertex Pharmaceuticals, Nvidia & more",
-    "date": "2026-11-27T14:27:10+00:00"
+    "title": "Top 10 things to watch in the stock market on Black Friday",
+    "date": "2026-11-27T14:31:12+00:00"
    },
    {
-    "title": "Top 10 things to watch in the stock market on Black Friday",
-    "date": "2026-11-27T14:25:13+00:00"
+    "title": "Dow rallies 500 points as benchmark heads for best week since April 2025: Live updates",
+    "date": "2026-11-27T14:31:03+00:00"
+   },
+   {
+    "title": "Stocks making the biggest moves Friday: SpaceX, Altria, Vertex Pharmaceuticals, Nvidia & more",
+    "date": "2026-11-27T14:27:10+00:00"
    },
    {
     "title": "This week’s bounce following a rapid correction may not hold, history shows",
@@ -117,10 +121,6 @@
    {
     "title": "EU leaders fail to break $1.7 trillion budget deadlock as political pressure mounts",
     "date": "2026-11-27T14:12:55+00:00"
-   },
-   {
-    "title": "Dow futures rally 600 points as benchmark heads for best week since April 2025: Live updates",
-    "date": "2026-11-27T14:01:16+00:00"
    },
    {
     "title": "Budget airline Norse Atlantic files for bankruptcy in Europe after failing to secure funding",
@@ -152,6 +152,10 @@
    }
   ],
   "fox": [
+   {
+    "title": "US pilot tells Trump which fighter jet is ‘world’s greatest’ during Thanksgiving phone call",
+    "date": "2026-11-27T14:25:40+00:00"
+   },
    {
     "title": "George Kittle 'really should be a part of' WWE when he done in the NFL, 49ers star says",
     "date": "2026-11-27T14:14:01+00:00"
@@ -195,10 +199,6 @@
    {
     "title": "Thanksgiving scraps reinvented by top chefs for delicious, easy-to-make meals",
     "date": "2026-11-27T12:00:41+00:00"
-   },
-   {
-    "title": "Illegal immigrant allegedly confessed to killing elderly military veteran for $50K in home attack: docs",
-    "date": "2026-11-27T12:00:22+00:00"
    }
   ]
  }
