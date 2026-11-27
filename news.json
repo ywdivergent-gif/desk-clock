@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T04:12:09.354489+00:00",
+ "updated": "2026-11-27T04:17:09.039386+00:00",
  "feeds": {
   "ynet": [
    {
@@ -153,6 +153,10 @@
   ],
   "fox": [
    {
+    "title": "Mike Tomlin calls Steelers situation following Aaron Rodgers vs. Mike McCarthy feud 'a dumpster fire'",
+    "date": "2026-11-27T04:02:03+00:00"
+   },
+   {
     "title": "Strobe Talbott, former deputy secretary of state and Brookings Institution president, dies at 80",
     "date": "2026-11-27T03:10:20+00:00"
    },
@@ -195,10 +199,6 @@
    {
     "title": "Iran accuses Zelenskyy of 'false flag' Kuwait drone strike op to get Trump's attention",
     "date": "2026-11-26T23:19:59+00:00"
-   },
-   {
-    "title": "Trademark Dan Campbell fourth-down gamble backfires, opening door to stunning Bears comeback victory",
-    "date": "2026-11-26T23:11:13+00:00"
    }
   ]
  }
