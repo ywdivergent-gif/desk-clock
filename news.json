@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T03:32:09.275125+00:00",
+ "updated": "2026-11-27T03:37:08.935401+00:00",
  "feeds": {
   "ynet": [
    {
@@ -103,6 +103,10 @@
   ],
   "cnbc": [
    {
+    "title": "Two Italians killed in Kuwait drone attack; Trump says Iran war ends ‘whenever I want it’",
+    "date": "2026-11-27T03:30:23+00:00"
+   },
+   {
     "title": "Stock futures tick higher as Wall Street gets set to wrap up a volatile holiday week: Live updates",
     "date": "2026-11-27T02:27:38+00:00"
    },
@@ -145,10 +149,6 @@
    {
     "title": "Marlboro maker Altria explores takeover of UK's Imperial Brands",
     "date": "2026-11-26T14:47:37+00:00"
-   },
-   {
-    "title": "What is ‘texture-maxxing’? The food trend putting crunch on the menu",
-    "date": "2026-11-26T13:34:51+00:00"
    }
   ],
   "fox": [
