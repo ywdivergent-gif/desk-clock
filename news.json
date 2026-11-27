@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T13:07:26.934383+00:00",
+ "updated": "2026-11-27T13:12:27.190010+00:00",
  "feeds": {
   "ynet": [
    {
@@ -104,7 +104,15 @@
   "cnbc": [
    {
     "title": "Dow futures rally 600 points as benchmark heads for best week since April 2025: Live updates",
-    "date": "2026-11-27T12:45:53+00:00"
+    "date": "2026-11-27T13:11:22+00:00"
+   },
+   {
+    "title": "Rheinmetall reins in growth ambitions as Europe's rearmament boom hits hurdles",
+    "date": "2026-11-27T13:08:07+00:00"
+   },
+   {
+    "title": "Spain’s election could pull Madrid closer to Trump’s Washington",
+    "date": "2026-11-27T13:00:42+00:00"
    },
    {
     "title": "Stocks making the biggest moves premarket: SpaceX, Altria, Vertex Pharmaceuticals, Nvidia & more",
@@ -117,10 +125,6 @@
    {
     "title": "Tech German software major SAP is reportedly weighing cutting at least 10,000 jobs in AI push",
     "date": "2026-11-27T11:49:18+00:00"
-   },
-   {
-    "title": "Rheinmetall reins in growth ambitions as Europe's rearmament boom hits hurdles",
-    "date": "2026-11-27T11:27:20+00:00"
    },
    {
     "title": "Inflation has shoppers hunting for value. That bodes well for Black Friday",
@@ -139,10 +143,6 @@
     "date": "2026-11-27T06:50:38+00:00"
    },
    {
-    "title": "China’s factories are growing profits again, but the AI boom is picking the winners",
-    "date": "2026-11-27T06:09:51+00:00"
-   },
-   {
     "title": "Fast cars, big money: Why sportswear races into Formula 1 as sponsorship spending soars 75%",
     "date": "2026-11-27T05:46:04+00:00"
    },
@@ -152,6 +152,10 @@
    }
   ],
   "fox": [
+   {
+    "title": "Broncos vs Steelers on Black Friday NFL: Why the under looks like the play on Amazon Prime",
+    "date": "2026-11-27T13:06:11+00:00"
+   },
    {
     "title": "From Hollywood mogul to Biden-Harris insiders, Democrats turn to familiar faces to shape their next chapter",
     "date": "2026-11-27T13:00:33+00:00"
@@ -195,10 +199,6 @@
    {
     "title": "How to spot real Black Friday savings this holiday season amid the affordability squeeze",
     "date": "2026-11-27T11:00:26+00:00"
-   },
-   {
-    "title": "Fox News Digital's News Quiz: November 27, 2026",
-    "date": "2026-11-27T11:00:21+00:00"
    }
   ]
  }
