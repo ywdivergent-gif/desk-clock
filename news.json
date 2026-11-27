@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T17:17:38.693411+00:00",
+ "updated": "2026-11-27T17:22:37.832974+00:00",
  "feeds": {
   "ynet": [
    {
@@ -153,6 +153,10 @@
   ],
   "fox": [
    {
+    "title": "GOP senator shares tragic update about husband's death",
+    "date": "2026-11-27T17:16:21+00:00"
+   },
+   {
     "title": "WWE's Dragon Lee says Team Mexico will bring 'fire in the ring' ahead of Survivor Series match vs USA",
     "date": "2026-11-27T17:02:04+00:00"
    },
@@ -195,10 +199,6 @@
    {
     "title": "US pilot tells Trump which fighter jet is ‘world’s greatest’ during Thanksgiving phone call",
     "date": "2026-11-27T14:25:40+00:00"
-   },
-   {
-    "title": "George Kittle 'really should be a part of' WWE when he done in the NFL, 49ers star says",
-    "date": "2026-11-27T14:14:01+00:00"
    }
   ]
  }
