@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T11:32:26.717136+00:00",
+ "updated": "2026-11-27T11:37:27.009740+00:00",
  "feeds": {
   "ynet": [
    {
@@ -153,6 +153,10 @@
   ],
   "fox": [
    {
+    "title": "Trump draws line on Somali welfare in Thanksgiving message and more top headlines",
+    "date": "2026-11-27T11:28:04+00:00"
+   },
+   {
     "title": "Campus assault survivor warns colleges, families must step up to protect students amid wave of attacks",
     "date": "2026-11-27T11:00:59+00:00"
    },
@@ -195,10 +199,6 @@
    {
     "title": "Shopping with Friends: 8 Black Friday deals to shop now",
     "date": "2026-11-27T05:30:24+00:00"
-   },
-   {
-    "title": "Buffalo Bills outlast Kansas City Chiefs in defensive struggle to maintain top seed status in AFC",
-    "date": "2026-11-27T05:02:40+00:00"
    }
   ]
  }
