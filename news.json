@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T19:27:38.294116+00:00",
+ "updated": "2026-11-27T19:32:37.855061+00:00",
  "feeds": {
   "ynet": [
    {
@@ -153,6 +153,10 @@
   ],
   "fox": [
    {
+    "title": "DHS accuses California of endangering ICE officers after bodycam shows police telling agents 'good luck'",
+    "date": "2026-11-27T19:20:57+00:00"
+   },
+   {
     "title": "Mike McCarthy's oldest daughter defends her dad against Aaron Rodgers' nasty attacks",
     "date": "2026-11-27T19:16:38+00:00"
    },
@@ -195,10 +199,6 @@
    {
     "title": "'Facts of Life' star Lisa Whelchel, 63, vows she'll never repeat ayahuasca trip after frog venom ordeal",
     "date": "2026-11-27T18:18:19+00:00"
-   },
-   {
-    "title": "WWE star Cody Rhodes fires back at criticism for supporting Trump's presidential fitness campaign",
-    "date": "2026-11-27T18:11:40+00:00"
    }
   ]
  }
