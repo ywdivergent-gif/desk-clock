@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-28T14:32:40.493503+00:00",
+ "updated": "2026-11-28T14:37:41.013953+00:00",
  "feeds": {
   "ynet": [
    {
@@ -103,8 +103,12 @@
   ],
   "cnbc": [
    {
+    "title": "He fought the Education Department — and won back his student loan forgiveness credit. What other borrowers can learn",
+    "date": "2026-11-28T14:34:57+00:00"
+   },
+   {
     "title": "The Iran war could shatter rising expectations of surplus oil supply in coming months",
-    "date": "2026-11-28T14:11:10+00:00"
+    "date": "2026-11-28T14:34:51+00:00"
    },
    {
     "title": "AI data center boom strains construction labor across the U.S.",
@@ -145,13 +149,13 @@
    {
     "title": "OpenAI countersues Apple for stealing trade secrets",
     "date": "2026-11-27T23:07:13+00:00"
-   },
-   {
-    "title": "Inflation has shoppers hunting for value. That bodes well for Black Friday",
-    "date": "2026-11-27T22:00:57+00:00"
    }
   ],
   "fox": [
+   {
+    "title": "Use Underdog Promo Code FOXNEWS: Play $10, Get $50 on CFB Rivalry Week",
+    "date": "2026-11-28T14:26:12+00:00"
+   },
    {
     "title": "Fanatics Sportsbook Promo Code FOXNEWS: $1000 in FanCash When Betting on College Football Rivalry Week",
     "date": "2026-11-28T13:59:28+00:00"
@@ -195,10 +199,6 @@
    {
     "title": "WWE's Dragon Lee keeping his guard up as chemistry between Survivor Series opponents comes into question",
     "date": "2026-11-28T12:13:41+00:00"
-   },
-   {
-    "title": "Russian-born conservative activist faces criminal charge after 'embarrassing' political foe online: warrant",
-    "date": "2026-11-28T12:00:54+00:00"
    }
   ]
  }
