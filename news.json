@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-28T04:27:54.809644+00:00",
+ "updated": "2026-11-28T04:32:54.104843+00:00",
  "feeds": {
   "ynet": [
    {
@@ -153,6 +153,10 @@
   ],
   "fox": [
    {
+    "title": "Arch Manning, Longhorns avoid scare against Texas A&M to punch ticket to SEC Championship Game",
+    "date": "2026-11-28T04:25:11+00:00"
+   },
+   {
     "title": "Former SEC head coach who landed in the Group of 5 abruptly steps down after underwhelming five-year run",
     "date": "2026-11-28T03:45:17+00:00"
    },
@@ -195,10 +199,6 @@
    {
     "title": "Steelers silence the Aaron Rodgers noise, cruise past Broncos to remain perfect at home on Black Friday",
     "date": "2026-11-28T00:26:51+00:00"
-   },
-   {
-    "title": "Mamdani handed out $95K in staff raises the same day he warned of $12B budget deficit: report",
-    "date": "2026-11-28T00:23:58+00:00"
    }
   ]
  }
