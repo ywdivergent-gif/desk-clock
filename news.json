@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-28T13:07:40.308282+00:00",
+ "updated": "2026-11-28T13:12:40.145427+00:00",
  "feeds": {
   "ynet": [
    {
@@ -103,6 +103,10 @@
   ],
   "cnbc": [
    {
+    "title": "The doctor, the patient and the smartwatch: What physicians think of the third voice at your appointment",
+    "date": "2026-11-28T13:00:02+00:00"
+   },
+   {
     "title": "Musk says Google is interested in renting more computing capacity from SpaceX",
     "date": "2026-11-28T10:50:44+00:00"
    },
@@ -145,13 +149,25 @@
    {
     "title": "Budget airline Norse Atlantic files for bankruptcy in Europe after failing to secure funding",
     "date": "2026-11-27T18:20:32+00:00"
-   },
-   {
-    "title": "Dow rallies nearly 600 points to close out best week since 2022: Live updates",
-    "date": "2026-11-27T18:11:52+00:00"
    }
   ],
   "fox": [
+   {
+    "title": "Trio of former Packers teammates blast Aaron Rodgers for publicly criticizing Mike McCarthy",
+    "date": "2026-11-28T13:04:35+00:00"
+   },
+   {
+    "title": "Broadcast networks use airport immigration arrest to attack ICE, just like usual",
+    "date": "2026-11-28T13:00:28+00:00"
+   },
+   {
+    "title": "Does ‘man flu’ really exist? Here’s what an emergency room physician says",
+    "date": "2026-11-28T13:00:25+00:00"
+   },
+   {
+    "title": "Mamdani eyes 2028 kingmaker role as expert warns socialist movement could gain power even in defeat",
+    "date": "2026-11-28T13:00:06+00:00"
+   },
    {
     "title": "WWE enters Survivor Series: WarGames with heavy hearts following the death of Bronson Reed at 38",
     "date": "2026-11-28T12:54:26+00:00"
@@ -169,6 +185,10 @@
     "date": "2026-11-28T12:00:54+00:00"
    },
    {
+    "title": "Fugitive football coach fled into woods of small mountain town – year later, hunt for truth faces steep climb",
+    "date": "2026-11-28T12:00:54+00:00"
+   },
+   {
     "title": "Princess Diana regretted explosive affair confession, feared it would hurt William and Harry: author",
     "date": "2026-11-28T12:00:41+00:00"
    },
@@ -179,26 +199,6 @@
    {
     "title": "Transportation secretary Sean Duffy flies $148K Jetson ONE at NASA",
     "date": "2026-11-28T11:58:32+00:00"
-   },
-   {
-    "title": "Flight passengers clash over armrest space as shrinking economy seats leave almost no room",
-    "date": "2026-11-28T11:00:49+00:00"
-   },
-   {
-    "title": "Socialist newcomers’ old words take new turn as they prepare to enter Congress",
-    "date": "2026-11-28T11:00:36+00:00"
-   },
-   {
-    "title": "'Flying saucers,' a 1,650 mph radar track and Skinwalker Ranch troops: 10 wild finds in unsealed UFO files",
-    "date": "2026-11-28T11:00:33+00:00"
-   },
-   {
-    "title": "French man accused of flying to US to murder woman he went on one date with 3 years earlier",
-    "date": "2026-11-28T11:00:19+00:00"
-   },
-   {
-    "title": "Texas attorney general-elect refuses to defend Ten Commandments classroom law",
-    "date": "2026-11-28T10:32:06+00:00"
    }
   ]
  }
