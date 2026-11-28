@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-28T00:07:46.594416+00:00",
+ "updated": "2026-11-28T00:12:46.304042+00:00",
  "feeds": {
   "ynet": [
    {
@@ -153,6 +153,10 @@
   ],
   "fox": [
    {
+    "title": "5 affordable sleep gifts designed to block noise and light for better rest",
+    "date": "2026-11-28T00:03:21+00:00"
+   },
+   {
     "title": "Mexican President Claudia Sheinbaum protests new DEA tip line for reporting criminals, corrupt officials",
     "date": "2026-11-27T23:31:45+00:00"
    },
@@ -195,10 +199,6 @@
    {
     "title": "New California law could keep teens in booster seats until age 16 unless they pass test",
     "date": "2026-11-27T21:50:25+00:00"
-   },
-   {
-    "title": "Liberal media and fans want Chiefs kicker Harrison Butker to fail because he's a Catholic conservative",
-    "date": "2026-11-27T21:49:46+00:00"
    }
   ]
  }
