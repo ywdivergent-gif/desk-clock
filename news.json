@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-28T16:22:48.419347+00:00",
+ "updated": "2026-11-28T16:27:47.783399+00:00",
  "feeds": {
   "ynet": [
    {
@@ -103,6 +103,10 @@
   ],
   "cnbc": [
    {
+    "title": "Supreme Court will decide whether assault weapons bans violate the Second Amendment",
+    "date": "2026-11-28T16:25:40+00:00"
+   },
+   {
     "title": "He fought the Education Department — and won back his student loan forgiveness credit. What other borrowers can learn",
     "date": "2026-11-28T14:34:57+00:00"
    },
@@ -121,10 +125,6 @@
    {
     "title": "Billions on the line for Berkshire utility as Oregon's high court reviews wildfire claims",
     "date": "2026-11-28T13:46:46+00:00"
-   },
-   {
-    "title": "Supreme Court will decide whether assault weapons bans violate the Second Amendment",
-    "date": "2026-11-28T13:38:18+00:00"
    },
    {
     "title": "The doctor, the patient and the smartwatch: What physicians think of the third voice at your appointment",
