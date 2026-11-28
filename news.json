@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-28T02:37:46.133995+00:00",
+ "updated": "2026-11-28T02:42:46.302762+00:00",
  "feeds": {
   "ynet": [
    {
@@ -153,6 +153,10 @@
   ],
   "fox": [
    {
+    "title": "Multiple Florida State captains refuse handshakes with Florida at coin toss, raising sportsmanship questions",
+    "date": "2026-11-28T02:35:20+00:00"
+   },
+   {
     "title": "Seahawks, 49ers matchup changes drastically as Brock Purdy ruled out while Sam Darnold returns from injury",
     "date": "2026-11-28T01:47:07+00:00"
    },
@@ -195,10 +199,6 @@
    {
     "title": "Mexican President Claudia Sheinbaum protests new DEA tip line for reporting criminals, corrupt officials",
     "date": "2026-11-27T23:31:45+00:00"
-   },
-   {
-    "title": "Blue Jays to sign former Yankees All-Star Jazz Chisholm Jr to $20 million contract: report",
-    "date": "2026-11-27T23:30:42+00:00"
    }
   ]
  }
