@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-28T14:12:40.387629+00:00",
+ "updated": "2026-11-28T14:17:42.323455+00:00",
  "feeds": {
   "ynet": [
    {
@@ -11,7 +11,7 @@
     "date": "2026-11-28T11:44:19+00:00"
    },
    {
-    "title": "\"מה עשינו?\" | תיעוד: פורעים יהודים תקפו עובדי חשמל, 4 נפצעו",
+    "title": "פורעים יהודים תקפו עובדי חשמל, 4 נפצעו | התיעוד - והעדות: \"הם הגיע לפתע ושברו שמשות\"",
     "date": "2026-11-28T10:26:31+00:00"
    },
    {
@@ -103,8 +103,20 @@
   ],
   "cnbc": [
    {
-    "title": "U.S. denies Iran claims over USS Abraham Lincoln strike and Hormuz tolls",
-    "date": "2026-11-28T14:06:43+00:00"
+    "title": "The Iran war could shatter rising expectations of surplus oil supply in coming months",
+    "date": "2026-11-28T14:11:10+00:00"
+   },
+   {
+    "title": "AI data center boom strains construction labor across the U.S.",
+    "date": "2026-11-28T14:00:01+00:00"
+   },
+   {
+    "title": "Jefferies says this dip is a rare tech buying opportunity. 5 stocks to pick up now",
+    "date": "2026-11-28T13:56:15+00:00"
+   },
+   {
+    "title": "Billions on the line for Berkshire utility as Oregon's high court reviews wildfire claims",
+    "date": "2026-11-28T13:46:46+00:00"
    },
    {
     "title": "Supreme Court will decide whether assault weapons bans violate the Second Amendment",
@@ -117,10 +129,6 @@
    {
     "title": "Musk says Google is interested in renting more computing capacity from SpaceX",
     "date": "2026-11-28T10:50:44+00:00"
-   },
-   {
-    "title": "U.S. military repelled drones at UK airbase this month, FT reports",
-    "date": "2026-11-28T07:40:14+00:00"
    },
    {
     "title": "Defense company Chemring protects NATO fleets. Here's why an activist investor wants it to break up",
@@ -141,14 +149,6 @@
    {
     "title": "Inflation has shoppers hunting for value. That bodes well for Black Friday",
     "date": "2026-11-27T22:00:57+00:00"
-   },
-   {
-    "title": "Hackers breach U.S. Air Force flagship Cloud One computing platform",
-    "date": "2026-11-27T20:03:08+00:00"
-   },
-   {
-    "title": "Jensen Huang's return did little to ease AI jitters. We used the weakness to buy",
-    "date": "2026-11-27T18:46:20+00:00"
    }
   ],
   "fox": [
