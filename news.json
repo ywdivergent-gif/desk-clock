@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-28T11:02:40.197961+00:00",
+ "updated": "2026-11-28T11:07:40.242654+00:00",
  "feeds": {
   "ynet": [
    {
@@ -103,6 +103,10 @@
   ],
   "cnbc": [
    {
+    "title": "Musk says Google is interested in renting more computing capacity from SpaceX",
+    "date": "2026-11-28T10:50:44+00:00"
+   },
+   {
     "title": "U.S. military repelled drones at UK airbase this month, FT reports",
     "date": "2026-11-28T07:40:14+00:00"
    },
@@ -145,13 +149,21 @@
    {
     "title": "Dow rallies nearly 600 points to close out best week since 2022: Live updates",
     "date": "2026-11-27T18:11:52+00:00"
-   },
-   {
-    "title": "Stocks making the biggest moves midday: XP, Newmont, Sandisk & more",
-    "date": "2026-11-27T17:01:07+00:00"
    }
   ],
   "fox": [
+   {
+    "title": "Flight passengers clash over armrest space as shrinking economy seats leave almost no room",
+    "date": "2026-11-28T11:00:49+00:00"
+   },
+   {
+    "title": "Socialist newcomers’ old words take new turn as they prepare to enter Congress",
+    "date": "2026-11-28T11:00:36+00:00"
+   },
+   {
+    "title": "French man accused of flying to US to murder woman he went on one date with 3 years earlier",
+    "date": "2026-11-28T11:00:19+00:00"
+   },
    {
     "title": "Texas attorney general-elect refuses to defend Ten Commandments classroom law",
     "date": "2026-11-28T10:32:06+00:00"
@@ -187,18 +199,6 @@
    {
     "title": "Multiple Florida State captains refuse handshakes with Florida at coin toss, raising sportsmanship questions",
     "date": "2026-11-28T02:35:20+00:00"
-   },
-   {
-    "title": "Seahawks, 49ers matchup changes drastically as Brock Purdy ruled out while Sam Darnold returns from injury",
-    "date": "2026-11-28T01:47:07+00:00"
-   },
-   {
-    "title": "Taliban reportedly strips women of their names in Afghan province, now being called 'goat' or 'grandmother'",
-    "date": "2026-11-28T01:42:28+00:00"
-   },
-   {
-    "title": "American Airlines planes clip wings during busy holiday travel weekend at Reagan National in DC",
-    "date": "2026-11-28T01:31:43+00:00"
    }
   ]
  }
