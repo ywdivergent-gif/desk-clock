@@ -1,7 +1,11 @@
 {
- "updated": "2026-11-28T16:57:48.211110+00:00",
+ "updated": "2026-11-28T17:02:48.698918+00:00",
  "feeds": {
   "ynet": [
+   {
+    "title": "האלוף בלוט, גם באהבה לא עושים אפרטהייד",
+    "date": "2026-11-28T16:59:32+00:00"
+   },
    {
     "title": "האזהרה המוקדמת של ליברמן - והמסר של לפיד לבנט: \"תרגיל שקוף של רמאי סדרתי\"",
     "date": "2026-11-28T16:24:56+00:00"
@@ -45,10 +49,6 @@
    {
     "title": "\"זו פצצה מתקתקת\": המצוק קרס בחוף בהרצליה",
     "date": "2026-11-28T09:14:25+00:00"
-   },
-   {
-    "title": "על גבי בלונים: סוכלה הברחת ענק בגבול המערבי",
-    "date": "2026-11-28T09:10:49+00:00"
    }
   ],
   "ynetnews": [
@@ -153,6 +153,10 @@
   ],
   "fox": [
    {
+    "title": "Kentucky head coach Mark Pope does it again, takes full responsibility for bizarre inbounds play in OT loss",
+    "date": "2026-11-28T16:51:14+00:00"
+   },
+   {
     "title": "Mississippi high school phenom breaks state scoring record with an absurd amount of touchdowns",
     "date": "2026-11-28T16:38:14+00:00"
    },
@@ -195,10 +199,6 @@
    {
     "title": "Explosion near Afghan school kills at least 10, injures 110 as children rushed to hospital",
     "date": "2026-11-28T15:25:06+00:00"
-   },
-   {
-    "title": "Canned cocktails surge 26% even as US alcohol consumption hits a record low",
-    "date": "2026-11-28T15:14:36+00:00"
    }
   ]
  }
