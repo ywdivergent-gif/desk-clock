@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-28T18:32:47.835016+00:00",
+ "updated": "2026-11-28T18:37:47.823432+00:00",
  "feeds": {
   "ynet": [
    {
@@ -153,6 +153,10 @@
   ],
   "fox": [
    {
+    "title": "Thanksgiving flight disruptions could persist through Tuesday with 50,000-plus daily flights ahead",
+    "date": "2026-11-28T18:26:30+00:00"
+   },
+   {
     "title": "This TV is $2,500 off for Cyber Week, and it may be the best deal of the season",
     "date": "2026-11-28T18:07:02+00:00"
    },
@@ -195,10 +199,6 @@
    {
     "title": "FanDuel Promo Code: Bet $5, Get $200 for CFB Rivalry Week",
     "date": "2026-11-28T15:40:21+00:00"
-   },
-   {
-    "title": "Louisville vs Kentucky rivalry preview favors the Cardinals on the moneyline despite road trip",
-    "date": "2026-11-28T15:38:12+00:00"
    }
   ]
  }
