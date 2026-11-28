@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-28T13:37:40.189360+00:00",
+ "updated": "2026-11-28T13:42:40.572172+00:00",
  "feeds": {
   "ynet": [
    {
@@ -103,6 +103,10 @@
   ],
   "cnbc": [
    {
+    "title": "Supreme Court will decide whether assault weapons bans violate the Second Amendment",
+    "date": "2026-11-28T13:38:18+00:00"
+   },
+   {
     "title": "The doctor, the patient and the smartwatch: What physicians think of the third voice at your appointment",
     "date": "2026-11-28T13:00:02+00:00"
    },
@@ -145,10 +149,6 @@
    {
     "title": "SpaceX shares jump over 4% amid tech rally and after Musk says he will expand on Trump Account share donations",
     "date": "2026-11-27T18:24:06+00:00"
-   },
-   {
-    "title": "Budget airline Norse Atlantic files for bankruptcy in Europe after failing to secure funding",
-    "date": "2026-11-27T18:20:32+00:00"
    }
   ],
   "fox": [
