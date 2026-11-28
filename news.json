@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-28T01:47:46.287047+00:00",
+ "updated": "2026-11-28T01:52:46.266427+00:00",
  "feeds": {
   "ynet": [
    {
@@ -153,6 +153,10 @@
   ],
   "fox": [
    {
+    "title": "Taliban reportedly strips women of their names in Afghan province, now being called 'goat' or 'grandmother'",
+    "date": "2026-11-28T01:42:28+00:00"
+   },
+   {
     "title": "American Airlines planes clip wings during busy holiday travel weekend at Reagan National in DC",
     "date": "2026-11-28T01:31:43+00:00"
    },
@@ -195,10 +199,6 @@
    {
     "title": "Black Friday delivers some of the year's lowest prices",
     "date": "2026-11-27T23:30:03+00:00"
-   },
-   {
-    "title": "iRestore Black Friday deals cut prices on FDA-cleared hair loss helmets and LED skin care masks",
-    "date": "2026-11-27T23:06:41+00:00"
    }
   ]
  }
