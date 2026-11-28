@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-28T16:02:48.957192+00:00",
+ "updated": "2026-11-28T16:07:47.769429+00:00",
  "feeds": {
   "ynet": [
+   {
+    "title": "נעצרו תשעה חשודים בתקיפת עובדי החשמל, איזנקוט: \"שגרת האנרכיה צריכה להסתיים\"",
+    "date": "2026-11-28T16:02:23+00:00"
+   },
+   {
+    "title": "מנסור עבאס צפוי להכריז: חמאס הוא ארגון טרור | המתווה המתגבש מול רע\"מ וסגלוביץ'",
+    "date": "2026-11-28T15:57:58+00:00"
+   },
    {
     "title": "\"הטרור היהודי ממיט חורבן כלכלי. אין לפלסטינים מס רכוש\" | עוד מחיר לתג מחיר",
     "date": "2026-11-28T15:33:47+00:00"
@@ -41,14 +49,6 @@
    {
     "title": "פריצות הדרך והחשש הדרמטי: \"מעבדות AI יושבות על פצצה\" שתגרום לכאוס עולמי",
     "date": "2026-11-28T08:48:41+00:00"
-   },
-   {
-    "title": "המצוד אחר משקיעים זרים בתאילנד: ישראלית נעצרה בנמל התעופה בקו סמוי",
-    "date": "2026-11-28T07:42:39+00:00"
-   },
-   {
-    "title": "אלה רק 7% מכלי הרכב, אבל הם הסיוט הכי גדול שלכם בכביש - וזה עומד להחמיר",
-    "date": "2026-11-28T07:05:13+00:00"
    }
   ],
   "ynetnews": [
@@ -153,6 +153,18 @@
   ],
   "fox": [
    {
+    "title": "TSA agent spots strange detail on scanner, finds dangerous object inside Sharpie",
+    "date": "2026-11-28T16:03:45+00:00"
+   },
+   {
+    "title": "Stephen Baldwin says Hollywood is seeing 'mind-blowing' shift as more celebrities embrace Christianity",
+    "date": "2026-11-28T16:00:46+00:00"
+   },
+   {
+    "title": "GOP lawmaker who defied blue wave reveals roadmap to win back Gen Z",
+    "date": "2026-11-28T16:00:41+00:00"
+   },
+   {
     "title": "BetMGM Bonus Code FOXNEWS: Cover Your First CFB Rivalry Week Bet up to $1500",
     "date": "2026-11-28T15:50:28+00:00"
    },
@@ -187,18 +199,6 @@
    {
     "title": "Fanatics Sportsbook Promo Code FOXNEWS: Get $1000 in FanCash for USC vs UCLA",
     "date": "2026-11-28T14:58:28+00:00"
-   },
-   {
-    "title": "Underdog Promo Code FOXNEWS Unlocks Play $10, Get $50 on Rivalry Week",
-    "date": "2026-11-28T14:53:47+00:00"
-   },
-   {
-    "title": "ICE agent faces six years in prison in case that could open 'floodgates' for prosecutions, lawyers warn",
-    "date": "2026-11-28T14:47:28+00:00"
-   },
-   {
-    "title": "Betr Promo Code FOXNEWS: Unlock $200 in Bonuses and 4 Free Picks for Any CFB Rivalry Week",
-    "date": "2026-11-28T14:46:20+00:00"
    }
   ]
  }
