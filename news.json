@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-28T10:37:40.283906+00:00",
+ "updated": "2026-11-28T10:42:40.636695+00:00",
  "feeds": {
   "ynet": [
    {
@@ -153,6 +153,10 @@
   ],
   "fox": [
    {
+    "title": "Texas attorney general-elect refuses to defend Ten Commandments classroom law",
+    "date": "2026-11-28T10:32:06+00:00"
+   },
+   {
     "title": "Shop Small Business Saturday for fruit trees, Advent calendars and more",
     "date": "2026-11-28T10:00:48+00:00"
    },
@@ -195,10 +199,6 @@
    {
     "title": "American Airlines planes clip wings during busy holiday travel weekend at Reagan National in DC",
     "date": "2026-11-28T01:31:43+00:00"
-   },
-   {
-    "title": "It turns out Florida Gators coach Jon Sumrall is just as superstitious as his fanbase",
-    "date": "2026-11-28T01:15:13+00:00"
    }
   ]
  }
