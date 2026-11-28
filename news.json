@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-28T17:02:48.698918+00:00",
+ "updated": "2026-11-28T17:07:47.909362+00:00",
  "feeds": {
   "ynet": [
    {
@@ -153,6 +153,10 @@
   ],
   "fox": [
    {
+    "title": "A data breach is only the beginning. Here's what criminals may do next",
+    "date": "2026-11-28T16:57:00+00:00"
+   },
+   {
     "title": "Kentucky head coach Mark Pope does it again, takes full responsibility for bizarre inbounds play in OT loss",
     "date": "2026-11-28T16:51:14+00:00"
    },
@@ -195,10 +199,6 @@
    {
     "title": "Gamecocks favored to cover the spread against a Clemson team that has struggled all season long",
     "date": "2026-11-28T15:25:29+00:00"
-   },
-   {
-    "title": "Explosion near Afghan school kills at least 10, injures 110 as children rushed to hospital",
-    "date": "2026-11-28T15:25:06+00:00"
    }
   ]
  }
