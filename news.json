@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-28T13:02:40.155321+00:00",
+ "updated": "2026-11-28T13:07:40.308282+00:00",
  "feeds": {
   "ynet": [
    {
@@ -7,7 +7,7 @@
     "date": "2026-11-28T11:44:19+00:00"
    },
    {
-    "title": "\"מה עשינו?\" | תיעוד: פורעים יהודים תקפו עובדי חשמל, 3 נפצעו",
+    "title": "\"מה עשינו?\" | תיעוד: פורעים יהודים תקפו עובדי חשמל, 4 נפצעו",
     "date": "2026-11-28T10:26:31+00:00"
    },
    {
@@ -153,6 +153,10 @@
   ],
   "fox": [
    {
+    "title": "WWE enters Survivor Series: WarGames with heavy hearts following the death of Bronson Reed at 38",
+    "date": "2026-11-28T12:54:26+00:00"
+   },
+   {
     "title": "Big Ten playoff panic, SEC upset threats and a $26 million Deion Sanders question await on rivalry Saturday",
     "date": "2026-11-28T12:40:45+00:00"
    },
@@ -195,10 +199,6 @@
    {
     "title": "Texas attorney general-elect refuses to defend Ten Commandments classroom law",
     "date": "2026-11-28T10:32:06+00:00"
-   },
-   {
-    "title": "Shop Small Business Saturday for fruit trees, Advent calendars and more",
-    "date": "2026-11-28T10:00:48+00:00"
    }
   ]
  }
