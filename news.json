@@ -1,7 +1,39 @@
 {
- "updated": "2026-11-28T04:32:54.104843+00:00",
+ "updated": "2026-11-28T10:17:42.389861+00:00",
  "feeds": {
   "ynet": [
+   {
+    "title": "\"הן בסכנה ממשית\": הנערות שחיות בווילה סודית בדרום",
+    "date": "2026-11-28T09:25:34+00:00"
+   },
+   {
+    "title": "\"זו פצצה מתקתקת\": המצוק קרס בחוף בהרצליה",
+    "date": "2026-11-28T09:14:25+00:00"
+   },
+   {
+    "title": "על גבי בלונים: סוכלה הברחת ענק בגבול המערבי",
+    "date": "2026-11-28T09:10:49+00:00"
+   },
+   {
+    "title": "נשיא איראן הזהיר, הקיצונים התעקשו: החשש במשטר שהוביל לעונש הכבד לזמרת",
+    "date": "2026-11-28T09:02:51+00:00"
+   },
+   {
+    "title": "פריצות הדרך והחשש הדרמטי: \"מעבדות AI יושבות על פצצה\" שתגרום לכאוס עולמי",
+    "date": "2026-11-28T08:48:41+00:00"
+   },
+   {
+    "title": "המצוד אחר משקיעים זרים בתאילנד: ישראלית נעצרה בנמל התעופה בקו סמוי",
+    "date": "2026-11-28T07:42:39+00:00"
+   },
+   {
+    "title": "אלה רק 7% מכלי הרכב, אבל הם הסיוט הכי גדול שלכם בכביש - וזה עומד להחמיר",
+    "date": "2026-11-28T07:05:13+00:00"
+   },
+   {
+    "title": "אחרי הסערה: NBC לא תשדר עוד את הפרסומת האנטי-ישראלית",
+    "date": "2026-11-28T06:47:45+00:00"
+   },
    {
     "title": "התחזית: חם מהרגיל, לקראת ימים גשומים שילוו בסופות רעמים",
     "date": "2026-11-28T03:50:05+00:00"
@@ -17,91 +49,75 @@
    {
     "title": "ברחה מחברון, התגוררה ברמלה, נרצחה בבאר שבע",
     "date": "2026-11-27T22:06:32+00:00"
-   },
-   {
-    "title": "זהירות, גזענות",
-    "date": "2026-11-27T21:21:33+00:00"
-   },
-   {
-    "title": "כשהשופטים כפרו בכפר",
-    "date": "2026-11-27T21:19:06+00:00"
-   },
-   {
-    "title": "לא היה כלום?",
-    "date": "2026-11-27T21:16:57+00:00"
-   },
-   {
-    "title": "הפרקליטות: מערערים או נסוגים? העיקר שתהליכי קבלת ההחלטות ישופרו",
-    "date": "2026-11-27T21:14:44+00:00"
-   },
-   {
-    "title": "גולן במקום בן גביר, פורר יחליף את לוין, רייטן את קרעי: חילופי השרים הצפויים - ועימותי העבר",
-    "date": "2026-11-27T20:37:59+00:00"
-   },
-   {
-    "title": "המטרה - לשדוד מבלים בחסות \"גז מדמיע\": החשד אחרי הכאוס בהופעת הענק במנצ'סטר",
-    "date": "2026-11-27T18:26:40+00:00"
-   },
-   {
-    "title": "הפורצים לבתים בתל אביב הופכים נועזים ומסוכנים יותר: \"היה פה סרט אימים\"",
-    "date": "2026-11-27T18:12:35+00:00"
-   },
-   {
-    "title": "עוקץ הרכבים הגדול: \"הגיעו אליי אנשים בעשר בלילה\" | כך תיזהרו",
-    "date": "2026-11-27T17:40:39+00:00"
    }
   ],
   "ynetnews": [
    {
-    "title": "Report: North Korea helping Iran develop launch systems inside underground missile cities",
-    "date": "2026-11-25T09:53:30+00:00"
+    "title": "Israel’s chief justice likens settler rioters to militias, demands answers from IDF and police",
+    "date": "2026-11-24T10:29:12+00:00"
    },
    {
-    "title": "From immigrant transit camp to state comptroller: the rise of Supreme Court outsider Yosef Elron",
-    "date": "2026-11-25T09:34:44+00:00"
+    "title": "Ukraine’s frozen front, burning skies: Putin’s gamble on another brutal winter",
+    "date": "2026-11-24T08:29:52+00:00"
    },
    {
-    "title": "Five sentenced to up to seven years in prison over 2021 Bat Yam mob attack of Arab man",
-    "date": "2026-11-25T08:48:58+00:00"
+    "title": "Bennett’s warning to Eisenkot as coalition deadline nears: Don’t rush into a minority government",
+    "date": "2026-11-24T07:18:55+00:00"
    },
    {
-    "title": "Eisenkot bloc prepares to swear in government next week, with pressure mounting on Shas",
-    "date": "2026-11-25T08:06:31+00:00"
+    "title": "Senior Republican senator backs Board of Peace: ‘Israel must fulfill its commitments’",
+    "date": "2026-11-24T05:51:16+00:00"
    },
    {
-    "title": "Knesset set for showdown over Oct. 7 inquiry, Netanyahu eligibility and draft dodgers",
-    "date": "2026-11-25T07:46:58+00:00"
+    "title": "Report: Iran suspected in cyberattacks on dozens of oil and gas ships as bomb threats alarm crews",
+    "date": "2026-11-24T00:27:15+00:00"
    },
    {
-    "title": "Liberman reverses course, opens door to government backed by ultra-Orthodox parties and Ra’am",
-    "date": "2026-11-25T06:15:38+00:00"
+    "title": "Amos Horev, architect of Israel's defense industry, dies at 102",
+    "date": "2026-11-23T23:23:34+00:00"
    },
    {
-    "title": "Son of Israel’s ‘godfather’ returns in handcuffs: inside Eran Haya’s extraordinary extradition",
-    "date": "2026-11-25T05:32:13+00:00"
+    "title": "Netanyahu pushes Iran strike as IDF sees no urgency and US officials suspect a political motive",
+    "date": "2026-11-23T23:15:21+00:00"
    },
    {
-    "title": "Trump signals narrowing window for Iran strikes: ‘We have funding through the end of January’",
-    "date": "2026-11-25T05:20:43+00:00"
+    "title": "Israeli police shut down internal communications systems amid suspected cyberattack",
+    "date": "2026-11-23T21:39:29+00:00"
    },
    {
-    "title": "Days, weeks or months? Iran's chemical weapons threat and Israel's dilemma over when to strike",
-    "date": "2026-11-25T04:09:55+00:00"
+    "title": "Eisenkot, Likud end two-hour unity talks with no breakthrough, agree to meet again",
+    "date": "2026-11-23T20:21:08+00:00"
    },
    {
-    "title": "China suspected in AI-powered cyberattack on CIA and US intelligence agencies",
-    "date": "2026-11-25T02:02:24+00:00"
+    "title": "Kushner warns Israel heading toward 'global-pariah status' over Gaza",
+    "date": "2026-11-23T20:12:20+00:00"
    },
    {
-    "title": "90 suspected warheads and a mystery at Dimona: US scientists shed light on Israel's nuclear arsenal",
-    "date": "2026-11-25T00:23:30+00:00"
+    "title": "Trump says pressured Nvidia board to reinstate Jensen Huang as CEO, sparking Democrat backlash",
+    "date": "2026-11-23T18:50:41+00:00"
    },
    {
-    "title": "Israeli teacher sentenced to 10 years for funding Hamas, providing intelligence on defense facility",
-    "date": "2026-11-24T21:12:14+00:00"
+    "title": "Bennett warns Netanyahu against blocking unity government as Eisenkot races to form coalition",
+    "date": "2026-11-23T16:34:45+00:00"
    }
   ],
   "cnbc": [
+   {
+    "title": "U.S. military repelled drones at UK airbase this month, FT reports",
+    "date": "2026-11-28T07:40:14+00:00"
+   },
+   {
+    "title": "Defense company Chemring protects NATO fleets. Here's why an activist investor wants it to break up",
+    "date": "2026-11-28T06:15:09+00:00"
+   },
+   {
+    "title": "Saudi Arabia shifts Vision 2030 spending amid economic and security pressure",
+    "date": "2026-11-28T06:00:01+00:00"
+   },
+   {
+    "title": "Africa’s richest man is taking his mega-refinery public in a blockbuster IPO",
+    "date": "2026-11-28T06:00:01+00:00"
+   },
    {
     "title": "OpenAI countersues Apple for stealing trade secrets",
     "date": "2026-11-27T23:07:13+00:00"
@@ -133,25 +149,17 @@
    {
     "title": "Stocks making the biggest moves midday: XP, Newmont, Sandisk & more",
     "date": "2026-11-27T17:01:07+00:00"
-   },
-   {
-    "title": "Josh Brown lost a bet on Disney. It is now on his Best Stocks in the Market list",
-    "date": "2026-11-27T16:49:35+00:00"
-   },
-   {
-    "title": "It’s not just you: Durable goods are getting less reliable, from sputtering cars to glitching smart TVs",
-    "date": "2026-11-27T16:08:10+00:00"
-   },
-   {
-    "title": "Trump demands probe into 'record setting error' after third-quarter GDP data gets massive revision higher",
-    "date": "2026-11-27T15:52:00+00:00"
-   },
-   {
-    "title": "'The Traitors' ended with a $246,300 prize—here's who won and what they told us about spending it",
-    "date": "2026-11-27T15:49:29+00:00"
    }
   ],
   "fox": [
+   {
+    "title": "Shop Small Business Saturday for fruit trees, Advent calendars and more",
+    "date": "2026-11-28T10:00:48+00:00"
+   },
+   {
+    "title": "Why Mamdani’s move to close infamous NYC jail could be 'massive hit' that reverberates for years: expert",
+    "date": "2026-11-28T10:00:03+00:00"
+   },
    {
     "title": "Arch Manning, Longhorns avoid scare against Texas A&M to punch ticket to SEC Championship Game",
     "date": "2026-11-28T04:25:11+00:00"
@@ -191,14 +199,6 @@
    {
     "title": "It turns out Florida Gators coach Jon Sumrall is just as superstitious as his fanbase",
     "date": "2026-11-28T01:15:13+00:00"
-   },
-   {
-    "title": "Aaron Rodgers claims he was barred from Steelers facility before infamous interview in message to Al Michaels",
-    "date": "2026-11-28T00:50:40+00:00"
-   },
-   {
-    "title": "Steelers silence the Aaron Rodgers noise, cruise past Broncos to remain perfect at home on Black Friday",
-    "date": "2026-11-28T00:26:51+00:00"
    }
   ]
  }
