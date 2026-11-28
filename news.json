@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-28T01:42:46.188395+00:00",
+ "updated": "2026-11-28T01:47:46.287047+00:00",
  "feeds": {
   "ynet": [
    {
@@ -153,6 +153,10 @@
   ],
   "fox": [
    {
+    "title": "American Airlines planes clip wings during busy holiday travel weekend at Reagan National in DC",
+    "date": "2026-11-28T01:31:43+00:00"
+   },
+   {
     "title": "It turns out Florida Gators coach Jon Sumrall is just as superstitious as his fanbase",
     "date": "2026-11-28T01:15:13+00:00"
    },
@@ -195,10 +199,6 @@
    {
     "title": "iRestore Black Friday deals cut prices on FDA-cleared hair loss helmets and LED skin care masks",
     "date": "2026-11-27T23:06:41+00:00"
-   },
-   {
-    "title": "Low levels of common vitamin could be stealing nearly 30 minutes of your sleep",
-    "date": "2026-11-27T23:06:05+00:00"
    }
   ]
  }
